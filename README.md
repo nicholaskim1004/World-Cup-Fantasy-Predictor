@@ -2,6 +2,7 @@
 
 Ever 4 years in the world cup there is a fantasy tournament that is scored by the players's performance. The scoring is allocated in the following way 
 | Action | Point |
+| :--------- | :------: |
 | Apperance | +1 |
 | Playing at least 60 min | +1 |
 | Assist | +3 |
