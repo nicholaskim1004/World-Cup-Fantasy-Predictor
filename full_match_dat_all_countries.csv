@@ -1,0 +1,186 @@
+Country,Date,Player,Mins,Pos,Gls,Ast,PK,PKatt,Shots,SoT,CrdY,CrdR,GA,Saves,Save%,Pk SO scorer,GK PK SO saves
+Argentina,2020-10-08,Lautaro Martínez,75,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Lucas Alario,15,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Lucas Ocampos,83,AM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Nicolás Domínguez,7,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Lionel Messi,90,AM,1,0,1,1,3,1,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Marcos Acuña,65,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Eduardo Salvio,25,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Leandro Paredes,90,DM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Rodrigo De Paul,90,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Nicolás Otamendi,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Lucas Martínez Quarta,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Gonzalo Montiel,83,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Juan Foyth,7,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Franco Armani,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Brazil,2020-10-09,Neymar,90,FW,0,2,0,0,6,2,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Roberto Firmino,70,FW,2,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Richarlison,20,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Everton Soares,58,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Rodrygo,32,"FW,MF",0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Douglas Luiz,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Casemiro,90,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Philippe Coutinho,76,CM,1,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Everton Ribeiro,14,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Renan Lodi,76,LB,0,1,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Alex Telles,14,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Thiago Silva,70,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Felipe,20,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Marquinhos,90,CB,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Danilo,90,RB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Wéverton,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Canada,2021-03-25,Lucas Cavallini,69,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Liam Millar,21,"DF,FW",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Alphonso Davies,90,AM,0,3,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Cyle Larin,90,AM,3,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Junior Hoilett,76,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Theo Corbeanu,14,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Stephen Eustáquio,76,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Samuel Piette,14,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Atiba Hutchinson,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Sam Adekugbe,76,LB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,David Wotherspoon,14,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Kamal Miller,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Steven Vitória,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Richie Laryea,68,RB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Alistair Johnston,22,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Canada,2021-03-25,Milan Borjan,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Colombia,2020-10-09,Luis Muriel,58,FW,2,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Frank Fabra,32,DF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Duván Zapata,73,FW,1,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Radamel Falcao,17,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,James Rodríguez,73,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Steven Alzate,17,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Jefferson Lerma,90,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Wílmar Barrios,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Juan Cuadrado,58,CM,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Alfredo Morelos,32,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Johan Mojica,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Yerry Mina,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Santiago Arias,12,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Stefan Medina,78,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2020-10-09,Camilo Vargas,90,GK,0,1,0,0,0,0,0,0,0,3,100.0,NA,0
+England,2021-03-25,Dominic Calvert-Lewin,62,FW,2,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Ollie Watkins,28,"FW,MF",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Raheem Sterling,45,AM,1,0,0,0,7,1,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Phil Foden,45,"FW,MF",0,1,0,0,1,1,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Mason Mount,45,AM,0,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Jude Bellingham,45,MF,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Jesse Lingard,90,AM,0,1,0,0,10,5,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,James Ward-Prowse,90,DM,1,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Kalvin Phillips,90,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Ben Chilwell,90,LB,0,1,0,0,1,1,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,John Stones,45,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Tyrone Mings,45,DF,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+England,2021-03-25,Conor Coady,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Reece James,45,RB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Kieran Trippier,45,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+England,2021-03-25,Nick Pope,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+France,2021-03-24,Olivier Giroud,62,FW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Paul Pogba,28,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Antoine Griezmann,90,FW,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Kylian Mbappé,76,LW,0,0,0,0,4,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Anthony Martial,14,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Kingsley Coman,62,RW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Ousmane Dembélé,28,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Adrien Rabiot,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,N'Golo Kanté,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Lucas Hernández,90,LB,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Presnel Kimpembe,90,CB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Raphaël Varane,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+France,2021-03-24,Benjamin Pavard,90,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+France,2021-03-24,Hugo Lloris,90,GK,0,0,0,0,0,0,0,0,1,0,0.0,NA,0
+Germany,2021-03-25,Leroy Sané,78,FW,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Timo Werner,12,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Kai Havertz,78,FW,1,0,0,0,2,1,1,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Jamal Musiala,12,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Serge Gnabry,85,FW,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Amin Younes,5,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,İlkay Gündoğan,90,CM,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Joshua Kimmich,90,CM,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Leon Goretzka,70,CM,1,0,0,0,5,2,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Florian Neuhaus,20,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Emre Can,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Matthias Ginter,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Antonio Rüdiger,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Lukas Klostermann,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Germany,2021-03-25,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Japan,2019-09-10,Takumi Minamino,76,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Musashi Suzuki,14,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Hiroki Sakai,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Yuya Osako,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Ritsu Doan,65,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Junya Ito,25,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Shoya Nakajima,80,DM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Takefusa Kubo,10,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Kento Hashimoto,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Yuto Nagatomo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Maya Yoshida,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Gaku Shibasaki,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Takehiro Tomiyasu,90,RB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2019-09-10,Shūichi Gonda,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2021-09-02,Rogelio Funes Mori,89,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Charly Rodríguez,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Alexis Vega,80,AM,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Henry Martín,10,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Francisco Sebastián Córdova,74,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Orbelín Pineda,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Roberto Alvarado,74,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Uriel Antuna,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Edson Álvarez,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Luis Romo,89,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Andrés Guardado,1,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Portugal,2021-03-24,Bernardo Silva,87,FW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Sérgio Oliveira,3,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,André Silva,74,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,João Félix,16,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Cristiano Ronaldo,90,FW,0,0,0,0,8,3,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Rúben Neves,87,CM,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,João Palhinha,3,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,João Moutinho,45,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Bruno Fernandes,45,"FW,MF",0,0,0,0,5,5,1,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Pedro Neto,62,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Rafa Silva,28,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Nuno Mendes,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Domingos Duarte,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Rúben Dias,90,CB,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,João Cancelo,90,RB,0,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Portugal,2021-03-24,Anthony Lopes,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Spain,2021-03-25,Sergio Canales,63,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Bryan Gil,27,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Álvaro Morata,90,FW,1,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Ferrán Torres,71,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Mikel Oyarzabal,19,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Koke,71,CM,0,1,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Thiago Alcántara,19,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Rodri,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Dani Olmo,63,CM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Pedri,27,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,José Luis Gayà,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Eric García,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Sergio Ramos,45,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Iñigo Martínez,45,DF,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Marcos Llorente,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Spain,2021-03-25,Unai Simón,90,GK,0,0,0,0,0,0,0,0,1,0,,NA,0
+Uruguay,2020-10-08,Luis Suárez,90,FW,1,0,1,1,1,1,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Nicolás De La Cruz,55,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Nahitan Nández,35,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Giorgian De Arrascaeta,75,AM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Jonathan Rodríguez,15,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Brian Rodríguez,86,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Maxi Gómez,4,FW,1,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Rodrigo Bentancur,75,DM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Mauro Arambarri,15,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Federico Valverde,90,DM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Matías Viña,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Diego Godín,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Sebastián Coates,90,CB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Martín Cáceres,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Martín Campaña,90,GK,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
