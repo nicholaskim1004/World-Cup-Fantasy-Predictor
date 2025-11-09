@@ -1,1 +1,743 @@
 Country,Date,Player,Mins,Pos,Gls,Ast,PK,PKatt,Shots,SoT,CrdY,CrdR,GA,Saves,Save%,Pk SO scorer,GK PK SO saves
+Egypt,2021-09-01,Mohamed Sherif,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Hussein El Shahat,67,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Ramadan Sobhi,23,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Afsha,89,AM,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Hamdy Fathy,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Ahmed Sayed,67,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Abdallah Said,23,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Amro El Soulia,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Tarek Hamed,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Ahmed Aboul-Fotouh,77,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Ayman Ashraf,13,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,El Wensh,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Ahmed Hegazi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Baher El Mohamady,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-01,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2021-09-05,Mohamed Sherif,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Afsha,76,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Mostafa Mohamed,14,FW,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Mohamed Salah,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Amro El Soulia,76,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Abdallah Said,14,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Hamdy Fathy,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Omar Gaber,69,DM,0,0,0,0,,,2,1,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Ayman Ashraf,82,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Salah Mohsen,8,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,El Wensh,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Ahmed Hegazi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Ahmed Tawfik,72,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Baher El Mohamady,18,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-09-05,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2021-10-08,Mostafa Mohamed,89,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Koka,1,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Omar Marmoush,76,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Ramadan Sobhi,14,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Abdallah Said,68,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Tarek Hamed,22,MF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Mohamed Salah,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Mohamed Elneny,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Amro El Soulia,89,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Hamdy Fathy,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Ahmed Aboul-Fotouh,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,El Wensh,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Ahmed Hegazi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Akram Tawfik,89,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Ahmed Fathy,1,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-08,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2021-10-11,Mostafa Mohamed,90,FW,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Omar Marmoush,63,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Ramadan Sobhi,27,MF,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Abdallah Said,74,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Tarek Hamed,16,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Mohamed Salah,90,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Mohamed Elneny,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Amro El Soulia,63,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Hamdy Fathy,27,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Ahmed Aboul-Fotouh,90,LB,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,El Wensh,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Ahmed Hegazi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Akram Tawfik,74,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Baher El Mohamady,16,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-10-11,Mohamed El-Shenawy,25,GK,0,0,0,0,,,0,0,,,,NA,0
+Egypt,2021-10-11,Gabaski,65,GK,0,0,0,0,,,0,0,,,,NA,0
+Egypt,2021-11-12,Mostafa Mohamed,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Hamdy Fathy,45,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Mohamed Sherif,81,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Ahmed Yasser Rayan,9,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Abdallah Said,45,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Marwan Hamdy,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Mohamed Salah,90,AM,0,2,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Mohamed Elneny,90,DM,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Amro El Soulia,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Ahmed Aboul-Fotouh,89,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Mahmoud Alaa,1,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Ayman Ashraf,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Ahmed Hegazi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Akram Tawfik,90,RB,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-11-12,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Egypt,2021-11-16,Marwan Hamdy,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Ahmed Yasser Rayan,59,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Emam Ashour,31,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Afsha,89,AM,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Mahmoud Alaa,1,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Mohamed Sherif,58,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Mohamed Salah,32,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Hamdy Fathy,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Amro El Soulia,58,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Mostafa Fathi,32,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,El Wensh,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Ahmed Hegazi,80,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Ahmed Yassin,10,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Ahmed Fathy,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2021-11-16,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2022-01-11,Mohamed Salah,90,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Omar Marmoush,90,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Mostafa Mohamed,57,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Ramadan Sobhi,33,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Mohamed Elneny,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Trézéguet,57,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Ahmed Sayed,33,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Hamdy Fathy,90,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Ahmed Aboul-Fotouh,45,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Ayman Ashraf,45,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,El Wensh,89,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Mohamed Sherif,1,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Ahmed Hegazi,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Akram Tawfik,11,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Mohamed Abdelmoneim,79,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-11,Mohamed El-Shenawy,90,GK,0,0,0,0,0,0,0,0,1,4,80.0,NA,0
+Egypt,2022-01-15,Mostafa Mohamed,57,FW,0,0,0,0,5,2,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Ahmed Sayed,33,MF,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Omar Marmoush,77,FW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Mohamed Sherif,13,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Mohamed Salah,90,FW,1,0,0,0,5,2,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Abdallah Said,57,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Trézéguet,33,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Mohamed Elneny,77,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Hamdy Fathy,13,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Amro El Soulia,90,DM,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Ayman Ashraf,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,El Wensh,45,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Mohamed Abdelmoneim,45,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Ahmed Hegazi,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Omar Kamal,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-15,Mohamed El-Shenawy,90,GK,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
+Egypt,2022-01-19,Mostafa Mohamed,84,FW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Marwan Hamdy,6,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Omar Marmoush,65,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Trézéguet,25,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Mohamed Salah,90,FW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Abdallah Said,56,CM,0,1,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Ahmed Sayed,34,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Mohamed Elneny,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Amro El Soulia,83,DM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Hamdy Fathy,7,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Ayman Ashraf,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Mohamed Abdelmoneim,90,CB,1,0,0,0,2,1,1,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Ahmed Hegazi,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Omar Kamal,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-19,Mohamed El-Shenawy,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Egypt,2022-01-26,Mostafa Mohamed,90,FW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-26,Mohamed Sherif,30,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-26,Omar Marmoush,70,FW,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-26,Trézéguet,50,"FW,MF",0,0,0,0,6,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-26,Mohamed Salah,120,FW,0,0,0,0,2,1,0,0,NA,NA,NA,1,NA
+Egypt,2022-01-26,Amro El Soulia,120,CM,0,0,0,0,2,0,0,0,NA,NA,NA,1,NA
+Egypt,2022-01-26,Mohamed Elneny,120,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-26,Hamdy Fathy,83,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-26,Ahmed Sayed,37,MF,0,0,0,0,1,1,1,0,NA,NA,NA,1,NA
+Egypt,2022-01-26,Ahmed Aboul-Fotouh,120,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-26,Mohamed Abdelmoneim,120,CB,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2022-01-26,Ahmed Hegazi,120,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-26,Omar Kamal,120,RB,0,0,0,0,1,1,0,0,NA,NA,NA,1,NA
+Egypt,2022-01-26,Mohamed El-Shenawy,87,GK,0,0,0,0,0,0,0,0,0,7,100.0,NA,0
+Egypt,2022-01-26,Gabaski,33,GK,0,0,0,0,0,0,0,0,0,7,100.0,NA,0
+Egypt,2022-01-30,Mostafa Mohamed,110,FW,0,0,0,0,3,0,1,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Ramadan Sobhi,10,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Omar Marmoush,79,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Ahmed Sayed,41,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Mohamed Salah,119,FW,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Marwan Hamdy,1,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Ayman Ashraf,90,CM,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Mahmoud Alaa,30,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Amro El Soulia,120,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Mohamed Elneny,120,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Ahmed Aboul-Fotouh,120,LB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Mohamed Abdelmoneim,120,CB,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Ahmed Hegazi,45,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Trézéguet,75,"FW,MF",1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Omar Kamal,120,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Egypt,2022-01-30,Gabaski,95,GK,0,0,0,0,0,0,0,0,1,3,100.0,NA,0
+Egypt,2022-01-30,Mohamed Sobhy,25,GK,0,0,0,0,0,0,0,0,1,3,100.0,NA,0
+Egypt,2022-02-03,Mostafa Mohamed,105,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Mohamed Sherif,12,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Ahmed Sayed,3,MF,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2022-02-03,Omar Marmoush,62,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Ramadan Sobhi,58,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Mohamed Salah,120,FW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Amro El Soulia,45,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Trézéguet,75,"FW,MF",0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Mohamed Elneny,85,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Mohanad Lasheen,35,MF,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2022-02-03,Hamdy Fathy,120,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Ahmed Aboul-Fotouh,120,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,El Wensh,120,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Mohamed Abdelmoneim,120,CB,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2022-02-03,Omar Kamal,84,RB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Emam Ashour,36,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-03,Gabaski,120,GK,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
+Egypt,2022-02-06,Mostafa Mohamed,58,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Marwan Hamdy,62,FW,0,0,0,0,2,1,0,0,NA,NA,NA,1,NA
+Egypt,2022-02-06,Omar Marmoush,58,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Ahmed Sayed,62,MF,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2022-02-06,Mohamed Salah,120,FW,0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Amro El Soulia,57,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Trézéguet,63,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Mohamed Elneny,120,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Hamdy Fathy,98,DM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Mohanad Lasheen,22,MF,0,0,0,0,0,0,0,0,NA,NA,NA,0,NA
+Egypt,2022-02-06,Ahmed Aboul-Fotouh,120,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,El Wensh,120,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Mohamed Abdelmoneim,120,CB,0,0,0,0,1,0,1,0,NA,NA,NA,0,NA
+Egypt,2022-02-06,Emam Ashour,120,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2022-02-06,Gabaski,120,GK,0,0,0,0,0,0,0,0,0,7,100.0,NA,0
+Egypt,2022-03-25,Mostafa Mohamed,71,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Omar Marmoush,19,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Trézéguet,89,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Nabil Dunga,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Mohamed Salah,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Mohamed Elneny,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Amro El Soulia,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Hamdy Fathy,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Ahmed Aboul-Fotouh,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,El Wensh,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Mohamed Abdelmoneim,38,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Yasser Ibrahim,52,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Omar Gaber,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-25,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2022-03-29,Omar Marmoush,69,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Mostafa Mohamed,51,FW,0,0,0,0,,,1,0,NA,NA,NA,0,NA
+Egypt,2022-03-29,Trézéguet,69,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Ahmed Sayed,51,MF,0,0,0,0,,,0,0,NA,NA,NA,0,NA
+Egypt,2022-03-29,Mohamed Salah,120,FW,0,0,0,0,,,0,0,NA,NA,NA,0,NA
+Egypt,2022-03-29,Amro El Soulia,120,CM,0,0,0,0,,,0,0,NA,NA,NA,1,NA
+Egypt,2022-03-29,Mohamed Elneny,69,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Nabil Dunga,51,MF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Hamdy Fathy,117,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Mahmoud Alaa,3,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Ahmed Aboul-Fotouh,120,LB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Yasser Ibrahim,120,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Ramy Rabia,28,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Ayman Ashraf,92,DF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Omar Gaber,35,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Emam Ashour,85,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-03-29,Mohamed El-Shenawy,120,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2022-06-05,Omar Marmoush,73,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Ibrahim Adel,17,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Ahmed Sayed,65,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Mostafa Mohamed,25,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Mohamed Salah,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Amro El Soulia,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Emam Ashour,73,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Afsha,17,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Hamdy Fathy,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Ayman Ashraf,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,El Wensh,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Yasser Ibrahim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Omar Gaber,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-05,Gabaski,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2022-06-09,Mostafa Mohamed,86,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Ahmed Atef,4,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Ahmed Sayed,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Omar Marmoush,86,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Ahmed Refaat,4,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Afsha,40,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Ibrahim Adel,50,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Emam Ashour,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Amro El Soulia,41,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Mohanad Lasheen,49,MF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Ayman Ashraf,40,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Omar Kamal,50,MF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,El Wensh,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Mahmoud Alaa,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Omar Gaber,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-06-09,Gabaski,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Egypt,2022-09-23,Mostafa Mohamed,73,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Koka,17,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Omar Marmoush,73,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Trézéguet,17,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Mohamed Salah,90,FW,2,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Mahmoud Hamada,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Ahmed Sayed,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Emam Ashour,45,MF,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Tarek Hamed,67,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Hamdy Fathy,23,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Mohamed Hamdy,67,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Ahmed Aboul-Fotouh,23,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,El Wensh,45,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Mohamed Abdelmoneim,45,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Ahmed Hegazi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Omar Gaber,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-09-23,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2022-11-18,Mostafa Mohamed,71,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Ahmed Sayed,19,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Trézéguet,87,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Taher Mohamed,3,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Mohamed Salah,87,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Koka,3,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Mahmoud Hamada,87,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Emam Ashour,3,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Mohamed Elneny,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Tarek Hamed,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Ahmed Hegazi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Ali Gabr,76,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Osama Galal,14,DF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Akram Tawfik,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2022-11-18,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2023-03-24,Mostafa Mohamed,86,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Kahraba,4,"FW,MF",0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Omar Marmoush,80,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Ahmed Abdelkader,10,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Mohamed Salah,90,FW,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Mahmoud Hamada,67,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Emam Ashour,23,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Ahmed Sayed,86,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Marwan Attia,4,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Tarek Hamed,80,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Hamdy Fathy,10,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Mohamed Hamdy,90,LB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Ahmed Hegazi,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Mohamed Hany,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-24,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2023-03-28,Mostafa Mohamed,90,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Omar Marmoush,69,FW,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Emam Ashour,21,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Mohamed Salah,75,FW,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Koka,15,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Mahmoud Hamada,69,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Hamdy Fathy,21,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Ahmed Sayed,56,CM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Mostafa Fathi,34,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Tarek Hamed,90,DM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Ahmed Hegazi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Mohamed Hany,90,RB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-03-28,Mohamed El-Shenawy,45,GK,0,0,0,0,,,0,0,,,,NA,0
+Egypt,2023-03-28,Mohamed Sobhy,45,GK,0,0,0,0,,,0,0,,,,NA,0
+Egypt,2023-06-14,Mostafa Mohamed,89,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Kahraba,1,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Omar Marmoush,9,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Trézéguet,81,"FW,MF",1,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Mohamed Salah,90,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Mahmoud Hamada,66,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Hamdy Fathy,24,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Ahmed Sayed,89,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Mostafa Fathi,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Marwan Attia,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Ali Gabr,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Mohamed Hany,66,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Ahmed Beckham,24,DF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-06-14,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2023-06-18,Kahraba,61,FW,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Ahmed Yasser Rayan,29,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Trézéguet,76,FW,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Ghannam Mohamed,14,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Mostafa Fathi,90,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Mahmoud Hamada,61,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Hussein El Shahat,29,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Ahmed Sayed,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Mohamed Reda Bobo,45,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Mohanad Lasheen,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Ahmed Aboul-Fotouh,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Yasser Ibrahim,76,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Mahmoud Marei,14,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Ali Gabr,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Ahmed Beckham,45,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Hesham Salah,45,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-06-18,Mohamed Sobhy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2023-09-08,Mostafa Mohamed,90,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Omar Marmoush,66,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Ibrahim Adel,24,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Mostafa Fathi,76,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Ahmed Sayed,14,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Mahmoud Hamada,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Hamdy Fathy,89,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Sam Morsy,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Marwan Attia,66,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Tarek Hamed,24,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Mohamed Hamdy,89,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Ahmed Aboul-Fotouh,1,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Ali Gabr,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Mohamed Hany,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-08,Mohamed El-Shenawy,90,GK,0,0,0,0,,,1,0,0,,,NA,0
+Egypt,2023-09-12,Mostafa Mohamed,90,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Omar Marmoush,75,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Mohamed Hamdy,15,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Mohamed Salah,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Ahmed Sayed,62,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Mahmoud Hamada,28,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Hamdy Fathy,85,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Osama Faisal,5,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Tarek Hamed,62,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Mostafa Fathi,28,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Ahmed Beckham,90,LB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Hossam Abdelmegeed,85,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Sam Morsy,5,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Ali Gabr,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Omar Kamal,75,RB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Ibrahim Adel,15,MF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-09-12,Gabaski,90,GK,0,0,0,0,,,0,0,3,,,NA,0
+Egypt,2023-10-12,Mostafa Mohamed,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Trézéguet,77,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Omar Marmoush,13,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Mohamed Salah,89,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Mostafa Fathi,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Hamdy Fathy,90,CM,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Mohamed Elneny,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Ahmed Sayed,45,MF,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Tarek Hamed,64,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Marwan Attia,26,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Ahmed Aboul-Fotouh,64,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Mohamed Hamdy,26,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Ali Gabr,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Mohamed Hany,77,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Omar Kamal,13,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-12,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2023-10-16,Mostafa Mohamed,86,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Hussein El Shahat,4,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Trézéguet,68,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Omar Marmoush,22,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Mohamed Salah,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Hamdy Fathy,86,CM,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Tarek Hamed,4,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Ahmed Sayed,34,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Omar Kamal,56,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Mohamed Elneny,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Ali Gabr,68,CB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Yasser Ibrahim,22,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Mohamed Hany,25,RB,0,0,0,0,,,0,1,NA,NA,NA,NA,NA
+Egypt,2023-10-16,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2023-11-16,Mostafa Mohamed,74,FW,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Mohamed Sherif,16,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Omar Marmoush,79,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Mostafa Fathi,11,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Mohamed Salah,90,FW,4,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Mohamed Elneny,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Ahmed Sayed,61,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Trézéguet,29,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Marwan Attia,60,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Hamdy Fathy,30,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Ahmed Aboul-Fotouh,90,LB,0,2,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Mohamed Abdelmoneim,45,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Ali Gabr,45,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Ahmed Samy,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Omar Kamal,90,RB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-16,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2023-11-19,Mostafa Mohamed,78,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Omar Marmoush,12,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Trézéguet,86,FW,2,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Mohamed Sherif,4,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Mohamed Salah,90,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Hamdy Fathy,68,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Mahmoud Hamada,22,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Ahmed Sayed,68,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Marwan Attia,22,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Mohamed Elneny,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Ali Gabr,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Mohamed Hany,85,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Omar Kamal,5,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2023-11-19,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2024-01-14,Mostafa Mohamed,90,FW,1,0,0,0,3,3,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Mohamed Salah,90,FW,1,1,1,1,4,1,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Trézéguet,65,LW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Omar Marmoush,25,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Ahmed Sayed,83,RW,0,0,0,0,4,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Koka,7,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Hamdy Fathy,90,CM,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Mohamed Elneny,77,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Emam Ashour,13,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Mohamed Hamdy,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Mohamed Abdelmoneim,90,CB,0,0,0,0,2,0,1,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Ahmed Hegazi,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Mohamed Hany,65,RB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Omar Kamal,25,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-14,Mohamed El-Shenawy,90,GK,0,0,0,0,0,0,0,0,2,0,0.0,NA,0
+Egypt,2024-01-18,Mostafa Mohamed,90,FW,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Omar Marmoush,89,FW,1,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Marwan Attia,1,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Mohamed Salah,44,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Mostafa Fathi,46,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Emam Ashour,90,CM,0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Hamdy Fathy,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Mohamed Elneny,67,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Trézéguet,23,"FW,MF",0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Mohamed Hamdy,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Mohamed Abdelmoneim,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Ahmed Hegazi,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Omar Kamal,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-18,Mohamed El-Shenawy,90,GK,0,0,0,0,0,0,0,0,2,1,33.3,NA,0
+Egypt,2024-01-22,Mostafa Mohamed,90,FW,1,0,0,0,7,2,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Omar Marmoush,82,FW,0,0,0,0,2,1,1,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Mostafa Fathi,8,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Ahmed Sayed,73,FW,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Kahraba,17,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Emam Ashour,90,CM,0,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Hamdy Fathy,45,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Trézéguet,45,"FW,MF",1,1,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Marwan Attia,90,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Ahmed Aboul-Fotouh,45,LB,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Mohamed Hamdy,45,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Mohamed Abdelmoneim,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Ahmed Hegazi,90,CB,0,1,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Mohamed Hany,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-22,Mohamed El-Shenawy,89,GK,0,0,0,0,0,0,0,0,2,1,33.3,NA,0
+Egypt,2024-01-22,Gabaski,1,GK,0,0,0,0,0,0,0,0,2,1,33.3,NA,0
+Egypt,2024-01-28,Mostafa Mohamed,120,FW,1,0,1,1,2,1,0,0,NA,NA,NA,0,NA
+Egypt,2024-01-28,Trézéguet,82,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-28,Omar Marmoush,38,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,1,NA
+Egypt,2024-01-28,Ahmed Sayed,89,FW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-28,Mostafa Fathi,31,MF,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2024-01-28,Hamdy Fathy,99,CM,0,0,0,0,2,0,1,0,NA,NA,NA,NA,NA
+Egypt,2024-01-28,Omar Kamal,21,MF,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2024-01-28,Mohamed Elneny,111,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-28,Mohanad Lasheen,9,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-28,Marwan Attia,82,DM,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Egypt,2024-01-28,Mahmoud Hamada,38,MF,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2024-01-28,Ahmed Aboul-Fotouh,45,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Egypt,2024-01-28,Mohamed Hamdy,51,DF,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA
+Egypt,2024-01-28,Mohamed Abdelmoneim,120,CB,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2024-01-28,Ahmed Hegazi,120,CB,0,0,0,0,1,0,0,0,NA,NA,NA,1,NA
+Egypt,2024-01-28,Mohamed Hany,120,RB,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Egypt,2024-01-28,Gabaski,120,GK,0,0,0,0,0,0,0,0,1,0,0.0,0,0
+Egypt,2024-06-06,Mostafa Mohamed,89,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Ahmed Amin Ofaa,1,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Mohamed Salah,90,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Trézéguet,89,LM,2,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Ibrahim Adel,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Emam Ashour,57,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Akram Tawfik,33,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Marwan Attia,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Ahmed Sayed,71,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Omar Kamal,19,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Mohamed Hany,90,RM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Hamdy Fathy,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-06,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2024-06-10,Mostafa Mohamed,17,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Ahmed Amin Ofaa,72,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Naser Maher,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Trézéguet,77,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Ibrahim Adel,13,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Mohamed Salah,90,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Ahmed Sayed,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Hamdy Fathy,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Marwan Attia,90,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Mohamed Hany,45,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Emam Ashour,45,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-06-10,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2024-09-06,Mostafa Mohamed,49,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Mohamed Elneny,41,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Omar Marmoush,90,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Ahmed Sayed,65,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Ibrahim Adel,25,MF,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Mohamed Salah,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Trézéguet,65,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Mostafa Fathi,25,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Marwan Attia,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Mohamed Hamdy,78,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Ahmed Nabil Koka,12,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Hamdy Fathy,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Ramy Rabia,78,CB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Ahmed Beckham,12,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Mohamed Hany,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-06,Mohamed El-Shenawy,90,GK,0,0,0,0,,,1,0,0,,,NA,0
+Egypt,2024-09-10,Osama Faisal,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Trézéguet,74,AM,2,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Mohamed Elneny,16,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Ahmed Sayed,82,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Naser Maher,8,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Mohamed Salah,74,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Ibrahim Adel,16,MF,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Hamdy Fathy,82,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Mostafa Fathi,8,MF,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Marwan Attia,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Mohamed Hamdy,74,LB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Ahmed Nabil Koka,16,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Khaled Sobhi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Ramy Rabia,90,CB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Mohamed Hany,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-09-10,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2024-10-11,Omar Marmoush,89,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Naser Maher,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Trézéguet,89,AM,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Mostafa Fathi,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Ahmed Sayed,77,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Mahmoud Saber,13,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Mohamed Salah,89,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Ibrahim Adel,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Hamdy Fathy,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Marwan Attia,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Mohamed Hamdy,90,LB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Mohamed Abdelmoneim,58,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Mostafa Mohamed,32,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Ramy Rabia,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Ahmed Eid,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-11,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2024-10-15,Osama Faisal,83,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Ibrahim Adel,7,MF,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Omar Marmoush,82,LM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Ahmed Nabil Koka,8,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Mahmoud Saber,82,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Mohamed Shehata,8,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Marwan Attia,90,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Ahmed Sayed,61,RM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Trézéguet,29,"FW,MF",0,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Khaled Sobhi,65,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Hamdy Fathy,25,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Ahmed Eid,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-10-15,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2024-11-15,Osama Faisal,84,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Mostafa Mohamed,6,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Ibrahim Adel,83,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Ahmed Beckham,7,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Taher Mohamed,90,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Mahmoud Saber,67,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Mostafa Fathi,23,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Mohamed Shehata,5,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Nabil Dunga,85,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Ahmed Nabil Koka,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Mohamed Hamdy,90,LB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Mohamed Rabiea,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Hamdy Fathy,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Ahmed Eid,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-15,Mohamed El-Shenawy,90,GK,0,0,0,0,,,1,0,1,,,NA,0
+Egypt,2024-11-19,Mostafa Mohamed,67,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Osama Faisal,23,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Omar Marmoush,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Taher Mohamed,67,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Ibrahim Adel,23,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Trézéguet,85,CM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Mahmoud Zalaka,5,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Naser Maher,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Marwan Attia,90,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Mohamed Rabiea,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Ahmed Beckham,58,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Hossam Abdelmegeed,32,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Omar Kamal,84,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Mostafa Fathi,6,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2024-11-19,Mostafa Shoubir,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Egypt,2025-03-21,Osama Faisal,69,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Mostafa Mohamed,21,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Omar Marmoush,89,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Mostafa Fathi,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Ahmed Sayed,82,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Mohamed Shehata,8,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Mohamed Salah,90,AM,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Hamdy Fathy,83,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Khaled Sobhi,7,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Marwan Attia,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Trézéguet,88,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Ahmed Nabil Koka,2,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Mohamed Hany,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-21,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2025-03-25,Mostafa Mohamed,56,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Hamdy Fathy,34,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Omar Marmoush,89,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Mostafa Fathi,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Ahmed Sayed,72,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Mohamed Shehata,18,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Mohamed Salah,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Ahmed Nabil Koka,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Marwan Attia,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Trézéguet,89,LB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Mahmoud Saber,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Mohamed Abdelmoneim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Mohamed Hany,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-03-25,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2025-09-05,Osama Faisal,78,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Mahmoud Saber,12,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Trézéguet,78,LW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Mostafa Mohamed,12,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Omar Marmoush,62,AM,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Mohanad Lasheen,28,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Ahmed Sayed,62,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Ibrahim Adel,28,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Mohamed Salah,87,RW,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Nabil Dunga,3,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Hamdy Fathy,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Mohamed Hamdy,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Khaled Sobhi,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Mohamed Hany,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2025-09-05,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2025-09-09,Omar Marmoush,8,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Osama Faisal,76,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Ahmed Sayed,6,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Trézéguet,84,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Mostafa Mohamed,6,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Mohamed Salah,89,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Hossam Abdelmegeed,1,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Mohamed Hamdy,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Marwan Attia,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Ahmed Nabil Koka,85,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Mohanad Lasheen,5,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Ahmed Eid,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Khaled Sobhi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Mohamed Hany,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-09-09,Mohamed El-Shenawy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2025-10-08,Mostafa Mohamed,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Ibrahim Adel,90,LW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Trézéguet,90,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Mohamed Salah,90,AM,2,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Ahmed Sayed,78,RW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Mahmoud Saber,12,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Hamdy Fathy,61,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Mohanad Lasheen,29,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Marwan Attia,86,DM,0,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Mostafa Fathi,4,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Mohamed Hamdy,60,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Ahmed Nabil Koka,30,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Mohamed Hany,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-08,Mohamed El-Shenawy,60,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2025-10-08,Mostafa Shoubir,30,GK,0,0,0,0,,,0,0,0,,,NA,0
+Egypt,2025-10-12,Mostafa Mohamed,79,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Osama Faisal,11,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Ibrahim Adel,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Trézéguet,89,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Hossam Abdelmegeed,1,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Ahmed Sayed,79,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Ahmed Eid,11,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Ahmed Nabil Koka,67,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Mahmoud Saber,23,MF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Mohanad Lasheen,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Mohamed Hamdy,90,LB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Ramy Rabia,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Yasser Ibrahim,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Mohamed Hany,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Egypt,2025-10-12,Mohamed Sobhy,90,GK,0,0,0,0,,,0,0,0,,,NA,0
