@@ -1,0 +1,993 @@
+Country,Date,Player,Mins,Pos,Gls,Ast,PK,PKatt,Shots,SoT,CrdY,CrdR,GA,Saves,Save%,Pk SO scorer,GK PK SO saves
+Brazil,2020-10-09,Neymar,90,FW,0,2,0,0,6,2,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Roberto Firmino,70,FW,2,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Richarlison,20,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Everton Soares,58,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Rodrygo,32,"FW,MF",0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Douglas Luiz,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Casemiro,90,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Philippe Coutinho,76,CM,1,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Everton Ribeiro,14,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Renan Lodi,76,LB,0,1,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Alex Telles,14,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Thiago Silva,70,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Felipe,20,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Marquinhos,90,CB,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Danilo,90,RB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-09,Wéverton,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Brazil,2020-10-13,Neymar,90,FW,3,0,2,2,5,4,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Roberto Firmino,68,FW,0,1,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Everton Ribeiro,22,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Richarlison,90,FW,1,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Douglas Luiz,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Casemiro,90,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Philippe Coutinho,68,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Everton Soares,22,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Renan Lodi,68,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Alex Telles,22,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Marquinhos,11,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Rodrigo Caio,79,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-10-13,Wéverton,90,GK,0,0,0,0,0,0,0,0,2,4,66.7,NA,0
+Brazil,2020-11-13,Roberto Firmino,90,FW,1,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Richarlison,75,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Pedro,15,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Gabriel Jesus,75,FW,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Everton Soares,15,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Douglas Luiz,45,CM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Lucas Paquetá,45,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Allan,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Everton Ribeiro,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Renan Lodi,89,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Alex Telles,1,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Thiago Silva,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Danilo,90,RB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-13,Ederson,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Uruguay,2020-11-17,Darwin Núñez,90,FW,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Edinson Cavani,70,FW,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Nicolás De La Cruz,69,LM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Jonathan Rodríguez,21,"FW,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Rodrigo Bentancur,59,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Brian Rodríguez,31,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Lucas Torreira,59,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Mauro Arambarri,31,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Nahitan Nández,90,RM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Agustín Oliveros,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Diego Godín,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,José María Giménez,90,CB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Martín Cáceres,90,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-17,Martín Campaña,90,GK,0,0,0,0,0,0,0,0,2,2,50.0,NA,0
+Brazil,2020-11-17,Richarlison,69,FW,1,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Everton Soares,21,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Roberto Firmino,90,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Gabriel Jesus,90,FW,0,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Everton Ribeiro,89,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Bruno Guimarães,1,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Douglas Luiz,89,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Lucas Paquetá,1,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Arthur Melo,90,CM,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Renan Lodi,90,LB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Marquinhos,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2020-11-17,Ederson,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Brazil,2021-06-04,Neymar,90,FW,1,1,1,1,3,3,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Gabriel Barbosa,75,FW,0,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Roberto Firmino,15,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Richarlison,89,FW,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Fabinho,1,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Fred,61,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Gabriel Jesus,29,"FW,MF",0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Casemiro,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Lucas Paquetá,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Alex Sandro,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Marquinhos,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Éder Militão,90,CB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Danilo,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-04,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Brazil,2021-06-08,Neymar,90,FW,1,1,0,0,6,2,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Roberto Firmino,72,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Douglas Luiz,18,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Richarlison,81,LW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Gabriel Barbosa,9,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Gabriel Jesus,81,RW,0,1,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Everton Soares,9,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Fred,45,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Lucas Paquetá,45,"FW,MF",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Casemiro,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Alex Sandro,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Marquinhos,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Éder Militão,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Danilo,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-08,Ederson,90,GK,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
+Brazil,2021-06-13,Richarlison,64,FW,0,0,0,0,5,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Gabriel Barbosa,26,FW,1,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Neymar,90,"FW,LW",1,1,1,1,4,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Gabriel Jesus,84,"RW,RM",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Vinicius Júnior,6,LM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Fred,84,LM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Fabinho,6,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Casemiro,90,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Lucas Paquetá,45,RM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Everton Ribeiro,45,"CM,RM",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Renan Lodi,45,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Alex Sandro,45,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Marquinhos,90,CB,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Éder Militão,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Danilo,90,RB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-13,Alisson,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Brazil,2021-06-23,Neymar,90,FW,0,1,0,0,5,1,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Gabriel Jesus,76,"FW,RM",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Everton Soares,14,LW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Richarlison,76,LM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Gabriel Barbosa,14,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Fred,67,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Lucas Paquetá,23,"DM,CM",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Casemiro,90,"CM,DM",1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Everton Ribeiro,45,RM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Roberto Firmino,45,"FW,AM",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Alex Sandro,61,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Renan Lodi,29,LB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Danilo,90,RB,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-23,Wéverton,90,GK,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
+Colombia,2021-06-23,Duván Zapata,63,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Miguel Borja,27,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Rafael Borré,63,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Gustavo Cuellar,27,"DM,CM",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Luis Díaz,89,"LM,RW",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Óscar Murillo,1,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Mateus Uribe,90,"CM,AM",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Wílmar Barrios,90,"CM,DM",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Juan Cuadrado,90,"RM,LW,RW",0,1,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,William Tesillo,90,"LB,LW",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Yerry Mina,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,Daniel Muñoz,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-06-23,David Ospina,90,GK,0,0,0,0,0,0,1,0,2,2,50.0,NA,0
+Brazil,2021-06-27,Gabriel Barbosa,90,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Everton Soares,77,LW,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Richarlison,13,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Lucas Paquetá,77,RW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Everton Ribeiro,13,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Roberto Firmino,62,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Vinicius Júnior,28,"LW,AM",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Douglas Luiz,62,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Casemiro,28,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Fabinho,90,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Renan Lodi,48,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Danilo,42,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Éder Militão,90,CB,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Emerson,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-06-27,Alisson,90,GK,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
+Brazil,2021-07-02,Neymar,90,FW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Richarlison,89,LW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Everton Soares,1,LW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Gabriel Jesus,47,RW,0,0,0,0,1,1,0,1,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Roberto Firmino,45,AM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Lucas Paquetá,45,"RW,AM",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Fred,90,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Casemiro,90,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Renan Lodi,89,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Éder Militão,1,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Danilo,90,RB,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-02,Ederson,90,GK,0,0,0,0,0,0,1,0,0,5,100.0,NA,0
+Brazil,2021-07-05,Richarlison,84,FW,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Vinicius Júnior,6,LW,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Neymar,90,"LW,FW",0,1,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Everton Soares,69,RW,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Everton Ribeiro,21,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Lucas Paquetá,89,AM,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Douglas Luiz,1,RM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Fred,84,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Fabinho,6,"DM,LM",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Casemiro,90,"DM,CM",0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Renan Lodi,84,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Éder Militão,6,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-05,Ederson,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Argentina,2021-07-10,Lautaro Martínez,78,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Nicolás González,12,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Lionel Messi,90,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Giovani Lo Celso,62,LM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Nicolás Tagliafico,28,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Leandro Paredes,53,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Guido Rodríguez,37,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Rodrigo De Paul,90,CM,0,1,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Ángel Di María,78,RM,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Exequiel Palacios,12,RM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Marcos Acuña,90,"LB,LM",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Nicolás Otamendi,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Cristian Romero,78,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Germán Pezzella,12,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Gonzalo Montiel,90,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2021-07-10,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Brazil,2021-07-10,Neymar,90,FW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Richarlison,90,"RM,LW",0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Everton Soares,62,"RW,LM",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Vinicius Júnior,28,LM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Fred,45,LM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Roberto Firmino,45,"FW,CM",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Casemiro,90,"DM,CM",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Lucas Paquetá,75,"RM,CM",0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Gabriel Barbosa,15,FW,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Renan Lodi,75,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Emerson,15,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Thiago Silva,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Marquinhos,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Danilo,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-07-10,Ederson,90,GK,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
+Brazil,2021-09-02,Neymar,90,FW,0,0,0,0,3,1,1,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Gabriel Barbosa,77,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Matheus Cunha,13,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Vinicius Júnior,45,LM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Everton Ribeiro,45,"FW,MF",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Casemiro,90,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Bruno Guimarães,45,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Gerson,45,"FW,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Lucas Paquetá,90,RM,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Alex Sandro,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Marquinhos,90,CB,0,0,0,0,2,1,1,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Éder Militão,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-02,Wéverton,90,GK,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
+Brazil,2021-09-09,Neymar,90,FW,1,1,0,0,2,1,1,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Gabriel Barbosa,83,FW,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Hulk,7,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Lucas Paquetá,90,LM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Casemiro,77,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Bruno Guimarães,13,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Gerson,83,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Edenílson,7,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Everton Ribeiro,62,RM,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Dani Alves,28,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Alex Sandro,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Éder Militão,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Lucas Veríssimo,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Danilo,62,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Matheus Cunha,28,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-09-09,Wéverton,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Brazil,2021-10-07,Gabriel Jesus,76,FW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Antony,14,"FW,MF",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Gabriel Barbosa,90,FW,1,0,1,1,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Lucas Paquetá,62,LM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Vinicius Júnior,28,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Gerson,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Fabinho,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Everton Ribeiro,45,RM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Raphinha,45,"FW,MF",0,2,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Guilherme Arana,89,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Alex Sandro,1,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Marquinhos,90,CB,1,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Danilo,76,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Emerson,14,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-07,Alisson,90,GK,0,0,0,0,0,0,0,0,1,3,75.0,NA,0
+Colombia,2021-10-10,Radamel Falcao,73,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Duván Zapata,17,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Juan Quintero,73,AM,0,0,0,0,6,2,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Luis Sinisterra,17,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Luis Díaz,90,DM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Wílmar Barrios,90,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Jefferson Lerma,52,DM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Mateus Uribe,38,MF,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Roger Martínez,52,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Rafael Borré,38,FW,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Johan Mojica,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Carlos Cuesta,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Yerry Mina,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,Stefan Medina,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-10,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,4,100.0,NA,0
+Brazil,2021-10-10,Gabriel Barbosa,60,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Raphinha,30,"FW,MF",0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Lucas Paquetá,90,AM,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Neymar,90,AM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Gabriel Jesus,70,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Antony,20,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Fabinho,90,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Fred,90,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Alex Sandro,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Éder Militão,70,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Thiago Silva,20,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-10,Alisson,90,GK,0,0,0,0,0,0,0,0,0,4,100.0,NA,0
+Brazil,2021-10-14,Gabriel Jesus,60,FW,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Gabriel Barbosa,30,"FW,MF",1,0,0,0,3,3,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Lucas Paquetá,60,AM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Antony,30,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Neymar,90,AM,1,2,0,0,7,4,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Raphinha,70,AM,2,0,0,0,4,4,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Everton Ribeiro,20,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Fabinho,70,DM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Douglas Luiz,20,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Fred,87,DM,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Edenílson,3,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Alex Sandro,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Thiago Silva,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Lucas Veríssimo,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Emerson,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-10-14,Ederson,90,GK,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
+Uruguay,2021-10-14,Edinson Cavani,90,FW,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Luis Suárez,90,FW,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Nicolás De La Cruz,45,LM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Lucas Torreira,45,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Federico Valverde,90,CM,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Matías Vecino,64,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Facundo Torres,26,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Rodrigo Bentancur,70,RM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Fernando Gorriarán,20,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Matías Viña,45,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Joaquín Piquerez,45,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Diego Godín,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Sebastián Coates,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Nahitan Nández,45,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Martín Cáceres,45,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-14,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,4,9,69.2,NA,0
+Brazil,2021-11-11,Neymar,90,FW,0,1,0,0,3,1,1,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Gabriel Jesus,63,FW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Matheus Cunha,27,"FW,MF",0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Raphinha,63,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Antony,27,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Lucas Paquetá,85,CM,1,0,0,0,4,3,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Fabinho,5,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Casemiro,90,CM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Fred,45,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Vinicius Júnior,45,"FW,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Alex Sandro,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Marquinhos,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Danilo,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-11,Alisson,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Colombia,2021-11-11,Luis Díaz,65,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Roger Martínez,25,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Duván Zapata,65,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Miguel Borja,25,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Juan Cuadrado,90,FW,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Yairo Moreno,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Wílmar Barrios,77,CM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Luis Muriel,13,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Jefferson Lerma,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Johan Mojica,54,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Gustavo Cuellar,36,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,William Tesillo,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,Daniel Muñoz,77,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,James Rodríguez,13,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-11-11,David Ospina,90,GK,0,0,0,0,0,0,0,0,1,5,83.3,NA,0
+Argentina,2021-11-16,Ángel Di María,74,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Julián Álvarez,16,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Lautaro Martínez,45,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Joaquín Correa,45,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Lionel Messi,90,FW,0,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Giovani Lo Celso,85,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Nicolás Domínguez,5,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Leandro Paredes,45,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Lisandro Martínez,45,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Rodrigo De Paul,90,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Marcos Acuña,90,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Nicolás Otamendi,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Cristian Romero,52,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Germán Pezzella,38,DF,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Nahuel Molina,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-16,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Brazil,2021-11-16,Matheus Cunha,85,FW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Gabriel Jesus,5,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Vinicius Júnior,90,AM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Lucas Paquetá,78,AM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Gerson,12,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Raphinha,68,AM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Antony,22,"FW,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Fabinho,90,DM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Fred,90,DM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Alex Sandro,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Éder Militão,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2021-11-16,Alisson,90,GK,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
+Brazil,2022-01-27,Philippe Coutinho,32,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Dani Alves,58,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Matheus Cunha,77,FW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Gabriel Barbosa,13,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Vinicius Júnior,62,LM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Gabriel Jesus,28,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Casemiro,90,CM,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Fred,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Raphinha,62,RM,0,0,0,0,2,1,1,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Antony,28,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Alex Sandro,90,LB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Éder Militão,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Emerson,19,RB,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA
+Brazil,2022-01-27,Alisson,90,GK,0,0,0,0,0,0,1,0,1,0,0.0,NA,0
+Brazil,2022-02-01,Vinicius Júnior,60,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Antony,30,"FW,MF",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Matheus Cunha,60,FW,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Gabriel Jesus,30,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Raphinha,81,FW,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Everton Ribeiro,9,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Philippe Coutinho,72,CM,1,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Bruno Guimarães,18,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Fabinho,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Lucas Paquetá,81,CM,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Rodrygo,9,"FW,MF",1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Alex Telles,90,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Thiago Silva,90,CB,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Dani Alves,90,RB,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-02-01,Ederson,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Brazil,2022-03-24,Neymar,90,FW,1,0,1,1,5,2,1,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Vinicius Júnior,74,AM,1,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Gabriel Martinelli,16,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Lucas Paquetá,62,AM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Philippe Coutinho,28,"FW,MF",1,0,1,1,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Antony,74,AM,0,1,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Richarlison,16,"FW,MF",1,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Casemiro,81,DM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Fabinho,9,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Fred,81,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Bruno Guimarães,9,MF,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Guilherme Arana,90,LB,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Thiago Silva,90,CB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-24,Alisson,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Brazil,2022-03-29,Richarlison,90,FW,2,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Philippe Coutinho,53,AM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Gabriel Martinelli,37,"FW,MF",0,0,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Lucas Paquetá,76,AM,1,1,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Arthur Melo,14,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Antony,76,AM,0,0,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Rodrygo,14,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Bruno Guimarães,90,DM,1,1,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Fabinho,90,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Alex Telles,83,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Guilherme Arana,7,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Éder Militão,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Dani Alves,90,RB,0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-03-29,Alisson,90,GK,0,0,0,0,0,0,0,0,0,6,100.0,NA,0
+Brazil,2022-06-02,Neymar,77,FW,2,0,2,2,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Philippe Coutinho,13,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Richarlison,70,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Vinicius Júnior,20,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Lucas Paquetá,80,LW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Bruno Guimarães,10,MF,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Raphinha,77,RW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Gabriel Jesus,13,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Casemiro,70,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Fabinho,20,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Fred,80,CM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Matheus Cunha,10,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Alex Sandro,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Thiago Silva,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Marquinhos,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Dani Alves,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-02,Wéverton,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Japan,2022-06-06,Ao Tanaka,80,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Gaku Shibasaki,10,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Kyogo Furuhashi,66,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Daizen Maeda,24,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Junya Ito,72,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Kaoru Mitoma,18,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Takumi Minamino,72,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Ritsu Doan,18,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Wataru Endo,90,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Genki Haraguchi,45,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Daichi Kamada,45,"FW,MF",0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Yuta Nakayama,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Maya Yoshida,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Ko Itakura,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Yuto Nagatomo,80,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Miki Yamane,10,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2022-06-06,Shūichi Gonda,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Brazil,2022-06-06,Neymar,90,FW,1,0,1,1,,,1,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Lucas Paquetá,84,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Bruno Guimarães,6,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Vinicius Júnior,62,LW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Gabriel Martinelli,28,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Raphinha,62,RW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Gabriel Jesus,28,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Casemiro,84,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Fabinho,6,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Fred,70,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Richarlison,20,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Guilherme Arana,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Éder Militão,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Marquinhos,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Dani Alves,69,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Thiago Silva,21,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-06-06,Alisson,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Brazil,2022-09-23,Vinicius Júnior,62,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Antony,28,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Richarlison,62,FW,2,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Matheus Cunha,28,"FW,MF",0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Raphinha,79,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Rodrygo,11,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Neymar,90,CM,0,2,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Casemiro,62,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Fabinho,28,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Lucas Paquetá,78,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Everton Ribeiro,12,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Alex Telles,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Marquinhos,90,CB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Thiago Silva,45,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Gleison Bremer,45,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Éder Militão,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-23,Alisson,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Brazil,2022-09-27,Richarlison,45,FW,1,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Pedro,45,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Lucas Paquetá,45,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Vinicius Júnior,45,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Neymar,90,AM,1,0,1,1,,,1,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Raphinha,64,AM,2,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Antony,26,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Fred,78,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Rodrygo,12,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Casemiro,90,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Alex Telles,64,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Renan Lodi,26,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Thiago Silva,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Marquinhos,77,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Roger Ibanez,13,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Danilo,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2022-09-27,Alisson,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Brazil,2022-11-24,Richarlison,78,FW,2,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Gabriel Jesus,12,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Vinicius Júnior,75,LW,0,1,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Rodrygo,15,"AM,LW",0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Raphinha,86,RW,0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Gabriel Martinelli,4,LW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Neymar,79,AM,0,0,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Antony,11,"RW,LW",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Casemiro,90,DM,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Lucas Paquetá,74,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Fred,16,DM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Alex Sandro,90,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Thiago Silva,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Danilo,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-24,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Brazil,2022-11-28,Richarlison,72,FW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Gabriel Jesus,18,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Vinicius Júnior,90,LW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Raphinha,72,RW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Antony,18,RW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Lucas Paquetá,45,LM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Rodrygo,45,AM,0,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Casemiro,90,"DM,CM",1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Fred,57,"RM,DM",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Bruno Guimarães,33,DM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Alex Sandro,85,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Alex Telles,5,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Thiago Silva,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Marquinhos,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Éder Militão,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-11-28,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Brazil,2022-12-02,Gabriel Jesus,63,FW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Pedro,27,FW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Gabriel Martinelli,90,LW,0,0,0,0,4,3,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Antony,78,RW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Raphinha,12,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Rodrygo,54,AM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Everton Ribeiro,36,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Fabinho,90,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Fred,54,DM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Bruno Guimarães,36,DM,0,0,0,0,4,1,1,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Alex Telles,54,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Marquinhos,36,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Gleison Bremer,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Éder Militão,90,CB,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Dani Alves,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-02,Ederson,90,GK,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
+Brazil,2022-12-05,Richarlison,90,FW,1,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Vinicius Júnior,71,LW,1,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Gabriel Martinelli,19,LW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Raphinha,90,RW,0,1,0,0,5,3,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Neymar,80,AM,1,0,1,1,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Rodrygo,10,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Casemiro,90,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Lucas Paquetá,90,DM,1,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Danilo,71,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Gleison Bremer,19,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Thiago Silva,90,CB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Éder Militão,62,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Dani Alves,28,RB,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-05,Alisson,79,GK,0,0,0,0,0,0,0,0,1,5,83.3,NA,0
+Brazil,2022-12-05,Wéverton,11,GK,0,0,0,0,0,0,0,0,1,5,83.3,NA,0
+Brazil,2022-12-09,Richarlison,83,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Pedro,37,FW,0,0,0,0,2,1,0,0,NA,NA,NA,1,NA
+Brazil,2022-12-09,Vinicius Júnior,63,LW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Rodrygo,57,LW,0,0,0,0,0,0,0,0,NA,NA,NA,0,NA
+Brazil,2022-12-09,Raphinha,55,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Antony,65,RW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Neymar,120,AM,1,0,0,0,5,5,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Casemiro,120,DM,0,0,0,0,3,1,1,0,NA,NA,NA,1,NA
+Brazil,2022-12-09,Lucas Paquetá,105,DM,0,1,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Fred,15,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Danilo,120,"LB,RB",0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Thiago Silva,120,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Marquinhos,120,CB,0,0,0,0,1,0,1,0,NA,NA,NA,0,NA
+Brazil,2022-12-09,Éder Militão,105,RB,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Alex Sandro,15,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2022-12-09,Alisson,120,GK,0,0,0,0,0,0,0,0,1,0,0.0,NA,0
+Brazil,2023-03-25,Rony,63,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Antony,27,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Vinicius Júnior,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Rodrygo,64,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Vitor Roque,26,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Lucas Paquetá,84,CM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Yuri Alberto,6,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Andrey Santos,64,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Raphael Veiga,26,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Casemiro,90,DM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Alex Telles,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Roger Ibanez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Éder Militão,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Emerson,89,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Arthur,1,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-03-25,Wéverton,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Brazil,2023-06-17,Richarlison,82,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Pedro,8,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Vinicius Júnior,89,FW,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Rony,1,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Rodrygo,81,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Malcom,9,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Lucas Paquetá,64,CM,0,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Raphael Veiga,26,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Joelinton,64,CM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Bruno Guimarães,26,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Casemiro,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Ayrton Lucas,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Marquinhos,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Éder Militão,90,CB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Danilo,89,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Vanderson,1,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-17,Ederson,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Brazil,2023-06-20,Vinicius Júnior,90,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Richarlison,56,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Pedro,34,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Malcom,56,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Rony,34,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Lucas Paquetá,73,CM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,André,17,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Bruno Guimarães,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Joelinton,66,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Raphael Veiga,24,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Ayrton Lucas,73,LB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Alex Telles,17,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Marquinhos,90,CB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Éder Militão,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Danilo,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2023-06-20,Ederson,90,GK,0,0,0,0,,,0,0,4,,,NA,0
+England,2024-03-23,Ollie Watkins,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Anthony Gordon,74,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Marcus Rashford,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Jude Bellingham,66,AM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+England,2024-03-23,Jarrod Bowen,24,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Phil Foden,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Declan Rice,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Conor Gallagher,74,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Kobbie Mainoo,16,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Ben Chilwell,66,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Joe Gomez,24,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Harry Maguire,66,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Lewis Dunk,24,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,John Stones,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Kyle Walker,19,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Ezri Konsa,71,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+England,2024-03-23,Jordan Pickford,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Brazil,2024-03-23,Rodrygo,70,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Endrick,20,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Vinicius Júnior,88,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Pablo Maia,2,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Raphinha,77,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Sávio,13,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,João Gomes,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Lucas Paquetá,70,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Andreas Pereira,20,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Bruno Guimarães,78,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Douglas Luiz,12,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Wendell,88,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Gleison Bremer,2,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Lucas Beraldo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Fabrício Bruno,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Danilo,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-23,Bento,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Spain,2024-03-26,Álvaro Morata,80,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Mikel Oyarzabal,10,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Nico Williams,88,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Oihan Sancet,2,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Dani Olmo,90,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Lamine Yamal,89,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Jesús Navas,1,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Rodri,90,DM,2,0,2,2,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Fabián Ruiz Peña,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Marc Cucurella,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Aymeric Laporte,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Robin Le Normand,80,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Pau Cubarsí,10,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Dani Carvajal,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Spain,2024-03-26,Unai Simón,90,GK,0,0,0,0,,,0,0,3,,,NA,0
+Brazil,2024-03-26,Rodrygo,81,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Galeno,9,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Vinicius Júnior,70,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Douglas Luiz,20,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Raphinha,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Endrick,45,FW,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,João Gomes,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Andreas Pereira,45,MF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Lucas Paquetá,90,CM,1,0,1,1,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Bruno Guimarães,45,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,André,45,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Wendell,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Lucas Beraldo,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Fabrício Bruno,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Danilo,45,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Yan Couto,45,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-03-26,Bento,90,GK,0,0,0,0,,,0,0,3,,,NA,0
+Mexico,2024-06-08,Santiago Giménez,88,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Guillermo Martínez Ayala,2,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Julián Quiñones,88,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,César Huerta,2,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Uriel Antuna,78,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Jordi Cortizo,12,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Charly Rodríguez,60,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Orbelín Pineda,30,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Luis Chávez,61,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Alexis Vega,29,"FW,MF",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Luis Romo,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Gerardo Arteaga,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Edson Álvarez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Israel Reyes,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-08,Julio José González,90,GK,0,0,0,0,,,0,0,3,,,NA,0
+Brazil,2024-06-08,Evanilson,60,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Endrick,30,FW,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Gabriel Martinelli,60,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Pepê,30,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Sávio,73,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Vinicius Júnior,17,"FW,MF",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Andreas Pereira,60,CM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Lucas Paquetá,30,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Éderson,83,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,João Gomes,7,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Douglas Luiz,73,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Bruno Guimarães,17,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Guilherme Arana,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Gleison Bremer,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Éder Militão,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Yan Couto,90,RB,0,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-06-08,Alisson,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Brazil,2024-06-12,Vinicius Júnior,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Rodrygo,82,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Gabriel Martinelli,8,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Lucas Paquetá,64,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Andreas Pereira,26,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Raphinha,64,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Sávio,26,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,João Gomes,45,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Douglas Luiz,45,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Bruno Guimarães,64,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Endrick,26,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Wendell,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Lucas Beraldo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Marquinhos,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Danilo,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-12,Alisson,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Brazil,2024-06-24,Vinicius Júnior,70,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Endrick,20,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Rodrygo,90,"LW,AM",0,0,0,0,6,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Raphinha,69,RW,0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Sávio,21,RW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Lucas Paquetá,90,"AM,DM",0,0,0,0,5,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,João Gomes,82,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Gabriel Martinelli,8,LW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Bruno Guimarães,90,DM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Guilherme Arana,90,LB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Éder Militão,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-24,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Brazil,2024-06-28,Rodrygo,78,FW,0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Endrick,12,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Vinicius Júnior,90,LW,2,0,0,0,3,2,1,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Sávio,71,RW,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Raphinha,19,RW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Lucas Paquetá,78,AM,1,1,1,2,2,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Andreas Pereira,12,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,João Gomes,90,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Bruno Guimarães,71,DM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Douglas Luiz,19,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Wendell,90,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Marquinhos,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Éder Militão,86,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Gabriel Magalhães,4,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Danilo,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-06-28,Alisson,90,GK,0,0,0,0,0,0,0,0,1,5,83.3,NA,0
+Brazil,2024-07-02,Rodrygo,72,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Sávio,18,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Vinicius Júnior,90,"LW,FW",0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Raphinha,90,"RW,LW",1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Lucas Paquetá,45,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Andreas Pereira,45,AM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,João Gomes,72,DM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Éderson,18,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Bruno Guimarães,85,DM,0,0,0,0,2,1,1,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Douglas Luiz,5,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Wendell,85,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Endrick,5,"LB,FW",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Éder Militão,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-02,Alisson,90,GK,0,0,0,0,0,0,0,0,1,5,83.3,NA,0
+Colombia,2024-07-02,Jhon Córdoba,75,FW,0,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Rafael Borré,15,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Luis Díaz,88,LW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Luis Sinisterra,2,"LW,RW",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,James Rodríguez,80,RW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Jorge Carrascal,10,"RW,LW",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Jhon Arias,90,LM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Jefferson Lerma,90,CM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Richard Ríos,75,RM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Mateus Uribe,15,RM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Deiver Machado,45,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Johan Mojica,45,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Carlos Cuesta,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Daniel Muñoz,90,RB,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-02,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
+Uruguay,2024-07-06,Darwin Núñez,77,FW,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Giorgian De Arrascaeta,13,RW,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Uruguay,2024-07-06,Maximiliano Araújo,90,LW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Facundo Pellistri,77,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Guillermo Varela,13,"RB,RW",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Nicolás De La Cruz,66,AM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Rodrigo Bentancur,24,AM,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Uruguay,2024-07-06,Federico Valverde,90,DM,0,0,0,0,3,1,0,0,NA,NA,NA,1,NA
+Uruguay,2024-07-06,Manuel Ugarte,90,DM,0,0,0,0,1,0,1,0,NA,NA,NA,1,NA
+Uruguay,2024-07-06,Matías Viña,45,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Sebastián Cáceres,45,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Mathías Olivera,90,"LB,CB",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Ronald Araújo,32,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,José María Giménez,58,CB,0,0,0,0,0,0,0,0,NA,NA,NA,0,NA
+Uruguay,2024-07-06,Nahitan Nández,73,RB,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-06,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,3,100.0,NA,2
+Brazil,2024-07-06,Endrick,90,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Rodrygo,86,LW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Gabriel Martinelli,4,LW,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Brazil,2024-07-06,Raphinha,81,RW,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Sávio,9,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Lucas Paquetá,80,AM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Douglas Luiz,10,AM,0,0,0,0,0,0,0,0,NA,NA,NA,0,NA
+Brazil,2024-07-06,João Gomes,80,DM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Andreas Pereira,10,DM,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Brazil,2024-07-06,Bruno Guimarães,86,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Evanilson,4,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Guilherme Arana,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Éder Militão,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,0,NA
+Brazil,2024-07-06,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-07-06,Alisson,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,1
+Brazil,2024-09-06,Rodrygo,90,FW,1,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Vinicius Júnior,90,AM,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Lucas Paquetá,73,AM,0,1,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Lucas Moura,17,"FW,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Luiz Henrique,61,AM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Estêvão Willian,29,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Bruno Guimarães,61,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Gerson,29,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,André,84,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,João Gomes,6,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Guilherme Arana,73,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Wendell,17,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Gabriel Magalhães,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-06,Alisson,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Brazil,2024-09-10,Vinicius Júnior,90,FW,0,0,0,0,2,2,1,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Endrick,45,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,João Pedro,45,"FW,MF",0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Rodrygo,78,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Lucas Moura,12,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Bruno Guimarães,45,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Luiz Henrique,45,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,André,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Lucas Paquetá,78,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Gerson,12,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Guilherme Arana,85,LB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Estêvão Willian,5,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Gabriel Magalhães,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Marquinhos,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Danilo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-09-10,Alisson,90,GK,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
+Brazil,2024-10-10,Igor Jesus,75,FW,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Endrick,15,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Rodrygo,90,AM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Raphinha,90,AM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Sávio,67,AM,0,1,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Luiz Henrique,23,"FW,MF",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,André,45,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Bruno Guimarães,45,MF,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Lucas Paquetá,45,DM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Gerson,45,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Abner,84,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Gabriel Martinelli,6,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Gabriel Magalhães,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Danilo,90,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-10-10,Ederson,90,GK,0,0,0,0,0,0,0,0,1,0,0.0,NA,0
+Brazil,2024-10-15,Igor Jesus,77,FW,0,1,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Endrick,13,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Rodrygo,68,AM,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Andreas Pereira,22,MF,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Raphinha,77,AM,2,0,2,2,4,3,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Matheus Pereira,13,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Sávio,68,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Luiz Henrique,22,"FW,MF",1,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Bruno Guimarães,78,DM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,André,12,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Gerson,90,DM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Abner,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Gabriel Magalhães,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Vanderson,90,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-10-15,Ederson,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Brazil,2024-11-14,Igor Jesus,67,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Lucas Paquetá,23,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Vinicius Júnior,90,AM,0,0,0,1,5,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Raphinha,90,AM,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Sávio,67,AM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Luiz Henrique,23,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Bruno Guimarães,81,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Gabriel Martinelli,9,"FW,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Gerson,90,DM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Abner,89,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Estêvão Willian,1,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Gabriel Magalhães,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Marquinhos,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Vanderson,90,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Brazil,2024-11-14,Ederson,90,GK,0,0,0,0,0,0,0,0,1,3,75.0,NA,0
+Japan,2025-10-14,Ayase Ueda,73,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Shuto Machino,17,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Takumi Minamino,73,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Ao Tanaka,17,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Takefusa Kubo,53,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Junya Ito,37,"FW,MF",0,2,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Keito Nakamura,73,DM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Yuki Soma,17,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Daichi Kamada,84,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Koki Ogawa,6,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Kaishu Sano,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Ritsu Doan,84,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Henry Mochizuki,6,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Junnosuke Suzuki,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Shogo Taniguchi,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Tsuyoshi Watanabe,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-10-14,Zion Suzuki,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Brazil,2025-10-14,Vinicius Júnior,56,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Matheus Cunha,34,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Gabriel Martinelli,56,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Rodrygo,34,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Luiz Henrique,74,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Estêvão Willian,16,"FW,MF",0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Lucas Paquetá,74,CM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Richarlison,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Bruno Guimarães,56,CM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Joelinton,34,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Casemiro,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Carlos Augusto,74,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Caio Henrique Oliveira Silva,16,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Lucas Beraldo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Fabrício Bruno,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Paulo Henrique,90,RB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Brazil,2025-10-14,Hugo Souza,90,GK,0,0,0,0,,,0,0,3,,,NA,0
