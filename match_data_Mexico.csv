@@ -1,0 +1,1030 @@
+Country,Date,Player,Mins,Pos,Gls,Ast,PK,PKatt,Shots,SoT,CrdY,CrdR,GA,Saves,Save%,Pk SO scorer,GK PK SO saves
+Mexico,2021-09-02,Rogelio Funes Mori,89,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Charly Rodríguez,1,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Alexis Vega,80,AM,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Henry Martín,10,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Francisco Sebastián Córdova,74,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Orbelín Pineda,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Roberto Alvarado,74,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Uriel Antuna,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Edson Álvarez,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Luis Romo,89,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Andrés Guardado,1,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-02,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Mexico,2021-09-05,Rogelio Funes Mori,70,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Henry Martín,20,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Alexis Vega,40,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Orbelín Pineda,50,"FW,MF",1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Jesús Corona,70,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Roberto Alvarado,20,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Andrés Guardado,75,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Luis Romo,15,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Charly Rodríguez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Edson Álvarez,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Jesús Gallardo,90,LB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,César Montes,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Julio Domínguez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-05,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2021-09-08,Rogelio Funes Mori,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Henry Martín,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Orbelín Pineda,59,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Uriel Antuna,31,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Jesús Corona,84,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Rodolfo Pizarro,6,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Jonathan dos Santos,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Francisco Sebastián Córdova,45,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Charly Rodríguez,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Andrés Guardado,45,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Luis Romo,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-09-08,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Mexico,2021-10-10,Raúl Jiménez,65,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Alexis Vega,25,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Hirving Lozano,89,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Uriel Antuna,1,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Jesús Corona,65,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Rogelio Funes Mori,25,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Francisco Sebastián Córdova,65,CM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Orbelín Pineda,25,"FW,MF",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Héctor Herrera,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Edson Álvarez,76,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Luis Romo,14,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Héctor Moreno,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,César Montes,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Luis Alfonso Rodríguez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-10,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2021-10-13,Rogelio Funes Mori,62,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Raúl Jiménez,28,FW,1,0,1,1,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Alexis Vega,20,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Jesús Corona,70,"DF,FW",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Hirving Lozano,69,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Luis Alfonso Rodríguez,21,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Orbelín Pineda,62,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Héctor Herrera,28,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Charly Rodríguez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Luis Romo,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Osvaldo Rodríguez del Portal,63,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Jesús Gallardo,27,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Héctor Moreno,90,CB,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Néstor Araujo,66,CB,0,0,0,0,,,1,1,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Julio Domínguez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-13,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2021-10-27,Santiago Giménez,65,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Eduardo Aguirre,25,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Roberto Alvarado,90,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Uriel Antuna,65,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Alejandro Zendejas,25,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Jesús Angulo,73,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Alan Cervantes,17,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Erik Lira,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Fernando Beltrán,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Osvaldo Rodríguez del Portal,90,LB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Jesús Alberto Angulo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Haret Ortega,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,José David Ramírez,45,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Kevin Álvarez,45,DF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-10-27,Jonathan Orozco,45,GK,0,0,0,0,,,0,0,,,,NA,0
+Mexico,2021-10-27,Rodolfo Cota,45,GK,0,0,0,0,,,0,0,,,,NA,0
+Mexico,2021-11-12,Raúl Jiménez,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Hirving Lozano,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Jesús Corona,74,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Roberto Alvarado,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Héctor Herrera,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Luis Romo,73,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Charly Rodríguez,17,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Edson Álvarez,82,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Rogelio Funes Mori,8,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Julio Domínguez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Luis Alfonso Rodríguez,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-11-12,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Mexico,2021-12-08,Santiago Giménez,72,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Eduardo Aguirre,18,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Francisco Sebastián Córdova,81,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Mauro Laínez,9,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Uriel Antuna,82,FW,0,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Marcelo Flores,8,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Alfonso González,65,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Fernando Beltrán,25,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Érick Aguirre,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Alan Cervantes,45,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Erik Lira,45,"DF,MF",0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Salvador Reyes,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Luis Olivas,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Jordan Silva,65,CB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Israel Reyes,25,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Julian Araujo,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2021-12-08,Carlos Acevedo,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Mexico,2022-01-27,Rogelio Funes Mori,70,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Jesús Corona,20,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Alexis Vega,90,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Uriel Antuna,70,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Gerardo Arteaga,20,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Andrés Guardado,53,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Diego Lainez,37,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Charly Rodríguez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Héctor Herrera,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Jesús Gallardo,70,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Henry Martín,20,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Héctor Moreno,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Jorge Eduardo Sánchez,5,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Luis Alfonso Rodríguez,85,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-27,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Mexico,2022-01-30,Rogelio Funes Mori,62,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Henry Martín,28,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Hirving Lozano,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Jesús Corona,73,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Alexis Vega,17,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Héctor Herrera,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Charly Rodríguez,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Orbelín Pineda,45,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Edson Álvarez,45,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Luis Romo,45,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Jesús Gallardo,62,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Gerardo Arteaga,28,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Héctor Moreno,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Luis Alfonso Rodríguez,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-01-30,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-02-02,Raúl Jiménez,90,FW,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Alexis Vega,82,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Luis Romo,8,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Hirving Lozano,66,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Diego Lainez,24,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Andrés Guardado,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Charly Rodríguez,68,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Jesús Corona,22,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Héctor Herrera,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Gerardo Arteaga,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Julio Domínguez,68,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Julian Araujo,22,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-02-02,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-03-24,Raúl Jiménez,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Hirving Lozano,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Jesús Corona,78,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Alexis Vega,12,"FW,MF",0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Charly Rodríguez,78,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Erick Gutiérrez,12,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Héctor Herrera,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Edson Álvarez,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Gerardo Arteaga,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-24,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-03-27,Raúl Jiménez,80,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Henry Martín,10,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Hirving Lozano,80,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Erick Gutiérrez,10,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Jesús Corona,66,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Uriel Antuna,24,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Héctor Herrera,90,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Charly Rodríguez,66,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Diego Lainez,24,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Edson Álvarez,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Gerardo Arteaga,90,LB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-27,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-03-30,Raúl Jiménez,63,FW,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Hirving Lozano,27,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Alexis Vega,72,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Jesús Corona,18,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Uriel Antuna,62,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Henry Martín,28,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Erick Gutiérrez,90,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Charly Rodríguez,72,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Luis Romo,18,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Edson Álvarez,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,César Montes,78,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Héctor Herrera,12,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-03-30,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-04-27,Santiago Giménez,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Roberto Alvarado,60,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Marcelo Flores,30,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Francisco Sebastián Córdova,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Alejandro Zendejas,71,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Jordan Carrillo,19,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Luis Chávez,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Erick Sánchez,60,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Erik Lira,30,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Érick Aguirre,81,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Jonathan Gomez,9,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Jesús Alberto Angulo,81,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Luis Olivas,9,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Israel Reyes,45,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Arturo Ortiz,45,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Kevin Álvarez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-04-27,Carlos Acevedo,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-05-28,Santiago Giménez,66,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Henry Martín,24,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Rodolfo Pizarro,65,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Erick Gutiérrez,25,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Roberto Alvarado,78,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Diego Lainez,12,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Andrés Guardado,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Fernando Beltrán,65,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Orbelín Pineda,25,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Luis Romo,77,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Edson Álvarez,13,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Héctor Moreno,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Érick Aguirre,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-05-28,Rodolfo Cota,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Mexico,2022-06-02,Raúl Jiménez,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Alexis Vega,74,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Roberto Alvarado,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Jesús Corona,74,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Rodolfo Pizarro,16,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Gerardo Arteaga,57,LM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Jesús Gallardo,33,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Erick Gutiérrez,57,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Héctor Herrera,33,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Edson Álvarez,90,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Jorge Eduardo Sánchez,90,RM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Jesús Alberto Angulo,57,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Fernando Beltrán,33,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Néstor Araujo,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-06-02,Alfredo Talavera,90,GK,0,0,0,0,,,0,0,3,,,NA,0
+Uruguay,2022-06-02,Edinson Cavani,77,FW,2,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Maxi Gómez,13,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Nicolás De La Cruz,71,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Darwin Núñez,19,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Facundo Pellistri,72,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Diego Godín,18,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Matías Vecino,77,CM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Fernando Gorriarán,13,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Federico Valverde,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Lucas Torreira,72,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Manuel Ugarte,18,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Mathías Olivera,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Sebastián Coates,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,José María Giménez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Ronald Araújo,28,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Damián Suárez,62,"DF,MF",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-06-02,Sergio Rochet,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-06-05,Raúl Jiménez,88,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Santiago Giménez,2,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Alexis Vega,58,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Orbelín Pineda,32,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Jesús Corona,27,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Uriel Antuna,63,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Andrés Guardado,88,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Luis Romo,2,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Fernando Beltrán,58,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Luis Chávez,32,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Héctor Herrera,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Jesús Gallardo,90,LB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Héctor Moreno,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-06-05,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-08-31,Roberto Alvarado,70,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Eduardo Aguirre,20,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Alexis Vega,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Uriel Antuna,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Luis Chávez,77,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Erick Sánchez,13,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Charly Rodríguez,77,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Fernando Beltrán,13,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Luis Romo,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Jesús Gallardo,64,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Luis Ricardo Reyes,26,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Jesús Alberto Angulo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Kevin Álvarez,64,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Emilio Lara,26,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-08-31,Carlos Acevedo,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Mexico,2022-09-24,Henry Martín,61,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Santiago Giménez,29,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Hirving Lozano,90,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Roberto Alvarado,61,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Uriel Antuna,29,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Luis Chávez,67,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Andrés Guardado,23,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Charly Rodríguez,83,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Orbelín Pineda,7,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Edson Álvarez,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Héctor Moreno,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,César Montes,90,CB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Kevin Álvarez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-24,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-09-27,Alexis Vega,90,FW,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Henry Martín,59,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Santiago Giménez,31,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Uriel Antuna,76,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Diego Lainez,14,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Andrés Guardado,60,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Luis Chávez,30,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Erick Gutiérrez,76,CM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Orbelín Pineda,14,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Charly Rodríguez,59,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Erick Sánchez,31,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Gerardo Arteaga,90,LB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Héctor Moreno,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Kevin Álvarez,60,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,César Montes,30,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-09-27,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,3,,,NA,0
+Colombia,2022-09-27,Radamel Falcao,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Luis Sinisterra,45,"FW,MF",2,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Luis Díaz,89,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Jáder Durán,1,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,James Rodríguez,45,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Rafael Borré,45,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Juan Cuadrado,90,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Wílmar Barrios,86,DM,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Jefferson Lerma,4,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Steven Alzate,45,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Jorge Carrascal,45,"FW,MF",0,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Frank Fabra,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Carlos Cuesta,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Davinson Sánchez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Stefan Medina,72,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,Jhon Lucumí,18,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2022-09-27,David Ospina,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Mexico,2022-11-09,Henry Martín,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Rogelio Funes Mori,45,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Alexis Vega,45,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Uriel Antuna,45,"FW,MF",1,1,1,1,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Roberto Alvarado,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Luis Chávez,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Jesús Alberto Angulo,45,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Charly Rodríguez,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Luis Romo,45,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Héctor Herrera,45,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Erick Sánchez,45,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Jesús Gallardo,90,LB,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Héctor Moreno,45,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Kevin Álvarez,45,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Néstor Araujo,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-09,Alfredo Talavera,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2022-11-16,Henry Martín,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Raúl Jiménez,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Alexis Vega,90,FW,1,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Uriel Antuna,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Hirving Lozano,45,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Luis Chávez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Charly Rodríguez,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Andrés Guardado,45,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Héctor Herrera,60,DM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Luis Romo,30,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Héctor Moreno,61,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Johan Vásquez,29,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,César Montes,61,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Néstor Araujo,29,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-16,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Mexico,2022-11-22,Henry Martín,70,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Raúl Jiménez,20,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Alexis Vega,83,LW,0,0,0,0,5,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Uriel Antuna,7,LW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Hirving Lozano,90,RW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Luis Chávez,90,LM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Edson Álvarez,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Héctor Herrera,70,RM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Charly Rodríguez,20,RM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Jesús Gallardo,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Héctor Moreno,90,CB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,César Montes,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Jorge Eduardo Sánchez,90,RB,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Mexico,2022-11-22,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Argentina,2022-11-26,Lautaro Martínez,62,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Julián Álvarez,28,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Lionel Messi,90,FW,1,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Alexis Mac Allister,68,LM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Exequiel Palacios,22,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Guido Rodríguez,56,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Enzo Fernández,34,CM,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Rodrigo De Paul,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Ángel Di María,68,RM,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Cristian Romero,22,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Marcos Acuña,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Lisandro Martínez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Gonzalo Montiel,62,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Nahuel Molina,28,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-26,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Mexico,2022-11-26,Alexis Vega,65,FW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Uriel Antuna,25,"RW,FW",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Hirving Lozano,72,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Roberto Alvarado,18,LW,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Andrés Guardado,41,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Erick Gutiérrez,49,"CM,DM",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Héctor Herrera,90,"CM,DM",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Luis Chávez,90,"CM,AM",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Jesús Gallardo,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Héctor Moreno,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,César Montes,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Néstor Araujo,90,"CB,RB",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Kevin Álvarez,65,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Raúl Jiménez,25,"FW,RB",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-26,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,2,0,0.0,NA,0
+Mexico,2022-11-30,Henry Martín,76,FW,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Raúl Jiménez,14,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Alexis Vega,45,LW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Uriel Antuna,45,"RW,RM",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Hirving Lozano,90,"RW,LW,LM",0,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Orbelín Pineda,76,AM,0,0,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Charly Rodríguez,14,"CM,AM",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Luis Chávez,90,"DM,CM",1,0,0,0,9,4,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Edson Álvarez,85,DM,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Rogelio Funes Mori,5,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Jesús Gallardo,90,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Héctor Moreno,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,César Montes,90,CB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Jorge Eduardo Sánchez,85,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Kevin Álvarez,5,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2022-11-30,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
+Mexico,2023-04-19,Roberto de la Rosa,86,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Ozziel Herrera,4,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Alexis Vega,69,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Charly Rodríguez,21,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Jesús Gallardo,90,LM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Luis Chávez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Erick Sánchez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Uriel Antuna,90,CM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Julian Araujo,90,RM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Víctor Guzmán,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Israel Reyes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-04-19,Carlos Acevedo,90,GK,0,0,0,0,,,0,0,1,,,NA,0
+Mexico,2023-06-07,Raúl Jiménez,71,FW,1,0,1,1,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Roberto de la Rosa,19,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Charly Rodríguez,55,LM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Uriel Antuna,35,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Alan Cervantes,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Erick Sánchez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Ozziel Herrera,71,RM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Salvador Reyes,19,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Roberto Alvarado,54,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Luis Chávez,36,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Víctor Guzmán,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Israel Reyes,71,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Gilberto Sepúlveda,19,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Kevin Álvarez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-07,Luis Ángel Malagón,45,GK,0,0,0,0,,,0,0,,,,NA,0
+Mexico,2023-06-07,José Antonio Rodríguez,45,GK,0,0,0,0,,,0,0,,,,NA,0
+Mexico,2023-06-10,Roberto de la Rosa,61,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Henry Martín,29,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Ozziel Herrera,61,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Diego Lainez,29,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Uriel Antuna,86,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Charly Rodríguez,4,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Jesús Gallardo,74,LM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Roberto Alvarado,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Luis Chávez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Luis Romo,74,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Erick Sánchez,16,MF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Jorge Eduardo Sánchez,74,RM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Kevin Álvarez,16,DF,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Gilberto Sepúlveda,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Néstor Araujo,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Israel Reyes,90,CB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-10,Luis Ángel Malagón,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Mexico,2023-06-25,Henry Martín,58,FW,0,1,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Santiago Giménez,32,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Orbelín Pineda,79,FW,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Roberto Alvarado,11,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Uriel Antuna,68,FW,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Ozziel Herrera,22,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Luis Romo,90,CM,2,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Erick Sánchez,68,CM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Charly Rodríguez,22,MF,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Luis Chávez,90,DM,1,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Jesús Gallardo,90,LB,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Johan Vásquez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Edson Álvarez,79,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Israel Reyes,11,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Jorge Eduardo Sánchez,90,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-06-25,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Mexico,2023-06-29,Orbelín Pineda,71,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Roberto Alvarado,19,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Henry Martín,61,FW,1,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Santiago Giménez,29,FW,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Uriel Antuna,90,FW,0,2,0,0,7,3,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Luis Romo,90,CM,0,0,0,0,5,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Luis Chávez,78,CM,0,0,0,0,7,3,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Israel Reyes,12,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Erick Sánchez,70,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Charly Rodríguez,20,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Jesús Gallardo,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Johan Vásquez,90,CB,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Edson Álvarez,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Jorge Eduardo Sánchez,61,RB,0,0,0,0,3,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Julian Araujo,29,DF,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-06-29,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
+Mexico,2023-07-02,Santiago Giménez,90,FW,0,0,0,0,4,2,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Orbelín Pineda,59,AM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Diego Lainez,31,"FW,MF",0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Charly Rodríguez,69,AM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Henry Martín,21,FW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Ozziel Herrera,59,AM,0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Roberto Alvarado,31,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Luis Chávez,90,DM,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Luis Romo,80,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Erick Sánchez,10,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Gerardo Arteaga,90,LB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Israel Reyes,90,CB,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Edson Álvarez,90,CB,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Julian Araujo,80,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Uriel Antuna,10,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-02,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,1,0,0.0,NA,0
+Mexico,2023-07-08,Henry Martín,69,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Santiago Giménez,21,FW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Orbelín Pineda,83,LW,1,0,1,1,3,3,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Roberto Alvarado,7,"FW,MF",0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Luis Chávez,69,AM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Erick Sánchez,21,MF,1,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Luis Romo,90,AM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Uriel Antuna,90,RW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Edson Álvarez,89,DM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Israel Reyes,1,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Jesús Gallardo,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Johan Vásquez,90,CB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,César Montes,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Jorge Eduardo Sánchez,83,RB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Julian Araujo,7,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-08,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Mexico,2023-07-12,Henry Martín,62,FW,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Santiago Giménez,28,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Erick Sánchez,62,FW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Charly Rodríguez,28,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Orbelín Pineda,86,LM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Diego Lainez,4,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Luis Romo,90,CM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Luis Chávez,71,CM,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Edson Álvarez,19,"DF,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Uriel Antuna,71,RM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Roberto Alvarado,19,"FW,MF",1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Jesús Gallardo,90,LB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Johan Vásquez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,César Montes,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Jorge Eduardo Sánchez,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-12,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
+Mexico,2023-07-16,Orbelín Pineda,89,FW,0,1,0,0,5,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Israel Reyes,1,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Henry Martín,84,FW,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Santiago Giménez,6,FW,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Uriel Antuna,74,FW,0,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Roberto Alvarado,16,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Luis Chávez,74,CM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Erick Sánchez,16,MF,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Edson Álvarez,90,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Luis Romo,90,CM,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Jesús Gallardo,90,LB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Johan Vásquez,90,CB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,César Montes,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Jorge Eduardo Sánchez,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2023-07-16,Guillermo Ochoa,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Mexico,2023-09-09,Santiago Giménez,59,FW,0,0,0,1,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Raúl Jiménez,31,FW,1,0,1,1,,,1,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Alexis Vega,59,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,César Huerta,31,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Uriel Antuna,81,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Roberto Alvarado,9,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Orbelín Pineda,76,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Jordi Cortizo,14,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Héctor Herrera,76,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Erick Sánchez,14,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Luis Romo,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Johan Vásquez,90,CB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Edson Álvarez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Julian Araujo,81,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Kevin Álvarez,9,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-09,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Mexico,2023-09-12,Raúl Jiménez,90,FW,2,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,César Huerta,77,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Erick Sánchez,13,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Roberto Alvarado,58,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Uriel Antuna,32,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Orbelín Pineda,45,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Jordi Cortizo,45,"FW,MF",0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Charly Rodríguez,76,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Santiago Giménez,14,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Edson Álvarez,58,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Luis Romo,32,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Jesús Alberto Angulo,45,LB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Jesús Gallardo,45,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Gilberto Sepúlveda,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Kevin Álvarez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-09-12,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,3,,,NA,0
+Mexico,2023-10-14,Raúl Jiménez,72,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Santiago Giménez,18,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Orbelín Pineda,61,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Uriel Antuna,29,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Hirving Lozano,61,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,César Huerta,29,"FW,MF",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Luis Chávez,90,CM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Erick Sánchez,88,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Francisco Sebastián Córdova,2,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Edson Álvarez,72,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Luis Romo,18,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Gerardo Arteaga,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2023-10-14,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2023-10-17,Santiago Giménez,76,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Henry Martín,14,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Hirving Lozano,80,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,César Huerta,10,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Erick Sánchez,60,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Francisco Sebastián Córdova,30,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Uriel Antuna,81,AM,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Orbelín Pineda,9,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Luis Romo,60,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Luis Chávez,30,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Edson Álvarez,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2023-10-17,Guillermo Ochoa,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Germany,2023-10-17,Thomas Müller,45,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Niclas Füllkrug,45,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Florian Wirtz,64,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Jonas Hofmann,26,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Jamal Musiala,86,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Kevin Behrens,4,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Leroy Sané,90,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,İlkay Gündoğan,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Pascal Groß,45,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Leon Goretzka,45,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Robin Gosens,64,LB,0,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,David Raum,26,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Antonio Rüdiger,90,CB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Jonathan Tah,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Niklas Süle,58,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Malick Thiaw,32,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Germany,2023-10-17,Marc-André ter Stegen,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Mexico,2024-06-05,Guillermo Martínez Ayala,68,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Julián Quiñones,22,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,César Huerta,54,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Uriel Antuna,36,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Orbelín Pineda,83,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Santiago Giménez,7,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Roberto Alvarado,54,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Alexis Vega,36,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Fernando Beltrán,68,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Charly Rodríguez,22,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Edson Álvarez,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Gerardo Arteaga,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Jesús Orozco,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Víctor Guzmán,54,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Luis Romo,36,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,Brian García,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-05,José Rangel Aguilar,90,GK,0,0,0,0,,,0,0,4,,,NA,0
+Uruguay,2024-06-05,Darwin Núñez,68,FW,3,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Facundo Torres,22,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Maximiliano Araújo,90,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Brian Rodríguez,90,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Facundo Pellistri,90,AM,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Manuel Ugarte,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Rodrigo Bentancur,88,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,César Araujo,2,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Lucas Olaza,84,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Luciano Rodríguez,6,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Mathías Olivera,74,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Sebastián Cáceres,16,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,José María Giménez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Nahitan Nández,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-05,Sergio Rochet,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2024-06-22,Santiago Giménez,67,FW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Guillermo Martínez Ayala,23,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Julián Quiñones,90,LW,0,0,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Uriel Antuna,77,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Roberto Alvarado,13,RW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Orbelín Pineda,67,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Charly Rodríguez,23,AM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Luis Chávez,77,DM,0,0,0,0,5,3,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Erick Sánchez,13,DM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Edson Álvarez,29,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Luis Romo,61,DM,0,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Gerardo Arteaga,90,LB,1,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Johan Vásquez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,César Montes,90,CB,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Jorge Eduardo Sánchez,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-22,Julio José González,90,GK,0,0,0,0,0,0,0,0,0,4,100.0,NA,0
+Mexico,2024-06-26,Santiago Giménez,60,FW,0,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Guillermo Martínez Ayala,30,FW,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Julián Quiñones,77,LM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Orbelín Pineda,13,LM,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Luis Chávez,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Charly Rodríguez,60,CM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Alexis Vega,30,CM,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Uriel Antuna,72,RM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,César Huerta,18,RM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Luis Romo,90,DM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Gerardo Arteaga,90,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Johan Vásquez,90,CB,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,César Montes,45,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Israel Reyes,45,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Jorge Eduardo Sánchez,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-26,Julio José González,90,GK,0,0,0,0,0,0,0,0,1,1,100.0,NA,0
+Mexico,2024-06-30,Santiago Giménez,90,FW,0,0,0,0,5,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Julián Quiñones,85,LW,0,0,0,0,3,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Jordi Cortizo,5,LW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,César Huerta,66,RW,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Uriel Antuna,24,RW,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Luis Chávez,90,LM,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Luis Romo,84,CM,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Erick Sánchez,6,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Orbelín Pineda,66,RM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Guillermo Martínez Ayala,24,RM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Gerardo Arteaga,89,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Alexis Vega,1,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Johan Vásquez,90,CB,0,0,0,0,3,1,1,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,César Montes,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Jorge Eduardo Sánchez,90,RB,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA
+Mexico,2024-06-30,Julio José González,90,GK,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
+Mexico,2024-09-07,Santiago Giménez,60,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Henry Martín,30,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Julián Quiñones,51,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,César Huerta,39,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Orbelín Pineda,59,AM,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Francisco Sebastián Córdova,31,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Roberto Alvarado,59,AM,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Diego Lainez,31,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Luis Chávez,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Luis Romo,70,DM,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Charly Rodríguez,20,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Jesús Gallardo,70,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Jesús Alberto Angulo,20,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Johan Vásquez,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,Israel Reyes,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-09-07,José Rangel Aguilar,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2024-10-15,Raúl Jiménez,81,FW,1,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Guillermo Martínez Ayala,9,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,César Huerta,67,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Alexis Vega,23,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Orbelín Pineda,68,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Germán Berterame,22,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Roberto Alvarado,68,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Diego Lainez,22,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Andrés Guardado,18,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Luis Romo,72,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Edson Álvarez,90,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Jesús Alberto Angulo,82,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Obed Vargas,8,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2024-10-15,Luis Ángel Malagón,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2025-06-07,Raúl Jiménez,57,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Orbelín Pineda,33,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Santiago Giménez,72,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Ángel Sepúlveda,18,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,César Huerta,72,LW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Efrain Alvarez,18,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Roberto Alvarado,57,RW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Alexis Vega,33,"FW,MF",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Charly Rodríguez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Erik Lira,72,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Edson Álvarez,18,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Mateo Chávez,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Jesús Orozco,58,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Ramón Juárez,32,DF,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,César Montes,81,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Marcel Ruiz,9,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,Emilio Lara,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-07,José Rangel Aguilar,90,GK,0,0,0,0,,,0,0,4,,,NA,0
+Mexico,2025-06-10,Julián Quiñones,69,FW,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Santiago Giménez,21,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Ángel Sepúlveda,69,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Raúl Jiménez,21,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Alexis Vega,61,LW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,César Huerta,29,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Orbelín Pineda,61,RW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Roberto Alvarado,29,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Marcel Ruiz,83,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Luis Chávez,7,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Edson Álvarez,61,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Erik Lira,29,"DF,MF",0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Israel Reyes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-10,Luis Ángel Malagón,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2025-06-14,Raúl Jiménez,82,FW,1,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,César Huerta,8,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Santiago Giménez,72,FW,0,1,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Julián Quiñones,18,"FW,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Orbelín Pineda,45,LM,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Alexis Vega,45,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Edson Álvarez,90,CM,1,1,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Erik Lira,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Roberto Alvarado,90,RM,0,0,0,0,2,2,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Jesús Gallardo,90,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,César Montes,82,CB,1,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Jesús Orozco,8,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Israel Reyes,45,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Charly Rodríguez,45,MF,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Jorge Eduardo Sánchez,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-14,Luis Ángel Malagón,90,GK,0,0,0,0,0,0,0,0,2,3,60.0,NA,0
+Mexico,2025-06-18,Raúl Jiménez,63,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Santiago Giménez,27,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Julián Quiñones,71,FW,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Ángel Sepúlveda,19,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Alexis Vega,71,LM,0,1,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,César Huerta,19,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Marcel Ruiz,71,CM,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Luis Chávez,19,MF,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Edson Álvarez,90,CM,0,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Roberto Alvarado,90,RM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Jesús Gallardo,90,LB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Johan Vásquez,75,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Jesús Orozco,15,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,César Montes,90,CB,2,0,0,0,3,2,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Israel Reyes,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-18,Luis Ángel Malagón,90,GK,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
+Mexico,2025-06-22,Raúl Jiménez,68,FW,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Santiago Giménez,22,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Alexis Vega,87,AM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Julián Quiñones,3,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Marcel Ruiz,74,AM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Charly Rodríguez,16,MF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Roberto Alvarado,74,AM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,César Huerta,16,"FW,MF",0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Luis Chávez,90,DM,0,0,0,0,3,1,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Edson Álvarez,90,DM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Mateo Chávez,69,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Jesús Gallardo,21,"DF,FW",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Johan Vásquez,90,CB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,César Montes,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Jorge Eduardo Sánchez,90,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-22,Luis Ángel Malagón,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Mexico,2025-06-28,Alexis Vega,72,FW,1,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Julián Quiñones,18,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Raúl Jiménez,59,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Santiago Giménez,31,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Roberto Alvarado,84,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Orbelín Pineda,6,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Gilberto Mora,72,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Charly Rodríguez,18,MF,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Erik Lira,90,CM,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Marcel Ruiz,90,CM,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Jesús Gallardo,59,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Mateo Chávez,31,DF,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Johan Vásquez,90,CB,0,0,0,0,3,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Edson Álvarez,90,CB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Julian Araujo,90,RB,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-06-28,Luis Ángel Malagón,90,GK,0,0,0,0,0,0,0,0,0,0,,NA,0
+Mexico,2025-07-02,Alexis Vega,90,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Raúl Jiménez,89,FW,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Orbelín Pineda,1,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Roberto Alvarado,70,FW,0,0,0,0,4,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Jesús Orozco,20,DF,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Marcel Ruiz,89,CM,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Erik Lira,1,"DF,MF",0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Edson Álvarez,90,CM,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Gilberto Mora,76,CM,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Santiago Giménez,14,FW,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Mateo Chávez,70,LB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,César Huerta,20,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Johan Vásquez,90,CB,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,César Montes,90,CB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Julian Araujo,90,RB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-07-02,Luis Ángel Malagón,90,GK,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
+Mexico,2025-07-06,Alexis Vega,90,FW,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Raúl Jiménez,85,FW,1,0,0,0,1,1,1,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Santiago Giménez,5,FW,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Roberto Alvarado,86,FW,0,0,0,0,4,2,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,César Huerta,4,"FW,MF",0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Marcel Ruiz,90,CM,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Edson Álvarez,90,CM,1,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Gilberto Mora,74,CM,0,0,0,0,3,2,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Orbelín Pineda,16,"FW,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Jesús Gallardo,90,LB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Johan Vásquez,90,CB,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,César Montes,90,CB,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Jorge Eduardo Sánchez,85,RB,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Israel Reyes,5,"DF,MF",0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Mexico,2025-07-06,Luis Ángel Malagón,90,GK,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
+Mexico,2025-09-06,Raúl Jiménez,60,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Santiago Giménez,30,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Alexis Vega,59,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Hirving Lozano,31,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Orbelín Pineda,60,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Erick Sánchez,30,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Roberto Alvarado,59,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Germán Berterame,31,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Marcel Ruiz,80,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Charly Rodríguez,10,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Edson Álvarez,31,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Erik Lira,59,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Jesús Gallardo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,César Montes,89,CB,0,0,0,0,,,0,1,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-06,Luis Ángel Malagón,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Japan,2025-09-06,Ayase Ueda,90,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Takumi Minamino,68,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Junya Ito,22,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Takefusa Kubo,68,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Daizen Maeda,22,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Kaoru Mitoma,81,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Yuito Suzuki,9,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Daichi Kamada,68,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Kaishu Sano,22,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Wataru Endo,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Ritsu Doan,80,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Shuto Machino,10,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Ayumu Seko,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Tsuyoshi Watanabe,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Ko Itakura,59,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Hiroki Sekine,31,DF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Japan,2025-09-06,Zion Suzuki,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2025-09-09,Raúl Jiménez,61,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Santiago Giménez,29,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Hirving Lozano,61,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Alexis Vega,29,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Germán Berterame,61,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Diego Lainez,29,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Marcel Ruiz,45,CM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Charly Rodríguez,45,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Erick Sánchez,90,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Erik Lira,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Mateo Chávez,78,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Jesús Gallardo,12,"DF,FW",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Juan José Sánchez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Rodrigo Huescas,78,RB,0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,Jorge Eduardo Sánchez,12,"DF,MF",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-09-09,José Rangel Aguilar,90,GK,0,0,0,0,,,0,0,2,,,NA,0
+Mexico,2025-10-11,Santiago Giménez,66,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Germán Berterame,24,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Alexis Vega,66,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Julián Quiñones,24,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Orbelín Pineda,56,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Luis Romo,34,"DF,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Diego Lainez,56,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Hirving Lozano,34,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Marcel Ruiz,56,DM,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Erick Sánchez,34,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Erik Lira,76,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Charly Rodríguez,14,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Jesús Gallardo,90,LB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,César Montes,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Jorge Eduardo Sánchez,90,RB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-10-11,Luis Ángel Malagón,90,GK,0,0,0,0,,,0,0,4,,,NA,0
+Colombia,2025-10-11,Luis Javier Suárez,68,FW,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Rafael Borré,22,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Luis Díaz,64,AM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Johan Carbonero,26,"FW,MF",1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,James Rodríguez,68,AM,0,2,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Juan Quintero,22,"FW,MF",0,1,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Kevin Serna,64,AM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Jaminton Campaz,26,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Kevin Castaño,85,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Juan Camilo Portilla,5,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Jefferson Lerma,85,DM,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Richard Ríos,5,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Álvaro Angulo,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Jhon Lucumí,90,CB,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Willer Ditta,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,Daniel Muñoz,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Colombia,2025-10-11,David Ospina,90,GK,0,0,0,0,,,0,0,0,,,NA,0
+Mexico,2025-10-14,Germán Berterame,60,FW,1,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Santiago Giménez,30,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Julián Quiñones,74,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Alexis Vega,16,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Hirving Lozano,59,FW,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,César Huerta,31,"FW,MF",0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Luis Romo,60,CM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Marcel Ruiz,30,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Erick Sánchez,75,CM,0,1,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Alexis Gutiérrez,15,MF,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Erik Lira,90,DM,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Mateo Chávez,90,LB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Johan Vásquez,90,CB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,César Montes,90,CB,0,0,0,0,,,1,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,Israel Reyes,90,RB,0,0,0,0,,,0,0,NA,NA,NA,NA,NA
+Mexico,2025-10-14,José Rangel Aguilar,90,GK,0,0,0,0,,,0,0,1,,,NA,0
