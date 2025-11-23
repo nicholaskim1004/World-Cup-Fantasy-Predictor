@@ -1,0 +1,108 @@
+Country,Date,Player,Mins,Pos,Gls,Ast,PKwon,PK,PKatt,Shots,SoT,TklW,CrdY,CrdR,OG,GA,Saves,Save%,Pk SO scorer,GK PK SO saves
+Brazil,2019-11-19,Richarlison,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Philippe Coutinho,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Gabriel Jesus,87,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Rodrygo,3,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Lucas Paquetá,83,CM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Roberto Firmino,7,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Arthur Melo,79,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Douglas Luiz,11,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Fabinho,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Renan Lodi,86,LB,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Emerson,4,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Éder Militão,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Marquinhos,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Danilo,90,RB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
+Brazil,2019-11-19,Alisson,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
+Mexico,2020-11-14,Raúl Jiménez,90,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Hirving Lozano,82,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Rodolfo Pizarro,8,"DF,FW",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Jesús Corona,53,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Uriel Antuna,37,"FW,MF",1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Francisco Sebastián Córdova,53,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Orbelín Pineda,37,"FW,MF",0,2,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Charly Rodríguez,90,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Edson Álvarez,90,DM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Jesús Gallardo,90,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Héctor Moreno,90,CB,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Carlos Salcedo,82,CB,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Néstor Araujo,8,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Luis Alfonso Rodríguez,67,RB,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Jorge Eduardo Sánchez,23,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Mexico,2020-11-14,Hugo González Durán,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,0
+Egypt,2022-06-14,Mostafa Mohamed,79,FW,1,0,,0,0,,,,1,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Ahmed Atef,11,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Ahmed Refaat,68,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Ahmed Sayed,22,MF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Ibrahim Adel,90,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Ahmed Hamdi,85,CM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Mohamed Ibrahim,5,MF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Amro El Soulia,90,CM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Mohanad Lasheen,90,DM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Omar Gaber,90,LB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,El Wensh,90,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Yasser Ibrahim,90,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Omar Kamal,90,RB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA
+Egypt,2022-06-14,Mohamed El-Shenawy,90,GK,0,0,,0,0,,,,0,0,0,4,,,NA,0
+Uruguay,2022-11-24,Luis Suárez,63,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Edinson Cavani,27,FW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Darwin Núñez,90,LW,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Facundo Pellistri,87,RW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Guillermo Varela,3,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Matías Vecino,77,LM,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Nicolás De La Cruz,13,LM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Rodrigo Bentancur,90,CM,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Federico Valverde,90,RM,0,0,0,0,0,3,0,2,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Mathías Olivera,78,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Matías Viña,12,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,José María Giménez,90,CB,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Diego Godín,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Martín Cáceres,90,RB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
+Uruguay,2022-11-24,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,0
+Portugal,2022-12-02,Cristiano Ronaldo,64,FW,0,0,0,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,André Silva,26,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,João Mário,81,"LW,RM",0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Bernardo Silva,9,LM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Ricardo Horta,90,RW,1,0,0,0,0,3,2,1,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Vitinha,81,LM,0,0,0,0,0,2,2,1,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,William Carvalho,9,RM,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Rúben Neves,64,CM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Rafael Leão,26,LW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Matheus Nunes,64,RM,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,João Palhinha,26,CM,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,João Cancelo,90,LB,0,0,0,0,0,2,1,1,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,António Silva,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Pepe,90,CB,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Diogo Dalot,90,RB,0,1,0,0,0,1,1,3,0,0,0,2,NA,NA,NA,NA
+Portugal,2022-12-02,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,4,66.7,NA,0
+Colombia,2023-03-24,Rafael Borré,69,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Jáder Durán,21,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Jorge Carrascal,82,AM,1,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Dylan Borrero,8,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,James Rodríguez,69,AM,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Jhon Arias,21,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Diego Valoyes,82,AM,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Radamel Falcao,8,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Mateus Uribe,90,DM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Kevin Castaño,89,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Nelson Palacio,1,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Johan Mojica,90,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Carlos Cuesta,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Daniel Muñoz,90,RB,0,1,,0,0,,,,1,0,0,2,NA,NA,NA,NA
+Colombia,2023-03-24,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,0
+Uruguay,2023-03-28,Maxi Gómez,60,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Matias Arezo,30,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Jonathan Rodríguez,88,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Matías Viña,2,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Federico Valverde,90,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Facundo Torres,60,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Agustín Canobbio,30,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Matías Vecino,90,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Manuel Ugarte,45,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Felipe Carballo,45,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Joaquín Piquerez,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Sebastián Coates,90,CB,1,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Santiago Bueno,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,José Luis Rodríguez Bebanz,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
+Uruguay,2023-03-28,Santiago Mele,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,0
