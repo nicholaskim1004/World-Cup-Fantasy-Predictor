@@ -1,978 +1,978 @@
-Country,Date,Player,Mins,Pos,Gls,Ast,PKwon,PK,PKatt,Shots,SoT,TklW,CrdY,CrdR,OG,GA,Saves,Save%,Pk SO scorer,GK PK SO saves
-Uruguay,2020-10-08,Luis Suárez,90,FW,1,0,,1,1,1,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Nicolás De La Cruz,55,AM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Nahitan Nández,35,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Giorgian De Arrascaeta,75,AM,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Jonathan Rodríguez,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Brian Rodríguez,86,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Maxi Gómez,4,FW,1,0,,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Rodrigo Bentancur,75,DM,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Mauro Arambarri,15,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Federico Valverde,90,DM,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Matías Viña,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Diego Godín,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Sebastián Coates,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Martín Cáceres,90,RB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2020-10-08,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
-Uruguay,2020-10-13,Maxi Gómez,62,FW,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Jonathan Rodríguez,28,"FW,MF",0,0,,0,0,1,1,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Luis Suárez,90,FW,2,0,,2,2,2,2,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Brian Rodríguez,45,LM,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Darwin Núñez,45,FW,0,0,,0,0,1,1,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Rodrigo Bentancur,76,CM,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Lucas Torreira,14,MF,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Federico Valverde,86,CM,0,0,,0,0,1,0,1,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Mauro Arambarri,4,MF,0,0,,0,0,1,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Nahitan Nández,45,RM,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Nicolás De La Cruz,45,MF,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Matías Viña,90,LB,0,0,,0,0,0,0,4,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Diego Godín,90,CB,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Ronald Araújo,90,CB,0,0,,0,0,1,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA
-Uruguay,2020-10-13,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,4,3,42.9,NA,0
-Colombia,2020-11-13,Luis Muriel,59,FW,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Alfredo Morelos,31,FW,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Duván Zapata,90,FW,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,James Rodríguez,90,FW,0,0,,0,0,3,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Jefferson Lerma,90,CM,0,0,,0,0,1,0,0,1,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Wílmar Barrios,31,CM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Luis Díaz,59,"FW,MF",0,0,,0,0,2,0,0,1,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Mateus Uribe,64,CM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Edwin Cardona,26,"FW,MF",0,0,,0,0,0,0,0,1,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Johan Mojica,90,LB,0,0,,0,0,1,1,1,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Jeison Murillo,90,CB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Yerry Mina,89,CB,0,0,,0,0,0,0,0,2,1,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,Juan Cuadrado,90,RB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2020-11-13,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,33.3,NA,0
-Uruguay,2020-11-13,Luis Suárez,69,FW,1,0,,1,1,2,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Jonathan Rodríguez,21,"FW,MF",0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Edinson Cavani,77,FW,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Mauro Arambarri,13,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Nicolás De La Cruz,45,LM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Darwin Núñez,45,FW,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Rodrigo Bentancur,89,CM,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Gabriel Neves,1,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Lucas Torreira,90,CM,0,1,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Nahitan Nández,90,RM,0,1,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Matías Viña,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2020-11-13,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Uruguay,2021-06-03,Luis Suárez,90,FW,0,0,,0,0,4,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Jonathan Rodríguez,65,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Facundo Torres,25,"FW,MF",0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Matías Viña,82,LM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Brian Rodríguez,8,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Federico Valverde,90,CM,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Rodrigo Bentancur,90,CM,0,0,,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Matías Vecino,57,CM,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Lucas Torreira,33,MF,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Giovanni González,90,RM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Martín Cáceres,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Diego Godín,90,CB,0,0,,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-03,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,0
-Uruguay,2021-06-08,Luis Suárez,90,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Jonathan Rodríguez,45,LW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Matías Viña,45,"DF,MF",0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Federico Valverde,90,AM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Matías Vecino,45,AM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Nahitan Nández,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Facundo Torres,68,RW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Nicolás De La Cruz,22,MF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Lucas Torreira,88,DM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Fernando Gorriarán,2,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Martín Cáceres,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,José María Giménez,90,CB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Giovanni González,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-08,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,0
-Argentina,2021-06-18,Lautaro Martínez,51,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Joaquín Correa,39,"RW,CM",0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Nicolás González,69,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Ángel Di María,21,"LW,FW",0,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Lionel Messi,90,"RW,FW",0,1,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Giovani Lo Celso,51,LM,0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Exequiel Palacios,39,"LM,CM",0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Guido Rodríguez,90,CM,1,0,0,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Rodrigo De Paul,89,RM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Germán Pezzella,1,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Marcos Acuña,90,LB,0,0,0,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Cristian Romero,90,CB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Nahuel Molina,90,RB,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-18,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,1,0,0,0,0,,NA,0
-Uruguay,2021-06-18,Edinson Cavani,90,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Luis Suárez,90,FW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Nicolás De La Cruz,64,LM,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Brian Ocampo,26,LM,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Lucas Torreira,63,CM,0,0,0,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Matías Vecino,27,CM,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Rodrigo Bentancur,45,CM,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Nahitan Nández,45,"RB,RM",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Federico Valverde,83,"RM,CM",0,0,0,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Fernando Gorriarán,7,CM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Matías Viña,90,LB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Diego Godín,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,José María Giménez,90,CB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Giovanni González,69,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Facundo Torres,21,RM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-18,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,0
-Uruguay,2021-06-21,Edinson Cavani,90,FW,0,0,0,0,0,3,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Luis Suárez,90,FW,1,0,0,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Giorgian De Arrascaeta,59,AM,0,0,0,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Facundo Torres,31,AM,0,0,0,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Nicolás De La Cruz,45,LM,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Martín Cáceres,45,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Federico Valverde,90,"CM,RM",0,0,0,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Matías Vecino,80,"DM,CM",0,0,0,0,0,2,0,6,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Lucas Torreira,10,CM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Matías Viña,84,"LB,WB",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Jonathan Rodríguez,6,WB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Diego Godín,90,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,José María Giménez,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Giovanni González,45,RB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Nahitan Nández,45,WB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-06-21,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,NA,0
-Uruguay,2021-06-24,Luis Suárez,87,FW,0,0,0,0,0,6,3,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Maxi Gómez,3,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Edinson Cavani,90,FW,1,0,0,0,0,7,3,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Giorgian De Arrascaeta,72,AM,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Facundo Torres,18,AM,0,1,0,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Nicolás De La Cruz,60,LM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Rodrigo Bentancur,30,LM,0,0,0,0,0,1,1,4,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Matías Vecino,90,CM,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Federico Valverde,90,RM,0,0,0,0,0,1,0,5,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Matías Viña,90,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Diego Godín,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,José María Giménez,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Nahitan Nández,87,RB,0,0,0,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Giovanni González,3,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-24,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Uruguay,2021-06-28,Edinson Cavani,67,FW,1,0,0,1,1,3,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Luis Suárez,23,FW,0,0,0,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Nicolás De La Cruz,90,AM,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Giorgian De Arrascaeta,66,AM,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Facundo Torres,24,AM,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Rodrigo Bentancur,90,LM,0,0,0,0,0,1,0,5,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Matías Vecino,56,CM,0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Martín Cáceres,34,RB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Federico Valverde,75,"RM,CM",0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Lucas Torreira,15,CM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Matías Viña,90,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Diego Godín,45,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Sebastián Coates,45,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,José María Giménez,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Nahitan Nández,90,"RB,RM",0,0,1,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-06-28,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,0
-Uruguay,2021-07-03,Edinson Cavani,90,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,1,NA
-Uruguay,2021-07-03,Luis Suárez,90,FW,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,1,NA
-Uruguay,2021-07-03,Giorgian De Arrascaeta,67,AM,0,0,0,0,0,2,1,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-07-03,Facundo Torres,23,AM,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-07-03,Rodrigo Bentancur,90,LM,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-07-03,Matías Vecino,90,CM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-07-03,Federico Valverde,79,RM,0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-07-03,Martín Cáceres,11,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-07-03,Matías Viña,90,LB,0,0,0,0,0,2,1,1,0,0,0,0,NA,NA,0,NA
-Uruguay,2021-07-03,Diego Godín,90,CB,0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2021-07-03,José María Giménez,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,0,NA
-Uruguay,2021-07-03,Nahitan Nández,90,"RB,RM",0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-07-03,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Colombia,2021-07-03,Duván Zapata,90,FW,0,0,0,0,0,3,2,0,0,0,0,0,NA,NA,1,NA
-Colombia,2021-07-03,Luis Muriel,66,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-07-03,Yimmi Chará,24,RM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-07-03,Luis Díaz,90,LM,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-07-03,Gustavo Cuellar,90,CM,0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-07-03,Wílmar Barrios,90,CM,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-07-03,Rafael Borré,86,"RM,FW",0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-07-03,Miguel Borja,4,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,1,NA
-Colombia,2021-07-03,William Tesillo,90,LB,0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-07-03,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,1,NA
-Colombia,2021-07-03,Yerry Mina,90,CB,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,1,NA
-Colombia,2021-07-03,Daniel Muñoz,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-07-03,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,2
-Uruguay,2021-09-02,Brian Rodríguez,90,FW,0,0,,0,0,3,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Maxi Gómez,65,FW,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Jonathan Rodríguez,25,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Giorgian De Arrascaeta,65,FW,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,David Terans,25,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Rodrigo Bentancur,70,CM,0,0,,0,0,1,0,3,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Mauro Arambarri,20,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Matías Vecino,90,CM,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Federico Valverde,81,CM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Giovanni González,9,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Matías Viña,70,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Joaquín Piquerez,20,"DF,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Diego Godín,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Nahitan Nández,90,RB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-09-02,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
-Uruguay,2021-09-05,Brian Rodríguez,68,FW,0,1,,0,0,4,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,David Terans,22,"FW,MF",0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Agustín Álvarez,90,FW,1,0,,0,0,5,3,4,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Giorgian De Arrascaeta,84,AM,2,0,,1,1,4,3,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Gastón Pereiro,6,"FW,MF",0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Rodrigo Bentancur,45,DM,0,0,,0,0,0,0,4,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Mauro Arambarri,45,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Matías Vecino,69,DM,0,0,,0,0,0,0,5,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Manuel Ugarte,21,MF,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Federico Valverde,90,DM,1,0,,0,0,1,1,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Joaquín Piquerez,90,LB,0,1,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Diego Godín,84,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Ronald Araújo,6,DF,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Nahitan Nández,90,RB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2021-09-05,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,75.0,NA,0
-Uruguay,2021-09-09,Brian Rodríguez,83,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Federico Martínez,7,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Agustín Álvarez,71,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Maxi Gómez,19,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Giorgian De Arrascaeta,79,AM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Gastón Pereiro,11,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Matías Vecino,90,DM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Rodrigo Bentancur,90,DM,0,0,,0,0,1,0,2,1,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Federico Valverde,90,DM,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Matías Viña,72,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Joaquín Piquerez,18,"DF,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Ronald Araújo,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Nahitan Nández,90,RB,0,1,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2021-09-09,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Uruguay,2021-10-07,Brian Rodríguez,45,FW,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Darwin Núñez,45,FW,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Luis Suárez,45,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Edinson Cavani,45,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Giorgian De Arrascaeta,44,FW,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Nicolás De La Cruz,46,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Rodrigo Bentancur,76,CM,0,0,,0,0,1,0,2,1,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Gastón Pereiro,14,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Matías Vecino,90,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Federico Valverde,90,CM,0,0,,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Matías Viña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Diego Godín,90,CB,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,José María Giménez,59,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Ronald Araújo,31,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Nahitan Nández,90,RB,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2021-10-07,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Colombia,2021-10-07,Radamel Falcao,56,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Roger Martínez,34,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Rafael Borré,56,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Duván Zapata,34,FW,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Luis Díaz,90,LM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Mateus Uribe,56,CM,0,0,,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Jefferson Lerma,34,MF,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Wílmar Barrios,90,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Juan Cuadrado,79,RM,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Juan Quintero,11,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Johan Mojica,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Carlos Cuesta,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Yerry Mina,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,Stefan Medina,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Colombia,2021-10-07,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Argentina,2021-10-10,Lautaro Martínez,64,FW,1,1,,0,0,5,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Joaquín Correa,26,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Nicolás González,74,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Julián Álvarez,16,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Lionel Messi,90,AM,1,0,,0,0,6,3,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Giovani Lo Celso,90,AM,0,2,,0,0,6,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Rodrigo De Paul,64,DM,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Ángel Di María,26,"FW,MF",0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Leandro Paredes,74,DM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Exequiel Palacios,16,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Nicolás Otamendi,80,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Facundo Medina,10,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Cristian Romero,90,CB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-10,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,NA,0
-Uruguay,2021-10-10,Luis Suárez,90,FW,0,0,,0,0,4,3,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Brian Rodríguez,45,LM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Darwin Núñez,45,FW,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Federico Valverde,90,CM,0,0,,0,0,1,1,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Matías Vecino,90,CM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Nicolás De La Cruz,45,RM,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Edinson Cavani,45,"FW,MF",0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Matías Viña,62,LB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Joaquín Piquerez,28,"DF,MF",0,0,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Diego Godín,90,CB,0,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Sebastián Coates,90,CB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Ronald Araújo,72,CB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Giovanni González,18,DF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Nahitan Nández,62,RB,0,0,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Lucas Torreira,28,MF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-10-10,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,3,7,70.0,NA,0
-Uruguay,2021-11-12,Luis Suárez,90,FW,0,0,,0,0,5,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Brian Rodríguez,45,LW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Facundo Torres,45,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Rodrigo Bentancur,75,AM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Mauro Arambarri,15,MF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Matías Vecino,63,AM,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Agustín Álvarez,27,FW,0,0,,0,0,4,1,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Nahitan Nández,80,RW,0,0,,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Fernando Gorriarán,10,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Lucas Torreira,90,DM,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Joaquín Piquerez,90,LB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA
-Uruguay,2021-11-12,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
-Argentina,2021-11-12,Lautaro Martínez,54,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Papu Gómez,36,"FW,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Giovani Lo Celso,75,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Lionel Messi,15,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Paulo Dybala,45,AM,0,1,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Joaquín Correa,45,"FW,MF",0,0,,0,0,4,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Ángel Di María,54,AM,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Ángel Correa,36,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Guido Rodríguez,90,DM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Rodrigo De Paul,80,DM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Exequiel Palacios,10,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Marcos Acuña,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Cristian Romero,90,CB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Nahuel Molina,90,RB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-11-12,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,0
-Uruguay,2021-11-16,Agustín Álvarez,90,FW,0,0,,0,0,3,2,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Facundo Torres,75,LW,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Jonathan Rodríguez,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Rodrigo Bentancur,90,AM,0,0,,0,0,2,0,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Lucas Torreira,67,AM,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Mauro Arambarri,23,MF,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Nahitan Nández,62,RW,0,0,,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Brian Rodríguez,28,"FW,MF",0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Matías Vecino,45,DM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Luis Suárez,45,FW,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Joaquín Piquerez,45,LB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Giovanni González,45,DF,0,0,,0,0,0,0,1,1,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Diego Godín,90,CB,0,0,,0,0,2,1,1,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Martín Cáceres,90,RB,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA
-Uruguay,2021-11-16,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,25.0,NA,0
-Uruguay,2022-01-27,Luis Suárez,90,FW,1,0,,0,0,4,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Darwin Núñez,69,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Edinson Cavani,21,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Federico Valverde,89,LM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Mauro Arambarri,1,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Rodrigo Bentancur,82,CM,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Damián Suárez,8,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Matías Vecino,90,CM,0,0,,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Facundo Pellistri,69,RM,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Agustín Canobbio,21,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Mathías Olivera,90,LB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Diego Godín,82,CB,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Martín Cáceres,8,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Ronald Araújo,90,RB,0,0,,0,0,2,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-01-27,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Uruguay,2022-02-01,Edinson Cavani,66,FW,1,0,,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Darwin Núñez,24,FW,0,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Luis Suárez,90,FW,1,0,,1,1,8,4,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Giorgian De Arrascaeta,90,LM,1,0,,0,0,3,2,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Federico Valverde,73,CM,0,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Damián Suárez,17,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Rodrigo Bentancur,73,CM,1,0,,0,0,1,1,3,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Mauro Arambarri,17,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Facundo Pellistri,66,RM,0,0,,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Agustín Canobbio,24,"FW,MF",0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Mathías Olivera,90,LB,0,0,,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,José María Giménez,88,CB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Martín Cáceres,2,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Ronald Araújo,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-02-01,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
-Uruguay,2022-03-24,Darwin Núñez,66,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Edinson Cavani,24,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Luis Suárez,75,FW,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Lucas Torreira,15,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Giorgian De Arrascaeta,83,LM,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Maxi Gómez,7,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Federico Valverde,90,CM,0,0,,0,0,4,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Rodrigo Bentancur,90,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Facundo Pellistri,83,RM,0,0,,0,0,1,0,3,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Damián Suárez,7,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Mathías Olivera,90,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,José María Giménez,90,CB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Diego Godín,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Ronald Araújo,90,RB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-24,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Uruguay,2022-03-29,Edinson Cavani,28,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Luis Suárez,62,FW,1,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Diego Rossi,73,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Damián Suárez,17,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Federico Valverde,90,AM,1,0,,0,0,3,3,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Nicolás De La Cruz,62,AM,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Giorgian De Arrascaeta,28,"FW,MF",0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Rodrigo Bentancur,73,DM,0,0,,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Maxi Gómez,17,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Lucas Torreira,73,DM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Manuel Ugarte,17,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Matías Viña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Sebastián Coates,90,CB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Diego Godín,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Ronald Araújo,90,RB,0,1,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-03-29,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,0
-Uruguay,2022-09-23,Luis Suárez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Darwin Núñez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Facundo Pellistri,45,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Nicolás De La Cruz,45,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Rodrigo Bentancur,84,CM,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Lucas Torreira,6,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Federico Valverde,90,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Matías Vecino,71,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Giorgian De Arrascaeta,19,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Mathías Olivera,84,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Matías Viña,6,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Ronald Araújo,4,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Agustín Rogel,86,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Damián Suárez,71,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Guillermo Varela,19,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2022-09-23,Sergio Rochet,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,0
-Portugal,2022-11-28,João Félix,81,"FW,RW",0,0,0,0,0,3,0,1,1,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Matheus Nunes,9,DM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Cristiano Ronaldo,81,FW,0,0,0,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Gonçalo Ramos,9,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Bruno Fernandes,90,"AM,RW,RM",2,0,0,1,1,5,2,2,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,William Carvalho,81,"LM,CM",0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,João Palhinha,9,DM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Bernardo Silva,90,"RM,AM,LM",0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Rúben Neves,68,DM,0,0,0,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Rafael Leão,22,LW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Nuno Mendes,41,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Raphaël Guerreiro,49,LB,0,1,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Rúben Dias,90,CB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Pepe,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,João Cancelo,90,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Portugal,2022-11-28,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Uruguay,2022-11-28,Edinson Cavani,72,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Luis Suárez,18,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Darwin Núñez,71,FW,0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Maxi Gómez,19,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Matías Vecino,61,CM,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Giorgian De Arrascaeta,29,LM,0,0,0,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Rodrigo Bentancur,90,CM,0,0,0,0,0,2,1,2,1,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Federico Valverde,90,CM,0,0,0,0,0,1,0,3,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Mathías Olivera,85,"WB,LB",0,0,0,0,0,2,0,1,1,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Matías Viña,5,LB,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Guillermo Varela,90,"WB,RB",0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Sebastián Coates,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Diego Godín,61,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Facundo Pellistri,29,RM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,José María Giménez,90,CB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2022-11-28,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7,NA,0
-Uruguay,2022-12-02,Darwin Núñez,79,FW,0,0,0,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Maxi Gómez,11,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Luis Suárez,65,FW,0,1,0,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Edinson Cavani,25,FW,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Giorgian De Arrascaeta,79,LM,2,0,0,0,0,2,2,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Agustín Canobbio,11,LM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Rodrigo Bentancur,33,CM,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Matías Vecino,57,CM,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Federico Valverde,90,CM,0,0,0,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Facundo Pellistri,65,RM,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Nicolás De La Cruz,25,RM,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Mathías Olivera,90,LB,0,0,0,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Sebastián Coates,90,CB,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,José María Giménez,90,CB,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Guillermo Varela,90,RB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2022-12-02,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Uruguay,2023-06-14,Matias Arezo,58,FW,1,0,,0,1,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Thiago Borbas,32,FW,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Brian Rodríguez,90,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Maximiliano Araújo,75,AM,0,1,,0,0,,,,1,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Diego Rossi,15,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Facundo Pellistri,90,AM,0,2,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Rodrigo Zalazar,84,DM,2,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Felipe Carballo,6,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Emiliano Martínez,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Lucas Olaza,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Matías Viña,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Guillermo Varela,84,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Bruno Méndez,6,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-06-14,Franco Israel,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,0
-Uruguay,2023-06-20,Maximiliano Araújo,90,FW,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Thiago Borbas,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Matias Arezo,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Diego Rossi,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Brian Rodríguez,45,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Agustín Canobbio,65,CM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Emiliano Martínez,25,MF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Felipe Carballo,90,CM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Facundo Torres,90,CM,1,0,,1,1,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Joaquín Piquerez,90,LB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Mauricio Lemos,39,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Guillermo Varela,51,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Bruno Méndez,90,CB,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,José Luis Rodríguez Bebanz,90,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Uruguay,2023-06-20,Sergio Rochet,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,0
-Uruguay,2023-06-20,Santiago Mele,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,0
-Uruguay,2023-09-08,Maximiliano Araújo,90,FW,0,0,,0,0,2,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Darwin Núñez,72,FW,0,1,,0,0,6,3,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Maxi Gómez,18,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Facundo Pellistri,70,FW,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Brian Rodríguez,20,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Nicolás De La Cruz,86,CM,2,1,,0,0,3,3,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Felipe Carballo,4,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Manuel Ugarte,90,CM,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Federico Valverde,90,CM,1,0,,0,0,3,1,0,1,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Joaquín Piquerez,90,LB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Matías Viña,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Nahitan Nández,85,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Bruno Méndez,5,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2023-09-08,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
-Uruguay,2023-09-12,Darwin Núñez,45,FW,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Cristian Olivera,45,"FW,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Maximiliano Araújo,69,AM,0,1,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Facundo Torres,21,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Nicolás De La Cruz,45,AM,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Felipe Carballo,45,MF,0,0,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Agustín Canobbio,69,AM,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Facundo Pellistri,21,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Manuel Ugarte,90,DM,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Federico Valverde,90,DM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Joaquín Piquerez,59,LB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Mathías Olivera,31,DF,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Matías Viña,90,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Sebastián Cáceres,90,CB,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Nahitan Nández,90,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-09-12,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,0
-Colombia,2023-10-12,James Rodríguez,80,FW,1,1,,0,0,4,1,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Jorge Carrascal,10,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Luis Díaz,90,AM,0,0,,0,0,4,0,1,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Jhon Arias,89,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Álvaro David Montero,1,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,0
-Colombia,2023-10-12,Rafael Borré,79,AM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Luis Sinisterra,11,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Wílmar Barrios,90,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Mateus Uribe,66,DM,1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Richard Ríos,24,MF,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Frank Fabra,90,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Davinson Sánchez,90,CB,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Carlos Cuesta,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Santiago Arias,89,RB,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Yerson Mosquera,1,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Colombia,2023-10-12,Camilo Vargas,86,GK,0,0,,0,0,0,0,0,2,1,0,1,4,80.0,NA,0
-Uruguay,2023-10-12,Darwin Núñez,90,FW,1,0,,1,1,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Brian Rodríguez,71,AM,0,0,,0,0,3,2,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Matías Vecino,19,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Nicolás De La Cruz,90,AM,0,0,,0,0,3,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Facundo Pellistri,45,AM,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Cristian Olivera,45,"FW,MF",0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Federico Valverde,90,DM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Manuel Ugarte,71,DM,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Maximiliano Araújo,19,"DF,FW",0,0,,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Joaquín Piquerez,45,LB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Mathías Olivera,45,DF,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Ronald Araújo,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Nahitan Nández,60,RB,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Giorgian De Arrascaeta,30,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2023-10-12,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,0
-Uruguay,2023-10-17,Darwin Núñez,90,FW,1,1,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Maximiliano Araújo,86,AM,0,1,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Matías Vecino,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Nicolás De La Cruz,90,AM,1,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Facundo Pellistri,87,AM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Joaquín Piquerez,3,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Manuel Ugarte,90,DM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Federico Valverde,90,DM,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Mathías Olivera,83,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Matías Viña,7,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Ronald Araújo,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Nahitan Nández,67,RB,0,0,,0,0,0,0,4,1,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Bruno Méndez,23,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-10-17,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,0
-Brazil,2023-10-17,Gabriel Jesus,90,FW,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Vinicius Júnior,83,AM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Matheus Cunha,7,"FW,MF",0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Neymar,44,AM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Richarlison,46,"FW,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Rodrygo,90,AM,0,0,,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Bruno Guimarães,83,DM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Raphael Veiga,7,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Casemiro,90,DM,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Carlos Augusto,72,LB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Guilherme Arana,18,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Gabriel Magalhães,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Marquinhos,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Yan Couto,72,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,David Neres,18,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Brazil,2023-10-17,Ederson,90,GK,0,0,,0,0,0,0,0,1,0,0,2,0,0.0,NA,0
-Argentina,2023-11-16,Nicolás González,52,FW,0,0,,0,0,1,0,3,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Ángel Di María,38,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Julián Álvarez,79,FW,0,0,,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Giovani Lo Celso,11,"FW,MF",0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Lionel Messi,90,FW,0,0,,0,0,3,1,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Enzo Fernández,90,CM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Alexis Mac Allister,45,CM,0,0,,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Lautaro Martínez,45,FW,0,0,,0,0,1,1,1,1,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Rodrigo De Paul,63,CM,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Exequiel Palacios,27,"DF,MF",0,0,,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Nicolás Tagliafico,79,LB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Marcos Acuña,11,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Cristian Romero,90,CB,0,0,,0,0,1,1,3,1,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2023-11-16,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,NA,0
-Uruguay,2023-11-16,Darwin Núñez,89,FW,1,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Federico Viñas,1,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Maximiliano Araújo,61,AM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Rodrigo Bentancur,29,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Nicolás De La Cruz,90,AM,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Facundo Pellistri,87,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Agustín Canobbio,3,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Federico Valverde,90,DM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Manuel Ugarte,90,DM,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Matías Viña,45,LB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,José María Giménez,45,DF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Mathías Olivera,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Ronald Araújo,90,RB,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-16,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Uruguay,2023-11-21,Cristian Olivera,86,FW,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Agustín Canobbio,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Darwin Núñez,72,FW,2,0,,0,0,4,2,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Luis Suárez,18,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Facundo Pellistri,76,FW,0,1,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Facundo Torres,14,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Nicolás De La Cruz,72,CM,0,1,,0,0,5,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Giorgian De Arrascaeta,18,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Rodrigo Bentancur,85,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Felipe Carballo,5,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Federico Valverde,90,CM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Matías Viña,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Ronald Araújo,90,RB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2023-11-21,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,0
-Uruguay,2024-03-26,Federico Viñas,90,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Brian Rodríguez,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Rodrigo Bentancur,45,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Facundo Pellistri,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Agustín Canobbio,45,"FW,MF",0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Nicolás De La Cruz,45,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Giorgian De Arrascaeta,45,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Federico Valverde,90,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Manuel Ugarte,90,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Matías Viña,90,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Mathías Olivera,90,CB,0,0,,0,0,,,,0,0,1,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Nahitan Nández,88,RB,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Luciano Rodríguez,2,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-03-26,Santiago Mele,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,0
-Uruguay,2024-06-23,Darwin Núñez,90,FW,1,0,0,0,0,5,3,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Maximiliano Araújo,90,LW,1,0,0,0,0,4,2,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Facundo Pellistri,90,RW,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Giorgian De Arrascaeta,59,AM,0,0,0,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Nicolás De La Cruz,31,AM,0,1,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Manuel Ugarte,90,DM,0,0,0,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Federico Valverde,84,DM,0,0,0,0,0,4,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Rodrigo Bentancur,6,DM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Matías Viña,90,LB,1,1,0,0,0,1,1,4,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Mathías Olivera,59,CB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Sebastián Cáceres,31,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Ronald Araújo,45,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,José María Giménez,45,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Nahitan Nández,90,RB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-06-23,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
-Uruguay,2024-06-27,Darwin Núñez,82,FW,1,0,0,0,0,7,2,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Luis Suárez,8,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Maximiliano Araújo,90,LW,1,1,0,0,0,3,3,4,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Facundo Pellistri,85,RW,1,1,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Cristian Olivera,5,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Nicolás De La Cruz,88,AM,0,1,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Giorgian De Arrascaeta,2,AM,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Federico Valverde,85,DM,1,0,0,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Rodrigo Bentancur,5,DM,1,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Manuel Ugarte,90,DM,0,0,0,0,0,1,0,10,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Matías Viña,82,LB,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Lucas Olaza,8,LB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Mathías Olivera,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Ronald Araújo,90,CB,0,1,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Nahitan Nández,90,RB,0,0,0,0,0,0,0,7,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-06-27,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
-Uruguay,2024-07-10,Darwin Núñez,90,FW,0,0,0,0,0,4,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Maximiliano Araújo,90,"LB,LW",0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Facundo Pellistri,45,RW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Cristian Olivera,45,"RB,RW",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Nicolás De La Cruz,89,"CM,AM,LM",0,0,0,0,0,1,1,2,1,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Agustín Canobbio,1,LM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Rodrigo Bentancur,33,CM,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Guillermo Varela,33,RB,0,0,0,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Luis Suárez,24,FW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Manuel Ugarte,90,"DM,CM",0,0,0,0,0,1,0,3,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Federico Valverde,90,"DM,CM",0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Mathías Olivera,45,LB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Giorgian De Arrascaeta,45,"RM,LW",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,José María Giménez,90,CB,0,0,0,0,0,2,0,3,1,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Sebastián Cáceres,90,"CB,RB",0,0,0,0,0,0,0,6,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-07-10,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,3,75.0,NA,0
-Colombia,2024-07-10,Jhon Córdoba,74,FW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Yerry Mina,16,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Luis Díaz,85,"LW,FW",0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Luis Sinisterra,5,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Jhon Arias,45,RW,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Santiago Arias,45,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,James Rodríguez,61,"AM,DM",0,1,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Kevin Castaño,29,"CM,DM",0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Jefferson Lerma,90,"DM,CM",1,0,0,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Richard Ríos,60,"DM,RW",0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Mateus Uribe,30,"CM,RW",0,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Johan Mojica,90,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Carlos Cuesta,90,CB,0,0,0,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,6,0,0,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Daniel Muñoz,44,RB,0,0,0,0,0,1,0,1,2,1,0,0,NA,NA,NA,NA
-Colombia,2024-07-10,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Uruguay,2024-09-06,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Luis Suárez,90,FW,0,0,,0,0,2,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Facundo Pellistri,58,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Cristian Olivera,32,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Brian Rodríguez,79,CM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Facundo Torres,11,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Manuel Ugarte,78,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Emiliano Martínez,12,MF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Federico Valverde,90,CM,0,0,,0,0,5,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Lucas Olaza,76,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Marcelo Saracchi,14,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Nicolas Marichal,45,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Santiago Bueno,45,DF,0,0,,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Nahitan Nández,90,RB,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-06,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Uruguay,2024-09-10,Maximiliano Araújo,45,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Miguel Merentiel,45,FW,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Cristian Olivera,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Facundo Pellistri,87,FW,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Marcelo Saracchi,3,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Brian Rodríguez,53,CM,0,0,,0,0,2,1,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Facundo Torres,34,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Nicolas Fonseca,3,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Manuel Ugarte,90,CM,0,0,,0,0,1,1,2,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Emiliano Martínez,90,CM,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Lucas Olaza,90,LB,0,0,,0,0,3,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Sebastián Cáceres,4,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Nicolas Marichal,86,DF,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Santiago Bueno,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Guillermo Varela,90,RB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-09-10,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,NA,0
-Uruguay,2024-10-11,Darwin Núñez,90,FW,0,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Cristian Olivera,45,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Facundo Pellistri,45,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Maximiliano Araújo,90,LM,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Giorgian De Arrascaeta,90,CM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Nicolas Fonseca,90,CM,0,0,,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Federico Valverde,90,CM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Nahitan Nández,89,RM,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Luciano Rodríguez,1,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Santiago Bueno,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Manuel Ugarte,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Guillermo Varela,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-10-11,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
-Uruguay,2024-10-15,Darwin Núñez,90,FW,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Maximiliano Araújo,90,AM,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Giorgian De Arrascaeta,45,AM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Nicolás De La Cruz,45,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Facundo Pellistri,90,AM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Manuel Ugarte,81,DM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Nicolas Fonseca,9,MF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Federico Valverde,90,DM,0,0,,0,0,2,2,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Mathías Olivera,86,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Marcelo Saracchi,4,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Santiago Bueno,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Nahitan Nández,90,RB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2024-10-15,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,0
-Uruguay,2024-11-15,Darwin Núñez,90,FW,0,0,,0,0,3,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Maximiliano Araújo,90,AM,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Rodrigo Aguirre,67,AM,1,0,,0,0,1,1,0,1,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Manuel Ugarte,23,MF,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Facundo Pellistri,90,AM,0,1,,0,0,2,1,4,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Federico Valverde,90,DM,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Rodrigo Bentancur,90,DM,0,0,,0,0,1,0,2,1,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Marcelo Saracchi,78,LB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Guillermo Varela,12,DF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Mathías Olivera,90,CB,0,1,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,José María Giménez,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Nahitan Nández,90,RB,0,0,,0,0,0,0,3,1,0,0,2,NA,NA,NA,NA
-Uruguay,2024-11-15,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,0
-Colombia,2024-11-15,Luis Díaz,90,FW,0,0,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Jáder Durán,71,FW,0,0,,0,0,4,1,0,1,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Rafael Borré,19,FW,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Juan Quintero,71,AM,1,0,,0,0,2,1,0,1,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,James Rodríguez,19,"FW,MF",0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Jhon Arias,81,DM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Carlos Gómez,9,"FW,MF",1,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Juan Camilo Portilla,89,DM,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Yerry Mina,1,DF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Richard Ríos,90,DM,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Johan Mojica,90,LB,0,1,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Jhon Lucumí,90,CB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Davinson Sánchez,90,CB,0,0,,0,0,0,0,3,0,0,1,3,NA,NA,NA,NA
-Colombia,2024-11-15,Daniel Muñoz,90,RB,0,0,,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA
-Colombia,2024-11-15,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,3,3,50.0,NA,0
-Brazil,2024-11-19,Vinicius Júnior,90,FW,0,0,,0,0,4,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Igor Jesus,57,FW,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Luiz Henrique,33,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Raphinha,90,LW,0,0,,0,0,4,0,1,1,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Sávio,72,RW,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Estêvão Willian,18,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Bruno Guimarães,85,CM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,André,5,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Gerson,85,CM,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Lucas Paquetá,5,"FW,MF",0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Abner,57,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Gabriel Martinelli,33,"FW,MF",0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Gabriel Magalhães,90,CB,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Marquinhos,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Danilo,90,RB,0,0,,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA
-Brazil,2024-11-19,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
-Uruguay,2024-11-19,Maximiliano Araújo,80,FW,0,1,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Cristian Olivera,10,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Darwin Núñez,44,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Rodrigo Aguirre,46,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Facundo Pellistri,65,FW,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,José Luis Rodríguez Bebanz,25,DF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Rodrigo Bentancur,90,CM,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Manuel Ugarte,90,CM,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Federico Valverde,90,CM,1,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Marcelo Saracchi,90,LB,0,0,,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Mathías Olivera,90,CB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,José María Giménez,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Guillermo Varela,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2024-11-19,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
-Uruguay,2025-03-21,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Darwin Núñez,71,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Federico Viñas,19,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Facundo Pellistri,57,FW,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Brian Rodríguez,33,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Giorgian De Arrascaeta,41,CM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Nicolás De La Cruz,49,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Rodrigo Bentancur,90,CM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Federico Valverde,71,CM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Rodrigo Aguirre,19,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Mathías Olivera,90,LB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Ronald Araújo,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Nahitan Nández,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Uruguay,2025-03-21,Sergio Rochet,90,GK,0,0,,0,0,0,0,1,0,0,0,1,3,75.0,NA,0
-Argentina,2025-03-21,Julián Álvarez,90,FW,0,1,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Thiago Almada,86,AM,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Ángel Correa,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Enzo Fernández,90,AM,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Giuliano Simeone,68,AM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Nicolás González,21,"FW,MF",0,0,,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Alexis Mac Allister,79,DM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Exequiel Palacios,11,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Leandro Paredes,86,DM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Leonardo Balerdi,4,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Cristian Romero,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Nahuel Molina,90,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-03-21,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Uruguay,2025-03-25,Rodrigo Aguirre,45,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Federico Valverde,45,"DF,FW",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Federico Viñas,45,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Darwin Núñez,45,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Maximiliano Araújo,90,LM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Manuel Ugarte,90,CM,0,0,,0,0,2,0,4,1,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Rodrigo Bentancur,90,CM,0,0,,0,0,3,0,2,1,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Cristian Olivera,45,RM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Facundo Pellistri,45,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Mathías Olivera,55,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Joaquín Piquerez,35,"DF,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Guillermo Varela,61,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Nahitan Nández,29,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-03-25,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,7,100.0,NA,0
-Uruguay,2025-06-05,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Rodrigo Aguirre,90,FW,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Facundo Pellistri,76,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Brian Rodríguez,14,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Giorgian De Arrascaeta,84,CM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Agustín Álvarez,6,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Manuel Ugarte,90,CM,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Nahitan Nández,90,CM,0,0,,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Mathías Olivera,45,LB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Joaquín Piquerez,45,"DF,MF",0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Ronald Araújo,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Guillermo Varela,60,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Rodrigo Zalazar,30,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Uruguay,2025-06-05,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,75.0,NA,0
-Uruguay,2025-06-10,Rodrigo Aguirre,90,FW,1,0,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Maximiliano Araújo,90,AM,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Giorgian De Arrascaeta,86,AM,1,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Nicolas Fonseca,4,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Facundo Pellistri,90,AM,0,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Manuel Ugarte,90,DM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Rodrigo Bentancur,78,DM,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Sebastián Cáceres,12,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Mathías Olivera,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,José María Giménez,90,CB,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Ronald Araújo,90,CB,0,0,,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Nahitan Nández,85,RB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Guillermo Varela,5,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-06-10,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
-Uruguay,2025-09-04,Brian Rodríguez,90,FW,0,1,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Rodrigo Aguirre,73,FW,1,1,,0,0,5,2,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Federico Viñas,17,FW,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Facundo Pellistri,76,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Rodrigo Zalazar,14,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Giorgian De Arrascaeta,68,CM,1,0,,0,0,9,3,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Manuel Ugarte,22,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Rodrigo Bentancur,90,CM,0,0,,0,0,1,0,5,1,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Federico Valverde,90,CM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Joaquín Piquerez,90,LB,0,0,,0,0,2,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Mathías Olivera,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Guillermo Varela,90,RB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-04,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Uruguay,2025-09-09,Cristian Olivera,90,FW,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Darwin Núñez,81,FW,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Federico Viñas,9,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Brian Rodríguez,70,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Kevin Amaro,20,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Rodrigo Bentancur,90,CM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Manuel Ugarte,90,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Federico Valverde,90,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Matías Viña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Ronald Araújo,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Nahitan Nández,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-09-09,Santiago Mele,90,GK,0,0,,0,0,0,0,0,1,0,0,0,3,100.0,NA,0
-Uruguay,2025-10-10,Luciano Rodríguez,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Juan Manuel Sanabria,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Rodrigo Zalazar,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Ignacio Laquintana,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Facundo Torres,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Federico Viñas,45,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Kevin Amaro,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Agustín Álvarez,44,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Júlio Daguer,1,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Nicolas Fonseca,90,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Marcelo Saracchi,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Nicolas Marichal,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Santiago Bueno,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Santiago Mouriño,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,José Luis Rodríguez Bebanz,45,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Emiliano Martínez,45,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Uruguay,2025-10-10,Cristopher Fiermarin,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Uruguay,2025-10-13,Federico Viñas,90,FW,0,2,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Juan Manuel Sanabria,90,LW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Facundo Torres,87,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Nicolas Fonseca,3,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Rodrigo Zalazar,90,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Kevin Amaro,45,RW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Ignacio Laquintana,45,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Emiliano Martínez,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Marcelo Saracchi,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Nicolas Marichal,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Santiago Bueno,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,José Luis Rodríguez Bebanz,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Uruguay,2025-10-13,Franco Israel,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,0
+Country,Date,Player,Mins,Pos,Gls,Ast,PKwon,PK,PKatt,Shots,SoT,TklW,CrdY,CrdR,OG,GA,Saves,Save%,PK Non SO Conceded,PK SO scorer,GK PK SO saves
+Uruguay,2020-10-08,Luis Suárez,90,FW,1,0,,1,1,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Nicolás De La Cruz,55,AM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Nahitan Nández,35,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Giorgian De Arrascaeta,75,AM,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Jonathan Rodríguez,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Brian Rodríguez,86,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Maxi Gómez,4,FW,1,0,,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Rodrigo Bentancur,75,DM,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Mauro Arambarri,15,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Federico Valverde,90,DM,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Matías Viña,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Diego Godín,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Sebastián Coates,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Martín Cáceres,90,RB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2020-10-08,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2020-10-13,Maxi Gómez,62,FW,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Jonathan Rodríguez,28,"FW,MF",0,0,,0,0,1,1,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Luis Suárez,90,FW,2,0,,2,2,2,2,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Brian Rodríguez,45,LM,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Darwin Núñez,45,FW,0,0,,0,0,1,1,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Rodrigo Bentancur,76,CM,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Lucas Torreira,14,MF,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Federico Valverde,86,CM,0,0,,0,0,1,0,1,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Mauro Arambarri,4,MF,0,0,,0,0,1,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Nahitan Nández,45,RM,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Nicolás De La Cruz,45,MF,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Matías Viña,90,LB,0,0,,0,0,0,0,4,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Diego Godín,90,CB,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Ronald Araújo,90,CB,0,0,,0,0,1,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
+Uruguay,2020-10-13,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,4,3,42.9,NA,NA,0
+Colombia,2020-11-13,Luis Muriel,59,FW,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Alfredo Morelos,31,FW,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Duván Zapata,90,FW,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,James Rodríguez,90,FW,0,0,,0,0,3,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Jefferson Lerma,90,CM,0,0,,0,0,1,0,0,1,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Wílmar Barrios,31,CM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Luis Díaz,59,"FW,MF",0,0,,0,0,2,0,0,1,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Mateus Uribe,64,CM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Edwin Cardona,26,"FW,MF",0,0,,0,0,0,0,0,1,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Johan Mojica,90,LB,0,0,,0,0,1,1,1,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Jeison Murillo,90,CB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Yerry Mina,89,CB,0,0,,0,0,0,0,0,2,1,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,Juan Cuadrado,90,RB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2020-11-13,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,33.3,NA,NA,0
+Uruguay,2020-11-13,Luis Suárez,69,FW,1,0,,1,1,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Jonathan Rodríguez,21,"FW,MF",0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Edinson Cavani,77,FW,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Mauro Arambarri,13,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Nicolás De La Cruz,45,LM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Darwin Núñez,45,FW,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Rodrigo Bentancur,89,CM,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Gabriel Neves,1,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Lucas Torreira,90,CM,0,1,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Nahitan Nández,90,RM,0,1,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Matías Viña,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2020-11-13,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2021-06-03,Luis Suárez,90,FW,0,0,,0,0,4,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Jonathan Rodríguez,65,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Facundo Torres,25,"FW,MF",0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Matías Viña,82,LM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Brian Rodríguez,8,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Federico Valverde,90,CM,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Rodrigo Bentancur,90,CM,0,0,,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Matías Vecino,57,CM,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Lucas Torreira,33,MF,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Giovanni González,90,RM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Martín Cáceres,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Diego Godín,90,CB,0,0,,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-03,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Uruguay,2021-06-08,Luis Suárez,90,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Jonathan Rodríguez,45,LW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Matías Viña,45,"DF,MF",0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Federico Valverde,90,AM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Matías Vecino,45,AM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Nahitan Nández,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Facundo Torres,68,RW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Nicolás De La Cruz,22,MF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Lucas Torreira,88,DM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Fernando Gorriarán,2,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Martín Cáceres,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,José María Giménez,90,CB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Giovanni González,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-08,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Argentina,2021-06-18,Lautaro Martínez,51,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Joaquín Correa,39,"RW,CM",0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Nicolás González,69,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Ángel Di María,21,"LW,FW",0,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Lionel Messi,90,"RW,FW",0,1,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Giovani Lo Celso,51,LM,0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Exequiel Palacios,39,"LM,CM",0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Guido Rodríguez,90,CM,1,0,0,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Rodrigo De Paul,89,RM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Germán Pezzella,1,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Marcos Acuña,90,LB,0,0,0,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Cristian Romero,90,CB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Nahuel Molina,90,RB,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-18,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,1,0,0,0,0,,NA,NA,0
+Uruguay,2021-06-18,Edinson Cavani,90,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Luis Suárez,90,FW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Nicolás De La Cruz,64,LM,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Brian Ocampo,26,LM,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Lucas Torreira,63,CM,0,0,0,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Matías Vecino,27,CM,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Rodrigo Bentancur,45,CM,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Nahitan Nández,45,"RB,RM",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Federico Valverde,83,"RM,CM",0,0,0,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Fernando Gorriarán,7,CM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Matías Viña,90,LB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Diego Godín,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,José María Giménez,90,CB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Giovanni González,69,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Facundo Torres,21,RM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-18,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Uruguay,2021-06-21,Edinson Cavani,90,FW,0,0,0,0,0,3,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Luis Suárez,90,FW,1,0,0,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Giorgian De Arrascaeta,59,AM,0,0,0,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Facundo Torres,31,AM,0,0,0,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Nicolás De La Cruz,45,LM,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Martín Cáceres,45,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Federico Valverde,90,"CM,RM",0,0,0,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Matías Vecino,80,"DM,CM",0,0,0,0,0,2,0,6,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Lucas Torreira,10,CM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Matías Viña,84,"LB,WB",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Jonathan Rodríguez,6,WB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Diego Godín,90,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,José María Giménez,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Giovanni González,45,RB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Nahitan Nández,45,WB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-06-21,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Uruguay,2021-06-24,Luis Suárez,87,FW,0,0,0,0,0,6,3,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Maxi Gómez,3,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Edinson Cavani,90,FW,1,0,0,0,0,7,3,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Giorgian De Arrascaeta,72,AM,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Facundo Torres,18,AM,0,1,0,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Nicolás De La Cruz,60,LM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Rodrigo Bentancur,30,LM,0,0,0,0,0,1,1,4,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Matías Vecino,90,CM,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Federico Valverde,90,RM,0,0,0,0,0,1,0,5,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Matías Viña,90,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Diego Godín,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,José María Giménez,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Nahitan Nández,87,RB,0,0,0,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Giovanni González,3,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-24,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2021-06-28,Edinson Cavani,67,FW,1,0,0,1,1,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Luis Suárez,23,FW,0,0,0,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Nicolás De La Cruz,90,AM,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Giorgian De Arrascaeta,66,AM,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Facundo Torres,24,AM,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Rodrigo Bentancur,90,LM,0,0,0,0,0,1,0,5,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Matías Vecino,56,CM,0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Martín Cáceres,34,RB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Federico Valverde,75,"RM,CM",0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Lucas Torreira,15,CM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Matías Viña,90,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Diego Godín,45,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Sebastián Coates,45,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,José María Giménez,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Nahitan Nández,90,"RB,RM",0,0,1,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-06-28,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Uruguay,2021-07-03,Edinson Cavani,90,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,1,NA
+Uruguay,2021-07-03,Luis Suárez,90,FW,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,1,NA
+Uruguay,2021-07-03,Giorgian De Arrascaeta,67,AM,0,0,0,0,0,2,1,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-07-03,Facundo Torres,23,AM,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-07-03,Rodrigo Bentancur,90,LM,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-07-03,Matías Vecino,90,CM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-07-03,Federico Valverde,79,RM,0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-07-03,Martín Cáceres,11,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-07-03,Matías Viña,90,LB,0,0,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,0,NA
+Uruguay,2021-07-03,Diego Godín,90,CB,0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-07-03,José María Giménez,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,0,NA
+Uruguay,2021-07-03,Nahitan Nández,90,"RB,RM",0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-07-03,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Colombia,2021-07-03,Duván Zapata,90,FW,0,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,1,NA
+Colombia,2021-07-03,Luis Muriel,66,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-07-03,Yimmi Chará,24,RM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-07-03,Luis Díaz,90,LM,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-07-03,Gustavo Cuellar,90,CM,0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-07-03,Wílmar Barrios,90,CM,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-07-03,Rafael Borré,86,"RM,FW",0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-07-03,Miguel Borja,4,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Colombia,2021-07-03,William Tesillo,90,LB,0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-07-03,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
+Colombia,2021-07-03,Yerry Mina,90,CB,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,1,NA
+Colombia,2021-07-03,Daniel Muñoz,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-07-03,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,2
+Uruguay,2021-09-02,Brian Rodríguez,90,FW,0,0,,0,0,3,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Maxi Gómez,65,FW,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Jonathan Rodríguez,25,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Giorgian De Arrascaeta,65,FW,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,David Terans,25,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Rodrigo Bentancur,70,CM,0,0,,0,0,1,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Mauro Arambarri,20,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Matías Vecino,90,CM,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Federico Valverde,81,CM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Giovanni González,9,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Matías Viña,70,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Joaquín Piquerez,20,"DF,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Diego Godín,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Nahitan Nández,90,RB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-09-02,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Uruguay,2021-09-05,Brian Rodríguez,68,FW,0,1,,0,0,4,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,David Terans,22,"FW,MF",0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Agustín Álvarez,90,FW,1,0,,0,0,5,3,4,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Giorgian De Arrascaeta,84,AM,2,0,,1,1,4,3,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Gastón Pereiro,6,"FW,MF",0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Rodrigo Bentancur,45,DM,0,0,,0,0,0,0,4,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Mauro Arambarri,45,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Matías Vecino,69,DM,0,0,,0,0,0,0,5,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Manuel Ugarte,21,MF,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Federico Valverde,90,DM,1,0,,0,0,1,1,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Joaquín Piquerez,90,LB,0,1,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Diego Godín,84,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Ronald Araújo,6,DF,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Nahitan Nández,90,RB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2021-09-05,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,75.0,NA,NA,0
+Uruguay,2021-09-09,Brian Rodríguez,83,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Federico Martínez,7,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Agustín Álvarez,71,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Maxi Gómez,19,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Giorgian De Arrascaeta,79,AM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Gastón Pereiro,11,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Matías Vecino,90,DM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Rodrigo Bentancur,90,DM,0,0,,0,0,1,0,2,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Federico Valverde,90,DM,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Matías Viña,72,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Joaquín Piquerez,18,"DF,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Ronald Araújo,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Nahitan Nández,90,RB,0,1,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-09-09,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2021-10-07,Brian Rodríguez,45,FW,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Darwin Núñez,45,FW,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Luis Suárez,45,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Edinson Cavani,45,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Giorgian De Arrascaeta,44,FW,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Nicolás De La Cruz,46,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Rodrigo Bentancur,76,CM,0,0,,0,0,1,0,2,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Gastón Pereiro,14,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Matías Vecino,90,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Federico Valverde,90,CM,0,0,,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Matías Viña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Diego Godín,90,CB,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,José María Giménez,59,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Ronald Araújo,31,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Nahitan Nández,90,RB,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2021-10-07,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Colombia,2021-10-07,Radamel Falcao,56,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Roger Martínez,34,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Rafael Borré,56,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Duván Zapata,34,FW,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Luis Díaz,90,LM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Mateus Uribe,56,CM,0,0,,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Jefferson Lerma,34,MF,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Wílmar Barrios,90,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Juan Cuadrado,79,RM,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Juan Quintero,11,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Johan Mojica,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Carlos Cuesta,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Yerry Mina,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,Stefan Medina,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2021-10-07,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Argentina,2021-10-10,Lautaro Martínez,64,FW,1,1,,0,0,5,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Joaquín Correa,26,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Nicolás González,74,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Julián Álvarez,16,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Lionel Messi,90,AM,1,0,,0,0,6,3,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Giovani Lo Celso,90,AM,0,2,,0,0,6,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Rodrigo De Paul,64,DM,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Ángel Di María,26,"FW,MF",0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Leandro Paredes,74,DM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Exequiel Palacios,16,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Nicolás Otamendi,80,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Facundo Medina,10,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Cristian Romero,90,CB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-10,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,NA,NA,0
+Uruguay,2021-10-10,Luis Suárez,90,FW,0,0,,0,0,4,3,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Brian Rodríguez,45,LM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Darwin Núñez,45,FW,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Federico Valverde,90,CM,0,0,,0,0,1,1,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Matías Vecino,90,CM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Nicolás De La Cruz,45,RM,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Edinson Cavani,45,"FW,MF",0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Matías Viña,62,LB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Joaquín Piquerez,28,"DF,MF",0,0,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Diego Godín,90,CB,0,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Sebastián Coates,90,CB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Ronald Araújo,72,CB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Giovanni González,18,DF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Nahitan Nández,62,RB,0,0,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Lucas Torreira,28,MF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-10-10,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,3,7,70.0,NA,NA,0
+Uruguay,2021-11-12,Luis Suárez,90,FW,0,0,,0,0,5,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Brian Rodríguez,45,LW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Facundo Torres,45,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Rodrigo Bentancur,75,AM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Mauro Arambarri,15,MF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Matías Vecino,63,AM,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Agustín Álvarez,27,FW,0,0,,0,0,4,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Nahitan Nández,80,RW,0,0,,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Fernando Gorriarán,10,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Lucas Torreira,90,DM,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Joaquín Piquerez,90,LB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2021-11-12,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Argentina,2021-11-12,Lautaro Martínez,54,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Papu Gómez,36,"FW,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Giovani Lo Celso,75,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Lionel Messi,15,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Paulo Dybala,45,AM,0,1,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Joaquín Correa,45,"FW,MF",0,0,,0,0,4,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Ángel Di María,54,AM,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Ángel Correa,36,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Guido Rodríguez,90,DM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Rodrigo De Paul,80,DM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Exequiel Palacios,10,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Marcos Acuña,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Cristian Romero,90,CB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Nahuel Molina,90,RB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-11-12,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Uruguay,2021-11-16,Agustín Álvarez,90,FW,0,0,,0,0,3,2,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Facundo Torres,75,LW,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Jonathan Rodríguez,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Rodrigo Bentancur,90,AM,0,0,,0,0,2,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Lucas Torreira,67,AM,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Mauro Arambarri,23,MF,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Nahitan Nández,62,RW,0,0,,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Brian Rodríguez,28,"FW,MF",0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Matías Vecino,45,DM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Luis Suárez,45,FW,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Joaquín Piquerez,45,LB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Giovanni González,45,DF,0,0,,0,0,0,0,1,1,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Diego Godín,90,CB,0,0,,0,0,2,1,1,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Martín Cáceres,90,RB,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Uruguay,2021-11-16,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,25.0,NA,NA,0
+Uruguay,2022-01-27,Luis Suárez,90,FW,1,0,,0,0,4,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Darwin Núñez,69,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Edinson Cavani,21,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Federico Valverde,89,LM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Mauro Arambarri,1,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Rodrigo Bentancur,82,CM,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Damián Suárez,8,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Matías Vecino,90,CM,0,0,,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Facundo Pellistri,69,RM,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Agustín Canobbio,21,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Mathías Olivera,90,LB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Diego Godín,82,CB,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Martín Cáceres,8,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Ronald Araújo,90,RB,0,0,,0,0,2,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-01-27,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2022-02-01,Edinson Cavani,66,FW,1,0,,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Darwin Núñez,24,FW,0,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Luis Suárez,90,FW,1,0,,1,1,8,4,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Giorgian De Arrascaeta,90,LM,1,0,,0,0,3,2,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Federico Valverde,73,CM,0,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Damián Suárez,17,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Rodrigo Bentancur,73,CM,1,0,,0,0,1,1,3,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Mauro Arambarri,17,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Facundo Pellistri,66,RM,0,0,,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Agustín Canobbio,24,"FW,MF",0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Mathías Olivera,90,LB,0,0,,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,José María Giménez,88,CB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Martín Cáceres,2,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Ronald Araújo,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-02-01,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2022-03-24,Darwin Núñez,66,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Edinson Cavani,24,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Luis Suárez,75,FW,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Lucas Torreira,15,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Giorgian De Arrascaeta,83,LM,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Maxi Gómez,7,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Federico Valverde,90,CM,0,0,,0,0,4,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Rodrigo Bentancur,90,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Facundo Pellistri,83,RM,0,0,,0,0,1,0,3,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Damián Suárez,7,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Mathías Olivera,90,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,José María Giménez,90,CB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Diego Godín,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Ronald Araújo,90,RB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-24,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2022-03-29,Edinson Cavani,28,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Luis Suárez,62,FW,1,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Diego Rossi,73,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Damián Suárez,17,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Federico Valverde,90,AM,1,0,,0,0,3,3,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Nicolás De La Cruz,62,AM,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Giorgian De Arrascaeta,28,"FW,MF",0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Rodrigo Bentancur,73,DM,0,0,,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Maxi Gómez,17,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Lucas Torreira,73,DM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Manuel Ugarte,17,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Matías Viña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Sebastián Coates,90,CB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Diego Godín,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Ronald Araújo,90,RB,0,1,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-03-29,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Uruguay,2022-09-23,Luis Suárez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Darwin Núñez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Facundo Pellistri,45,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Nicolás De La Cruz,45,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Rodrigo Bentancur,84,CM,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Lucas Torreira,6,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Federico Valverde,90,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Matías Vecino,71,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Giorgian De Arrascaeta,19,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Mathías Olivera,84,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Matías Viña,6,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Ronald Araújo,4,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Agustín Rogel,86,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Damián Suárez,71,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Guillermo Varela,19,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2022-09-23,Sergio Rochet,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Portugal,2022-11-28,João Félix,81,"FW,RW",0,0,0,0,0,3,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Matheus Nunes,9,DM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Cristiano Ronaldo,81,FW,0,0,0,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Gonçalo Ramos,9,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Bruno Fernandes,90,"AM,RW,RM",2,0,0,1,1,5,2,2,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,William Carvalho,81,"LM,CM",0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,João Palhinha,9,DM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Bernardo Silva,90,"RM,AM,LM",0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Rúben Neves,68,DM,0,0,0,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Rafael Leão,22,LW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Nuno Mendes,41,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Raphaël Guerreiro,49,LB,0,1,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Rúben Dias,90,CB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Pepe,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,João Cancelo,90,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Portugal,2022-11-28,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2022-11-28,Edinson Cavani,72,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Luis Suárez,18,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Darwin Núñez,71,FW,0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Maxi Gómez,19,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Matías Vecino,61,CM,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Giorgian De Arrascaeta,29,LM,0,0,0,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Rodrigo Bentancur,90,CM,0,0,0,0,0,2,1,2,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Federico Valverde,90,CM,0,0,0,0,0,1,0,3,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Mathías Olivera,85,"WB,LB",0,0,0,0,0,2,0,1,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Matías Viña,5,LB,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Guillermo Varela,90,"WB,RB",0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Sebastián Coates,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Diego Godín,61,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Facundo Pellistri,29,RM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,José María Giménez,90,CB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2022-11-28,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7,NA,NA,0
+Uruguay,2022-12-02,Darwin Núñez,79,FW,0,0,0,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Maxi Gómez,11,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Luis Suárez,65,FW,0,1,0,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Edinson Cavani,25,FW,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Giorgian De Arrascaeta,79,LM,2,0,0,0,0,2,2,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Agustín Canobbio,11,LM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Rodrigo Bentancur,33,CM,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Matías Vecino,57,CM,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Federico Valverde,90,CM,0,0,0,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Facundo Pellistri,65,RM,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Nicolás De La Cruz,25,RM,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Mathías Olivera,90,LB,0,0,0,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Sebastián Coates,90,CB,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,José María Giménez,90,CB,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Guillermo Varela,90,RB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-12-02,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2023-06-14,Matias Arezo,58,FW,1,0,,0,1,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Thiago Borbas,32,FW,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Brian Rodríguez,90,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Maximiliano Araújo,75,AM,0,1,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Diego Rossi,15,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Facundo Pellistri,90,AM,0,2,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Rodrigo Zalazar,84,DM,2,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Felipe Carballo,6,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Emiliano Martínez,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Lucas Olaza,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Matías Viña,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Guillermo Varela,84,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Bruno Méndez,6,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-06-14,Franco Israel,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Uruguay,2023-06-20,Maximiliano Araújo,90,FW,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Thiago Borbas,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Matias Arezo,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Diego Rossi,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Brian Rodríguez,45,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Agustín Canobbio,65,CM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Emiliano Martínez,25,MF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Felipe Carballo,90,CM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Facundo Torres,90,CM,1,0,,1,1,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Joaquín Piquerez,90,LB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Mauricio Lemos,39,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Guillermo Varela,51,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Bruno Méndez,90,CB,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,José Luis Rodríguez Bebanz,90,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Uruguay,2023-06-20,Sergio Rochet,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Uruguay,2023-06-20,Santiago Mele,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Uruguay,2023-09-08,Maximiliano Araújo,90,FW,0,0,,0,0,2,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Darwin Núñez,72,FW,0,1,,0,0,6,3,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Maxi Gómez,18,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Facundo Pellistri,70,FW,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Brian Rodríguez,20,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Nicolás De La Cruz,86,CM,2,1,,0,0,3,3,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Felipe Carballo,4,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Manuel Ugarte,90,CM,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Federico Valverde,90,CM,1,0,,0,0,3,1,0,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Joaquín Piquerez,90,LB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Matías Viña,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Nahitan Nández,85,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Bruno Méndez,5,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-09-08,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Uruguay,2023-09-12,Darwin Núñez,45,FW,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Cristian Olivera,45,"FW,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Maximiliano Araújo,69,AM,0,1,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Facundo Torres,21,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Nicolás De La Cruz,45,AM,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Felipe Carballo,45,MF,0,0,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Agustín Canobbio,69,AM,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Facundo Pellistri,21,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Manuel Ugarte,90,DM,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Federico Valverde,90,DM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Joaquín Piquerez,59,LB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Mathías Olivera,31,DF,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Matías Viña,90,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Sebastián Cáceres,90,CB,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Nahitan Nández,90,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-09-12,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Colombia,2023-10-12,James Rodríguez,80,FW,1,1,,0,0,4,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Jorge Carrascal,10,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Luis Díaz,90,AM,0,0,,0,0,4,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Jhon Arias,89,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Álvaro David Montero,1,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+Colombia,2023-10-12,Rafael Borré,79,AM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Luis Sinisterra,11,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Wílmar Barrios,90,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Mateus Uribe,66,DM,1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Richard Ríos,24,MF,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Frank Fabra,90,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Davinson Sánchez,90,CB,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Carlos Cuesta,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Santiago Arias,89,RB,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Yerson Mosquera,1,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Colombia,2023-10-12,Camilo Vargas,86,GK,0,0,,0,0,0,0,0,2,1,0,1,4,80.0,NA,NA,0
+Uruguay,2023-10-12,Darwin Núñez,90,FW,1,0,,1,1,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Brian Rodríguez,71,AM,0,0,,0,0,3,2,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Matías Vecino,19,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Nicolás De La Cruz,90,AM,0,0,,0,0,3,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Facundo Pellistri,45,AM,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Cristian Olivera,45,"FW,MF",0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Federico Valverde,90,DM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Manuel Ugarte,71,DM,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Maximiliano Araújo,19,"DF,FW",0,0,,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Joaquín Piquerez,45,LB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Mathías Olivera,45,DF,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Ronald Araújo,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Nahitan Nández,60,RB,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Giorgian De Arrascaeta,30,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2023-10-12,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Uruguay,2023-10-17,Darwin Núñez,90,FW,1,1,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Maximiliano Araújo,86,AM,0,1,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Matías Vecino,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Nicolás De La Cruz,90,AM,1,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Facundo Pellistri,87,AM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Joaquín Piquerez,3,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Manuel Ugarte,90,DM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Federico Valverde,90,DM,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Mathías Olivera,83,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Matías Viña,7,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Ronald Araújo,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Nahitan Nández,67,RB,0,0,,0,0,0,0,4,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Bruno Méndez,23,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-10-17,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Brazil,2023-10-17,Gabriel Jesus,90,FW,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Vinicius Júnior,83,AM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Matheus Cunha,7,"FW,MF",0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Neymar,44,AM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Richarlison,46,"FW,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Rodrygo,90,AM,0,0,,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Bruno Guimarães,83,DM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Raphael Veiga,7,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Casemiro,90,DM,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Carlos Augusto,72,LB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Guilherme Arana,18,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Gabriel Magalhães,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Marquinhos,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Yan Couto,72,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,David Neres,18,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Brazil,2023-10-17,Ederson,90,GK,0,0,,0,0,0,0,0,1,0,0,2,0,0.0,NA,NA,0
+Argentina,2023-11-16,Nicolás González,52,FW,0,0,,0,0,1,0,3,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Ángel Di María,38,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Julián Álvarez,79,FW,0,0,,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Giovani Lo Celso,11,"FW,MF",0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Lionel Messi,90,FW,0,0,,0,0,3,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Enzo Fernández,90,CM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Alexis Mac Allister,45,CM,0,0,,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Lautaro Martínez,45,FW,0,0,,0,0,1,1,1,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Rodrigo De Paul,63,CM,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Exequiel Palacios,27,"DF,MF",0,0,,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Nicolás Tagliafico,79,LB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Marcos Acuña,11,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Cristian Romero,90,CB,0,0,,0,0,1,1,3,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2023-11-16,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+Uruguay,2023-11-16,Darwin Núñez,89,FW,1,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Federico Viñas,1,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Maximiliano Araújo,61,AM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Rodrigo Bentancur,29,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Nicolás De La Cruz,90,AM,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Facundo Pellistri,87,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Agustín Canobbio,3,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Federico Valverde,90,DM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Manuel Ugarte,90,DM,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Matías Viña,45,LB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,José María Giménez,45,DF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Mathías Olivera,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Ronald Araújo,90,RB,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-16,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2023-11-21,Cristian Olivera,86,FW,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Agustín Canobbio,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Darwin Núñez,72,FW,2,0,,0,0,4,2,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Luis Suárez,18,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Facundo Pellistri,76,FW,0,1,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Facundo Torres,14,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Nicolás De La Cruz,72,CM,0,1,,0,0,5,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Giorgian De Arrascaeta,18,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Rodrigo Bentancur,85,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Felipe Carballo,5,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Federico Valverde,90,CM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Matías Viña,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Ronald Araújo,90,RB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2023-11-21,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Uruguay,2024-03-26,Federico Viñas,90,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Brian Rodríguez,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Rodrigo Bentancur,45,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Facundo Pellistri,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Agustín Canobbio,45,"FW,MF",0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Nicolás De La Cruz,45,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Giorgian De Arrascaeta,45,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Federico Valverde,90,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Manuel Ugarte,90,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Matías Viña,90,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Mathías Olivera,90,CB,0,0,,0,0,,,,0,0,1,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Nahitan Nández,88,RB,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Luciano Rodríguez,2,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-03-26,Santiago Mele,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Uruguay,2024-06-23,Darwin Núñez,90,FW,1,0,0,0,0,5,3,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Maximiliano Araújo,90,LW,1,0,0,0,0,4,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Facundo Pellistri,90,RW,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Giorgian De Arrascaeta,59,AM,0,0,0,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Nicolás De La Cruz,31,AM,0,1,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Manuel Ugarte,90,DM,0,0,0,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Federico Valverde,84,DM,0,0,0,0,0,4,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Rodrigo Bentancur,6,DM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Matías Viña,90,LB,1,1,0,0,0,1,1,4,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Mathías Olivera,59,CB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Sebastián Cáceres,31,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Ronald Araújo,45,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,José María Giménez,45,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Nahitan Nández,90,RB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-06-23,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2024-06-27,Darwin Núñez,82,FW,1,0,0,0,0,7,2,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Luis Suárez,8,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Maximiliano Araújo,90,LW,1,1,0,0,0,3,3,4,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Facundo Pellistri,85,RW,1,1,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Cristian Olivera,5,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Nicolás De La Cruz,88,AM,0,1,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Giorgian De Arrascaeta,2,AM,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Federico Valverde,85,DM,1,0,0,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Rodrigo Bentancur,5,DM,1,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Manuel Ugarte,90,DM,0,0,0,0,0,1,0,10,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Matías Viña,82,LB,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Lucas Olaza,8,LB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Mathías Olivera,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Ronald Araújo,90,CB,0,1,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Nahitan Nández,90,RB,0,0,0,0,0,0,0,7,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-06-27,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Uruguay,2024-07-10,Darwin Núñez,90,FW,0,0,0,0,0,4,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Maximiliano Araújo,90,"LB,LW",0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Facundo Pellistri,45,RW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Cristian Olivera,45,"RB,RW",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Nicolás De La Cruz,89,"CM,AM,LM",0,0,0,0,0,1,1,2,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Agustín Canobbio,1,LM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Rodrigo Bentancur,33,CM,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Guillermo Varela,33,RB,0,0,0,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Luis Suárez,24,FW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Manuel Ugarte,90,"DM,CM",0,0,0,0,0,1,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Federico Valverde,90,"DM,CM",0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Mathías Olivera,45,LB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Giorgian De Arrascaeta,45,"RM,LW",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,José María Giménez,90,CB,0,0,0,0,0,2,0,3,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Sebastián Cáceres,90,"CB,RB",0,0,0,0,0,0,0,6,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-07-10,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+Colombia,2024-07-10,Jhon Córdoba,74,FW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Yerry Mina,16,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Luis Díaz,85,"LW,FW",0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Luis Sinisterra,5,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Jhon Arias,45,RW,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Santiago Arias,45,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,James Rodríguez,61,"AM,DM",0,1,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Kevin Castaño,29,"CM,DM",0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Jefferson Lerma,90,"DM,CM",1,0,0,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Richard Ríos,60,"DM,RW",0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Mateus Uribe,30,"CM,RW",0,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Johan Mojica,90,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Carlos Cuesta,90,CB,0,0,0,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,6,0,0,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Daniel Muñoz,44,RB,0,0,0,0,0,1,0,1,2,1,0,0,NA,NA,NA,NA,NA
+Colombia,2024-07-10,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2024-09-06,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Luis Suárez,90,FW,0,0,,0,0,2,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Facundo Pellistri,58,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Cristian Olivera,32,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Brian Rodríguez,79,CM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Facundo Torres,11,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Manuel Ugarte,78,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Emiliano Martínez,12,MF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Federico Valverde,90,CM,0,0,,0,0,5,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Lucas Olaza,76,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Marcelo Saracchi,14,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Nicolas Marichal,45,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Santiago Bueno,45,DF,0,0,,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Nahitan Nández,90,RB,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-06,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2024-09-10,Maximiliano Araújo,45,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Miguel Merentiel,45,FW,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Cristian Olivera,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Facundo Pellistri,87,FW,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Marcelo Saracchi,3,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Brian Rodríguez,53,CM,0,0,,0,0,2,1,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Facundo Torres,34,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Nicolas Fonseca,3,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Manuel Ugarte,90,CM,0,0,,0,0,1,1,2,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Emiliano Martínez,90,CM,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Lucas Olaza,90,LB,0,0,,0,0,3,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Sebastián Cáceres,4,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Nicolas Marichal,86,DF,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Santiago Bueno,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Guillermo Varela,90,RB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-09-10,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,NA,NA,0
+Uruguay,2024-10-11,Darwin Núñez,90,FW,0,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Cristian Olivera,45,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Facundo Pellistri,45,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Maximiliano Araújo,90,LM,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Giorgian De Arrascaeta,90,CM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Nicolas Fonseca,90,CM,0,0,,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Federico Valverde,90,CM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Nahitan Nández,89,RM,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Luciano Rodríguez,1,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Santiago Bueno,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Manuel Ugarte,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Guillermo Varela,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-10-11,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2024-10-15,Darwin Núñez,90,FW,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Maximiliano Araújo,90,AM,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Giorgian De Arrascaeta,45,AM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Nicolás De La Cruz,45,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Facundo Pellistri,90,AM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Manuel Ugarte,81,DM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Nicolas Fonseca,9,MF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Federico Valverde,90,DM,0,0,,0,0,2,2,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Mathías Olivera,86,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Marcelo Saracchi,4,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Santiago Bueno,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Nahitan Nández,90,RB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2024-10-15,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Uruguay,2024-11-15,Darwin Núñez,90,FW,0,0,,0,0,3,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Maximiliano Araújo,90,AM,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Rodrigo Aguirre,67,AM,1,0,,0,0,1,1,0,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Manuel Ugarte,23,MF,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Facundo Pellistri,90,AM,0,1,,0,0,2,1,4,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Federico Valverde,90,DM,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Rodrigo Bentancur,90,DM,0,0,,0,0,1,0,2,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Marcelo Saracchi,78,LB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Guillermo Varela,12,DF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Mathías Olivera,90,CB,0,1,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,José María Giménez,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Nahitan Nández,90,RB,0,0,,0,0,0,0,3,1,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2024-11-15,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Colombia,2024-11-15,Luis Díaz,90,FW,0,0,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Jáder Durán,71,FW,0,0,,0,0,4,1,0,1,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Rafael Borré,19,FW,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Juan Quintero,71,AM,1,0,,0,0,2,1,0,1,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,James Rodríguez,19,"FW,MF",0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Jhon Arias,81,DM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Carlos Gómez,9,"FW,MF",1,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Juan Camilo Portilla,89,DM,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Yerry Mina,1,DF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Richard Ríos,90,DM,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Johan Mojica,90,LB,0,1,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Jhon Lucumí,90,CB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Davinson Sánchez,90,CB,0,0,,0,0,0,0,3,0,0,1,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Daniel Muñoz,90,RB,0,0,,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Colombia,2024-11-15,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,3,3,50.0,NA,NA,0
+Brazil,2024-11-19,Vinicius Júnior,90,FW,0,0,,0,0,4,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Igor Jesus,57,FW,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Luiz Henrique,33,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Raphinha,90,LW,0,0,,0,0,4,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Sávio,72,RW,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Estêvão Willian,18,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Bruno Guimarães,85,CM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,André,5,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Gerson,85,CM,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Lucas Paquetá,5,"FW,MF",0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Abner,57,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Gabriel Martinelli,33,"FW,MF",0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Gabriel Magalhães,90,CB,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Marquinhos,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Danilo,90,RB,0,0,,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2024-11-19,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Uruguay,2024-11-19,Maximiliano Araújo,80,FW,0,1,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Cristian Olivera,10,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Darwin Núñez,44,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Rodrigo Aguirre,46,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Facundo Pellistri,65,FW,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,José Luis Rodríguez Bebanz,25,DF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Rodrigo Bentancur,90,CM,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Manuel Ugarte,90,CM,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Federico Valverde,90,CM,1,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Marcelo Saracchi,90,LB,0,0,,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Mathías Olivera,90,CB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,José María Giménez,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Guillermo Varela,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2024-11-19,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2025-03-21,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Darwin Núñez,71,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Federico Viñas,19,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Facundo Pellistri,57,FW,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Brian Rodríguez,33,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Giorgian De Arrascaeta,41,CM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Nicolás De La Cruz,49,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Rodrigo Bentancur,90,CM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Federico Valverde,71,CM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Rodrigo Aguirre,19,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Mathías Olivera,90,LB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Ronald Araújo,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Nahitan Nández,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-03-21,Sergio Rochet,90,GK,0,0,,0,0,0,0,1,0,0,0,1,3,75.0,NA,NA,0
+Argentina,2025-03-21,Julián Álvarez,90,FW,0,1,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Thiago Almada,86,AM,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Ángel Correa,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Enzo Fernández,90,AM,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Giuliano Simeone,68,AM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Nicolás González,21,"FW,MF",0,0,,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Alexis Mac Allister,79,DM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Exequiel Palacios,11,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Leandro Paredes,86,DM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Leonardo Balerdi,4,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Cristian Romero,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Nahuel Molina,90,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-03-21,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2025-03-25,Rodrigo Aguirre,45,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Federico Valverde,45,"DF,FW",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Federico Viñas,45,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Darwin Núñez,45,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Maximiliano Araújo,90,LM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Manuel Ugarte,90,CM,0,0,,0,0,2,0,4,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Rodrigo Bentancur,90,CM,0,0,,0,0,3,0,2,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Cristian Olivera,45,RM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Facundo Pellistri,45,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Mathías Olivera,55,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Joaquín Piquerez,35,"DF,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Guillermo Varela,61,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Nahitan Nández,29,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-03-25,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,7,100.0,NA,NA,0
+Uruguay,2025-06-05,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Rodrigo Aguirre,90,FW,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Facundo Pellistri,76,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Brian Rodríguez,14,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Giorgian De Arrascaeta,84,CM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Agustín Álvarez,6,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Manuel Ugarte,90,CM,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Nahitan Nández,90,CM,0,0,,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Mathías Olivera,45,LB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Joaquín Piquerez,45,"DF,MF",0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Ronald Araújo,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Guillermo Varela,60,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Rodrigo Zalazar,30,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Uruguay,2025-06-05,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,75.0,NA,NA,0
+Uruguay,2025-06-10,Rodrigo Aguirre,90,FW,1,0,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Maximiliano Araújo,90,AM,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Giorgian De Arrascaeta,86,AM,1,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Nicolas Fonseca,4,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Facundo Pellistri,90,AM,0,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Manuel Ugarte,90,DM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Rodrigo Bentancur,78,DM,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Sebastián Cáceres,12,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Mathías Olivera,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,José María Giménez,90,CB,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Ronald Araújo,90,CB,0,0,,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Nahitan Nández,85,RB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Guillermo Varela,5,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-06-10,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Uruguay,2025-09-04,Brian Rodríguez,90,FW,0,1,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Rodrigo Aguirre,73,FW,1,1,,0,0,5,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Federico Viñas,17,FW,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Facundo Pellistri,76,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Rodrigo Zalazar,14,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Giorgian De Arrascaeta,68,CM,1,0,,0,0,9,3,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Manuel Ugarte,22,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Rodrigo Bentancur,90,CM,0,0,,0,0,1,0,5,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Federico Valverde,90,CM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Joaquín Piquerez,90,LB,0,0,,0,0,2,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Mathías Olivera,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Guillermo Varela,90,RB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-04,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2025-09-09,Cristian Olivera,90,FW,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Darwin Núñez,81,FW,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Federico Viñas,9,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Brian Rodríguez,70,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Kevin Amaro,20,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Rodrigo Bentancur,90,CM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Manuel Ugarte,90,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Federico Valverde,90,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Matías Viña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Ronald Araújo,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Nahitan Nández,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-09-09,Santiago Mele,90,GK,0,0,,0,0,0,0,0,1,0,0,0,3,100.0,NA,NA,0
+Uruguay,2025-10-10,Luciano Rodríguez,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Juan Manuel Sanabria,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Rodrigo Zalazar,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Ignacio Laquintana,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Facundo Torres,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Federico Viñas,45,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Kevin Amaro,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Agustín Álvarez,44,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Júlio Daguer,1,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Nicolas Fonseca,90,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Marcelo Saracchi,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Nicolas Marichal,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Santiago Bueno,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Santiago Mouriño,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,José Luis Rodríguez Bebanz,45,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Emiliano Martínez,45,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2025-10-10,Cristopher Fiermarin,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Uruguay,2025-10-13,Federico Viñas,90,FW,0,2,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Juan Manuel Sanabria,90,LW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Facundo Torres,87,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Nicolas Fonseca,3,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Rodrigo Zalazar,90,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Kevin Amaro,45,RW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Ignacio Laquintana,45,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Emiliano Martínez,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Marcelo Saracchi,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Nicolas Marichal,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Santiago Bueno,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,José Luis Rodríguez Bebanz,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2025-10-13,Franco Israel,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0

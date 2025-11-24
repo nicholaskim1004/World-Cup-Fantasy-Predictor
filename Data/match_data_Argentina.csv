@@ -1,816 +1,816 @@
-Country,Date,Player,Mins,Pos,Gls,Ast,PKwon,PK,PKatt,Shots,SoT,TklW,CrdY,CrdR,OG,GA,Saves,Save%,Pk SO scorer,GK PK SO saves
-Argentina,2020-10-08,Lautaro Martínez,75,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Lucas Alario,15,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Lucas Ocampos,83,AM,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Nicolás Domínguez,7,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Lionel Messi,90,AM,1,0,,1,1,3,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Marcos Acuña,65,DM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Eduardo Salvio,25,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Leandro Paredes,90,DM,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Rodrigo De Paul,90,DM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Lucas Martínez Quarta,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Gonzalo Montiel,83,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Juan Foyth,7,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-10-08,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,0
-Argentina,2020-10-13,Lucas Ocampos,58,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Joaquín Correa,32,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Lautaro Martínez,88,FW,1,1,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Facundo Medina,2,DF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Lionel Messi,90,FW,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Exequiel Palacios,90,CM,0,0,,0,0,1,0,3,1,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Leandro Paredes,68,CM,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Guido Rodríguez,22,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Rodrigo De Paul,68,CM,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Nicolás Domínguez,22,MF,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Lucas Martínez Quarta,90,CB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Gonzalo Montiel,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-10-13,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,0
-Argentina,2020-11-12,Lautaro Martínez,82,FW,0,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Nicolás Domínguez,8,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Lucas Ocampos,59,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Ángel Di María,31,"FW,MF",0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Lionel Messi,90,AM,0,0,,0,0,5,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Nicolás González,90,DM,1,0,,0,0,1,1,3,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Exequiel Palacios,28,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Giovani Lo Celso,62,"FW,MF",0,1,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Leandro Paredes,90,DM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Rodrigo De Paul,82,DM,0,0,,0,0,3,1,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Lucas Alario,8,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Lucas Martínez Quarta,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Gonzalo Montiel,90,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2020-11-12,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,100.0,NA,0
-Argentina,2020-11-17,Lautaro Martínez,88,FW,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Papu Gómez,2,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Lionel Messi,90,AM,0,0,,0,0,6,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Nicolás González,71,DM,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Ángel Di María,19,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Giovani Lo Celso,90,DM,0,1,,0,0,1,0,2,1,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Leandro Paredes,90,DM,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Rodrigo De Paul,56,DM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Lucas Ocampos,34,"FW,MF",0,0,,0,0,2,0,1,1,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Lucas Martínez Quarta,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Gonzalo Montiel,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2020-11-17,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
-Argentina,2021-06-03,Lautaro Martínez,90,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Lionel Messi,90,FW,1,0,,1,1,5,4,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Ángel Di María,61,LW,0,0,,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Julián Álvarez,29,"FW,MF",0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Lucas Ocampos,45,RW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Joaquín Correa,45,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Leandro Paredes,80,CM,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Exequiel Palacios,10,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Rodrigo De Paul,90,CM,0,0,,0,0,4,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Lucas Martínez Quarta,45,CB,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Lisandro Martínez,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Cristian Romero,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Juan Foyth,80,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Nahuel Molina,10,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-03,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,0
-Argentina,2021-06-14,Lautaro Martínez,79,FW,0,0,0,0,0,3,0,1,1,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Sergio Agüero,11,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Nicolás González,79,"LW,LM",0,0,0,0,0,6,2,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Joaquín Correa,11,LM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Lionel Messi,90,"RW,FW",1,0,0,0,0,7,3,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Giovani Lo Celso,66,LM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Ángel Di María,24,RM,0,0,0,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Leandro Paredes,67,CM,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Exequiel Palacios,23,CM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Lucas Martínez Quarta,90,CB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Gonzalo Montiel,84,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Nahuel Molina,6,RB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-14,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,75.0,NA,0
-Argentina,2021-06-21,Sergio Agüero,58,FW,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Joaquín Correa,32,"LW,FW",0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Papu Gómez,71,LW,1,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Rodrigo De Paul,19,RM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Ángel Di María,80,RW,0,1,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Ángel Correa,10,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Lionel Messi,90,"AM,FW",0,0,0,0,0,3,2,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Leandro Paredes,80,"DM,LM",0,0,0,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Nicolás Domínguez,10,LM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Guido Rodríguez,90,"DM,CM",0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Germán Pezzella,90,CB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Cristian Romero,90,CB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Nahuel Molina,90,RB,0,0,0,0,0,0,0,6,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-06-21,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Argentina,2021-06-28,Sergio Agüero,62,FW,0,1,0,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Lautaro Martínez,28,FW,1,0,0,0,0,3,3,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Papu Gómez,55,LW,1,0,1,0,0,1,1,3,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Julián Álvarez,35,"RM,RW,LW",0,0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Ángel Correa,63,"RW,LW",0,0,0,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Giovani Lo Celso,27,LM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Lionel Messi,90,"AM,FW,RW",2,1,0,1,1,4,3,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Guido Rodríguez,70,"DM,CM",0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Leandro Paredes,20,CM,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Exequiel Palacios,70,"DM,RM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Nicolás Domínguez,20,CM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Marcos Acuña,90,LB,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Lisandro Martínez,90,CB,0,0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Germán Pezzella,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Gonzalo Montiel,90,RB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-06-28,Franco Armani,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
-Argentina,2021-07-03,Lautaro Martínez,89,FW,1,0,0,0,0,4,2,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Sergio Agüero,1,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Nicolás González,82,"LW,LM",0,0,0,0,0,4,2,3,1,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Nicolás Tagliafico,8,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Lionel Messi,90,"RW,FW",1,2,0,0,0,7,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Giovani Lo Celso,70,LM,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Ángel Di María,20,"RM,LM",0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Leandro Paredes,70,CM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Guido Rodríguez,20,CM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Rodrigo De Paul,90,"RM,CM",1,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Marcos Acuña,90,"LB,LM",0,0,0,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Germán Pezzella,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Nahuel Molina,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-07-03,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Argentina,2021-09-02,Lautaro Martínez,74,FW,1,1,,0,0,5,2,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Papu Gómez,16,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Lionel Messi,90,FW,0,0,,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Giovani Lo Celso,61,LM,0,1,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Joaquín Correa,29,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Guido Rodríguez,79,CM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Paulo Dybala,11,"FW,MF",0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Rodrigo De Paul,75,CM,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Exequiel Palacios,15,"DF,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Ángel Di María,62,RM,0,0,,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Ángel Correa,28,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Marcos Acuña,90,LB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Germán Pezzella,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2021-09-02,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,100.0,NA,0
-Argentina,2021-09-09,Lautaro Martínez,70,FW,0,0,,0,0,5,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Ángel Correa,20,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Lionel Messi,90,FW,3,0,,0,0,8,3,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Papu Gómez,61,LM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Joaquín Correa,29,"FW,MF",0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Leandro Paredes,90,CM,0,1,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Rodrigo De Paul,81,CM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Exequiel Palacios,9,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Ángel Di María,70,RM,0,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Nicolás González,20,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Marcos Acuña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Nicolás Otamendi,81,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Lucas Martínez Quarta,9,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Germán Pezzella,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-09-09,Juan Musso,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Argentina,2021-10-07,Joaquín Correa,75,FW,0,0,,0,0,4,3,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Julián Álvarez,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Giovani Lo Celso,75,AM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Nicolás González,15,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Lionel Messi,90,AM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Ángel Di María,66,AM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Guido Rodríguez,24,MF,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Rodrigo De Paul,66,DM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Papu Gómez,24,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Leandro Paredes,90,DM,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Marcos Acuña,56,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Nicolás Tagliafico,34,DF,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Cristian Romero,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Nahuel Molina,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-07,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Argentina,2021-10-14,Ángel Di María,72,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Nicolás González,18,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Lautaro Martínez,84,FW,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Joaquín Correa,6,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Lionel Messi,90,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Giovani Lo Celso,89,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Exequiel Palacios,1,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Leandro Paredes,72,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Guido Rodríguez,18,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Rodrigo De Paul,90,CM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Marcos Acuña,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Cristian Romero,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Nahuel Molina,90,RB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2021-10-14,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Argentina,2022-01-27,Nicolás González,69,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Marcos Acuña,21,"DF,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Lautaro Martínez,77,FW,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Julián Álvarez,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Ángel Di María,84,FW,1,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Ángel Correa,6,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Papu Gómez,90,CM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Leandro Paredes,90,CM,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Rodrigo De Paul,70,CM,0,0,,0,0,1,1,1,1,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Giovani Lo Celso,20,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Lisandro Martínez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Nahuel Molina,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-01-27,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,NA,0
-Argentina,2022-03-25,Lionel Messi,90,FW,1,0,,0,0,7,3,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Joaquín Correa,63,AM,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Ángel Correa,27,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Alexis Mac Allister,69,AM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Ángel Di María,21,"FW,MF",1,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Nicolás González,87,AM,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Lucas Boyé,3,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Leandro Paredes,87,DM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Guido Rodríguez,3,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Rodrigo De Paul,90,DM,0,2,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Germán Pezzella,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Nahuel Molina,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-03-25,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
-Argentina,2022-03-29,Nicolás González,77,FW,0,0,,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Lucas Ocampos,13,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Lionel Messi,90,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Julián Álvarez,71,FW,1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Ángel Correa,19,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Alexis Mac Allister,58,CM,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Exequiel Palacios,32,"DF,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Leandro Paredes,77,CM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Guido Rodríguez,13,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Rodrigo De Paul,90,CM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Nicolás Otamendi,90,CB,0,0,,0,0,1,1,2,1,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Lucas Martínez Quarta,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Gonzalo Montiel,77,RB,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Juan Foyth,13,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-03-29,Gerónimo Rulli,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,0.0,NA,0
-Argentina,2022-06-05,Julián Álvarez,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Joaquín Correa,61,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Paulo Dybala,29,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Lionel Messi,90,AM,5,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Papu Gómez,90,DM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Alexis Mac Allister,65,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Juan Foyth,25,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Rodrigo De Paul,61,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Exequiel Palacios,29,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Marcos Acuña,73,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Nicolás González,17,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Lisandro Martínez,61,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Marcos Senesi,29,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Germán Pezzella,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Nahuel Molina,73,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Gonzalo Montiel,17,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-06-05,Franco Armani,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2022-09-23,Lautaro Martínez,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Julián Álvarez,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Papu Gómez,53,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Thiago Almada,37,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Lionel Messi,90,FW,2,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Giovani Lo Celso,71,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Ángel Correa,19,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Rodrigo De Paul,71,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Alexis Mac Allister,19,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Leandro Paredes,63,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Enzo Fernández,27,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Nicolás Tagliafico,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Lisandro Martínez,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Germán Pezzella,63,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Nehuén Pérez,27,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Nahuel Molina,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-23,Gerónimo Rulli,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2022-09-27,Julián Álvarez,77,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Joaquín Correa,13,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Lautaro Martínez,55,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Lionel Messi,35,"FW,MF",2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Ángel Di María,77,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Lisandro Martínez,13,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Giovani Lo Celso,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Guido Rodríguez,54,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Enzo Fernández,36,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Alexis Mac Allister,70,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Rodrigo De Paul,20,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Nicolás Tagliafico,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Nicolás Otamendi,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Gonzalo Montiel,78,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Nahuel Molina,12,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-09-27,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2022-11-16,Julián Álvarez,50,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Enzo Fernández,40,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Lionel Messi,90,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Alexis Mac Allister,45,LW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Gonzalo Montiel,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Ángel Di María,45,RW,2,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Nahuel Molina,45,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Leandro Paredes,74,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Guido Rodríguez,16,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Rodrigo De Paul,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Marcos Acuña,45,LB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Joaquín Correa,45,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Lisandro Martínez,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Nicolás Otamendi,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Germán Pezzella,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Juan Foyth,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-16,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2022-11-22,Lautaro Martínez,90,FW,0,0,0,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Lionel Messi,90,FW,1,0,0,1,1,3,2,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Papu Gómez,58,LM,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Julián Álvarez,32,LM,0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Leandro Paredes,58,CM,0,0,1,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Enzo Fernández,32,CM,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Rodrigo De Paul,90,CM,0,0,0,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Ángel Di María,90,RM,0,0,0,0,0,2,1,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Nicolás Tagliafico,70,LB,0,0,0,0,0,1,1,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Marcos Acuña,20,LB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Nicolás Otamendi,90,CB,0,0,0,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Cristian Romero,58,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Lisandro Martínez,32,CB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Nahuel Molina,90,RB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-11-22,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,NA,0
-Argentina,2022-11-30,Lionel Messi,90,"FW,RW",0,0,1,0,1,6,3,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Julián Álvarez,78,"LW,FW",1,0,0,0,0,6,3,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Lautaro Martínez,12,RW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Ángel Di María,58,RW,0,0,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Leandro Paredes,32,CM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Alexis Mac Allister,83,"LM,LW",1,0,0,0,0,2,2,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Thiago Almada,7,CM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Enzo Fernández,78,"CM,LM",0,1,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Germán Pezzella,12,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Marcos Acuña,58,LB,0,0,0,0,0,2,0,1,1,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Nicolás Tagliafico,32,"LB,LM",0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Cristian Romero,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Nahuel Molina,90,"RB,RM",0,1,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2022-11-30,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,0
-Argentina,2022-12-03,Lionel Messi,90,FW,1,0,0,0,0,6,2,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Papu Gómez,49,"LW,RW",0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Lisandro Martínez,41,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Julián Álvarez,70,"RW,FW,LW",1,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Lautaro Martínez,20,FW,0,0,0,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Alexis Mac Allister,79,"LM,AM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Gonzalo Montiel,11,AM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Enzo Fernández,90,CM,0,0,0,0,0,0,0,3,0,0,1,1,NA,NA,NA,NA
-Argentina,2022-12-03,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Marcos Acuña,71,"LB,WB",0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Nicolás Tagliafico,19,WB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Nicolás Otamendi,90,CB,0,1,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Cristian Romero,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Nahuel Molina,79,"RB,WB",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Exequiel Palacios,11,WB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2022-12-03,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,0.0,NA,0
-Argentina,2022-12-09,Julián Álvarez,81,FW,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Lautaro Martínez,39,"FW,LW",0,0,0,0,0,2,1,0,0,0,0,2,NA,NA,1,NA
-Argentina,2022-12-09,Lionel Messi,120,FW,1,1,0,1,1,5,1,0,1,0,0,2,NA,NA,1,NA
-Argentina,2022-12-09,Alexis Mac Allister,120,"CM,LM",0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Enzo Fernández,120,"CM,RM",0,0,0,0,0,2,0,1,0,0,0,2,NA,NA,0,NA
-Argentina,2022-12-09,Rodrigo De Paul,65,CM,0,0,0,0,0,2,1,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Leandro Paredes,55,CM,0,0,0,0,0,0,0,3,1,0,0,2,NA,NA,1,NA
-Argentina,2022-12-09,Marcos Acuña,77,LB,0,0,1,0,0,0,0,3,1,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Nicolás Tagliafico,43,LB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Lisandro Martínez,111,CB,0,0,0,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Ángel Di María,9,RW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Nicolás Otamendi,120,CB,0,0,0,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Cristian Romero,77,CB,0,0,0,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Germán Pezzella,43,CB,0,0,0,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Nahuel Molina,105,RB,1,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2022-12-09,Gonzalo Montiel,15,RB,0,0,0,0,0,0,0,0,1,0,0,2,NA,NA,1,NA
-Argentina,2022-12-09,Emiliano Martínez,120,GK,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,NA,0
-Argentina,2023-03-23,Ángel Di María,59,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Paulo Dybala,31,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Julián Álvarez,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Lautaro Martínez,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Lionel Messi,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Alexis Mac Allister,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Thiago Almada,45,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Enzo Fernández,59,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Leandro Paredes,31,MF,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Rodrigo De Paul,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Nicolás Tagliafico,68,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Marcos Acuña,22,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Nicolás Otamendi,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Lisandro Martínez,45,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Nahuel Molina,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-03-23,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2023-03-28,Lautaro Martínez,66,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Paulo Dybala,24,"FW,MF",0,1,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Lionel Messi,90,FW,3,1,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Nicolás González,90,AM,1,1,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Alexis Mac Allister,49,AM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Rodrigo De Paul,41,"FW,MF",0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Giovani Lo Celso,66,AM,0,2,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Ángel Di María,24,"FW,MF",1,0,,1,1,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Enzo Fernández,49,DM,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Exequiel Palacios,41,"DF,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Marcos Acuña,90,LB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Nicolás Otamendi,49,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Juan Foyth,41,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Germán Pezzella,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Gonzalo Montiel,90,RB,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA
-Argentina,2023-03-28,Emiliano Martínez,79,GK,0,0,,0,0,,,,0,0,0,,,,NA,0
-Argentina,2023-03-28,Franco Armani,11,GK,0,0,,0,0,,,,0,0,0,,,,NA,0
-Argentina,2023-06-15,Alexis Mac Allister,58,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Julián Álvarez,32,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Lionel Messi,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Nicolás González,73,LW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Alejandro Garnacho,17,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Ángel Di María,58,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Giovani Lo Celso,32,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Enzo Fernández,73,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Leandro Paredes,17,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Rodrigo De Paul,78,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Guido Rodríguez,12,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Marcos Acuña,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Nicolás Otamendi,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Germán Pezzella,45,DF,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Nahuel Molina,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-15,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2023-06-19,Julián Álvarez,84,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Giovanni Simeone,6,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Nicolás González,59,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Alejandro Garnacho,31,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Facundo Buonanotte,73,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Lucas Ocampos,17,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Giovani Lo Celso,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Exequiel Palacios,84,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Thiago Almada,6,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Leandro Paredes,84,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Guido Rodríguez,6,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Facundo Medina,59,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Marcos Acuña,31,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Germán Pezzella,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Cristian Romero,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Nahuel Molina,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-06-19,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2023-09-07,Nicolás González,61,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Ángel Di María,29,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Lautaro Martínez,76,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Julián Álvarez,14,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Lionel Messi,88,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Exequiel Palacios,2,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Alexis Mac Allister,76,CM,0,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Leandro Paredes,14,MF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Enzo Fernández,90,CM,0,0,,0,0,2,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Rodrigo De Paul,90,CM,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Cristian Romero,90,CB,0,0,,0,0,1,0,5,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-07,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Argentina,2023-09-12,Nicolás González,84,FW,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Alejandro Garnacho,6,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Julián Álvarez,84,FW,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Lautaro Martínez,6,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Ángel Di María,90,FW,0,2,,0,0,2,1,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Enzo Fernández,86,CM,1,0,,0,0,3,3,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Ángel Correa,4,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Alexis Mac Allister,84,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Leandro Paredes,6,MF,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Rodrigo De Paul,75,CM,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Exequiel Palacios,15,"DF,MF",0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Nicolás Tagliafico,90,LB,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Cristian Romero,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-09-12,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,0
-Argentina,2023-10-12,Julián Álvarez,52,FW,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Lionel Messi,38,"FW,MF",0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Lautaro Martínez,90,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Nicolás González,89,FW,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Lucas Ocampos,1,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Alexis Mac Allister,90,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Enzo Fernández,79,CM,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Leandro Paredes,11,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Rodrigo De Paul,89,CM,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Giovani Lo Celso,1,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Nicolás Otamendi,90,CB,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Cristian Romero,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-12,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
-Argentina,2023-10-17,Nicolás González,90,FW,0,1,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Julián Álvarez,77,FW,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Lautaro Martínez,13,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Lionel Messi,90,FW,2,0,,0,0,7,5,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Enzo Fernández,90,CM,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Alexis Mac Allister,90,CM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Rodrigo De Paul,77,CM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Giovani Lo Celso,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Nicolás Tagliafico,77,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Marcos Acuña,13,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Cristian Romero,45,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Germán Pezzella,45,DF,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Gonzalo Montiel,33,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Lucas Martínez Quarta,57,"DF,MF",0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-10-17,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,0
-Brazil,2023-11-21,Gabriel Jesus,90,FW,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Gabriel Martinelli,77,AM,0,0,,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Raphael Veiga,13,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Rodrygo,90,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Raphinha,71,AM,0,0,,0,0,2,1,1,1,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Endrick,19,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Bruno Guimarães,77,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Douglas Luiz,13,MF,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,André,90,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Carlos Augusto,90,LB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Gabriel Magalhães,71,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Joelinton,9,"FW,MF",0,0,,0,0,0,0,0,0,1,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Marquinhos,45,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Nino,45,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Emerson,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Brazil,2023-11-21,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
-Argentina,2023-11-21,Julián Álvarez,77,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Lautaro Martínez,13,FW,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Lionel Messi,77,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Ángel Di María,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Alexis Mac Allister,90,LM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Rodrigo De Paul,90,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Enzo Fernández,69,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Leandro Paredes,21,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Giovani Lo Celso,69,RM,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Nicolás González,21,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Marcos Acuña,65,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Nicolás Tagliafico,25,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Nicolás Otamendi,90,CB,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Cristian Romero,90,CB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2023-11-21,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Argentina,2024-03-22,Lautaro Martínez,90,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Giovani Lo Celso,72,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Alexis Mac Allister,18,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Ángel Di María,90,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Enzo Fernández,45,CM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Nicolás Otamendi,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Rodrigo De Paul,64,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Facundo Buonanotte,26,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Leandro Paredes,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Nicolás González,45,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Alejandro Garnacho,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Nicolás Tagliafico,55,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Valentín Barco,35,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Cristian Romero,72,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Nahuel Molina,18,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Nehuén Pérez,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-03-22,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2024-03-26,Julián Álvarez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Alejandro Garnacho,70,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Lautaro Martínez,20,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Ángel Di María,81,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Valentin Carboni,9,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Enzo Fernández,81,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Nicolás González,9,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Giovani Lo Celso,71,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Rodrigo De Paul,19,"FW,MF",0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Alexis Mac Allister,59,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Leandro Paredes,31,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Nicolás Tagliafico,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Nicolás Otamendi,81,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Germán Pezzella,9,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Nahuel Molina,90,RB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA
-Argentina,2024-03-26,Walter Benítez,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,0
-Argentina,2024-06-09,Lautaro Martínez,55,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Enzo Fernández,35,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Julián Álvarez,77,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Ángel Correa,13,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Ángel Di María,55,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Lionel Messi,35,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Giovani Lo Celso,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Rodrigo De Paul,85,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Exequiel Palacios,5,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Leandro Paredes,77,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Nicolás González,13,"FW,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Marcos Acuña,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Lisandro Martínez,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Cristian Romero,90,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Gonzalo Montiel,85,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Lucas Martínez Quarta,5,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-09,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2024-06-14,Lautaro Martínez,66,FW,2,0,,1,1,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Julián Álvarez,24,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Lionel Messi,90,FW,2,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Giovani Lo Celso,61,LM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Rodrigo De Paul,29,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Alexis Mac Allister,61,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Leandro Paredes,29,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Enzo Fernández,70,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Lucas Martínez Quarta,20,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Valentin Carboni,61,RM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Ángel Di María,29,"FW,MF",0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Nicolás González,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Lisandro Martínez,90,CB,0,0,,0,0,,,,1,0,1,1,NA,NA,NA,NA
-Argentina,2024-06-14,Nicolás Otamendi,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Nahuel Molina,70,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Gonzalo Montiel,20,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-06-14,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,0
-Argentina,2024-06-25,Julián Álvarez,72,FW,0,0,0,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Lautaro Martínez,18,FW,1,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Lionel Messi,90,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Nicolás González,72,LM,0,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Ángel Di María,18,RM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Enzo Fernández,63,CM,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Giovani Lo Celso,27,"LM,CM",0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Alexis Mac Allister,90,CM,0,0,0,0,0,4,1,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,4,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Nicolás Tagliafico,82,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Gonzalo Montiel,8,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Lisandro Martínez,90,CB,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Cristian Romero,90,CB,0,0,0,0,0,1,0,8,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Nahuel Molina,82,RB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Marcos Acuña,8,LB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-25,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Argentina,2024-06-29,Lautaro Martínez,90,FW,2,0,0,0,0,4,3,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Alejandro Garnacho,65,LW,0,0,0,0,0,2,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Nicolás González,25,LW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Ángel Di María,76,RW,0,1,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Valentin Carboni,14,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Exequiel Palacios,90,LM,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Leandro Paredes,76,CM,0,0,0,0,1,1,1,2,1,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Guido Rodríguez,14,CM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Giovani Lo Celso,65,RM,0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Enzo Fernández,25,RM,0,1,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Germán Pezzella,82,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Lucas Martínez Quarta,8,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Gonzalo Montiel,90,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-06-29,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
-Argentina,2024-07-04,Lautaro Martínez,64,FW,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Julián Álvarez,26,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,1,NA
-Argentina,2024-07-04,Lionel Messi,90,FW,0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,0,NA
-Argentina,2024-07-04,Nicolás González,90,LM,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Enzo Fernández,77,CM,0,0,0,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Nicolás Otamendi,13,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,1,NA
-Argentina,2024-07-04,Alexis Mac Allister,90,CM,0,1,0,0,0,0,0,4,0,0,0,1,NA,NA,1,NA
-Argentina,2024-07-04,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Lisandro Martínez,77,CB,1,0,0,0,0,3,1,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Giovani Lo Celso,13,RM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Cristian Romero,90,CB,0,0,0,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Nahuel Molina,89,RB,0,0,0,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-07-04,Gonzalo Montiel,1,RB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,1,NA
-Argentina,2024-07-04,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,0
-Argentina,2024-09-05,Lautaro Martínez,78,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Alejandro Garnacho,12,"FW,MF",0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Julián Álvarez,88,FW,1,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Valentín Castellanos,2,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Nicolás González,50,LM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Giovani Lo Celso,40,"FW,MF",0,1,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Enzo Fernández,90,CM,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Alexis Mac Allister,78,CM,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Paulo Dybala,12,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Rodrigo De Paul,90,CM,0,0,,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Nahuel Molina,90,RM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Lisandro Martínez,78,CB,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Marcos Acuña,12,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Cristian Romero,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-09-05,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
-Argentina,2024-10-10,Lionel Messi,90,FW,0,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Julián Álvarez,84,FW,0,0,,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Lautaro Martínez,6,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Thiago Almada,45,FW,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Gonzalo Montiel,45,DF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Giovani Lo Celso,67,CM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Leonardo Balerdi,23,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Rodrigo De Paul,90,CM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Enzo Fernández,84,DM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Leandro Paredes,6,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Nicolás Otamendi,90,CB,1,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Germán Pezzella,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2024-10-10,Gerónimo Rulli,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,NA,0
-Argentina,2024-10-15,Julián Álvarez,64,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Thiago Almada,26,"FW,MF",1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Lautaro Martínez,72,FW,1,1,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Nicolás Paz,18,MF,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Lionel Messi,90,FW,3,2,,0,0,7,4,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Alexis Mac Allister,65,CM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Leandro Paredes,25,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Enzo Fernández,90,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Rodrigo De Paul,64,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Exequiel Palacios,26,"DF,MF",0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Nicolás Tagliafico,90,LB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Nicolás Otamendi,72,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Lisandro Martínez,18,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Cristian Romero,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Nahuel Molina,90,RB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-10-15,Gerónimo Rulli,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,0
-Argentina,2024-11-14,Lautaro Martínez,90,FW,1,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Julián Álvarez,85,AM,0,0,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Valentín Castellanos,5,FW,0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Alexis Mac Allister,63,AM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Alejandro Garnacho,27,"FW,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Lionel Messi,90,AM,0,0,,0,0,3,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Enzo Fernández,76,DM,0,1,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Leandro Paredes,14,MF,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Rodrigo De Paul,90,DM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,5,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Cristian Romero,45,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Leonardo Balerdi,45,DF,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Nahuel Molina,77,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Gonzalo Montiel,13,DF,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA
-Argentina,2024-11-14,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,NA,0
-Argentina,2024-11-19,Julián Álvarez,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Lautaro Martínez,80,FW,1,0,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Giuliano Simeone,10,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Lionel Messi,90,FW,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Alexis Mac Allister,89,CM,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Leandro Paredes,1,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Enzo Fernández,90,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Rodrigo De Paul,80,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Giovani Lo Celso,10,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Leonardo Balerdi,89,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Facundo Medina,1,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Gonzalo Montiel,75,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Nehuén Pérez,15,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2024-11-19,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,0
-Argentina,2025-06-05,Julián Álvarez,79,FW,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Ángel Correa,11,"FW,MF",0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Thiago Almada,83,AM,0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Franco Mastantuono,7,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Nicolás Paz,56,AM,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Lionel Messi,34,"FW,MF",0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Giuliano Simeone,83,AM,0,0,,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Juan Foyth,7,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Rodrigo De Paul,90,DM,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Exequiel Palacios,90,DM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Leonardo Balerdi,78,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Facundo Medina,12,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Cristian Romero,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-06-05,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,0
-Argentina,2025-09-04,Julián Álvarez,73,FW,0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Lautaro Martínez,17,FW,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Lionel Messi,90,FW,2,0,,0,0,7,4,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Thiago Almada,80,LW,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Nicolás Paz,10,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Franco Mastantuono,62,RW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Nicolás González,28,"FW,MF",0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Leandro Paredes,73,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Exequiel Palacios,17,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Rodrigo De Paul,90,CM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Nicolás Tagliafico,90,LB,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Cristian Romero,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Nahuel Molina,80,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Giuliano Simeone,10,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-09-04,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,0
-Argentina,2025-09-09,Lautaro Martínez,62,FW,0,0,,0,0,2,0,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Julián Álvarez,28,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Nicolás González,90,AM,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Alexis Mac Allister,90,AM,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Giuliano Simeone,37,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Juan Foyth,53,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Leandro Paredes,61,DM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Franco Mastantuono,29,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Rodrigo De Paul,67,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Giovani Lo Celso,23,"FW,MF",0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Nicolás Otamendi,30,CB,0,0,,0,0,0,0,0,0,1,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Leonardo Balerdi,90,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Gonzalo Montiel,67,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Nahuel Molina,23,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
-Argentina,2025-09-09,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,100.0,NA,0
-Argentina,2025-10-10,Julián Álvarez,77,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Rodrigo De Paul,13,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Lautaro Martínez,90,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Giovani Lo Celso,90,LW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Nicolás Paz,90,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Leandro Paredes,62,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Giuliano Simeone,28,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Enzo Fernández,77,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Alexis Mac Allister,13,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Nicolás Tagliafico,45,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Nicolás González,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Marcos Senesi,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Nahuel Molina,77,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Leonardo Balerdi,13,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-10,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2025-10-14,José Manuel López,62,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Lautaro Martínez,28,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Lionel Messi,90,FW,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Alexis Mac Allister,90,LW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Giuliano Simeone,57,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Nicolás Paz,33,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Giovani Lo Celso,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Aníbal Moreno,45,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Rodrigo De Paul,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Nicolás González,90,LB,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Leonardo Balerdi,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Nicolás Otamendi,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Lautaro Rivero,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Gonzalo Montiel,62,RB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Nahuel Molina,28,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA
-Argentina,2025-10-14,Emiliano Martínez,75,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
-Argentina,2025-10-14,Facundo Cambeses,15,GK,0,0,,0,0,,,,0,0,0,0,,,NA,0
+Country,Date,Player,Mins,Pos,Gls,Ast,PKwon,PK,PKatt,Shots,SoT,TklW,CrdY,CrdR,OG,GA,Saves,Save%,PK Non SO Conceded,PK SO scorer,GK PK SO saves
+Argentina,2020-10-08,Lautaro Martínez,75,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Lucas Alario,15,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Lucas Ocampos,83,AM,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Nicolás Domínguez,7,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Lionel Messi,90,AM,1,0,,1,1,3,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Marcos Acuña,65,DM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Eduardo Salvio,25,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Leandro Paredes,90,DM,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Rodrigo De Paul,90,DM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Lucas Martínez Quarta,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Gonzalo Montiel,83,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Juan Foyth,7,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-10-08,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Argentina,2020-10-13,Lucas Ocampos,58,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Joaquín Correa,32,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Lautaro Martínez,88,FW,1,1,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Facundo Medina,2,DF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Lionel Messi,90,FW,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Exequiel Palacios,90,CM,0,0,,0,0,1,0,3,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Leandro Paredes,68,CM,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Guido Rodríguez,22,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Rodrigo De Paul,68,CM,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Nicolás Domínguez,22,MF,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Lucas Martínez Quarta,90,CB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Gonzalo Montiel,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-10-13,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Argentina,2020-11-12,Lautaro Martínez,82,FW,0,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Nicolás Domínguez,8,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Lucas Ocampos,59,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Ángel Di María,31,"FW,MF",0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Lionel Messi,90,AM,0,0,,0,0,5,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Nicolás González,90,DM,1,0,,0,0,1,1,3,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Exequiel Palacios,28,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Giovani Lo Celso,62,"FW,MF",0,1,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Leandro Paredes,90,DM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Rodrigo De Paul,82,DM,0,0,,0,0,3,1,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Lucas Alario,8,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Lucas Martínez Quarta,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Gonzalo Montiel,90,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2020-11-12,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,100.0,NA,NA,0
+Argentina,2020-11-17,Lautaro Martínez,88,FW,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Papu Gómez,2,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Lionel Messi,90,AM,0,0,,0,0,6,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Nicolás González,71,DM,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Ángel Di María,19,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Giovani Lo Celso,90,DM,0,1,,0,0,1,0,2,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Leandro Paredes,90,DM,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Rodrigo De Paul,56,DM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Lucas Ocampos,34,"FW,MF",0,0,,0,0,2,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Lucas Martínez Quarta,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Gonzalo Montiel,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2020-11-17,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Argentina,2021-06-03,Lautaro Martínez,90,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Lionel Messi,90,FW,1,0,,1,1,5,4,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Ángel Di María,61,LW,0,0,,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Julián Álvarez,29,"FW,MF",0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Lucas Ocampos,45,RW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Joaquín Correa,45,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Leandro Paredes,80,CM,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Exequiel Palacios,10,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Rodrigo De Paul,90,CM,0,0,,0,0,4,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Lucas Martínez Quarta,45,CB,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Lisandro Martínez,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Cristian Romero,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Juan Foyth,80,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Nahuel Molina,10,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-03,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Argentina,2021-06-14,Lautaro Martínez,79,FW,0,0,0,0,0,3,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Sergio Agüero,11,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Nicolás González,79,"LW,LM",0,0,0,0,0,6,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Joaquín Correa,11,LM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Lionel Messi,90,"RW,FW",1,0,0,0,0,7,3,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Giovani Lo Celso,66,LM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Ángel Di María,24,RM,0,0,0,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Leandro Paredes,67,CM,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Exequiel Palacios,23,CM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Lucas Martínez Quarta,90,CB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Gonzalo Montiel,84,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Nahuel Molina,6,RB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-14,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,75.0,NA,NA,0
+Argentina,2021-06-21,Sergio Agüero,58,FW,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Joaquín Correa,32,"LW,FW",0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Papu Gómez,71,LW,1,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Rodrigo De Paul,19,RM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Ángel Di María,80,RW,0,1,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Ángel Correa,10,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Lionel Messi,90,"AM,FW",0,0,0,0,0,3,2,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Leandro Paredes,80,"DM,LM",0,0,0,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Nicolás Domínguez,10,LM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Guido Rodríguez,90,"DM,CM",0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Germán Pezzella,90,CB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Cristian Romero,90,CB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Nahuel Molina,90,RB,0,0,0,0,0,0,0,6,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-06-21,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Argentina,2021-06-28,Sergio Agüero,62,FW,0,1,0,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Lautaro Martínez,28,FW,1,0,0,0,0,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Papu Gómez,55,LW,1,0,1,0,0,1,1,3,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Julián Álvarez,35,"RM,RW,LW",0,0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Ángel Correa,63,"RW,LW",0,0,0,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Giovani Lo Celso,27,LM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Lionel Messi,90,"AM,FW,RW",2,1,0,1,1,4,3,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Guido Rodríguez,70,"DM,CM",0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Leandro Paredes,20,CM,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Exequiel Palacios,70,"DM,RM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Nicolás Domínguez,20,CM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Marcos Acuña,90,LB,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Lisandro Martínez,90,CB,0,0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Germán Pezzella,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Gonzalo Montiel,90,RB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-06-28,Franco Armani,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Argentina,2021-07-03,Lautaro Martínez,89,FW,1,0,0,0,0,4,2,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Sergio Agüero,1,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Nicolás González,82,"LW,LM",0,0,0,0,0,4,2,3,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Nicolás Tagliafico,8,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Lionel Messi,90,"RW,FW",1,2,0,0,0,7,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Giovani Lo Celso,70,LM,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Ángel Di María,20,"RM,LM",0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Leandro Paredes,70,CM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Guido Rodríguez,20,CM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Rodrigo De Paul,90,"RM,CM",1,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Marcos Acuña,90,"LB,LM",0,0,0,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Germán Pezzella,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Nahuel Molina,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-07-03,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Argentina,2021-09-02,Lautaro Martínez,74,FW,1,1,,0,0,5,2,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Papu Gómez,16,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Lionel Messi,90,FW,0,0,,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Giovani Lo Celso,61,LM,0,1,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Joaquín Correa,29,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Guido Rodríguez,79,CM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Paulo Dybala,11,"FW,MF",0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Rodrigo De Paul,75,CM,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Exequiel Palacios,15,"DF,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Ángel Di María,62,RM,0,0,,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Ángel Correa,28,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Marcos Acuña,90,LB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Germán Pezzella,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2021-09-02,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,100.0,NA,NA,0
+Argentina,2021-09-09,Lautaro Martínez,70,FW,0,0,,0,0,5,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Ángel Correa,20,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Lionel Messi,90,FW,3,0,,0,0,8,3,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Papu Gómez,61,LM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Joaquín Correa,29,"FW,MF",0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Leandro Paredes,90,CM,0,1,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Rodrigo De Paul,81,CM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Exequiel Palacios,9,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Ángel Di María,70,RM,0,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Nicolás González,20,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Marcos Acuña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Nicolás Otamendi,81,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Lucas Martínez Quarta,9,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Germán Pezzella,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-09-09,Juan Musso,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Argentina,2021-10-07,Joaquín Correa,75,FW,0,0,,0,0,4,3,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Julián Álvarez,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Giovani Lo Celso,75,AM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Nicolás González,15,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Lionel Messi,90,AM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Ángel Di María,66,AM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Guido Rodríguez,24,MF,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Rodrigo De Paul,66,DM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Papu Gómez,24,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Leandro Paredes,90,DM,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Marcos Acuña,56,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Nicolás Tagliafico,34,DF,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Cristian Romero,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Nahuel Molina,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-07,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Argentina,2021-10-14,Ángel Di María,72,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Nicolás González,18,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Lautaro Martínez,84,FW,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Joaquín Correa,6,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Lionel Messi,90,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Giovani Lo Celso,89,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Exequiel Palacios,1,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Leandro Paredes,72,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Guido Rodríguez,18,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Rodrigo De Paul,90,CM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Marcos Acuña,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Cristian Romero,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Nahuel Molina,90,RB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2021-10-14,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Argentina,2022-01-27,Nicolás González,69,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Marcos Acuña,21,"DF,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Lautaro Martínez,77,FW,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Julián Álvarez,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Ángel Di María,84,FW,1,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Ángel Correa,6,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Papu Gómez,90,CM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Leandro Paredes,90,CM,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Rodrigo De Paul,70,CM,0,0,,0,0,1,1,1,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Giovani Lo Celso,20,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Lisandro Martínez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Nahuel Molina,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-01-27,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+Argentina,2022-03-25,Lionel Messi,90,FW,1,0,,0,0,7,3,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Joaquín Correa,63,AM,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Ángel Correa,27,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Alexis Mac Allister,69,AM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Ángel Di María,21,"FW,MF",1,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Nicolás González,87,AM,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Lucas Boyé,3,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Leandro Paredes,87,DM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Guido Rodríguez,3,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Rodrigo De Paul,90,DM,0,2,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Germán Pezzella,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Nahuel Molina,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-03-25,Franco Armani,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Argentina,2022-03-29,Nicolás González,77,FW,0,0,,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Lucas Ocampos,13,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Lionel Messi,90,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Julián Álvarez,71,FW,1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Ángel Correa,19,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Alexis Mac Allister,58,CM,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Exequiel Palacios,32,"DF,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Leandro Paredes,77,CM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Guido Rodríguez,13,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Rodrigo De Paul,90,CM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Nicolás Otamendi,90,CB,0,0,,0,0,1,1,2,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Lucas Martínez Quarta,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Gonzalo Montiel,77,RB,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Juan Foyth,13,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-03-29,Gerónimo Rulli,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,0.0,NA,NA,0
+Argentina,2022-06-05,Julián Álvarez,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Joaquín Correa,61,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Paulo Dybala,29,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Lionel Messi,90,AM,5,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Papu Gómez,90,DM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Alexis Mac Allister,65,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Juan Foyth,25,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Rodrigo De Paul,61,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Exequiel Palacios,29,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Marcos Acuña,73,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Nicolás González,17,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Lisandro Martínez,61,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Marcos Senesi,29,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Germán Pezzella,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Nahuel Molina,73,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Gonzalo Montiel,17,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-06-05,Franco Armani,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2022-09-23,Lautaro Martínez,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Julián Álvarez,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Papu Gómez,53,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Thiago Almada,37,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Lionel Messi,90,FW,2,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Giovani Lo Celso,71,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Ángel Correa,19,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Rodrigo De Paul,71,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Alexis Mac Allister,19,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Leandro Paredes,63,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Enzo Fernández,27,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Nicolás Tagliafico,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Lisandro Martínez,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Germán Pezzella,63,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Nehuén Pérez,27,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Nahuel Molina,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-23,Gerónimo Rulli,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2022-09-27,Julián Álvarez,77,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Joaquín Correa,13,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Lautaro Martínez,55,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Lionel Messi,35,"FW,MF",2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Ángel Di María,77,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Lisandro Martínez,13,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Giovani Lo Celso,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Guido Rodríguez,54,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Enzo Fernández,36,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Alexis Mac Allister,70,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Rodrigo De Paul,20,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Nicolás Tagliafico,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Nicolás Otamendi,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Gonzalo Montiel,78,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Nahuel Molina,12,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-09-27,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2022-11-16,Julián Álvarez,50,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Enzo Fernández,40,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Lionel Messi,90,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Alexis Mac Allister,45,LW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Gonzalo Montiel,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Ángel Di María,45,RW,2,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Nahuel Molina,45,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Leandro Paredes,74,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Guido Rodríguez,16,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Rodrigo De Paul,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Marcos Acuña,45,LB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Joaquín Correa,45,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Lisandro Martínez,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Nicolás Otamendi,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Germán Pezzella,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Juan Foyth,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-16,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2022-11-22,Lautaro Martínez,90,FW,0,0,0,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Lionel Messi,90,FW,1,0,0,1,1,3,2,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Papu Gómez,58,LM,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Julián Álvarez,32,LM,0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Leandro Paredes,58,CM,0,0,1,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Enzo Fernández,32,CM,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Rodrigo De Paul,90,CM,0,0,0,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Ángel Di María,90,RM,0,0,0,0,0,2,1,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Nicolás Tagliafico,70,LB,0,0,0,0,0,1,1,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Marcos Acuña,20,LB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Nicolás Otamendi,90,CB,0,0,0,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Cristian Romero,58,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Lisandro Martínez,32,CB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Nahuel Molina,90,RB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-11-22,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+Argentina,2022-11-30,Lionel Messi,90,"FW,RW",0,0,1,0,1,6,3,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Julián Álvarez,78,"LW,FW",1,0,0,0,0,6,3,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Lautaro Martínez,12,RW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Ángel Di María,58,RW,0,0,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Leandro Paredes,32,CM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Alexis Mac Allister,83,"LM,LW",1,0,0,0,0,2,2,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Thiago Almada,7,CM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Enzo Fernández,78,"CM,LM",0,1,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Germán Pezzella,12,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Marcos Acuña,58,LB,0,0,0,0,0,2,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Nicolás Tagliafico,32,"LB,LM",0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Cristian Romero,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Nahuel Molina,90,"RB,RM",0,1,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2022-11-30,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Argentina,2022-12-03,Lionel Messi,90,FW,1,0,0,0,0,6,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Papu Gómez,49,"LW,RW",0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Lisandro Martínez,41,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Julián Álvarez,70,"RW,FW,LW",1,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Lautaro Martínez,20,FW,0,0,0,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Alexis Mac Allister,79,"LM,AM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Gonzalo Montiel,11,AM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Enzo Fernández,90,CM,0,0,0,0,0,0,0,3,0,0,1,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Marcos Acuña,71,"LB,WB",0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Nicolás Tagliafico,19,WB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Nicolás Otamendi,90,CB,0,1,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Cristian Romero,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Nahuel Molina,79,"RB,WB",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Exequiel Palacios,11,WB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2022-12-03,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,0.0,NA,NA,0
+Argentina,2022-12-09,Julián Álvarez,81,FW,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Lautaro Martínez,39,"FW,LW",0,0,0,0,0,2,1,0,0,0,0,2,NA,NA,NA,1,NA
+Argentina,2022-12-09,Lionel Messi,120,FW,1,1,0,1,1,5,1,0,1,0,0,2,NA,NA,NA,1,NA
+Argentina,2022-12-09,Alexis Mac Allister,120,"CM,LM",0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Enzo Fernández,120,"CM,RM",0,0,0,0,0,2,0,1,0,0,0,2,NA,NA,NA,0,NA
+Argentina,2022-12-09,Rodrigo De Paul,65,CM,0,0,0,0,0,2,1,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Leandro Paredes,55,CM,0,0,0,0,0,0,0,3,1,0,0,2,NA,NA,NA,1,NA
+Argentina,2022-12-09,Marcos Acuña,77,LB,0,0,1,0,0,0,0,3,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Nicolás Tagliafico,43,LB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Lisandro Martínez,111,CB,0,0,0,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Ángel Di María,9,RW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Nicolás Otamendi,120,CB,0,0,0,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Cristian Romero,77,CB,0,0,0,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Germán Pezzella,43,CB,0,0,0,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Nahuel Molina,105,RB,1,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2022-12-09,Gonzalo Montiel,15,RB,0,0,0,0,0,0,0,0,1,0,0,2,NA,NA,NA,1,NA
+Argentina,2022-12-09,Emiliano Martínez,120,GK,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+Argentina,2023-03-23,Ángel Di María,59,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Paulo Dybala,31,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Julián Álvarez,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Lautaro Martínez,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Lionel Messi,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Alexis Mac Allister,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Thiago Almada,45,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Enzo Fernández,59,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Leandro Paredes,31,MF,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Rodrigo De Paul,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Nicolás Tagliafico,68,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Marcos Acuña,22,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Nicolás Otamendi,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Lisandro Martínez,45,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Nahuel Molina,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-03-23,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2023-03-28,Lautaro Martínez,66,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Paulo Dybala,24,"FW,MF",0,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Lionel Messi,90,FW,3,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Nicolás González,90,AM,1,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Alexis Mac Allister,49,AM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Rodrigo De Paul,41,"FW,MF",0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Giovani Lo Celso,66,AM,0,2,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Ángel Di María,24,"FW,MF",1,0,,1,1,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Enzo Fernández,49,DM,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Exequiel Palacios,41,"DF,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Marcos Acuña,90,LB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Nicolás Otamendi,49,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Juan Foyth,41,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Germán Pezzella,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Gonzalo Montiel,90,RB,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Argentina,2023-03-28,Emiliano Martínez,79,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Argentina,2023-03-28,Franco Armani,11,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Argentina,2023-06-15,Alexis Mac Allister,58,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Julián Álvarez,32,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Lionel Messi,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Nicolás González,73,LW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Alejandro Garnacho,17,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Ángel Di María,58,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Giovani Lo Celso,32,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Enzo Fernández,73,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Leandro Paredes,17,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Rodrigo De Paul,78,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Guido Rodríguez,12,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Marcos Acuña,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Nicolás Otamendi,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Germán Pezzella,45,DF,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Nahuel Molina,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-15,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2023-06-19,Julián Álvarez,84,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Giovanni Simeone,6,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Nicolás González,59,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Alejandro Garnacho,31,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Facundo Buonanotte,73,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Lucas Ocampos,17,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Giovani Lo Celso,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Exequiel Palacios,84,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Thiago Almada,6,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Leandro Paredes,84,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Guido Rodríguez,6,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Facundo Medina,59,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Marcos Acuña,31,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Germán Pezzella,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Cristian Romero,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Nahuel Molina,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-06-19,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2023-09-07,Nicolás González,61,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Ángel Di María,29,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Lautaro Martínez,76,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Julián Álvarez,14,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Lionel Messi,88,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Exequiel Palacios,2,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Alexis Mac Allister,76,CM,0,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Leandro Paredes,14,MF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Enzo Fernández,90,CM,0,0,,0,0,2,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Rodrigo De Paul,90,CM,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Cristian Romero,90,CB,0,0,,0,0,1,0,5,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-07,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Argentina,2023-09-12,Nicolás González,84,FW,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Alejandro Garnacho,6,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Julián Álvarez,84,FW,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Lautaro Martínez,6,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Ángel Di María,90,FW,0,2,,0,0,2,1,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Enzo Fernández,86,CM,1,0,,0,0,3,3,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Ángel Correa,4,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Alexis Mac Allister,84,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Leandro Paredes,6,MF,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Rodrigo De Paul,75,CM,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Exequiel Palacios,15,"DF,MF",0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Nicolás Tagliafico,90,LB,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Cristian Romero,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-09-12,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Argentina,2023-10-12,Julián Álvarez,52,FW,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Lionel Messi,38,"FW,MF",0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Lautaro Martínez,90,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Nicolás González,89,FW,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Lucas Ocampos,1,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Alexis Mac Allister,90,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Enzo Fernández,79,CM,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Leandro Paredes,11,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Rodrigo De Paul,89,CM,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Giovani Lo Celso,1,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Nicolás Otamendi,90,CB,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Cristian Romero,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-12,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Argentina,2023-10-17,Nicolás González,90,FW,0,1,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Julián Álvarez,77,FW,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Lautaro Martínez,13,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Lionel Messi,90,FW,2,0,,0,0,7,5,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Enzo Fernández,90,CM,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Alexis Mac Allister,90,CM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Rodrigo De Paul,77,CM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Giovani Lo Celso,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Nicolás Tagliafico,77,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Marcos Acuña,13,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Cristian Romero,45,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Germán Pezzella,45,DF,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Gonzalo Montiel,33,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Lucas Martínez Quarta,57,"DF,MF",0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-10-17,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Brazil,2023-11-21,Gabriel Jesus,90,FW,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Gabriel Martinelli,77,AM,0,0,,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Raphael Veiga,13,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Rodrygo,90,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Raphinha,71,AM,0,0,,0,0,2,1,1,1,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Endrick,19,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Bruno Guimarães,77,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Douglas Luiz,13,MF,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,André,90,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Carlos Augusto,90,LB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Gabriel Magalhães,71,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Joelinton,9,"FW,MF",0,0,,0,0,0,0,0,0,1,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Marquinhos,45,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Nino,45,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Emerson,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2023-11-21,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Argentina,2023-11-21,Julián Álvarez,77,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Lautaro Martínez,13,FW,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Lionel Messi,77,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Ángel Di María,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Alexis Mac Allister,90,LM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Rodrigo De Paul,90,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Enzo Fernández,69,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Leandro Paredes,21,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Giovani Lo Celso,69,RM,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Nicolás González,21,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Marcos Acuña,65,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Nicolás Tagliafico,25,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Nicolás Otamendi,90,CB,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Cristian Romero,90,CB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2023-11-21,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Argentina,2024-03-22,Lautaro Martínez,90,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Giovani Lo Celso,72,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Alexis Mac Allister,18,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Ángel Di María,90,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Enzo Fernández,45,CM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Nicolás Otamendi,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Rodrigo De Paul,64,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Facundo Buonanotte,26,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Leandro Paredes,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Nicolás González,45,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Alejandro Garnacho,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Nicolás Tagliafico,55,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Valentín Barco,35,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Cristian Romero,72,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Nahuel Molina,18,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Nehuén Pérez,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-03-22,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2024-03-26,Julián Álvarez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Alejandro Garnacho,70,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Lautaro Martínez,20,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Ángel Di María,81,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Valentin Carboni,9,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Enzo Fernández,81,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Nicolás González,9,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Giovani Lo Celso,71,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Rodrigo De Paul,19,"FW,MF",0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Alexis Mac Allister,59,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Leandro Paredes,31,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Nicolás Tagliafico,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Nicolás Otamendi,81,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Germán Pezzella,9,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Nahuel Molina,90,RB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-03-26,Walter Benítez,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Argentina,2024-06-09,Lautaro Martínez,55,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Enzo Fernández,35,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Julián Álvarez,77,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Ángel Correa,13,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Ángel Di María,55,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Lionel Messi,35,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Giovani Lo Celso,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Rodrigo De Paul,85,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Exequiel Palacios,5,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Leandro Paredes,77,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Nicolás González,13,"FW,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Marcos Acuña,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Lisandro Martínez,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Cristian Romero,90,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Gonzalo Montiel,85,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Lucas Martínez Quarta,5,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-09,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2024-06-14,Lautaro Martínez,66,FW,2,0,,1,1,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Julián Álvarez,24,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Lionel Messi,90,FW,2,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Giovani Lo Celso,61,LM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Rodrigo De Paul,29,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Alexis Mac Allister,61,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Leandro Paredes,29,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Enzo Fernández,70,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Lucas Martínez Quarta,20,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Valentin Carboni,61,RM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Ángel Di María,29,"FW,MF",0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Nicolás González,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Lisandro Martínez,90,CB,0,0,,0,0,,,,1,0,1,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Nicolás Otamendi,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Nahuel Molina,70,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Gonzalo Montiel,20,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-06-14,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Argentina,2024-06-25,Julián Álvarez,72,FW,0,0,0,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Lautaro Martínez,18,FW,1,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Lionel Messi,90,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Nicolás González,72,LM,0,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Ángel Di María,18,RM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Enzo Fernández,63,CM,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Giovani Lo Celso,27,"LM,CM",0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Alexis Mac Allister,90,CM,0,0,0,0,0,4,1,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,4,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Nicolás Tagliafico,82,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Gonzalo Montiel,8,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Lisandro Martínez,90,CB,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Cristian Romero,90,CB,0,0,0,0,0,1,0,8,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Nahuel Molina,82,RB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Marcos Acuña,8,LB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-25,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Argentina,2024-06-29,Lautaro Martínez,90,FW,2,0,0,0,0,4,3,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Alejandro Garnacho,65,LW,0,0,0,0,0,2,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Nicolás González,25,LW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Ángel Di María,76,RW,0,1,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Valentin Carboni,14,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Exequiel Palacios,90,LM,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Leandro Paredes,76,CM,0,0,0,0,1,1,1,2,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Guido Rodríguez,14,CM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Giovani Lo Celso,65,RM,0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Enzo Fernández,25,RM,0,1,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Germán Pezzella,82,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Lucas Martínez Quarta,8,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Gonzalo Montiel,90,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-06-29,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Argentina,2024-07-04,Lautaro Martínez,64,FW,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Julián Álvarez,26,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,1,NA
+Argentina,2024-07-04,Lionel Messi,90,FW,0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,0,NA
+Argentina,2024-07-04,Nicolás González,90,LM,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Enzo Fernández,77,CM,0,0,0,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Nicolás Otamendi,13,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,1,NA
+Argentina,2024-07-04,Alexis Mac Allister,90,CM,0,1,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,1,NA
+Argentina,2024-07-04,Rodrigo De Paul,90,"RM,CM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Nicolás Tagliafico,90,LB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Lisandro Martínez,77,CB,1,0,0,0,0,3,1,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Giovani Lo Celso,13,RM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Cristian Romero,90,CB,0,0,0,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Nahuel Molina,89,RB,0,0,0,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-07-04,Gonzalo Montiel,1,RB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,1,NA
+Argentina,2024-07-04,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Argentina,2024-09-05,Lautaro Martínez,78,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Alejandro Garnacho,12,"FW,MF",0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Julián Álvarez,88,FW,1,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Valentín Castellanos,2,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Nicolás González,50,LM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Giovani Lo Celso,40,"FW,MF",0,1,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Enzo Fernández,90,CM,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Alexis Mac Allister,78,CM,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Paulo Dybala,12,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Rodrigo De Paul,90,CM,0,0,,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Nahuel Molina,90,RM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Lisandro Martínez,78,CB,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Marcos Acuña,12,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Cristian Romero,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-09-05,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Argentina,2024-10-10,Lionel Messi,90,FW,0,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Julián Álvarez,84,FW,0,0,,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Lautaro Martínez,6,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Thiago Almada,45,FW,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Gonzalo Montiel,45,DF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Giovani Lo Celso,67,CM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Leonardo Balerdi,23,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Rodrigo De Paul,90,CM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Enzo Fernández,84,DM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Leandro Paredes,6,MF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Nicolás Otamendi,90,CB,1,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Germán Pezzella,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2024-10-10,Gerónimo Rulli,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Argentina,2024-10-15,Julián Álvarez,64,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Thiago Almada,26,"FW,MF",1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Lautaro Martínez,72,FW,1,1,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Nicolás Paz,18,MF,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Lionel Messi,90,FW,3,2,,0,0,7,4,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Alexis Mac Allister,65,CM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Leandro Paredes,25,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Enzo Fernández,90,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Rodrigo De Paul,64,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Exequiel Palacios,26,"DF,MF",0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Nicolás Tagliafico,90,LB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Nicolás Otamendi,72,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Lisandro Martínez,18,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Cristian Romero,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Nahuel Molina,90,RB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-10-15,Gerónimo Rulli,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Argentina,2024-11-14,Lautaro Martínez,90,FW,1,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Julián Álvarez,85,AM,0,0,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Valentín Castellanos,5,FW,0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Alexis Mac Allister,63,AM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Alejandro Garnacho,27,"FW,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Lionel Messi,90,AM,0,0,,0,0,3,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Enzo Fernández,76,DM,0,1,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Leandro Paredes,14,MF,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Rodrigo De Paul,90,DM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,5,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Cristian Romero,45,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Leonardo Balerdi,45,DF,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Nahuel Molina,77,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Gonzalo Montiel,13,DF,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Argentina,2024-11-14,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+Argentina,2024-11-19,Julián Álvarez,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Lautaro Martínez,80,FW,1,0,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Giuliano Simeone,10,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Lionel Messi,90,FW,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Alexis Mac Allister,89,CM,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Leandro Paredes,1,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Enzo Fernández,90,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Rodrigo De Paul,80,CM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Giovani Lo Celso,10,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Leonardo Balerdi,89,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Facundo Medina,1,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Gonzalo Montiel,75,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Nehuén Pérez,15,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2024-11-19,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Argentina,2025-06-05,Julián Álvarez,79,FW,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Ángel Correa,11,"FW,MF",0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Thiago Almada,83,AM,0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Franco Mastantuono,7,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Nicolás Paz,56,AM,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Lionel Messi,34,"FW,MF",0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Giuliano Simeone,83,AM,0,0,,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Juan Foyth,7,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Rodrigo De Paul,90,DM,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Exequiel Palacios,90,DM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Leonardo Balerdi,78,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Facundo Medina,12,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Cristian Romero,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-06-05,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Argentina,2025-09-04,Julián Álvarez,73,FW,0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Lautaro Martínez,17,FW,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Lionel Messi,90,FW,2,0,,0,0,7,4,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Thiago Almada,80,LW,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Nicolás Paz,10,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Franco Mastantuono,62,RW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Nicolás González,28,"FW,MF",0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Leandro Paredes,73,CM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Exequiel Palacios,17,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Rodrigo De Paul,90,CM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Nicolás Tagliafico,90,LB,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Cristian Romero,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Nahuel Molina,80,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Giuliano Simeone,10,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-09-04,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Argentina,2025-09-09,Lautaro Martínez,62,FW,0,0,,0,0,2,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Julián Álvarez,28,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Nicolás González,90,AM,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Alexis Mac Allister,90,AM,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Giuliano Simeone,37,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Juan Foyth,53,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Leandro Paredes,61,DM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Franco Mastantuono,29,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Rodrigo De Paul,67,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Giovani Lo Celso,23,"FW,MF",0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Nicolás Tagliafico,90,LB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Nicolás Otamendi,30,CB,0,0,,0,0,0,0,0,0,1,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Leonardo Balerdi,90,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Gonzalo Montiel,67,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Nahuel Molina,23,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Argentina,2025-09-09,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,100.0,NA,NA,0
+Argentina,2025-10-10,Julián Álvarez,77,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Rodrigo De Paul,13,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Lautaro Martínez,90,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Giovani Lo Celso,90,LW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Nicolás Paz,90,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Leandro Paredes,62,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Giuliano Simeone,28,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Enzo Fernández,77,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Alexis Mac Allister,13,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Nicolás Tagliafico,45,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Nicolás González,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Marcos Senesi,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Cristian Romero,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Nahuel Molina,77,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Leonardo Balerdi,13,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-10,Emiliano Martínez,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2025-10-14,José Manuel López,62,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Lautaro Martínez,28,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Lionel Messi,90,FW,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Alexis Mac Allister,90,LW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Giuliano Simeone,57,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Nicolás Paz,33,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Giovani Lo Celso,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Aníbal Moreno,45,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Rodrigo De Paul,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Nicolás González,90,LB,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Leonardo Balerdi,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Nicolás Otamendi,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Lautaro Rivero,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Gonzalo Montiel,62,RB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Nahuel Molina,28,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Argentina,2025-10-14,Emiliano Martínez,75,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Argentina,2025-10-14,Facundo Cambeses,15,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
