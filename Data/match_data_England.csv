@@ -14,7 +14,7 @@ England,2021-03-25,Tyrone Mings,45,DF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 England,2021-03-25,Conor Coady,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-03-25,Reece James,45,RB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-03-25,Kieran Trippier,45,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-03-25,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2021-03-25,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2021-03-28,Mason Mount,90,FW,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-03-28,Harry Kane,90,FW,1,1,,0,0,5,1,1,1,0,0,0,NA,NA,NA,NA,NA
 England,2021-03-28,Raheem Sterling,90,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -27,7 +27,7 @@ England,2021-03-28,Luke Shaw,90,LB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-03-28,John Stones,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-03-28,Harry Maguire,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-03-28,Kyle Walker,90,RB,0,0,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
-England,2021-03-28,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2021-03-28,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2021-03-31,Raheem Sterling,89,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-03-31,Jesse Lingard,1,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-03-31,Harry Kane,88,FW,1,0,,1,1,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -41,7 +41,7 @@ England,2021-03-31,Ben Chilwell,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-03-31,John Stones,90,CB,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-03-31,Harry Maguire,90,CB,1,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-03-31,Kyle Walker,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-England,2021-03-31,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+England,2021-03-31,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 England,2021-06-02,Harry Kane,60,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-02,Dominic Calvert-Lewin,30,"FW,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-02,Bukayo Saka,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -57,7 +57,7 @@ England,2021-06-02,Tyrone Mings,61,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-02,Ben Godfrey,29,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-02,Conor Coady,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-02,Trent Alexander-Arnold,90,RB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-England,2021-06-02,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+England,2021-06-02,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 England,2021-06-06,Dominic Calvert-Lewin,81,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-06,Ollie Watkins,9,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-06,Jadon Sancho,64,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -74,7 +74,7 @@ England,2021-06-06,Kieran Trippier,16,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-06,Tyrone Mings,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-06,Ben White,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-06,Ben Godfrey,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-06-06,Sam Johnstone,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+England,2021-06-06,Sam Johnstone,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 England,2021-06-13,Harry Kane,81,FW,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-13,Jude Bellingham,9,AM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-13,Raheem Sterling,89,LW,1,0,0,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -88,7 +88,7 @@ England,2021-06-13,Kieran Trippier,90,LB,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-13,Tyrone Mings,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-13,John Stones,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-13,Kyle Walker,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-06-13,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+England,2021-06-13,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Croatia,2021-06-13,Ante Rebić,77,FW,0,0,0,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2021-06-13,Bruno Petković,13,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2021-06-13,Ivan Perišić,90,LW,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -103,7 +103,7 @@ Croatia,2021-06-13,Joško Gvardiol,90,LB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2021-06-13,Duje Ćaleta-Car,90,CB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 Croatia,2021-06-13,Domagoj Vida,90,CB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2021-06-13,Šime Vrsaljko,90,RB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
-Croatia,2021-06-13,Dominik Livaković,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Croatia,2021-06-13,Dominik Livaković,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 England,2021-06-18,Harry Kane,73,FW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-18,Marcus Rashford,17,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-18,Raheem Sterling,90,"LW,RW",0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -116,7 +116,7 @@ England,2021-06-18,Luke Shaw,90,LB,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-18,Tyrone Mings,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-18,John Stones,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-18,Reece James,90,RB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-06-18,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2021-06-18,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2021-06-22,Harry Kane,90,FW,0,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-22,Raheem Sterling,66,LW,1,0,0,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-22,Marcus Rashford,24,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -132,7 +132,7 @@ England,2021-06-22,Harry Maguire,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-22,John Stones,78,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-22,Tyrone Mings,12,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-22,Kyle Walker,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-06-22,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2021-06-22,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2021-06-29,Harry Kane,90,FW,1,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-29,Raheem Sterling,90,"LW,RW",1,0,0,0,0,2,2,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-29,Bukayo Saka,68,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -145,7 +145,7 @@ England,2021-06-29,Kieran Trippier,90,RM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-29,Harry Maguire,90,CB,0,0,0,0,0,2,1,1,1,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-29,John Stones,90,CB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-06-29,Kyle Walker,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-06-29,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+England,2021-06-29,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Germany,2021-06-29,Timo Werner,67,FW,0,0,0,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-29,Serge Gnabry,23,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-29,Thomas Müller,89,AM,0,0,0,0,0,2,0,2,0,0,0,2,NA,NA,NA,NA,NA
@@ -160,7 +160,7 @@ Germany,2021-06-29,Antonio Rüdiger,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-29,Mats Hummels,90,CB,0,0,0,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-29,Matthias Ginter,86,CB,0,0,0,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-29,Emre Can,4,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Germany,2021-06-29,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Germany,2021-06-29,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 England,2021-07-03,Harry Kane,72,FW,2,0,0,0,0,4,3,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-07-03,Dominic Calvert-Lewin,18,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-07-03,Raheem Sterling,64,LW,0,1,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
@@ -176,7 +176,7 @@ England,2021-07-03,Kieran Trippier,26,LB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-07-03,Harry Maguire,90,CB,1,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-07-03,John Stones,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-07-03,Kyle Walker,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-07-03,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+England,2021-07-03,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 England,2021-07-07,Harry Kane,120,FW,1,0,0,0,1,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-07-07,Raheem Sterling,120,"LW,RW,RM",0,0,1,0,0,6,3,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-07-07,Bukayo Saka,68,RW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -191,7 +191,7 @@ England,2021-07-07,Luke Shaw,120,LB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-07-07,Harry Maguire,120,CB,0,0,0,0,0,3,2,2,1,0,0,1,NA,NA,NA,NA,NA
 England,2021-07-07,John Stones,120,CB,0,0,0,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-07-07,Kyle Walker,120,"RB,CB",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-England,2021-07-07,Jordan Pickford,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+England,2021-07-07,Jordan Pickford,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 England,2021-07-11,Harry Kane,120,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,1,NA
 England,2021-07-11,Mason Mount,98,AM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-07-11,Jack Grealish,22,LW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -207,7 +207,7 @@ England,2021-07-11,Harry Maguire,120,CB,0,0,0,0,0,1,0,0,1,0,0,1,NA,NA,NA,1,NA
 England,2021-07-11,John Stones,120,CB,0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-07-11,Kyle Walker,119,"CB,RB",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-07-11,Jadon Sancho,1,"RW,RB",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,0,NA
-England,2021-07-11,Jordan Pickford,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+England,2021-07-11,Jordan Pickford,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 England,2021-09-02,Harry Kane,90,FW,1,0,,0,0,5,4,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-02,Jack Grealish,87,AM,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-02,Bukayo Saka,3,"DF,FW",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -221,7 +221,7 @@ England,2021-09-02,Luke Shaw,90,LB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-02,Harry Maguire,90,CB,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-02,John Stones,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-02,Kyle Walker,90,RB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-09-02,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2021-09-02,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2021-09-05,Bukayo Saka,90,FW,1,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-05,Patrick Bamford,61,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-05,Harry Kane,29,FW,1,0,,1,1,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -235,7 +235,7 @@ England,2021-09-05,Conor Coady,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-05,Tyrone Mings,90,CB,0,0,,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-05,Reece James,61,RB,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-09-05,Jack Grealish,29,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-09-05,Sam Johnstone,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2021-09-05,Sam Johnstone,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2021-09-08,Harry Kane,90,FW,1,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-09-08,Jack Grealish,90,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-09-08,Mason Mount,90,AM,0,0,,0,0,4,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -246,7 +246,7 @@ England,2021-09-08,Luke Shaw,90,LB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-09-08,Harry Maguire,90,CB,0,0,,0,0,2,0,0,1,0,0,1,NA,NA,NA,NA,NA
 England,2021-09-08,John Stones,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-09-08,Kyle Walker,90,RB,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-England,2021-09-08,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+England,2021-09-08,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,0,NA,0
 England,2021-10-09,Jadon Sancho,72,FW,0,2,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
 England,2021-10-09,Jack Grealish,18,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-10-09,Tammy Abraham,78,FW,1,0,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -261,7 +261,7 @@ England,2021-10-09,Conor Coady,90,CB,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
 England,2021-10-09,John Stones,59,CB,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
 England,2021-10-09,Fikayo Tomori,31,DF,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-10-09,Kieran Trippier,90,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-10-09,Sam Johnstone,90,GK,0,1,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2021-10-09,Sam Johnstone,90,GK,0,1,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2021-10-12,Jack Grealish,61,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-10-12,Bukayo Saka,29,"DF,FW",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-10-12,Harry Kane,75,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -276,7 +276,7 @@ England,2021-10-12,Luke Shaw,90,LB,0,0,,0,0,2,0,0,1,0,0,1,NA,NA,NA,NA,NA
 England,2021-10-12,Tyrone Mings,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-10-12,John Stones,90,CB,1,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2021-10-12,Kyle Walker,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-England,2021-10-12,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,,NA,NA,0
+England,2021-10-12,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,,0,NA,0
 England,2021-11-12,Harry Kane,62,FW,3,1,,0,0,8,4,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-12,Tammy Abraham,28,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-12,Raheem Sterling,76,FW,0,1,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -288,11 +288,11 @@ England,2021-11-12,Kalvin Phillips,62,CM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-12,Jude Bellingham,28,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-12,Jordan Henderson,90,CM,1,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-12,Reece James,76,RM,0,1,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-11-12,Trent Alexander-Arnold,14,DF,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+England,2021-11-12,Trent Alexander-Arnold,14,"DF,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-12,John Stones,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-12,Harry Maguire,90,CB,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-12,Kyle Walker,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-11-12,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+England,2021-11-12,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 England,2021-11-15,Emile Smith Rowe,72,FW,1,1,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-15,John Stones,18,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-15,Harry Kane,61,FW,4,0,,2,2,7,4,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -308,7 +308,7 @@ England,2021-11-15,Harry Maguire,45,CB,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-15,Ben Chilwell,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-15,Conor Coady,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2021-11-15,Trent Alexander-Arnold,90,RB,0,3,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2021-11-15,Aaron Ramsdale,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2021-11-15,Aaron Ramsdale,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2022-03-26,Harry Kane,88,FW,1,0,,1,1,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-03-26,Ollie Watkins,2,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-03-26,Mason Mount,61,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -325,7 +325,7 @@ England,2022-03-26,Raheem Sterling,29,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-03-26,Marc Guéhi,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-03-26,Conor Coady,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-03-26,Ben White,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-England,2022-03-26,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+England,2022-03-26,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 England,2022-03-29,Ollie Watkins,61,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-03-29,Harry Kane,29,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-03-29,Jack Grealish,61,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -342,7 +342,7 @@ England,2022-03-29,Tyrone Mings,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-03-29,Harry Maguire,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-03-29,Ben White,45,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-03-29,Kyle Walker-Peters,45,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-England,2022-03-29,Nick Pope,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+England,2022-03-29,Nick Pope,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 England,2022-06-04,Harry Kane,90,FW,0,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-04,Mason Mount,61,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-04,Jack Grealish,29,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -358,7 +358,7 @@ England,2022-06-04,Conor Coady,78,CB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-04,Kalvin Phillips,12,"DF,MF",0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-04,Kyle Walker,61,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-04,John Stones,29,DF,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-England,2022-06-04,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,100.0,NA,NA,0
+England,2022-06-04,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,100.0,0,NA,0
 Germany,2022-06-07,Kai Havertz,90,FW,0,0,,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-07,Jamal Musiala,64,AM,0,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-07,Timo Werner,26,"FW,MF",0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -373,7 +373,7 @@ Germany,2022-06-07,Serge Gnabry,26,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-07,Lukas Klostermann,90,CB,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-07,Antonio Rüdiger,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-07,Nico Schlotterbeck,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Germany,2022-06-07,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Germany,2022-06-07,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 England,2022-06-07,Harry Kane,90,FW,1,0,,0,0,5,3,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-07,Bukayo Saka,79,FW,0,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-07,Jarrod Bowen,11,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -387,7 +387,7 @@ England,2022-06-07,Kieran Trippier,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-07,John Stones,90,CB,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-07,Harry Maguire,90,CB,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-06-07,Kyle Walker,90,RB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-England,2022-06-07,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+England,2022-06-07,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 England,2022-06-11,Tammy Abraham,64,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-06-11,Harry Kane,26,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-06-11,Jack Grealish,90,FW,0,0,,0,0,1,0,2,1,0,0,0,NA,NA,NA,NA,NA
@@ -403,7 +403,7 @@ England,2022-06-11,Fikayo Tomori,87,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-06-11,Marc Guéhi,3,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-06-11,Harry Maguire,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-06-11,Reece James,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-England,2022-06-11,Aaron Ramsdale,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+England,2022-06-11,Aaron Ramsdale,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 England,2022-06-14,Jarrod Bowen,45,FW,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
 England,2022-06-14,Raheem Sterling,45,"FW,MF",0,0,,0,0,1,0,0,0,0,0,4,NA,NA,NA,NA,NA
 England,2022-06-14,Harry Kane,90,FW,0,0,,0,0,2,0,0,0,0,0,4,NA,NA,NA,NA,NA
@@ -418,7 +418,7 @@ England,2022-06-14,Reece James,90,LB,0,0,,0,0,0,0,3,0,0,0,4,NA,NA,NA,NA,NA
 England,2022-06-14,John Stones,81,CB,0,0,,0,0,2,2,2,2,1,0,4,NA,NA,NA,NA,NA
 England,2022-06-14,Marc Guéhi,90,CB,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
 England,2022-06-14,Kyle Walker,90,RB,0,0,,0,0,0,0,0,1,0,0,4,NA,NA,NA,NA,NA
-England,2022-06-14,Aaron Ramsdale,90,GK,0,0,,0,0,0,0,0,0,0,0,4,1,20.0,NA,NA,0
+England,2022-06-14,Aaron Ramsdale,90,GK,0,0,,0,0,0,0,0,0,0,0,4,1,20.0,0,NA,0
 England,2022-09-23,Harry Kane,90,FW,0,0,,0,0,5,2,2,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-09-23,Bukayo Saka,71,AM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-09-23,Jack Grealish,19,"FW,MF",0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
@@ -431,7 +431,7 @@ England,2022-09-23,Luke Shaw,19,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-09-23,Harry Maguire,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-09-23,Eric Dier,90,CB,0,0,,0,0,3,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2022-09-23,Reece James,90,RB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
-England,2022-09-23,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+England,2022-09-23,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 England,2022-09-26,Harry Kane,90,FW,1,0,,1,1,2,1,0,0,0,0,3,NA,NA,NA,NA,NA
 England,2022-09-26,Raheem Sterling,65,FW,0,0,,0,0,3,3,0,0,0,0,3,NA,NA,NA,NA,NA
 England,2022-09-26,Mason Mount,25,MF,1,0,,0,0,1,1,1,0,0,0,3,NA,NA,NA,NA,NA
@@ -446,7 +446,7 @@ England,2022-09-26,Harry Maguire,90,CB,0,0,,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA,NA
 England,2022-09-26,Eric Dier,90,CB,0,0,,0,0,1,0,2,0,0,0,3,NA,NA,NA,NA,NA
 England,2022-09-26,John Stones,36,CB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
 England,2022-09-26,Kyle Walker,54,"DF,MF",0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
-England,2022-09-26,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,33.3,NA,NA,0
+England,2022-09-26,Nick Pope,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,33.3,1,NA,0
 Germany,2022-09-26,Kai Havertz,89,FW,2,0,,0,0,3,2,1,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2022-09-26,Armel Bella Kotchap,1,DF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2022-09-26,Leroy Sané,67,AM,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
@@ -462,7 +462,7 @@ Germany,2022-09-26,Robin Gosens,23,"DF,MF",0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2022-09-26,Nico Schlotterbeck,90,CB,0,0,,0,0,0,0,0,1,0,0,3,NA,NA,NA,NA,NA
 Germany,2022-09-26,Niklas Süle,90,CB,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2022-09-26,Thilo Kehrer,90,RB,0,0,,0,0,0,0,4,1,0,0,3,NA,NA,NA,NA,NA
-Germany,2022-09-26,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,3,5,71.4,NA,NA,0
+Germany,2022-09-26,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,3,5,71.4,1,NA,0
 England,2022-11-21,Harry Kane,75,FW,0,2,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-11-21,Callum Wilson,15,FW,0,1,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-11-21,Raheem Sterling,70,LW,1,1,0,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -478,7 +478,7 @@ England,2022-11-21,Harry Maguire,69,CB,0,1,0,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-11-21,Eric Dier,21,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-11-21,John Stones,90,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-11-21,Kieran Trippier,90,RB,0,0,0,0,0,1,0,5,0,0,0,2,NA,NA,NA,NA,NA
-England,2022-11-21,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7,NA,NA,0
+England,2022-11-21,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7,0,NA,0
 England,2022-11-29,Harry Kane,57,FW,0,1,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-29,Callum Wilson,33,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-29,Marcus Rashford,74,"LW,RW",2,0,0,0,0,6,4,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -494,7 +494,7 @@ England,2022-11-29,Harry Maguire,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-29,John Stones,90,CB,0,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-29,Kyle Walker,56,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-29,Trent Alexander-Arnold,34,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2022-11-29,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2022-11-29,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2022-12-04,Harry Kane,90,FW,1,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-12-04,Phil Foden,64,LW,0,2,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-12-04,Jack Grealish,26,LW,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -510,7 +510,7 @@ England,2022-12-04,Harry Maguire,90,CB,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-12-04,John Stones,75,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-12-04,Eric Dier,15,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-12-04,Kyle Walker,90,RB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-England,2022-12-04,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2022-12-04,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2022-12-10,Harry Kane,90,FW,1,0,0,1,2,3,3,0,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-12-10,Phil Foden,84,LW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-12-10,Marcus Rashford,6,LW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -525,7 +525,7 @@ England,2022-12-10,Harry Maguire,90,CB,0,0,0,0,0,2,0,1,1,0,0,2,NA,NA,NA,NA,NA
 England,2022-12-10,John Stones,89,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-12-10,Jack Grealish,1,"CM,CB",0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 England,2022-12-10,Kyle Walker,90,RB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-England,2022-12-10,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,3,60.0,NA,NA,0
+England,2022-12-10,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,3,60.0,0,NA,0
 France,2022-12-10,Olivier Giroud,90,FW,1,0,0,0,0,4,3,0,0,0,0,1,NA,NA,NA,NA,NA
 France,2022-12-10,Kylian Mbappé,90,LW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 France,2022-12-10,Ousmane Dembélé,78,RW,0,0,0,0,0,1,0,3,1,0,0,1,NA,NA,NA,NA,NA
@@ -537,7 +537,7 @@ France,2022-12-10,Theo Hernández,90,LB,0,0,0,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA,NA
 France,2022-12-10,Dayot Upamecano,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 France,2022-12-10,Raphaël Varane,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 France,2022-12-10,Jules Koundé,90,RB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-France,2022-12-10,Hugo Lloris,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,6,100.0,NA,NA,0
+France,2022-12-10,Hugo Lloris,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,6,100.0,1,NA,0
 England,2023-03-23,Jack Grealish,68,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-03-23,Phil Foden,12,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-03-23,Kieran Trippier,10,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -552,7 +552,7 @@ England,2023-03-23,Luke Shaw,79,LB,0,0,,0,0,0,0,2,2,1,0,1,NA,NA,NA,NA,NA
 England,2023-03-23,Harry Maguire,90,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 England,2023-03-23,John Stones,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-03-23,Kyle Walker,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
-England,2023-03-23,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+England,2023-03-23,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 England,2023-03-26,James Maddison,84,FW,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-03-26,Jack Grealish,6,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-03-26,Harry Kane,80,FW,1,0,,0,0,4,3,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -566,7 +566,7 @@ England,2023-03-26,Ben Chilwell,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-03-26,Harry Maguire,90,CB,0,0,,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-03-26,John Stones,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-03-26,Kyle Walker,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2023-03-26,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2023-03-26,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2023-06-16,James Maddison,69,FW,0,0,,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-16,Eberechi Eze,21,"FW,MF",0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-16,Harry Kane,59,FW,1,0,,1,1,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -582,7 +582,7 @@ England,2023-06-16,Tyrone Mings,31,DF,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-16,Harry Maguire,90,CB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-16,Marc Guéhi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-16,Kieran Trippier,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2023-06-16,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2023-06-16,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2023-06-19,Marcus Rashford,57,FW,1,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-19,Jack Grealish,33,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-19,Harry Kane,73,FW,2,1,,1,1,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -598,7 +598,7 @@ England,2023-06-19,Luke Shaw,90,LB,0,1,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-19,Harry Maguire,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-19,John Stones,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-06-19,Kyle Walker,90,RB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2023-06-19,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2023-06-19,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2023-09-09,James Maddison,65,FW,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-09,Phil Foden,25,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-09,Harry Kane,90,FW,0,1,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -612,7 +612,7 @@ England,2023-09-09,Ben Chilwell,90,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-09,Marc Guéhi,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-09,Harry Maguire,90,CB,0,0,,0,0,3,1,1,1,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-09,Kyle Walker,90,RB,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
-England,2023-09-09,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+England,2023-09-09,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 England,2023-09-12,Harry Kane,83,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-12,Callum Wilson,7,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-12,Marcus Rashford,71,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -628,7 +628,7 @@ England,2023-09-12,Marc Guéhi,45,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-12,Harry Maguire,45,DF,0,0,,0,0,,,,0,0,1,1,NA,NA,NA,NA,NA
 England,2023-09-12,Lewis Dunk,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-09-12,Kyle Walker,90,RB,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-England,2023-09-12,Aaron Ramsdale,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+England,2023-09-12,Aaron Ramsdale,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 England,2023-10-13,Ollie Watkins,72,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-10-13,Eddie Nketiah,18,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-10-13,Jack Grealish,60,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -645,7 +645,7 @@ England,2023-10-13,Lewis Dunk,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-10-13,Fikayo Tomori,61,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-10-13,John Stones,29,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-10-13,Trent Alexander-Arnold,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-England,2023-10-13,Sam Johnstone,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+England,2023-10-13,Sam Johnstone,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 England,2023-10-17,Harry Kane,90,FW,2,0,,1,1,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-10-17,Marcus Rashford,90,AM,1,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-10-17,Jude Bellingham,84,AM,0,1,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -659,7 +659,7 @@ England,2023-10-17,Harry Maguire,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-10-17,John Stones,62,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-10-17,Marc Guéhi,28,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-10-17,Kyle Walker,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-England,2023-10-17,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+England,2023-10-17,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,0,NA,0
 England,2023-11-17,Marcus Rashford,60,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-11-17,Cole Palmer,30,"FW,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-11-17,Harry Kane,90,FW,1,0,,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA,NA
@@ -674,7 +674,7 @@ England,2023-11-17,Bukayo Saka,45,"DF,FW",0,1,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-11-17,Harry Maguire,90,CB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-11-17,Marc Guéhi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2023-11-17,Kieran Trippier,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2023-11-17,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2023-11-17,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2023-11-20,Ollie Watkins,57,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-11-20,Harry Kane,33,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-11-20,Jack Grealish,83,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -689,7 +689,7 @@ England,2023-11-20,Rico Lewis,90,LB,0,0,,0,0,2,1,0,1,0,0,1,NA,NA,NA,NA,NA
 England,2023-11-20,Marc Guéhi,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-11-20,Harry Maguire,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2023-11-20,Kyle Walker,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-England,2023-11-20,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,0.0,NA,NA,0
+England,2023-11-20,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,0.0,0,NA,0
 England,2024-03-26,Ivan Toney,79,FW,1,0,,1,1,,,,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-03-26,Ollie Watkins,11,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-03-26,Phil Foden,90,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -704,7 +704,7 @@ England,2024-03-26,John Stones,9,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-03-26,Joe Gomez,81,DF,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 England,2024-03-26,Lewis Dunk,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-03-26,Ezri Konsa,90,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-England,2024-03-26,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+England,2024-03-26,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 England,2024-06-03,Ollie Watkins,61,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-03,Harry Kane,29,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-03,Eberechi Eze,62,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -721,7 +721,7 @@ England,2024-06-03,Jarrad Branthwaite,29,DF,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-03,Lewis Dunk,72,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-03,Joe Gomez,18,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-03,Ezri Konsa,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-England,2024-06-03,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+England,2024-06-03,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 England,2024-06-07,Harry Kane,63,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-07,Ivan Toney,27,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-07,Anthony Gordon,64,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -737,8 +737,8 @@ England,2024-06-07,Marc Guéhi,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-07,John Stones,45,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-07,Ezri Konsa,45,"DF,FW",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-07,Kyle Walker,63,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-England,2024-06-07,Trent Alexander-Arnold,27,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-England,2024-06-07,Aaron Ramsdale,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+England,2024-06-07,Trent Alexander-Arnold,27,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+England,2024-06-07,Aaron Ramsdale,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 England,2024-06-16,Harry Kane,90,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-16,Phil Foden,90,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-16,Bukayo Saka,75,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -752,7 +752,7 @@ England,2024-06-16,Kieran Trippier,90,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-16,Marc Guéhi,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-16,John Stones,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-16,Kyle Walker,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2024-06-16,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2024-06-16,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2024-06-20,Harry Kane,68,FW,1,0,0,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-20,Ollie Watkins,22,FW,0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-20,Phil Foden,68,LW,0,0,0,0,0,4,1,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -767,7 +767,7 @@ England,2024-06-20,Kieran Trippier,90,LB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-20,Marc Guéhi,90,CB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-20,John Stones,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-20,Kyle Walker,90,RB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-England,2024-06-20,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,6,85.7,NA,NA,0
+England,2024-06-20,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,6,85.7,0,NA,0
 England,2024-06-25,Harry Kane,90,FW,0,0,0,0,0,5,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-25,Phil Foden,88,"LW,AM",0,0,0,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-25,Anthony Gordon,2,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -782,7 +782,7 @@ England,2024-06-25,Trent Alexander-Arnold,7,RB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,
 England,2024-06-25,Marc Guéhi,90,CB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-25,John Stones,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-06-25,Kyle Walker,90,"RB,LB",0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2024-06-25,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2024-06-25,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2024-06-30,Harry Kane,105,FW,1,0,0,0,0,5,1,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-30,Conor Gallagher,15,CM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-30,Phil Foden,89,"LW,CM",0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -798,7 +798,7 @@ England,2024-06-30,Cole Palmer,55,"RM,RW,CM",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
 England,2024-06-30,Marc Guéhi,120,CB,0,1,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-30,John Stones,120,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-06-30,Kyle Walker,120,"RB,CB",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-England,2024-06-30,Jordan Pickford,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+England,2024-06-30,Jordan Pickford,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 England,2024-07-06,Harry Kane,108,FW,0,0,0,0,0,2,0,2,1,0,0,1,NA,NA,NA,NA,NA
 England,2024-07-06,Ivan Toney,12,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,1,NA
 England,2024-07-06,Jude Bellingham,120,"AM,CM",0,0,0,0,0,2,1,1,0,0,0,1,NA,NA,NA,1,NA
@@ -814,7 +814,7 @@ England,2024-07-06,Ezri Konsa,77,CB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-07-06,Cole Palmer,43,AM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,1,NA
 England,2024-07-06,John Stones,120,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-07-06,Kyle Walker,120,CB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-England,2024-07-06,Jordan Pickford,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+England,2024-07-06,Jordan Pickford,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 England,2024-07-10,Harry Kane,80,FW,1,0,1,1,1,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-07-10,Ollie Watkins,10,FW,1,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-07-10,Jude Bellingham,90,AM,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
@@ -830,7 +830,7 @@ England,2024-07-10,Ezri Konsa,1,WB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-07-10,Marc Guéhi,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-07-10,John Stones,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-07-10,Kyle Walker,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-England,2024-07-10,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+England,2024-07-10,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Spain,2024-07-14,Álvaro Morata,67,FW,0,0,0,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Spain,2024-07-14,Mikel Oyarzabal,23,FW,1,0,0,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Spain,2024-07-14,Nico Williams,90,LW,1,0,0,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -845,7 +845,7 @@ Spain,2024-07-14,Aymeric Laporte,90,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Spain,2024-07-14,Robin Le Normand,82,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Spain,2024-07-14,Nacho,8,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Spain,2024-07-14,Dani Carvajal,90,RB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
-Spain,2024-07-14,Unai Simón,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Spain,2024-07-14,Unai Simón,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 England,2024-07-14,Harry Kane,60,FW,0,0,0,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,NA
 England,2024-07-14,Ollie Watkins,30,FW,0,0,0,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,NA
 England,2024-07-14,Jude Bellingham,90,"LW,LM",0,1,0,0,0,1,0,6,0,0,0,2,NA,NA,NA,NA,NA
@@ -859,7 +859,7 @@ England,2024-07-14,Luke Shaw,90,LB,0,0,0,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-07-14,Marc Guéhi,90,CB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-07-14,John Stones,90,CB,0,0,0,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 England,2024-07-14,Kyle Walker,90,RB,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-England,2024-07-14,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,4,66.7,NA,NA,0
+England,2024-07-14,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0
 England,2024-09-07,Anthony Gordon,76,FW,0,0,,0,0,3,3,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-07,Eberechi Eze,14,"FW,MF",0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-07,Harry Kane,83,FW,0,0,,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -875,7 +875,7 @@ England,2024-09-07,Harry Maguire,84,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-07,John Stones,6,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-07,Marc Guéhi,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-07,Trent Alexander-Arnold,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-England,2024-09-07,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2024-09-07,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2024-09-10,Harry Kane,79,FW,2,0,,0,0,7,5,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-10,Jarrod Bowen,11,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-10,Anthony Gordon,65,AM,0,0,,0,0,2,2,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -891,7 +891,7 @@ England,2024-09-10,Marc Guéhi,11,DF,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-10,Ezri Konsa,60,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-10,Levi Colwill,30,DF,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-09-10,Trent Alexander-Arnold,90,RB,0,1,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2024-09-10,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2024-09-10,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2024-10-10,Jude Bellingham,90,FW,1,0,,0,0,3,2,1,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-10-10,Phil Foden,71,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-10-10,Dominic Solanke,19,FW,0,1,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -905,7 +905,7 @@ England,2024-10-10,Rico Lewis,90,LB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-10-10,Levi Colwill,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-10-10,John Stones,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 England,2024-10-10,Trent Alexander-Arnold,90,RB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-England,2024-10-10,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+England,2024-10-10,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,0,NA,0
 England,2024-10-13,Harry Kane,68,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-10-13,Ollie Watkins,22,"FW,MF",0,1,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-10-13,Jack Grealish,90,AM,1,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -921,7 +921,7 @@ England,2024-10-13,Trent Alexander-Arnold,90,LB,1,0,,0,0,3,2,1,0,0,0,1,NA,NA,NA,
 England,2024-10-13,Marc Guéhi,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-10-13,John Stones,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-10-13,Kyle Walker,90,RB,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
-England,2024-10-13,Dean Henderson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+England,2024-10-13,Dean Henderson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 England,2024-11-14,Ollie Watkins,65,FW,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-14,Harry Kane,25,FW,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-14,Anthony Gordon,65,AM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -937,7 +937,7 @@ England,2024-11-14,Marc Guéhi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-14,Ezri Konsa,45,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-14,Lewis Hall,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-14,Kyle Walker,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2024-11-14,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,1,0,0,0,5,100.0,NA,NA,0
+England,2024-11-14,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,1,0,0,0,5,100.0,0,NA,0
 England,2024-11-17,Harry Kane,90,FW,1,0,,1,1,2,2,0,1,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-17,Anthony Gordon,74,AM,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-17,Morgan Rogers,16,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -953,7 +953,7 @@ England,2024-11-17,Marc Guéhi,90,CB,0,1,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-17,Kyle Walker,61,CB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-17,Taylor Harwood-Bellis,29,DF,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2024-11-17,Valentino Livramento,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2024-11-17,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2024-11-17,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2025-03-21,Harry Kane,90,FW,1,0,,0,0,4,3,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-21,Marcus Rashford,73,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-21,Anthony Gordon,17,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -969,7 +969,7 @@ England,2025-03-21,Reece James,1,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-21,Dan Burn,90,CB,0,0,,0,0,3,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-21,Ezri Konsa,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-21,Kyle Walker,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2025-03-21,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2025-03-21,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2025-03-24,Harry Kane,90,FW,1,0,,0,0,5,2,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-24,Marcus Rashford,78,AM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-24,Curtis Jones,12,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -985,7 +985,7 @@ England,2025-03-24,Kyle Walker,12,"DF,MF",0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-24,Ezri Konsa,90,CB,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-24,Marc Guéhi,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-03-24,Reece James,90,RB,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
-England,2025-03-24,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2025-03-24,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 England,2025-06-07,Harry Kane,90,FW,1,0,,0,0,5,3,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Noni Madueke,90,AM,0,1,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Jude Bellingham,89,AM,0,0,,0,0,3,3,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -993,7 +993,7 @@ England,2025-06-07,Morgan Gibbs-White,1,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,
 England,2025-06-07,Curtis Jones,79,AM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Declan Rice,11,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Jordan Henderson,64,DM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-England,2025-06-07,Trent Alexander-Arnold,26,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+England,2025-06-07,Trent Alexander-Arnold,26,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Cole Palmer,64,DM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Eberechi Eze,26,"FW,MF",0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Morgan Rogers,79,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -1001,7 +1001,7 @@ England,2025-06-07,Anthony Gordon,11,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,
 England,2025-06-07,Ezri Konsa,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Dan Burn,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-06-07,Reece James,90,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2025-06-07,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2025-06-07,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2025-06-10,Harry Kane,58,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 England,2025-06-10,Morgan Rogers,32,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 England,2025-06-10,Eberechi Eze,90,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -1018,7 +1018,7 @@ England,2025-06-10,Ivan Toney,3,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 England,2025-06-10,Levi Colwill,90,CB,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
 England,2025-06-10,Trevoh Chalobah,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 England,2025-06-10,Kyle Walker,90,RB,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
-England,2025-06-10,Dean Henderson,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+England,2025-06-10,Dean Henderson,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
 England,2025-09-06,Harry Kane,90,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-06,Marcus Rashford,67,AM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-06,Anthony Gordon,23,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -1034,7 +1034,7 @@ England,2025-09-06,Marc Guéhi,75,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-06,Ezri Konsa,15,"DF,FW",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-06,Reece James,68,RB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-06,Valentino Livramento,22,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2025-09-06,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2025-09-06,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2025-09-09,Harry Kane,75,FW,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-09,Ollie Watkins,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-09,Anthony Gordon,67,AM,0,0,,0,0,4,3,0,1,0,0,0,NA,NA,NA,NA,NA
@@ -1050,7 +1050,7 @@ England,2025-09-09,Marc Guéhi,90,CB,1,1,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-09,Ezri Konsa,90,CB,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-09,Reece James,67,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-09-09,Djed Spence,23,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2025-09-09,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+England,2025-09-09,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 England,2025-10-09,Ollie Watkins,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-09,Marcus Rashford,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-09,Anthony Gordon,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -1067,7 +1067,7 @@ England,2025-10-09,Marc Guéhi,90,CB,0,2,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-09,John Stones,79,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-09,Myles Lewis-Skelly,11,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-09,Ezri Konsa,90,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-England,2025-10-09,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+England,2025-10-09,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 England,2025-10-14,Anthony Gordon,70,FW,1,0,,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-14,Marcus Rashford,20,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-14,Harry Kane,90,FW,2,0,,1,1,8,4,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -1083,4 +1083,4 @@ England,2025-10-14,John Stones,70,CB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-14,Dan Burn,20,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-14,Ezri Konsa,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 England,2025-10-14,Djed Spence,90,RB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-England,2025-10-14,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2025-10-14,Jordan Pickford,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0

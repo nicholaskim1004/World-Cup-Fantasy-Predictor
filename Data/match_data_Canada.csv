@@ -14,7 +14,7 @@ Canada,2021-03-25,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-03-25,Steven Vitória,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-03-25,Richie Laryea,68,RB,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-03-25,Alistair Johnston,22,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-03-25,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2021-03-25,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2021-03-29,Cyle Larin,59,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-03-29,Lucas Cavallini,31,FW,3,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-03-29,Liam Millar,59,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -30,7 +30,7 @@ Canada,2021-03-29,Frank Sturing,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-03-29,Ricardo Ferreira,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-03-29,Alistair Johnston,67,RB,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-03-29,Richie Laryea,23,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-03-29,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2021-03-29,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2021-06-05,Lucas Cavallini,72,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-05,Cyle Larin,18,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-05,Liam Millar,45,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -46,7 +46,7 @@ Canada,2021-06-05,Alphonso Davies,25,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-05,Frank Sturing,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-05,Steven Vitória,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-05,Liam Fraser,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-06-05,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2021-06-05,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2021-06-08,Jonathan David,80,FW,3,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-08,David Wotherspoon,10,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-08,Alphonso Davies,81,FW,1,2,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
@@ -62,7 +62,7 @@ Canada,2021-06-08,Tajon Buchanan,10,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-08,Scott Kennedy,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-08,Doneil Henry,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-08,Alistair Johnston,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-06-08,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2021-06-08,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2021-06-12,Cyle Larin,77,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-12,Doneil Henry,13,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-12,Jonathan Osorio,81,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -78,7 +78,7 @@ Canada,2021-06-12,Tajon Buchanan,13,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-12,Scott Kennedy,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-12,Steven Vitória,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-12,Alistair Johnston,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-06-12,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2021-06-12,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2021-06-15,Cyle Larin,74,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-15,Sam Adekugbe,16,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-15,Jonathan David,81,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -93,7 +93,7 @@ Canada,2021-06-15,Stephen Eustáquio,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-15,Scott Kennedy,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-15,Steven Vitória,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-06-15,Doneil Henry,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-06-15,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2021-06-15,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2021-07-11,Cyle Larin,73,FW,1,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-11,Theo Corbeanu,17,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-11,Junior Hoilett,61,FW,0,2,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -109,7 +109,7 @@ Canada,2021-07-11,Kamal Miller,76,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-11,Doneil Henry,14,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-11,Steven Vitória,90,CB,0,0,,0,0,1,1,1,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-11,Alistair Johnston,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-07-11,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Canada,2021-07-11,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Canada,2021-07-15,Cyle Larin,76,FW,2,0,,1,1,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-15,Ayo Akinola,14,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-15,Lucas Cavallini,62,FW,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -125,7 +125,7 @@ Canada,2021-07-15,Richie Laryea,28,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-15,Kamal Miller,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-15,Steven Vitória,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-15,Doneil Henry,90,CB,0,0,,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-07-15,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+Canada,2021-07-15,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,0,NA,0
 United States,2021-07-18,Daryl Dike,90,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-07-18,Gyasi Zardes,74,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-07-18,Matthew Hoppe,16,FW,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -141,7 +141,7 @@ United States,2021-07-18,Walker Zimmerman,14,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,
 United States,2021-07-18,Donovan Pines,76,DF,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-07-18,Shaq Moore,57,RB,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-07-18,Reggie Cannon,33,DF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-United States,2021-07-18,Matt Turner,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+United States,2021-07-18,Matt Turner,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Canada,2021-07-18,Cyle Larin,52,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-18,Lucas Cavallini,38,FW,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-18,Ayo Akinola,23,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -156,7 +156,7 @@ Canada,2021-07-18,Richie Laryea,90,DM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-18,Kamal Miller,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-18,Steven Vitória,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-07-18,Alistair Johnston,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-07-18,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Canada,2021-07-18,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Canada,2021-07-25,Lucas Cavallini,83,FW,0,0,,0,0,2,0,2,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-07-25,Doneil Henry,7,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-07-25,Jonathan Osorio,84,FW,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -172,7 +172,7 @@ Canada,2021-07-25,Theo Corbeanu,3,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-07-25,Kamal Miller,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-07-25,Steven Vitória,90,CB,0,0,,0,0,2,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-07-25,Alistair Johnston,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-07-25,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Canada,2021-07-25,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Mexico,2021-07-29,Rogelio Funes Mori,90,FW,0,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-07-29,Orbelín Pineda,77,FW,1,0,,1,1,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-07-29,Rodolfo Pizarro,13,"DF,FW",0,1,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -186,7 +186,7 @@ Mexico,2021-07-29,Luis Alfonso Rodríguez,90,RM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,
 Mexico,2021-07-29,Jesús Gallardo,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-07-29,Héctor Moreno,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-07-29,Carlos Salcedo,90,CB,0,0,,0,1,1,1,2,0,0,0,1,NA,NA,NA,NA,NA
-Mexico,2021-07-29,Alfredo Talavera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Mexico,2021-07-29,Alfredo Talavera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Canada,2021-07-29,Tesho Akindele,68,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2021-07-29,Theo Corbeanu,22,"FW,MF",0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2021-07-29,Jonathan Osorio,90,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -199,7 +199,7 @@ Canada,2021-07-29,Tajon Buchanan,90,RM,1,0,,0,0,3,2,0,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2021-07-29,Kamal Miller,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2021-07-29,Doneil Henry,90,CB,0,0,,0,0,1,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2021-07-29,Alistair Johnston,90,CB,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
-Canada,2021-07-29,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,1,0,0,2,4,75.0,NA,NA,0
+Canada,2021-07-29,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,1,0,0,2,4,75.0,1,NA,0
 Canada,2021-09-02,Cyle Larin,90,FW,1,0,,1,1,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-02,Richie Laryea,90,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-02,Jonathan David,90,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -212,7 +212,7 @@ Canada,2021-09-02,Kamal Miller,85,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-02,Scott Kennedy,5,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-02,Steven Vitória,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-02,Alistair Johnston,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-09-02,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2021-09-02,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2021-09-05,Jordan Pefok,82,FW,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 United States,2021-09-05,Konrad De La Fuente,8,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-09-05,Christian Pulisic,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -227,7 +227,7 @@ United States,2021-09-05,DeAndre Yedlin,47,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,
 United States,2021-09-05,John Brooks,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 United States,2021-09-05,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-09-05,Antonee Robinson,90,RB,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2021-09-05,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2021-09-05,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2021-09-05,Cyle Larin,64,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-05,Jonathan David,26,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-05,Alphonso Davies,75,FW,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -243,7 +243,7 @@ Canada,2021-09-05,Scott Kennedy,57,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-05,Kamal Miller,33,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-05,Doneil Henry,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-09-05,Alistair Johnston,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-09-05,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2021-09-05,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2021-09-08,Jonathan David,78,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-09-08,Lucas Cavallini,12,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-09-08,Junior Hoilett,56,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -259,7 +259,7 @@ Canada,2021-09-08,David Wotherspoon,21,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-09-08,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-09-08,Steven Vitória,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-09-08,Alistair Johnston,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-09-08,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2021-09-08,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Mexico,2021-10-07,Raúl Jiménez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-10-07,Hirving Lozano,90,FW,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-10-07,Jesús Corona,71,FW,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
@@ -273,7 +273,7 @@ Mexico,2021-10-07,Jesús Gallardo,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-10-07,Néstor Araujo,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-10-07,César Montes,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Mexico,2021-10-07,Jorge Eduardo Sánchez,90,RB,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Mexico,2021-10-07,Guillermo Ochoa,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Mexico,2021-10-07,Guillermo Ochoa,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2021-10-07,Jonathan David,85,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-10-07,Charles-Andréas Brym,5,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-10-07,Alphonso Davies,90,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -288,11 +288,11 @@ Canada,2021-10-07,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-10-07,Steven Vitória,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-10-07,Alistair Johnston,75,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-10-07,Sam Adekugbe,15,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-10-07,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2021-10-07,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2021-10-10,Sam Adekugbe,88,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-10-10,Jacob Shaffelburg,2,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-10-10,Derek Cornelius,90,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-10-10,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2021-10-10,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2021-10-10,Jonathan David,88,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-10-10,Charles-Andréas Brym,2,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-10-10,Alphonso Davies,90,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -319,7 +319,7 @@ Canada,2021-10-13,Tajon Buchanan,90,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-10-13,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-10-13,Steven Vitória,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-10-13,Alistair Johnston,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-10-13,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2021-10-13,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2021-11-12,Alphonso Davies,82,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-11-12,Jonathan Osorio,8,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-11-12,Liam Millar,64,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -335,7 +335,7 @@ Canada,2021-11-12,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-11-12,Steven Vitória,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-11-12,Richie Laryea,71,RB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2021-11-12,Alistair Johnston,19,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2021-11-12,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2021-11-12,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2021-11-16,Cyle Larin,72,FW,2,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-11-16,Jonathan David,15,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-11-16,Lucas Cavallini,3,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -350,7 +350,7 @@ Canada,2021-11-16,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-11-16,Doneil Henry,36,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-11-16,Steven Vitória,54,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2021-11-16,Alistair Johnston,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2021-11-16,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2021-11-16,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Mexico,2021-11-16,Hirving Lozano,45,FW,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 Mexico,2021-11-16,Roberto Alvarado,45,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Mexico,2021-11-16,Raúl Jiménez,90,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -365,7 +365,7 @@ Mexico,2021-11-16,Johan Vásquez,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Mexico,2021-11-16,Julio Domínguez,45,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Mexico,2021-11-16,Jesús Corona,45,"DF,FW",0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Mexico,2021-11-16,Néstor Araujo,90,CB,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Mexico,2021-11-16,Guillermo Ochoa,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Mexico,2021-11-16,Guillermo Ochoa,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Canada,2022-01-27,Cyle Larin,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-27,Jonathan David,80,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-27,Lucas Cavallini,10,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
@@ -380,7 +380,7 @@ Canada,2022-01-27,Scott Kennedy,80,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-27,Kamal Miller,10,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-27,Steven Vitória,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-27,Alistair Johnston,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2022-01-27,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2022-01-27,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2022-01-30,Cyle Larin,72,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-30,Junior Hoilett,18,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-30,Jonathan David,82,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -394,7 +394,7 @@ Canada,2022-01-30,Sam Adekugbe,90,LB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-30,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-30,Steven Vitória,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-01-30,Alistair Johnston,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2022-01-30,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2022-01-30,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2022-01-30,Gyasi Zardes,68,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-01-30,Ricardo Pepi,22,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-01-30,Christian Pulisic,90,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -410,7 +410,7 @@ United States,2022-01-30,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-01-30,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-01-30,Sergiño Dest,75,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-01-30,Reggie Cannon,15,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-United States,2022-01-30,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+United States,2022-01-30,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Canada,2022-02-02,Jonathan David,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-02-02,Liam Millar,57,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-02-02,Cyle Larin,33,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -426,7 +426,7 @@ Canada,2022-02-02,Scott Kennedy,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-02-02,Doneil Henry,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-02-02,Richie Laryea,82,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-02-02,Zachary Brault-Guillard,8,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2022-02-02,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2022-02-02,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2022-03-24,Cyle Larin,78,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-24,Ike Ugbo,12,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-24,Jonathan Osorio,78,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -440,7 +440,7 @@ Canada,2022-03-24,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-24,Atiba Hutchinson,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-24,Alistair Johnston,68,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-24,Junior Hoilett,22,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2022-03-24,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2022-03-24,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2022-03-27,Cyle Larin,61,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-03-27,Lucas Cavallini,29,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-03-27,Junior Hoilett,90,AM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -456,7 +456,7 @@ Canada,2022-03-27,Doneil Henry,61,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-03-27,Atiba Hutchinson,29,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-03-27,Richie Laryea,61,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-03-27,Alistair Johnston,29,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2022-03-27,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2022-03-27,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2022-03-30,Jonathan David,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-30,Lucas Cavallini,58,FW,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-30,Cyle Larin,32,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -472,7 +472,7 @@ Canada,2022-03-30,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-30,Atiba Hutchinson,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-30,Alistair Johnston,72,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-03-30,Richie Laryea,18,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2022-03-30,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2022-03-30,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2022-09-23,Jonathan David,58,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-09-23,Charles-Andréas Brym,32,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-09-23,Alphonso Davies,59,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -489,7 +489,7 @@ Canada,2022-09-23,Liam Millar,25,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-09-23,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-09-23,Steven Vitória,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2022-09-23,Alistair Johnston,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2022-09-23,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2022-09-23,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2022-09-27,Cyle Larin,73,FW,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-09-27,Ike Ugbo,17,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-09-27,Jonathan David,90,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -505,7 +505,7 @@ Canada,2022-09-27,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-09-27,Steven Vitória,78,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-09-27,Theo Corbeanu,12,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-09-27,Alistair Johnston,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Canada,2022-09-27,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Canada,2022-09-27,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Uruguay,2022-09-27,Luis Suárez,45,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-09-27,Giorgian De Arrascaeta,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-09-27,Darwin Núñez,60,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -522,7 +522,7 @@ Uruguay,2022-09-27,Mathías Olivera,90,LB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-09-27,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-09-27,Martín Cáceres,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-09-27,Guillermo Varela,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-09-27,Sergio Rochet,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Uruguay,2022-09-27,Sergio Rochet,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2022-11-11,Lucas Cavallini,87,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-11-11,Jayden Nelson,3,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-11-11,Jonathan Osorio,90,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -539,7 +539,7 @@ Canada,2022-11-11,Kamal Miller,70,CB,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-11-11,Lukas MacNaughton,20,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-11-11,Joel Waterman,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-11-11,Alistair Johnston,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Canada,2022-11-11,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Canada,2022-11-11,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Japan,2022-11-17,Takuma Asano,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2022-11-17,Ayase Ueda,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2022-11-17,Takefusa Kubo,45,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -556,7 +556,7 @@ Japan,2022-11-17,Ko Itakura,66,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2022-11-17,Yuto Nagatomo,24,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2022-11-17,Hiroki Sakai,45,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2022-11-17,Miki Yamane,45,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Japan,2022-11-17,Shūichi Gonda,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Japan,2022-11-17,Shūichi Gonda,90,GK,0,0,,0,0,,,,0,0,0,2,,,1,NA,0
 Canada,2022-11-17,Cyle Larin,70,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-17,Lucas Cavallini,20,FW,1,0,,1,1,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-17,Jonathan David,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -573,7 +573,7 @@ Canada,2022-11-17,Kamal Miller,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-17,Steven Vitória,90,CB,1,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-17,Alistair Johnston,70,RB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-17,Joel Waterman,20,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2022-11-17,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2022-11-17,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2022-11-23,Jonathan David,90,"FW,AM",0,0,0,0,0,7,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-23,Junior Hoilett,57,AM,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-23,Cyle Larin,33,FW,0,0,0,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -589,7 +589,7 @@ Canada,2022-11-23,Sam Adekugbe,17,WB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-23,Kamal Miller,90,CB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-23,Steven Vitória,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2022-11-23,Alistair Johnston,90,CB,0,0,0,0,0,1,1,2,1,0,0,1,NA,NA,NA,NA,NA
-Canada,2022-11-23,Milan Borjan,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Canada,2022-11-23,Milan Borjan,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Croatia,2022-11-27,Marko Livaja,59,FW,1,0,0,0,0,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-11-27,Bruno Petković,31,FW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-11-27,Ivan Perišić,85,LW,0,2,0,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -605,7 +605,7 @@ Croatia,2022-11-27,Borna Sosa,90,LB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-11-27,Joško Gvardiol,90,CB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-11-27,Dejan Lovren,90,CB,0,0,0,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-11-27,Josip Juranović,90,RB,0,1,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Croatia,2022-11-27,Dominik Livaković,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Croatia,2022-11-27,Dominik Livaković,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Canada,2022-11-27,Cyle Larin,45,FW,0,0,0,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2022-11-27,Jonathan Osorio,45,"FW,CM",0,0,0,0,0,1,0,2,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2022-11-27,Jonathan David,71,FW,0,0,0,0,0,1,1,1,0,0,0,4,NA,NA,NA,NA,NA
@@ -621,7 +621,7 @@ Canada,2022-11-27,Junior Hoilett,29,"FW,RM",0,0,0,0,0,3,0,2,0,0,0,4,NA,NA,NA,NA,
 Canada,2022-11-27,Kamal Miller,90,CB,0,0,0,0,0,0,0,2,1,0,0,4,NA,NA,NA,NA,NA
 Canada,2022-11-27,Steven Vitória,90,CB,0,0,0,0,0,0,0,2,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2022-11-27,Alistair Johnston,90,RB,0,0,0,0,0,0,0,2,0,0,0,4,NA,NA,NA,NA,NA
-Canada,2022-11-27,Milan Borjan,90,GK,0,0,0,0,0,0,0,0,0,0,0,4,6,60.0,NA,NA,0
+Canada,2022-11-27,Milan Borjan,90,GK,0,0,0,0,0,0,0,0,0,0,0,4,6,60.0,0,NA,0
 Canada,2022-12-01,Cyle Larin,59,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-12-01,Jonathan David,31,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-12-01,Junior Hoilett,75,FW,0,0,0,0,0,0,0,5,1,0,0,2,NA,NA,NA,NA,NA
@@ -637,7 +637,7 @@ Canada,2022-12-01,Ismaël Koné,31,"CM,LB",0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,N
 Canada,2022-12-01,Kamal Miller,90,CB,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-12-01,Steven Vitória,90,CB,0,0,0,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2022-12-01,Alistair Johnston,90,RB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Canada,2022-12-01,Milan Borjan,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+Canada,2022-12-01,Milan Borjan,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,NA,0
 Canada,2023-06-27,Junior Hoilett,64,FW,0,1,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-06-27,Charles-Andréas Brym,26,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-06-27,Lucas Cavallini,80,FW,1,0,,0,0,7,3,0,1,0,0,2,NA,NA,NA,NA,NA
@@ -653,7 +653,7 @@ Canada,2023-06-27,Dominick Zator,1,DF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-06-27,Kamal Miller,90,CB,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-06-27,Steven Vitória,90,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-06-27,Zac McGraw,90,CB,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Canada,2023-06-27,Milan Borjan,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,NA,NA,0
+Canada,2023-06-27,Milan Borjan,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,0,NA,0
 Canada,2023-07-01,Junior Hoilett,64,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2023-07-01,Jacob Shaffelburg,26,"FW,MF",0,0,,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2023-07-01,Lucas Cavallini,90,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -669,7 +669,7 @@ Canada,2023-07-01,Kamal Miller,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2023-07-01,Steven Vitória,79,CB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2023-07-01,Zachary Brault-Guillard,11,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2023-07-01,Moïse Bombito,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Canada,2023-07-01,Milan Borjan,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Canada,2023-07-01,Milan Borjan,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Canada,2023-07-04,Liam Millar,90,FW,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-07-04,Lucas Cavallini,68,FW,0,1,,0,0,2,1,2,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-07-04,Scott Kennedy,22,DF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -685,7 +685,7 @@ Canada,2023-07-04,Kamal Miller,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-07-04,Zac McGraw,82,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-07-04,Dominick Zator,8,DF,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-07-04,Richie Laryea,90,RB,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
-Canada,2023-07-04,Dayne St. Clair,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,,NA,NA,0
+Canada,2023-07-04,Dayne St. Clair,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,,0,NA,0
 United States,2023-07-09,Alejandro Zendejas,62,FW,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 United States,2023-07-09,Cade Cowell,58,"FW,MF",0,0,,0,0,2,0,0,1,0,0,2,NA,NA,NA,1,NA
 United States,2023-07-09,Jesús Ferreira,120,FW,0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,1,NA
@@ -702,7 +702,7 @@ United States,2023-07-09,Miles Robinson,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
 United States,2023-07-09,Aaron Long,30,DF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 United States,2023-07-09,Bryan Reynolds,112,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 United States,2023-07-09,Cristian Roldan,8,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-United States,2023-07-09,Matt Turner,120,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,3
+United States,2023-07-09,Matt Turner,120,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,1,NA,3
 Canada,2023-07-09,Lucas Cavallini,71,FW,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-07-09,Jacen Russell-Rowe,49,FW,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,1,NA
 Canada,2023-07-09,Junior Hoilett,85,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -719,7 +719,7 @@ Canada,2023-07-09,Kamal Miller,120,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,1,NA
 Canada,2023-07-09,Steven Vitória,120,CB,1,0,,1,1,2,1,0,0,0,0,2,NA,NA,NA,0,NA
 Canada,2023-07-09,Zac McGraw,90,CB,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2023-07-09,Scott Kennedy,30,DF,0,0,,0,0,0,0,1,0,0,1,2,NA,NA,NA,NA,NA
-Canada,2023-07-09,Dayne St. Clair,120,GK,0,0,,0,0,0,0,0,0,0,0,2,7,77.8,NA,NA,1
+Canada,2023-07-09,Dayne St. Clair,120,GK,0,0,,0,0,0,0,0,0,0,0,2,7,77.8,0,NA,1
 Japan,2023-10-13,Takuma Asano,71,FW,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2023-10-13,Kyogo Furuhashi,19,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2023-10-13,Keito Nakamura,60,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -736,7 +736,7 @@ Japan,2023-10-13,Koki Machida,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2023-10-13,Takehiro Tomiyasu,45,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2023-10-13,Shogo Taniguchi,45,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2023-10-13,Seiya Maikuma,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Japan,2023-10-13,Keisuke Ōsako,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Japan,2023-10-13,Keisuke Ōsako,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2023-10-13,Jonathan David,90,FW,0,0,,0,1,,,,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2023-10-13,Cyle Larin,80,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2023-10-13,Charles-Andréas Brym,10,"FW,MF",0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
@@ -753,7 +753,7 @@ Canada,2023-10-13,Derek Cornelius,45,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2023-10-13,Steven Vitória,45,DF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2023-10-13,Alistair Johnston,80,CB,0,0,,0,0,,,,1,0,0,4,NA,NA,NA,NA,NA
 Canada,2023-10-13,Liam Millar,10,"DF,FW",0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Canada,2023-10-13,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,4,,,NA,NA,0
+Canada,2023-10-13,Milan Borjan,90,GK,0,0,,0,0,,,,0,0,0,4,,,0,NA,0
 Canada,2024-06-06,Cyle Larin,70,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2024-06-06,Junior Hoilett,20,"FW,MF",0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2024-06-06,Jonathan David,90,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
@@ -770,7 +770,7 @@ Canada,2024-06-06,Derek Cornelius,90,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2024-06-06,Moïse Bombito,90,CB,0,0,,0,0,,,,1,0,0,4,NA,NA,NA,NA,NA
 Canada,2024-06-06,Alistair Johnston,55,RB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Canada,2024-06-06,Dominick Zator,35,DF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Canada,2024-06-06,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,4,,,NA,NA,0
+Canada,2024-06-06,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,4,,,0,NA,0
 France,2024-06-09,Olivier Giroud,61,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 France,2024-06-09,Bradley Barcola,29,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 France,2024-06-09,Marcus Thuram,73,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -787,7 +787,7 @@ France,2024-06-09,William Saliba,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 France,2024-06-09,Dayot Upamecano,61,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 France,2024-06-09,Ibrahima Konaté,29,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 France,2024-06-09,Jules Koundé,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-France,2024-06-09,Mike Maignan,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+France,2024-06-09,Mike Maignan,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2024-06-09,Jonathan David,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-09,Cyle Larin,70,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-09,Jonathan Osorio,20,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -804,7 +804,7 @@ Canada,2024-06-09,Kamal Miller,20,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-09,Moïse Bombito,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-09,Alistair Johnston,61,RB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-09,Richie Laryea,29,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2024-06-09,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2024-06-09,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Argentina,2024-06-20,Julián Álvarez,75,FW,1,0,0,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-06-20,Lautaro Martínez,15,FW,1,0,0,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-06-20,Lionel Messi,90,FW,0,1,0,0,0,6,2,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -820,7 +820,7 @@ Argentina,2024-06-20,Lisandro Martínez,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,N
 Argentina,2024-06-20,Cristian Romero,90,CB,0,0,0,0,0,0,0,6,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-06-20,Nahuel Molina,88,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-06-20,Gonzalo Montiel,2,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Argentina,2024-06-20,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Argentina,2024-06-20,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Canada,2024-06-20,Cyle Larin,79,FW,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-06-20,Richie Laryea,11,"LB,FW",0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-06-20,Jonathan David,90,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -835,7 +835,7 @@ Canada,2024-06-20,Alphonso Davies,90,"LB,LM",0,0,0,0,0,3,0,3,0,0,0,2,NA,NA,NA,NA
 Canada,2024-06-20,Derek Cornelius,90,CB,0,0,0,0,0,0,0,5,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-06-20,Moïse Bombito,90,CB,0,0,0,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-06-20,Alistair Johnston,90,RB,0,0,0,0,0,0,0,6,0,0,0,2,NA,NA,NA,NA,NA
-Canada,2024-06-20,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,6,75.0,NA,NA,0
+Canada,2024-06-20,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,6,75.0,0,NA,0
 Canada,2024-06-25,Cyle Larin,81,FW,0,0,0,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-25,Tani Oluwaseyi,9,FW,0,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-25,Alphonso Davies,90,"LW,LB,WB",0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -851,7 +851,7 @@ Canada,2024-06-25,Derek Cornelius,45,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-25,Kamal Miller,45,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-25,Moïse Bombito,90,CB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-25,Alistair Johnston,90,"RB,CB",0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2024-06-25,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Canada,2024-06-25,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Canada,2024-06-29,Cyle Larin,75,FW,0,0,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-29,Tani Oluwaseyi,15,FW,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-29,Jacob Shaffelburg,64,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -866,7 +866,7 @@ Canada,2024-06-29,Alphonso Davies,90,LB,0,0,0,0,0,1,0,5,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-29,Derek Cornelius,90,CB,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-29,Moïse Bombito,90,CB,0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-06-29,Alistair Johnston,90,RB,0,0,0,0,0,0,0,6,1,0,0,0,NA,NA,NA,NA,NA
-Canada,2024-06-29,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Canada,2024-06-29,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Canada,2024-07-05,Cyle Larin,71,FW,0,0,0,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-07-05,Tani Oluwaseyi,19,FW,0,0,0,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-07-05,Jacob Shaffelburg,61,LW,1,0,0,0,0,2,2,2,1,0,0,1,NA,NA,NA,NA,NA
@@ -881,7 +881,7 @@ Canada,2024-07-05,Alphonso Davies,90,LB,0,0,0,0,0,0,0,7,0,0,0,1,NA,NA,NA,1,NA
 Canada,2024-07-05,Derek Cornelius,90,CB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-07-05,Moïse Bombito,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,1,NA
 Canada,2024-07-05,Alistair Johnston,90,RB,0,0,0,0,0,1,1,6,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2024-07-05,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Canada,2024-07-05,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Argentina,2024-07-09,Julián Álvarez,77,FW,1,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-07-09,Lautaro Martínez,13,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-07-09,Lionel Messi,90,FW,1,0,0,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -897,7 +897,7 @@ Argentina,2024-07-09,Lisandro Martínez,90,"CB,LB",0,0,0,0,0,1,0,0,0,0,0,0,NA,NA
 Argentina,2024-07-09,Cristian Romero,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-07-09,Gonzalo Montiel,70,RB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-07-09,Nahuel Molina,20,RB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Argentina,2024-07-09,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Argentina,2024-07-09,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Canada,2024-07-09,Cyle Larin,90,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-07-09,Jonathan David,63,FW,0,0,0,0,0,1,1,2,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-07-09,Tani Oluwaseyi,27,FW,0,0,0,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -913,7 +913,7 @@ Canada,2024-07-09,Jonathan Osorio,20,LM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-07-09,Derek Cornelius,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-07-09,Moïse Bombito,90,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-07-09,Alistair Johnston,90,RB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Canada,2024-07-09,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,33.3,NA,NA,0
+Canada,2024-07-09,Maxime Crépeau,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,33.3,0,NA,0
 Canada,2024-07-13,Tani Oluwaseyi,66,FW,0,0,0,0,0,3,1,1,1,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-07-13,Jonathan David,24,"AM,FW",1,0,0,0,0,1,1,2,0,0,0,2,NA,NA,NA,1,NA
 Canada,2024-07-13,Jacob Shaffelburg,90,LW,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
@@ -929,7 +929,7 @@ Canada,2024-07-13,Luc De Fougerolles,66,CB,0,0,0,0,0,1,0,1,1,0,0,2,NA,NA,NA,NA,N
 Canada,2024-07-13,Derek Cornelius,24,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-07-13,Alistair Johnston,61,RB,0,0,0,0,0,0,0,4,0,0,0,2,NA,NA,NA,NA,NA
 Canada,2024-07-13,Alphonso Davies,29,RB,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,0,NA
-Canada,2024-07-13,Dayne St. Clair,90,GK,0,0,0,0,0,0,0,0,1,0,0,2,3,60.0,NA,NA,0
+Canada,2024-07-13,Dayne St. Clair,90,GK,0,0,0,0,0,0,0,0,1,0,0,2,3,60.0,0,NA,0
 Uruguay,2024-07-13,Darwin Núñez,45,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-07-13,Luis Suárez,45,FW,1,0,0,0,0,3,3,0,0,0,0,2,NA,NA,NA,1,NA
 Uruguay,2024-07-13,Maximiliano Araújo,60,LW,0,0,0,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -945,7 +945,7 @@ Uruguay,2024-07-13,Lucas Olaza,25,LB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-07-13,Sebastián Cáceres,90,CB,0,1,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-07-13,José María Giménez,90,CB,0,1,0,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-07-13,Nahitan Nández,90,RB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2024-07-13,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,3,60.0,NA,NA,2
+Uruguay,2024-07-13,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,3,60.0,0,NA,2
 United States,2024-09-07,Folarin Balogun,81,FW,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 United States,2024-09-07,Ricardo Pepi,9,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2024-09-07,Christian Pulisic,90,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -961,7 +961,7 @@ United States,2024-09-07,Kristoffer Lund,90,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,N
 United States,2024-09-07,Tim Ream,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2024-09-07,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2024-09-07,Joe Scally,90,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-United States,2024-09-07,Patrick Schulte,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+United States,2024-09-07,Patrick Schulte,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Canada,2024-09-07,Cyle Larin,67,FW,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-09-07,Tani Oluwaseyi,23,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-09-07,Jonathan David,89,FW,1,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -979,7 +979,7 @@ Canada,2024-09-07,Joel Waterman,21,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-09-07,Moïse Bombito,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-09-07,Alistair Johnston,24,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-09-07,Richie Laryea,66,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2024-09-07,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2024-09-07,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Mexico,2024-09-10,Santiago Giménez,65,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Mexico,2024-09-10,Henry Martín,25,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Mexico,2024-09-10,César Huerta,82,AM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
@@ -994,7 +994,7 @@ Mexico,2024-09-10,Johan Vásquez,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Mexico,2024-09-10,Víctor Guzmán,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Mexico,2024-09-10,Julian Araujo,65,RB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Mexico,2024-09-10,Alan Mozo,25,"DF,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Mexico,2024-09-10,Luis Ángel Malagón,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Mexico,2024-09-10,Luis Ángel Malagón,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2024-09-10,Cyle Larin,76,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-09-10,Tani Oluwaseyi,14,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-09-10,Liam Millar,76,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -1011,7 +1011,7 @@ Canada,2024-09-10,Kamal Miller,7,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-09-10,Richie Laryea,83,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-09-10,Jacen Russell-Rowe,7,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2024-09-10,Moïse Bombito,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2024-09-10,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2024-09-10,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2024-10-15,Cyle Larin,78,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-10-15,Theo Bair,12,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-10-15,Jonathan David,89,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -1028,7 +1028,7 @@ Canada,2024-10-15,Alphonso Davies,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-10-15,Derek Cornelius,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-10-15,Moïse Bombito,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2024-10-15,Richie Laryea,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2024-10-15,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2024-10-15,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Canada,2025-06-17,Jonathan David,62,FW,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-17,Cyle Larin,28,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-17,Tani Oluwaseyi,70,FW,1,1,,0,0,6,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -1044,7 +1044,7 @@ Canada,2025-06-17,Joel Waterman,90,CB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-17,Luc De Fougerolles,62,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-17,Kamal Miller,28,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-17,Niko Sigur,90,RB,1,0,,0,0,1,1,4,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2025-06-17,Dayne St. Clair,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Canada,2025-06-17,Dayne St. Clair,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Canada,2025-06-21,Tani Oluwaseyi,90,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-06-21,Jacob Shaffelburg,88,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-06-21,Cyle Larin,2,"FW,MF",0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -1060,7 +1060,7 @@ Canada,2025-06-21,Kamal Miller,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-06-21,Joel Waterman,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-06-21,Niko Sigur,69,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-06-21,Alistair Johnston,21,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2025-06-21,Dayne St. Clair,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Canada,2025-06-21,Dayne St. Clair,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Canada,2025-06-24,Promise David,61,FW,0,0,,0,0,3,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-24,Cyle Larin,29,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-24,Jonathan David,56,FW,1,0,,0,1,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -1076,7 +1076,7 @@ Canada,2025-06-24,Luc De Fougerolles,76,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-24,Jamie Knight-Lebel,14,DF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-24,Alistair Johnston,56,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-06-24,Ismaël Koné,34,MF,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2025-06-24,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Canada,2025-06-24,Maxime Crépeau,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Canada,2025-06-29,Tani Oluwaseyi,70,FW,0,0,,0,0,1,1,2,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-06-29,Cyle Larin,20,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,0,NA
 Canada,2025-06-29,Jonathan David,89,FW,1,0,,1,1,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -1091,7 +1091,7 @@ Canada,2025-06-29,Richie Laryea,90,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-06-29,Derek Cornelius,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,1,NA
 Canada,2025-06-29,Luc De Fougerolles,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,0,NA
 Canada,2025-06-29,Alistair Johnston,90,RB,0,0,,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2025-06-29,Dayne St. Clair,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Canada,2025-06-29,Dayne St. Clair,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Canada,2025-09-05,Jonathan David,78,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-05,Junior Hoilett,12,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-05,Tani Oluwaseyi,81,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -1108,7 +1108,7 @@ Canada,2025-09-05,Luc De Fougerolles,81,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-05,Joel Waterman,9,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-05,Derek Cornelius,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-05,Niko Sigur,90,RB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2025-09-05,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2025-09-05,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2025-09-09,Jonathan David,64,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-09,Junior Hoilett,26,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-09,Tani Oluwaseyi,75,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
@@ -1125,7 +1125,7 @@ Canada,2025-09-09,Richie Laryea,90,LB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-09,Derek Cornelius,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-09,Luc De Fougerolles,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-09-09,Niko Sigur,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2025-09-09,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2025-09-09,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2025-10-10,Cyle Larin,62,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-10-10,Promise David,28,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-10-10,Ali Ahmed,62,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -1142,7 +1142,7 @@ Canada,2025-10-10,Luc De Fougerolles,22,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-10-10,Joel Waterman,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-10-10,Niko Sigur,76,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Canada,2025-10-10,Tani Oluwaseyi,14,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Canada,2025-10-10,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Canada,2025-10-10,Maxime Crépeau,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Colombia,2025-10-14,Cucho,59,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-10-14,Rafael Borré,31,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-10-14,Luis Díaz,59,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -1159,7 +1159,7 @@ Colombia,2025-10-14,Johan Mojica,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-10-14,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-10-14,Davinson Sánchez,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-10-14,Andrés Felipe Román,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2025-10-14,Álvaro David Montero,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Colombia,2025-10-14,Álvaro David Montero,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Canada,2025-10-14,Tani Oluwaseyi,70,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-10-14,Promise David,20,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-10-14,Jonathan David,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -1175,4 +1175,4 @@ Canada,2025-10-14,Derek Cornelius,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-10-14,Luc De Fougerolles,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-10-14,Niko Sigur,84,RB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Canada,2025-10-14,Zorhan Bassong,6,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Canada,2025-10-14,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Canada,2025-10-14,Dayne St. Clair,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0

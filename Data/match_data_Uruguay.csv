@@ -13,7 +13,7 @@ Uruguay,2020-10-08,Matías Viña,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2020-10-08,Diego Godín,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2020-10-08,Sebastián Coates,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2020-10-08,Martín Cáceres,90,RB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2020-10-08,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2020-10-08,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Uruguay,2020-10-13,Maxi Gómez,62,FW,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2020-10-13,Jonathan Rodríguez,28,"FW,MF",0,0,,0,0,1,1,0,0,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2020-10-13,Luis Suárez,90,FW,2,0,,2,2,2,2,0,0,0,0,4,NA,NA,NA,NA,NA
@@ -29,7 +29,7 @@ Uruguay,2020-10-13,Matías Viña,90,LB,0,0,,0,0,0,0,4,0,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2020-10-13,Diego Godín,90,CB,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2020-10-13,Ronald Araújo,90,CB,0,0,,0,0,1,0,0,0,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2020-10-13,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
-Uruguay,2020-10-13,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,4,3,42.9,NA,NA,0
+Uruguay,2020-10-13,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,4,3,42.9,0,NA,0
 Colombia,2020-11-13,Luis Muriel,59,FW,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2020-11-13,Alfredo Morelos,31,FW,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2020-11-13,Duván Zapata,90,FW,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA,NA
@@ -43,7 +43,7 @@ Colombia,2020-11-13,Johan Mojica,90,LB,0,0,,0,0,1,1,1,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2020-11-13,Jeison Murillo,90,CB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2020-11-13,Yerry Mina,89,CB,0,0,,0,0,0,0,0,2,1,0,3,NA,NA,NA,NA,NA
 Colombia,2020-11-13,Juan Cuadrado,90,RB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Colombia,2020-11-13,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,33.3,NA,NA,0
+Colombia,2020-11-13,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,33.3,1,NA,0
 Uruguay,2020-11-13,Luis Suárez,69,FW,1,0,,1,1,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2020-11-13,Jonathan Rodríguez,21,"FW,MF",0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2020-11-13,Edinson Cavani,77,FW,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -58,7 +58,7 @@ Uruguay,2020-11-13,Matías Viña,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2020-11-13,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2020-11-13,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2020-11-13,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2020-11-13,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2020-11-13,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Uruguay,2021-06-03,Luis Suárez,90,FW,0,0,,0,0,4,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-03,Jonathan Rodríguez,65,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-03,Facundo Torres,25,"FW,MF",0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -72,7 +72,7 @@ Uruguay,2021-06-03,Giovanni González,90,RM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,N
 Uruguay,2021-06-03,Martín Cáceres,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-03,Diego Godín,90,CB,0,0,,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-03,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2021-06-03,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Uruguay,2021-06-03,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Uruguay,2021-06-08,Luis Suárez,90,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-08,Jonathan Rodríguez,45,LW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-08,Matías Viña,45,"DF,MF",0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -87,7 +87,7 @@ Uruguay,2021-06-08,Martín Cáceres,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-08,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-08,José María Giménez,90,CB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-08,Giovanni González,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2021-06-08,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Uruguay,2021-06-08,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Argentina,2021-06-18,Lautaro Martínez,51,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-18,Joaquín Correa,39,"RW,CM",0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-18,Nicolás González,69,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -102,7 +102,7 @@ Argentina,2021-06-18,Marcos Acuña,90,LB,0,0,0,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-18,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-18,Cristian Romero,90,CB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-18,Nahuel Molina,90,RB,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
-Argentina,2021-06-18,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,1,0,0,0,0,,NA,NA,0
+Argentina,2021-06-18,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,NA,0
 Uruguay,2021-06-18,Edinson Cavani,90,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-18,Luis Suárez,90,FW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-18,Nicolás De La Cruz,64,LM,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -118,7 +118,7 @@ Uruguay,2021-06-18,Diego Godín,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-18,José María Giménez,90,CB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-18,Giovanni González,69,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-18,Facundo Torres,21,RM,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2021-06-18,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Uruguay,2021-06-18,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 Uruguay,2021-06-21,Edinson Cavani,90,FW,0,0,0,0,0,3,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-21,Luis Suárez,90,FW,1,0,0,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-21,Giorgian De Arrascaeta,59,AM,0,0,0,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -134,7 +134,7 @@ Uruguay,2021-06-21,Diego Godín,90,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-21,José María Giménez,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-21,Giovanni González,45,RB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-06-21,Nahitan Nández,45,WB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2021-06-21,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Uruguay,2021-06-21,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Uruguay,2021-06-24,Luis Suárez,87,FW,0,0,0,0,0,6,3,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-24,Maxi Gómez,3,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-24,Edinson Cavani,90,FW,1,0,0,0,0,7,3,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -149,7 +149,7 @@ Uruguay,2021-06-24,Diego Godín,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-24,José María Giménez,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-24,Nahitan Nández,87,RB,0,0,0,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-24,Giovanni González,3,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2021-06-24,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2021-06-24,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Uruguay,2021-06-28,Edinson Cavani,67,FW,1,0,0,1,1,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-28,Luis Suárez,23,FW,0,0,0,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-28,Nicolás De La Cruz,90,AM,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -165,7 +165,7 @@ Uruguay,2021-06-28,Diego Godín,45,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-28,Sebastián Coates,45,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-28,José María Giménez,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-06-28,Nahitan Nández,90,"RB,RM",0,0,1,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2021-06-28,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Uruguay,2021-06-28,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Uruguay,2021-07-03,Edinson Cavani,90,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,1,NA
 Uruguay,2021-07-03,Luis Suárez,90,FW,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,1,NA
 Uruguay,2021-07-03,Giorgian De Arrascaeta,67,AM,0,0,0,0,0,2,1,3,0,0,0,0,NA,NA,NA,NA,NA
@@ -178,7 +178,7 @@ Uruguay,2021-07-03,Matías Viña,90,LB,0,0,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,0,NA
 Uruguay,2021-07-03,Diego Godín,90,CB,0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-07-03,José María Giménez,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,0,NA
 Uruguay,2021-07-03,Nahitan Nández,90,"RB,RM",0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2021-07-03,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2021-07-03,Fernando Muslera,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Colombia,2021-07-03,Duván Zapata,90,FW,0,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,1,NA
 Colombia,2021-07-03,Luis Muriel,66,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-07-03,Yimmi Chará,24,RM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -191,7 +191,7 @@ Colombia,2021-07-03,William Tesillo,90,LB,0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-07-03,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
 Colombia,2021-07-03,Yerry Mina,90,CB,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,1,NA
 Colombia,2021-07-03,Daniel Muñoz,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2021-07-03,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,2
+Colombia,2021-07-03,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,2
 Uruguay,2021-09-02,Brian Rodríguez,90,FW,0,0,,0,0,3,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-09-02,Maxi Gómez,65,FW,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-09-02,Jonathan Rodríguez,25,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -207,7 +207,7 @@ Uruguay,2021-09-02,Joaquín Piquerez,20,"DF,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,
 Uruguay,2021-09-02,Diego Godín,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-09-02,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-09-02,Nahitan Nández,90,RB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2021-09-02,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Uruguay,2021-09-02,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Uruguay,2021-09-05,Brian Rodríguez,68,FW,0,1,,0,0,4,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2021-09-05,David Terans,22,"FW,MF",0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2021-09-05,Agustín Álvarez,90,FW,1,0,,0,0,5,3,4,0,0,0,2,NA,NA,NA,NA,NA
@@ -223,7 +223,7 @@ Uruguay,2021-09-05,Diego Godín,84,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2021-09-05,Ronald Araújo,6,DF,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2021-09-05,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2021-09-05,Nahitan Nández,90,RB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2021-09-05,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,75.0,NA,NA,0
+Uruguay,2021-09-05,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,75.0,0,NA,0
 Uruguay,2021-09-09,Brian Rodríguez,83,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-09-09,Federico Martínez,7,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-09-09,Agustín Álvarez,71,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -238,7 +238,7 @@ Uruguay,2021-09-09,Joaquín Piquerez,18,"DF,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,
 Uruguay,2021-09-09,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-09-09,Ronald Araújo,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-09-09,Nahitan Nández,90,RB,0,1,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2021-09-09,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2021-09-09,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Uruguay,2021-10-07,Brian Rodríguez,45,FW,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-10-07,Darwin Núñez,45,FW,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-10-07,Luis Suárez,45,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -254,7 +254,7 @@ Uruguay,2021-10-07,Diego Godín,90,CB,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-10-07,José María Giménez,59,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-10-07,Ronald Araújo,31,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2021-10-07,Nahitan Nández,90,RB,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2021-10-07,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2021-10-07,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Colombia,2021-10-07,Radamel Falcao,56,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-07,Roger Martínez,34,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-07,Rafael Borré,56,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -269,7 +269,7 @@ Colombia,2021-10-07,Johan Mojica,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-07,Carlos Cuesta,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-07,Yerry Mina,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-07,Stefan Medina,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2021-10-07,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Colombia,2021-10-07,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Argentina,2021-10-10,Lautaro Martínez,64,FW,1,1,,0,0,5,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-10-10,Joaquín Correa,26,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-10-10,Nicolás González,74,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -285,7 +285,7 @@ Argentina,2021-10-10,Nicolás Otamendi,80,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,
 Argentina,2021-10-10,Facundo Medina,10,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-10-10,Cristian Romero,90,CB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-10-10,Nahuel Molina,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Argentina,2021-10-10,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,NA,NA,0
+Argentina,2021-10-10,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,0,NA,0
 Uruguay,2021-10-10,Luis Suárez,90,FW,0,0,,0,0,4,3,1,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-10-10,Brian Rodríguez,45,LM,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-10-10,Darwin Núñez,45,FW,0,0,,0,0,2,1,0,0,0,0,3,NA,NA,NA,NA,NA
@@ -301,7 +301,7 @@ Uruguay,2021-10-10,Ronald Araújo,72,CB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-10-10,Giovanni González,18,DF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-10-10,Nahitan Nández,62,RB,0,0,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-10-10,Lucas Torreira,28,MF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Uruguay,2021-10-10,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,3,7,70.0,NA,NA,0
+Uruguay,2021-10-10,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,3,7,70.0,0,NA,0
 Uruguay,2021-11-12,Luis Suárez,90,FW,0,0,,0,0,5,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-11-12,Brian Rodríguez,45,LW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-11-12,Facundo Torres,45,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -316,7 +316,7 @@ Uruguay,2021-11-12,Joaquín Piquerez,90,LB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-11-12,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-11-12,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2021-11-12,Martín Cáceres,90,RB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2021-11-12,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2021-11-12,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Argentina,2021-11-12,Lautaro Martínez,54,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-12,Papu Gómez,36,"FW,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-12,Giovani Lo Celso,75,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -332,7 +332,7 @@ Argentina,2021-11-12,Marcos Acuña,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-12,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-12,Cristian Romero,90,CB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-12,Nahuel Molina,90,RB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
-Argentina,2021-11-12,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Argentina,2021-11-12,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Uruguay,2021-11-16,Agustín Álvarez,90,FW,0,0,,0,0,3,2,0,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-11-16,Facundo Torres,75,LW,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-11-16,Jonathan Rodríguez,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
@@ -348,7 +348,7 @@ Uruguay,2021-11-16,Giovanni González,45,DF,0,0,,0,0,0,0,1,1,0,0,3,NA,NA,NA,NA,N
 Uruguay,2021-11-16,Diego Godín,90,CB,0,0,,0,0,2,1,1,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-11-16,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Uruguay,2021-11-16,Martín Cáceres,90,RB,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Uruguay,2021-11-16,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,25.0,NA,NA,0
+Uruguay,2021-11-16,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,25.0,0,NA,0
 Uruguay,2022-01-27,Luis Suárez,90,FW,1,0,,0,0,4,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-01-27,Darwin Núñez,69,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-01-27,Edinson Cavani,21,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -364,7 +364,7 @@ Uruguay,2022-01-27,José María Giménez,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,N
 Uruguay,2022-01-27,Diego Godín,82,CB,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-01-27,Martín Cáceres,8,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-01-27,Ronald Araújo,90,RB,0,0,,0,0,2,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-01-27,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2022-01-27,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Uruguay,2022-02-01,Edinson Cavani,66,FW,1,0,,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-02-01,Darwin Núñez,24,FW,0,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-02-01,Luis Suárez,90,FW,1,0,,1,1,8,4,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -380,7 +380,7 @@ Uruguay,2022-02-01,José María Giménez,88,CB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,N
 Uruguay,2022-02-01,Martín Cáceres,2,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-02-01,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-02-01,Ronald Araújo,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2022-02-01,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2022-02-01,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Uruguay,2022-03-24,Darwin Núñez,66,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-24,Edinson Cavani,24,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-24,Luis Suárez,75,FW,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
@@ -395,7 +395,7 @@ Uruguay,2022-03-24,Mathías Olivera,90,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-24,José María Giménez,90,CB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-24,Diego Godín,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-24,Ronald Araújo,90,RB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-03-24,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2022-03-24,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Uruguay,2022-03-29,Edinson Cavani,28,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-29,Luis Suárez,62,FW,1,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-29,Diego Rossi,73,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -411,7 +411,7 @@ Uruguay,2022-03-29,Matías Viña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-29,Sebastián Coates,90,CB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-29,Diego Godín,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-03-29,Ronald Araújo,90,RB,0,1,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-03-29,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Uruguay,2022-03-29,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Uruguay,2022-09-23,Luis Suárez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-09-23,Darwin Núñez,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-09-23,Facundo Pellistri,45,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -428,7 +428,7 @@ Uruguay,2022-09-23,Ronald Araújo,4,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-09-23,Agustín Rogel,86,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-09-23,Damián Suárez,71,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2022-09-23,Guillermo Varela,19,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2022-09-23,Sergio Rochet,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Uruguay,2022-09-23,Sergio Rochet,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Portugal,2022-11-28,João Félix,81,"FW,RW",0,0,0,0,0,3,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-28,Matheus Nunes,9,DM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-28,Cristiano Ronaldo,81,FW,0,0,0,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -444,7 +444,7 @@ Portugal,2022-11-28,Raphaël Guerreiro,49,LB,0,1,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
 Portugal,2022-11-28,Rúben Dias,90,CB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-28,Pepe,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-28,João Cancelo,90,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2022-11-28,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Portugal,2022-11-28,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Uruguay,2022-11-28,Edinson Cavani,72,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2022-11-28,Luis Suárez,18,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2022-11-28,Darwin Núñez,71,FW,0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
@@ -460,7 +460,7 @@ Uruguay,2022-11-28,Sebastián Coates,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,N
 Uruguay,2022-11-28,Diego Godín,61,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2022-11-28,Facundo Pellistri,29,RM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2022-11-28,José María Giménez,90,CB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2022-11-28,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7,NA,NA,0
+Uruguay,2022-11-28,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7,1,NA,0
 Uruguay,2022-12-02,Darwin Núñez,79,FW,0,0,0,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-12-02,Maxi Gómez,11,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-12-02,Luis Suárez,65,FW,0,1,0,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA,NA
@@ -476,7 +476,7 @@ Uruguay,2022-12-02,Mathías Olivera,90,LB,0,0,0,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-12-02,Sebastián Coates,90,CB,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-12-02,José María Giménez,90,CB,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2022-12-02,Guillermo Varela,90,RB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-12-02,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2022-12-02,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Uruguay,2023-06-14,Matias Arezo,58,FW,1,0,,0,1,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-06-14,Thiago Borbas,32,FW,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-06-14,Brian Rodríguez,90,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -491,7 +491,7 @@ Uruguay,2023-06-14,Matías Viña,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-06-14,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-06-14,Guillermo Varela,84,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-06-14,Bruno Méndez,6,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-06-14,Franco Israel,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Uruguay,2023-06-14,Franco Israel,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Uruguay,2023-06-20,Maximiliano Araújo,90,FW,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Uruguay,2023-06-20,Thiago Borbas,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Uruguay,2023-06-20,Matias Arezo,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
@@ -506,8 +506,8 @@ Uruguay,2023-06-20,Mauricio Lemos,39,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Uruguay,2023-06-20,Guillermo Varela,51,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Uruguay,2023-06-20,Bruno Méndez,90,CB,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
 Uruguay,2023-06-20,José Luis Rodríguez Bebanz,90,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Uruguay,2023-06-20,Sergio Rochet,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
-Uruguay,2023-06-20,Santiago Mele,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Uruguay,2023-06-20,Sergio Rochet,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Uruguay,2023-06-20,Santiago Mele,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
 Uruguay,2023-09-08,Maximiliano Araújo,90,FW,0,0,,0,0,2,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-09-08,Darwin Núñez,72,FW,0,1,,0,0,6,3,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-09-08,Maxi Gómez,18,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -522,7 +522,7 @@ Uruguay,2023-09-08,Matías Viña,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-09-08,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-09-08,Nahitan Nández,85,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2023-09-08,Bruno Méndez,5,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-09-08,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Uruguay,2023-09-08,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Uruguay,2023-09-12,Darwin Núñez,45,FW,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-09-12,Cristian Olivera,45,"FW,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-09-12,Maximiliano Araújo,69,AM,0,1,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -538,12 +538,12 @@ Uruguay,2023-09-12,Mathías Olivera,31,DF,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-09-12,Matías Viña,90,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-09-12,Sebastián Cáceres,90,CB,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-09-12,Nahitan Nández,90,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2023-09-12,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Uruguay,2023-09-12,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 Colombia,2023-10-12,James Rodríguez,80,FW,1,1,,0,0,4,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-10-12,Jorge Carrascal,10,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-10-12,Luis Díaz,90,AM,0,0,,0,0,4,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-10-12,Jhon Arias,89,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2023-10-12,Álvaro David Montero,1,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+Colombia,2023-10-12,Álvaro David Montero,1,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,1,NA,0
 Colombia,2023-10-12,Rafael Borré,79,AM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-10-12,Luis Sinisterra,11,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-10-12,Wílmar Barrios,90,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -554,7 +554,7 @@ Colombia,2023-10-12,Davinson Sánchez,90,CB,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,N
 Colombia,2023-10-12,Carlos Cuesta,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-10-12,Santiago Arias,89,RB,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-10-12,Yerson Mosquera,1,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2023-10-12,Camilo Vargas,86,GK,0,0,,0,0,0,0,0,2,1,0,1,4,80.0,NA,NA,0
+Colombia,2023-10-12,Camilo Vargas,86,GK,0,0,,0,0,0,0,0,2,1,0,1,4,80.0,1,NA,0
 Uruguay,2023-10-12,Darwin Núñez,90,FW,1,0,,1,1,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-10-12,Brian Rodríguez,71,AM,0,0,,0,0,3,2,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-10-12,Matías Vecino,19,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -570,7 +570,7 @@ Uruguay,2023-10-12,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,
 Uruguay,2023-10-12,Ronald Araújo,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-10-12,Nahitan Nández,60,RB,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2023-10-12,Giorgian De Arrascaeta,30,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2023-10-12,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Uruguay,2023-10-12,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 Uruguay,2023-10-17,Darwin Núñez,90,FW,1,1,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-10-17,Maximiliano Araújo,86,AM,0,1,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-10-17,Matías Vecino,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -585,7 +585,7 @@ Uruguay,2023-10-17,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,
 Uruguay,2023-10-17,Ronald Araújo,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-10-17,Nahitan Nández,67,RB,0,0,,0,0,0,0,4,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-10-17,Bruno Méndez,23,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2023-10-17,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Uruguay,2023-10-17,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Brazil,2023-10-17,Gabriel Jesus,90,FW,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-10-17,Vinicius Júnior,83,AM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-10-17,Matheus Cunha,7,"FW,MF",0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
@@ -601,7 +601,7 @@ Brazil,2023-10-17,Gabriel Magalhães,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-10-17,Marquinhos,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-10-17,Yan Couto,72,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-10-17,David Neres,18,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Brazil,2023-10-17,Ederson,90,GK,0,0,,0,0,0,0,0,1,0,0,2,0,0.0,NA,NA,0
+Brazil,2023-10-17,Ederson,90,GK,0,0,,0,0,0,0,0,1,0,0,2,0,0.0,0,NA,0
 Argentina,2023-11-16,Nicolás González,52,FW,0,0,,0,0,1,0,3,0,0,0,2,NA,NA,NA,NA,NA
 Argentina,2023-11-16,Ángel Di María,38,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Argentina,2023-11-16,Julián Álvarez,79,FW,0,0,,0,0,2,0,1,0,0,0,2,NA,NA,NA,NA,NA
@@ -617,7 +617,7 @@ Argentina,2023-11-16,Marcos Acuña,11,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
 Argentina,2023-11-16,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Argentina,2023-11-16,Cristian Romero,90,CB,0,0,,0,0,1,1,3,1,0,0,2,NA,NA,NA,NA,NA
 Argentina,2023-11-16,Nahuel Molina,90,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Argentina,2023-11-16,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+Argentina,2023-11-16,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,0,NA,0
 Uruguay,2023-11-16,Darwin Núñez,89,FW,1,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-16,Federico Viñas,1,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-16,Maximiliano Araújo,61,AM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
@@ -632,7 +632,7 @@ Uruguay,2023-11-16,José María Giménez,45,DF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,N
 Uruguay,2023-11-16,Mathías Olivera,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-16,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-16,Ronald Araújo,90,RB,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2023-11-16,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2023-11-16,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Uruguay,2023-11-21,Cristian Olivera,86,FW,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-21,Agustín Canobbio,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-21,Darwin Núñez,72,FW,2,0,,0,0,4,2,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -648,7 +648,7 @@ Uruguay,2023-11-21,Matías Viña,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-21,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-21,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2023-11-21,Ronald Araújo,90,RB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2023-11-21,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Uruguay,2023-11-21,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Uruguay,2024-03-26,Federico Viñas,90,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-03-26,Brian Rodríguez,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-03-26,Rodrigo Bentancur,45,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -663,7 +663,7 @@ Uruguay,2024-03-26,Mathías Olivera,90,CB,0,0,,0,0,,,,0,0,1,2,NA,NA,NA,NA,NA
 Uruguay,2024-03-26,Sebastián Cáceres,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-03-26,Nahitan Nández,88,RB,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-03-26,Luciano Rodríguez,2,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2024-03-26,Santiago Mele,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Uruguay,2024-03-26,Santiago Mele,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Uruguay,2024-06-23,Darwin Núñez,90,FW,1,0,0,0,0,5,3,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-06-23,Maximiliano Araújo,90,LW,1,0,0,0,0,4,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-06-23,Facundo Pellistri,90,RW,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
@@ -678,7 +678,7 @@ Uruguay,2024-06-23,Sebastián Cáceres,31,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA
 Uruguay,2024-06-23,Ronald Araújo,45,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-06-23,José María Giménez,45,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-06-23,Nahitan Nández,90,RB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2024-06-23,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2024-06-23,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Uruguay,2024-06-27,Darwin Núñez,82,FW,1,0,0,0,0,7,2,3,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-06-27,Luis Suárez,8,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-06-27,Maximiliano Araújo,90,LW,1,1,0,0,0,3,3,4,0,0,0,0,NA,NA,NA,NA,NA
@@ -694,7 +694,7 @@ Uruguay,2024-06-27,Lucas Olaza,8,LB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-06-27,Mathías Olivera,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-06-27,Ronald Araújo,90,CB,0,1,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-06-27,Nahitan Nández,90,RB,0,0,0,0,0,0,0,7,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2024-06-27,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Uruguay,2024-06-27,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Uruguay,2024-07-10,Darwin Núñez,90,FW,0,0,0,0,0,4,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-07-10,Maximiliano Araújo,90,"LB,LW",0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-07-10,Facundo Pellistri,45,RW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -710,7 +710,7 @@ Uruguay,2024-07-10,Mathías Olivera,45,LB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-07-10,Giorgian De Arrascaeta,45,"RM,LW",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-07-10,José María Giménez,90,CB,0,0,0,0,0,2,0,3,1,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-07-10,Sebastián Cáceres,90,"CB,RB",0,0,0,0,0,0,0,6,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2024-07-10,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+Uruguay,2024-07-10,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,3,75.0,0,NA,0
 Colombia,2024-07-10,Jhon Córdoba,74,FW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-10,Yerry Mina,16,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-10,Luis Díaz,85,"LW,FW",0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -726,7 +726,7 @@ Colombia,2024-07-10,Johan Mojica,90,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-10,Carlos Cuesta,90,CB,0,0,0,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-10,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,6,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-10,Daniel Muñoz,44,RB,0,0,0,0,0,1,0,1,2,1,0,0,NA,NA,NA,NA,NA
-Colombia,2024-07-10,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Colombia,2024-07-10,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Uruguay,2024-09-06,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-09-06,Luis Suárez,90,FW,0,0,,0,0,2,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-09-06,Facundo Pellistri,58,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -742,7 +742,7 @@ Uruguay,2024-09-06,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,
 Uruguay,2024-09-06,Nicolas Marichal,45,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-09-06,Santiago Bueno,45,DF,0,0,,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-09-06,Nahitan Nández,90,RB,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2024-09-06,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2024-09-06,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Uruguay,2024-09-10,Maximiliano Araújo,45,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-09-10,Miguel Merentiel,45,FW,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-09-10,Cristian Olivera,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -758,7 +758,7 @@ Uruguay,2024-09-10,Sebastián Cáceres,4,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,N
 Uruguay,2024-09-10,Nicolas Marichal,86,DF,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-09-10,Santiago Bueno,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-09-10,Guillermo Varela,90,RB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2024-09-10,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,NA,NA,0
+Uruguay,2024-09-10,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,0,NA,0
 Uruguay,2024-10-11,Darwin Núñez,90,FW,0,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-10-11,Cristian Olivera,45,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-10-11,Facundo Pellistri,45,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -771,7 +771,7 @@ Uruguay,2024-10-11,Luciano Rodríguez,1,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-10-11,Santiago Bueno,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-10-11,Manuel Ugarte,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-10-11,Guillermo Varela,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2024-10-11,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2024-10-11,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Uruguay,2024-10-15,Darwin Núñez,90,FW,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-10-15,Maximiliano Araújo,90,AM,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-10-15,Giorgian De Arrascaeta,45,AM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -785,7 +785,7 @@ Uruguay,2024-10-15,Marcelo Saracchi,4,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Uruguay,2024-10-15,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-10-15,Santiago Bueno,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-10-15,Nahitan Nández,90,RB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2024-10-15,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Uruguay,2024-10-15,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Uruguay,2024-11-15,Darwin Núñez,90,FW,0,0,,0,0,3,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-11-15,Maximiliano Araújo,90,AM,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-11-15,Rodrigo Aguirre,67,AM,1,0,,0,0,1,1,0,1,0,0,2,NA,NA,NA,NA,NA
@@ -798,7 +798,7 @@ Uruguay,2024-11-15,Guillermo Varela,12,DF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-11-15,Mathías Olivera,90,CB,0,1,,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-11-15,José María Giménez,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2024-11-15,Nahitan Nández,90,RB,0,0,,0,0,0,0,3,1,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2024-11-15,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Uruguay,2024-11-15,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 Colombia,2024-11-15,Luis Díaz,90,FW,0,0,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2024-11-15,Jáder Durán,71,FW,0,0,,0,0,4,1,0,1,0,0,3,NA,NA,NA,NA,NA
 Colombia,2024-11-15,Rafael Borré,19,FW,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
@@ -813,7 +813,7 @@ Colombia,2024-11-15,Johan Mojica,90,LB,0,1,,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2024-11-15,Jhon Lucumí,90,CB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2024-11-15,Davinson Sánchez,90,CB,0,0,,0,0,0,0,3,0,0,1,3,NA,NA,NA,NA,NA
 Colombia,2024-11-15,Daniel Muñoz,90,RB,0,0,,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA,NA
-Colombia,2024-11-15,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,3,3,50.0,NA,NA,0
+Colombia,2024-11-15,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,3,3,50.0,0,NA,0
 Brazil,2024-11-19,Vinicius Júnior,90,FW,0,0,,0,0,4,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-11-19,Igor Jesus,57,FW,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-11-19,Luiz Henrique,33,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -829,7 +829,7 @@ Brazil,2024-11-19,Gabriel Martinelli,33,"FW,MF",0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,
 Brazil,2024-11-19,Gabriel Magalhães,90,CB,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-11-19,Marquinhos,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-11-19,Danilo,90,RB,0,0,,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2024-11-19,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Brazil,2024-11-19,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Uruguay,2024-11-19,Maximiliano Araújo,80,FW,0,1,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-11-19,Cristian Olivera,10,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-11-19,Darwin Núñez,44,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -843,7 +843,7 @@ Uruguay,2024-11-19,Marcelo Saracchi,90,LB,0,0,,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-11-19,Mathías Olivera,90,CB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-11-19,José María Giménez,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2024-11-19,Guillermo Varela,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2024-11-19,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Uruguay,2024-11-19,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Uruguay,2025-03-21,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-03-21,Darwin Núñez,71,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-03-21,Federico Viñas,19,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -858,7 +858,7 @@ Uruguay,2025-03-21,Mathías Olivera,90,LB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-03-21,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-03-21,Ronald Araújo,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-03-21,Nahitan Nández,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2025-03-21,Sergio Rochet,90,GK,0,0,,0,0,0,0,1,0,0,0,1,3,75.0,NA,NA,0
+Uruguay,2025-03-21,Sergio Rochet,90,GK,0,0,,0,0,0,0,1,0,0,0,1,3,75.0,0,NA,0
 Argentina,2025-03-21,Julián Álvarez,90,FW,0,1,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Argentina,2025-03-21,Thiago Almada,86,AM,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2025-03-21,Ángel Correa,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -873,7 +873,7 @@ Argentina,2025-03-21,Nicolás Tagliafico,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,N
 Argentina,2025-03-21,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2025-03-21,Cristian Romero,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2025-03-21,Nahuel Molina,90,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Argentina,2025-03-21,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Argentina,2025-03-21,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Uruguay,2025-03-25,Rodrigo Aguirre,45,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-03-25,Federico Valverde,45,"DF,FW",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-03-25,Federico Viñas,45,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -889,7 +889,7 @@ Uruguay,2025-03-25,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,
 Uruguay,2025-03-25,José María Giménez,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-03-25,Guillermo Varela,61,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-03-25,Nahitan Nández,29,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2025-03-25,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,7,100.0,NA,NA,0
+Uruguay,2025-03-25,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,7,100.0,0,NA,0
 Uruguay,2025-06-05,Maximiliano Araújo,90,FW,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2025-06-05,Rodrigo Aguirre,90,FW,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2025-06-05,Facundo Pellistri,76,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
@@ -904,7 +904,7 @@ Uruguay,2025-06-05,José María Giménez,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,N
 Uruguay,2025-06-05,Ronald Araújo,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2025-06-05,Guillermo Varela,60,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2025-06-05,Rodrigo Zalazar,30,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2025-06-05,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,75.0,NA,NA,0
+Uruguay,2025-06-05,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,75.0,0,NA,0
 Uruguay,2025-06-10,Rodrigo Aguirre,90,FW,1,0,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-06-10,Maximiliano Araújo,90,AM,0,1,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-06-10,Giorgian De Arrascaeta,86,AM,1,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -918,7 +918,7 @@ Uruguay,2025-06-10,José María Giménez,90,CB,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,N
 Uruguay,2025-06-10,Ronald Araújo,90,CB,0,0,,0,0,0,0,2,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-06-10,Nahitan Nández,85,RB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-06-10,Guillermo Varela,5,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2025-06-10,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Uruguay,2025-06-10,Santiago Mele,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Uruguay,2025-09-04,Brian Rodríguez,90,FW,0,1,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-04,Rodrigo Aguirre,73,FW,1,1,,0,0,5,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-04,Federico Viñas,17,FW,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -932,7 +932,7 @@ Uruguay,2025-09-04,Joaquín Piquerez,90,LB,0,0,,0,0,2,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-04,Mathías Olivera,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-04,Sebastián Cáceres,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-04,Guillermo Varela,90,RB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2025-09-04,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Uruguay,2025-09-04,Sergio Rochet,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Uruguay,2025-09-09,Cristian Olivera,90,FW,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-09,Darwin Núñez,81,FW,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-09,Federico Viñas,9,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -945,7 +945,7 @@ Uruguay,2025-09-09,Matías Viña,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-09,Sebastián Cáceres,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-09,Ronald Araújo,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-09-09,Nahitan Nández,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2025-09-09,Santiago Mele,90,GK,0,0,,0,0,0,0,0,1,0,0,0,3,100.0,NA,NA,0
+Uruguay,2025-09-09,Santiago Mele,90,GK,0,0,,0,0,0,0,0,1,0,0,0,3,100.0,0,NA,0
 Uruguay,2025-10-10,Luciano Rodríguez,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-10-10,Juan Manuel Sanabria,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-10-10,Rodrigo Zalazar,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -962,7 +962,7 @@ Uruguay,2025-10-10,Santiago Bueno,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-10-10,Santiago Mouriño,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-10-10,José Luis Rodríguez Bebanz,45,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2025-10-10,Emiliano Martínez,45,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2025-10-10,Cristopher Fiermarin,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Uruguay,2025-10-10,Cristopher Fiermarin,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Uruguay,2025-10-13,Federico Viñas,90,FW,0,2,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-10-13,Juan Manuel Sanabria,90,LW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-10-13,Facundo Torres,87,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -975,4 +975,4 @@ Uruguay,2025-10-13,Marcelo Saracchi,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-10-13,Nicolas Marichal,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-10-13,Santiago Bueno,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Uruguay,2025-10-13,José Luis Rodríguez Bebanz,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2025-10-13,Franco Israel,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Uruguay,2025-10-13,Franco Israel,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0

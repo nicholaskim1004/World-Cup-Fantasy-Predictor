@@ -14,7 +14,7 @@ Portugal,2021-03-24,Nuno Mendes,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-03-24,Domingos Duarte,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-03-24,Rúben Dias,90,CB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-03-24,João Cancelo,90,RB,0,0,,0,0,4,2,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2021-03-24,Anthony Lopes,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Portugal,2021-03-24,Anthony Lopes,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Portugal,2021-03-27,Bernardo Silva,90,FW,0,1,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-03-27,Cristiano Ronaldo,90,FW,0,0,,0,0,6,1,0,1,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-03-27,Diogo Jota,84,FW,2,0,,0,0,2,2,1,0,0,0,2,NA,NA,NA,NA,NA
@@ -29,7 +29,7 @@ Portugal,2021-03-27,José Fonte,90,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-03-27,Rúben Dias,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-03-27,João Cancelo,71,RB,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-03-27,Nuno Mendes,19,"DF,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2021-03-27,Anthony Lopes,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,NA,NA,0
+Portugal,2021-03-27,Anthony Lopes,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,0,NA,0
 Portugal,2021-03-30,João Félix,40,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-03-30,Pedro Neto,50,"FW,MF",0,2,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-03-30,Diogo Jota,67,FW,1,0,,0,0,3,1,0,1,0,0,1,NA,NA,NA,NA,NA
@@ -44,7 +44,7 @@ Portugal,2021-03-30,Nuno Mendes,90,LB,0,0,,0,0,1,1,2,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-03-30,Rúben Dias,90,CB,0,0,,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-03-30,José Fonte,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-03-30,João Cancelo,90,RB,0,1,,0,0,1,0,4,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2021-03-30,Anthony Lopes,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Portugal,2021-03-30,Anthony Lopes,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Portugal,2021-06-09,Diogo Jota,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-09,André Silva,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-09,Bernardo Silva,70,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -61,7 +61,7 @@ Portugal,2021-06-09,Pepe,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-09,Rúben Dias,61,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-09,Danilo Pereira,29,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-09,João Cancelo,90,RB,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2021-06-09,Rui Silva,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Portugal,2021-06-09,Rui Silva,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Portugal,2021-06-15,Cristiano Ronaldo,90,"FW,LM",2,0,0,1,1,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-15,Diogo Jota,80,LW,0,0,0,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-15,André Silva,10,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -76,7 +76,7 @@ Portugal,2021-06-15,Raphaël Guerreiro,90,LB,1,0,0,0,0,1,1,4,0,0,0,0,NA,NA,NA,NA
 Portugal,2021-06-15,Rúben Dias,90,CB,0,0,0,0,0,0,0,4,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-15,Pepe,90,CB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-06-15,Nélson Semedo,90,RB,0,0,0,0,0,0,0,7,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2021-06-15,Rui Patrício,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Portugal,2021-06-15,Rui Patrício,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Portugal,2021-06-19,Cristiano Ronaldo,90,FW,1,1,0,0,0,2,1,1,0,0,0,4,NA,NA,NA,NA,NA
 Portugal,2021-06-19,Diogo Jota,82,"LM,LW",1,1,0,0,0,3,1,1,0,0,0,4,NA,NA,NA,NA,NA
 Portugal,2021-06-19,André Silva,8,FW,0,0,0,0,0,1,0,0,0,0,0,4,NA,NA,NA,NA,NA
@@ -91,7 +91,7 @@ Portugal,2021-06-19,Raphaël Guerreiro,90,LB,0,0,0,0,0,0,0,0,0,0,1,4,NA,NA,NA,NA
 Portugal,2021-06-19,Rúben Dias,90,CB,0,0,0,0,0,0,0,0,0,0,1,4,NA,NA,NA,NA,NA
 Portugal,2021-06-19,Pepe,90,CB,0,0,0,0,0,0,0,1,0,0,0,4,NA,NA,NA,NA,NA
 Portugal,2021-06-19,Nélson Semedo,90,RB,0,0,0,0,0,0,0,2,0,0,0,4,NA,NA,NA,NA,NA
-Portugal,2021-06-19,Rui Patrício,90,GK,0,0,0,0,0,0,0,1,0,0,0,4,5,42.9,NA,NA,0
+Portugal,2021-06-19,Rui Patrício,90,GK,0,0,0,0,0,0,0,1,0,0,0,4,5,42.9,0,NA,0
 Germany,2021-06-19,Serge Gnabry,86,FW,0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-19,Leroy Sané,4,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-19,Kai Havertz,72,AM,1,0,0,0,0,4,2,0,1,0,0,2,NA,NA,NA,NA,NA
@@ -107,7 +107,7 @@ Germany,2021-06-19,Antonio Rüdiger,90,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-19,Mats Hummels,62,CB,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-19,Emre Can,28,"CM,CB",0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-19,Matthias Ginter,90,CB,0,0,0,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
-Germany,2021-06-19,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+Germany,2021-06-19,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,NA,0
 Portugal,2021-06-27,Cristiano Ronaldo,90,"FW,LW",0,0,0,0,0,4,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-06-27,Diogo Jota,69,LW,0,0,0,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-06-27,André Silva,21,FW,0,0,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -123,7 +123,7 @@ Portugal,2021-06-27,Raphaël Guerreiro,90,LB,0,0,0,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA
 Portugal,2021-06-27,Rúben Dias,90,CB,0,0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-06-27,Pepe,90,CB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-06-27,Diogo Dalot,90,RB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
-Portugal,2021-06-27,Rui Patrício,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Portugal,2021-06-27,Rui Patrício,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Portugal,2021-09-01,Rafa Silva,45,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-01,André Silva,45,FW,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-01,Diogo Jota,90,FW,0,0,,0,0,5,1,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -139,7 +139,7 @@ Portugal,2021-09-01,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-01,Pepe,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-01,João Cancelo,81,RB,0,0,,0,0,2,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-01,Gonçalo Guedes,9,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2021-09-01,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Portugal,2021-09-01,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Portugal,2021-09-04,André Silva,58,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-04,Diogo Jota,32,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-04,Gonçalo Guedes,80,FW,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -156,7 +156,7 @@ Portugal,2021-09-04,Raphaël Guerreiro,10,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,N
 Portugal,2021-09-04,Danilo Pereira,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-04,Domingos Duarte,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2021-09-04,Nélson Semedo,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2021-09-04,Anthony Lopes,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Portugal,2021-09-04,Anthony Lopes,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Portugal,2021-09-07,Bernardo Silva,77,FW,1,0,,0,0,2,2,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-09-07,Otávio,13,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-09-07,André Silva,90,FW,1,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -172,7 +172,7 @@ Portugal,2021-09-07,Nuno Mendes,20,"DF,MF",0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-09-07,Pepe,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-09-07,Rúben Dias,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-09-07,João Cancelo,90,RB,0,1,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2021-09-07,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Portugal,2021-09-07,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Portugal,2021-10-09,André Silva,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-09,Gonçalo Guedes,59,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-09,João Palhinha,31,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -189,7 +189,7 @@ Portugal,2021-10-09,Nélson Semedo,45,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-09,José Fonte,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-09,Danilo Pereira,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-09,Diogo Dalot,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2021-10-09,Diogo Costa,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Portugal,2021-10-09,Diogo Costa,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Portugal,2021-10-12,Bernardo Silva,79,FW,0,1,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-12,Matheus Nunes,11,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-12,André Silva,72,FW,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -205,7 +205,7 @@ Portugal,2021-10-12,Nuno Mendes,90,LB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-12,Rúben Dias,90,CB,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-12,Pepe,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-10-12,João Cancelo,90,RB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Portugal,2021-10-12,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Portugal,2021-10-12,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Portugal,2021-11-11,Gonçalo Guedes,55,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-11-11,Rafael Leão,27,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-11-11,José Fonte,8,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -221,7 +221,7 @@ Portugal,2021-11-11,Diogo Dalot,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-11-11,Danilo Pereira,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2021-11-11,Pepe,81,CB,0,0,,0,0,0,0,0,2,1,0,0,NA,NA,NA,NA,NA
 Portugal,2021-11-11,Nélson Semedo,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2021-11-11,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Portugal,2021-11-11,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Portugal,2021-11-14,Bernardo Silva,62,FW,0,1,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-11-14,Bruno Fernandes,28,"FW,MF",0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-11-14,Diogo Jota,82,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -237,7 +237,7 @@ Portugal,2021-11-14,Nuno Mendes,90,LB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-11-14,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-11-14,José Fonte,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2021-11-14,João Cancelo,90,RB,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
-Portugal,2021-11-14,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,2,1,33.3,NA,NA,0
+Portugal,2021-11-14,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,2,1,33.3,0,NA,0
 Portugal,2022-03-24,Otávio,87,FW,1,1,,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-03-24,Rafael Leão,3,"FW,MF",0,1,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-03-24,Diogo Jota,70,FW,1,0,,0,0,4,1,0,1,0,0,1,NA,NA,NA,NA,NA
@@ -253,7 +253,7 @@ Portugal,2022-03-24,Nuno Mendes,3,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-03-24,José Fonte,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-03-24,Danilo Pereira,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-03-24,Diogo Dalot,90,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2022-03-24,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+Portugal,2022-03-24,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
 Portugal,2022-03-29,Bernardo Silva,86,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-03-29,João Félix,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-03-29,Diogo Jota,75,FW,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -269,7 +269,7 @@ Portugal,2022-03-29,Nuno Mendes,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-03-29,Pepe,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-03-29,Danilo Pereira,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-03-29,João Cancelo,90,RB,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Portugal,2022-03-29,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Portugal,2022-03-29,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Portugal,2022-06-05,Bruno Fernandes,66,FW,0,0,,0,0,2,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-05,Bernardo Silva,24,"FW,MF",0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-05,Diogo Jota,66,FW,0,2,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -285,7 +285,7 @@ Portugal,2022-06-05,Nuno Mendes,90,LB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-05,Danilo Pereira,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-05,Pepe,90,CB,0,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-05,João Cancelo,90,RB,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2022-06-05,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Portugal,2022-06-05,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Portugal,2022-06-09,Bernardo Silva,67,FW,0,2,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-09,Vitinha,23,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-09,Diogo Jota,79,FW,0,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -301,7 +301,7 @@ Portugal,2022-06-09,Raphaël Guerreiro,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,
 Portugal,2022-06-09,Danilo Pereira,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-09,Pepe,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-06-09,João Cancelo,90,RB,1,0,,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA,NA
-Portugal,2022-06-09,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Portugal,2022-06-09,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Portugal,2022-06-12,Vitinha,61,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-06-12,Bernardo Silva,29,"FW,MF",0,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-06-12,André Silva,90,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -317,7 +317,7 @@ Portugal,2022-06-12,Nuno Mendes,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-06-12,Danilo Pereira,90,CB,0,0,,0,0,1,1,1,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-06-12,Pepe,90,CB,0,0,,0,0,3,1,2,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-06-12,João Cancelo,90,RB,0,0,,0,0,2,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Portugal,2022-06-12,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Portugal,2022-06-12,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Portugal,2022-09-24,Bernardo Silva,66,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-09-24,Ricardo Horta,24,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-09-24,Rafael Leão,66,FW,0,1,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -333,7 +333,7 @@ Portugal,2022-09-24,Danilo Pereira,82,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-09-24,João Mário,8,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-09-24,Rúben Dias,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-09-24,Diogo Dalot,90,RB,2,0,,0,0,2,2,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2022-09-24,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Portugal,2022-09-24,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Portugal,2022-11-17,André Silva,66,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-17,Gonçalo Ramos,24,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-17,João Félix,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -350,7 +350,7 @@ Portugal,2022-11-17,António Silva,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-17,Rúben Dias,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-17,Raphaël Guerreiro,45,"DF,MF",0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2022-11-17,Diogo Dalot,90,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2022-11-17,Rui Patrício,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Portugal,2022-11-17,Rui Patrício,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Portugal,2022-11-24,Cristiano Ronaldo,87,FW,1,0,1,1,1,3,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2022-11-24,João Mário,3,RW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2022-11-24,João Félix,87,"LW,RW",1,0,0,0,0,2,1,1,0,0,0,2,NA,NA,NA,NA,NA
@@ -366,7 +366,7 @@ Portugal,2022-11-24,Raphaël Guerreiro,90,LB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA
 Portugal,2022-11-24,Danilo Pereira,90,CB,0,0,0,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
 Portugal,2022-11-24,Rúben Dias,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2022-11-24,João Cancelo,90,RB,0,0,0,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-11-24,Diogo Costa,90,GK,0,0,0,0,0,0,0,1,0,0,0,2,1,33.3,NA,NA,0
+Portugal,2022-11-24,Diogo Costa,90,GK,0,0,0,0,0,0,0,1,0,0,0,2,1,33.3,0,NA,0
 Portugal,2022-12-06,Gonçalo Ramos,72,FW,3,1,0,0,0,6,5,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-06,Cristiano Ronaldo,18,"FW,LW",0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-06,João Félix,73,LW,0,2,0,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -382,7 +382,7 @@ Portugal,2022-12-06,Raphaël Guerreiro,90,LB,1,1,0,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA
 Portugal,2022-12-06,Rúben Dias,90,CB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-06,Pepe,90,CB,1,0,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-06,Diogo Dalot,90,RB,0,1,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2022-12-06,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Portugal,2022-12-06,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Portugal,2022-12-10,Gonçalo Ramos,68,"FW,AM",0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-10,Rafael Leão,22,LW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-10,João Félix,90,"LW,AM",0,0,0,0,0,5,2,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -398,7 +398,7 @@ Portugal,2022-12-10,Rúben Dias,90,CB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-10,Pepe,90,CB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-10,Diogo Dalot,78,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2022-12-10,Ricardo Horta,12,RW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2022-12-10,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Portugal,2022-12-10,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Portugal,2023-03-23,João Félix,66,FW,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-23,Rafael Leão,24,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-23,Cristiano Ronaldo,77,FW,2,0,,1,1,6,3,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -414,7 +414,7 @@ Portugal,2023-03-23,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-23,Danilo Pereira,66,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-23,Rúben Neves,24,MF,0,0,,0,0,4,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-23,Gonçalo Inácio,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-03-23,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Portugal,2023-03-23,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Portugal,2023-03-26,Cristiano Ronaldo,63,FW,2,0,,0,0,3,2,1,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-26,Gonçalo Ramos,27,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-26,João Félix,74,FW,1,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -430,7 +430,7 @@ Portugal,2023-03-26,Diogo Dalot,90,RM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-26,Danilo Pereira,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-26,Rúben Dias,90,CB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-03-26,António Silva,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-03-26,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Portugal,2023-03-26,Rui Patrício,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Portugal,2023-06-17,Cristiano Ronaldo,90,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-17,João Félix,61,AM,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-17,Rúben Neves,29,MF,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -445,7 +445,7 @@ Portugal,2023-06-17,João Cancelo,90,DM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-17,Danilo Pereira,90,CB,0,0,,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-17,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-17,António Silva,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-06-17,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Portugal,2023-06-17,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Portugal,2023-06-20,Rafael Leão,90,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-20,Cristiano Ronaldo,90,FW,1,0,,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-20,Bruno Fernandes,83,CM,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -461,7 +461,7 @@ Portugal,2023-06-20,Otávio,7,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-20,Rúben Dias,90,CB,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-20,João Cancelo,66,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-06-20,Raphaël Guerreiro,24,"DF,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-06-20,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Portugal,2023-06-20,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Portugal,2023-09-08,Rafael Leão,62,FW,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-08,Pedro Neto,28,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-08,Cristiano Ronaldo,90,FW,0,0,,0,0,6,3,0,1,0,0,0,NA,NA,NA,NA,NA
@@ -475,7 +475,7 @@ Portugal,2023-09-08,Nélson Semedo,28,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 Portugal,2023-09-08,Rúben Dias,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-08,António Silva,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-08,Diogo Dalot,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-09-08,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Portugal,2023-09-08,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Portugal,2023-09-11,Gonçalo Ramos,60,FW,2,0,,0,0,4,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-11,João Félix,30,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-11,Rafael Leão,74,AM,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -491,7 +491,7 @@ Portugal,2023-09-11,Gonçalo Inácio,90,CB,2,0,,0,0,4,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-11,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-11,Nélson Semedo,60,RB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-09-11,João Cancelo,30,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-09-11,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Portugal,2023-09-11,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Portugal,2023-10-13,Gonçalo Ramos,86,FW,1,0,,0,0,4,2,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2023-10-13,Diogo Jota,4,"FW,MF",0,0,,0,0,3,2,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2023-10-13,Cristiano Ronaldo,90,FW,2,0,,1,1,7,2,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -506,7 +506,7 @@ Portugal,2023-10-13,Diogo Dalot,90,LB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2023-10-13,Rúben Dias,90,CB,0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2023-10-13,António Silva,90,CB,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2023-10-13,João Cancelo,90,RB,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2023-10-13,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Portugal,2023-10-13,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 Portugal,2023-10-16,Cristiano Ronaldo,65,FW,2,0,,1,1,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-10-16,Diogo Jota,25,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-10-16,Rafael Leão,65,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -522,7 +522,7 @@ Portugal,2023-10-16,João Cancelo,90,LB,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-10-16,Gonçalo Inácio,90,CB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-10-16,Rúben Dias,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-10-16,Diogo Dalot,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-10-16,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Portugal,2023-10-16,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Portugal,2023-11-16,Gonçalo Ramos,90,FW,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-16,João Félix,86,AM,0,0,,0,0,4,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-16,João Neves,4,MF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -538,7 +538,7 @@ Portugal,2023-11-16,João Mário Lopes,4,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,N
 Portugal,2023-11-16,Toti Gomes,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-16,Rúben Neves,90,CB,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-16,António Silva,90,CB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-11-16,José Sá,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Portugal,2023-11-16,José Sá,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Portugal,2023-11-19,João Félix,86,FW,0,0,,0,0,3,3,0,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-19,Bruma,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-19,Cristiano Ronaldo,90,FW,0,1,,0,0,7,3,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -554,7 +554,7 @@ Portugal,2023-11-19,Gonçalo Inácio,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-19,Rúben Dias,90,CB,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-19,João Mário Lopes,62,RB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2023-11-19,Raphaël Guerreiro,28,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2023-11-19,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Portugal,2023-11-19,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Portugal,2024-03-21,Rafael Leão,45,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-21,Bruma,45,"FW,MF",1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-21,Gonçalo Ramos,62,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -571,7 +571,7 @@ Portugal,2024-03-21,Pepe,45,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-21,António Silva,45,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-21,Nélson Semedo,81,RB,0,2,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-21,João Mário Lopes,9,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2024-03-21,Rui Patrício,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Portugal,2024-03-21,Rui Patrício,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Portugal,2024-03-26,Cristiano Ronaldo,90,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-26,João Félix,90,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-26,Otávio,45,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -586,7 +586,7 @@ Portugal,2024-03-26,Gonçalo Inácio,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-26,Danilo Pereira,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-26,Pepe,45,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-03-26,António Silva,45,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2024-03-26,Diogo Costa,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Portugal,2024-03-26,Diogo Costa,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Portugal,2024-06-04,Diogo Jota,45,FW,1,0,,1,1,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-04,Gonçalo Ramos,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-04,Rafael Leão,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -603,7 +603,7 @@ Portugal,2024-06-04,Gonçalo Inácio,45,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-04,António Silva,72,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-04,Danilo Pereira,18,"DF,FW",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-04,João Cancelo,90,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2024-06-04,José Sá,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Portugal,2024-06-04,José Sá,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Portugal,2024-06-08,Gonçalo Ramos,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-08,Diogo Jota,45,"FW,MF",1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-08,João Félix,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -620,7 +620,7 @@ Portugal,2024-06-08,Gonçalo Inácio,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-08,Rúben Dias,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-08,Diogo Dalot,45,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-08,Nélson Semedo,45,"DF,MF",0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2024-06-08,Diogo Costa,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Portugal,2024-06-08,Diogo Costa,90,GK,0,0,,0,0,,,,0,0,0,2,,,1,NA,0
 Croatia,2024-06-08,Ante Budimir,66,FW,1,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-06-08,Bruno Petković,24,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-06-08,Andrej Kramarić,53,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -637,7 +637,7 @@ Croatia,2024-06-08,Joško Gvardiol,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-06-08,Marin Pongračić,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-06-08,Josip Šutalo,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-06-08,Josip Stanišić,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Croatia,2024-06-08,Dominik Livaković,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Croatia,2024-06-08,Dominik Livaković,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Portugal,2024-06-11,Rafael Leão,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-11,Diogo Jota,45,"FW,MF",0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-11,Cristiano Ronaldo,90,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -654,7 +654,7 @@ Portugal,2024-06-11,Gonçalo Inácio,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-11,Pepe,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-11,Danilo Pereira,45,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-11,António Silva,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2024-06-11,Diogo Costa,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Portugal,2024-06-11,Diogo Costa,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Portugal,2024-06-18,Cristiano Ronaldo,90,FW,0,0,0,0,0,5,3,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-06-18,Rafael Leão,62,LW,0,0,0,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-06-18,Diogo Jota,28,LW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -670,7 +670,7 @@ Portugal,2024-06-18,Nuno Mendes,89,"CB,LM",0,0,0,0,0,2,1,2,0,0,0,1,NA,NA,NA,NA,N
 Portugal,2024-06-18,Pedro Neto,1,LM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-06-18,Pepe,90,CB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-06-18,Rúben Dias,90,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2024-06-18,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Portugal,2024-06-18,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Portugal,2024-06-22,Cristiano Ronaldo,90,FW,0,1,0,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-22,Rafael Leão,45,LW,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-22,Pedro Neto,45,LW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -686,7 +686,7 @@ Portugal,2024-06-22,António Silva,8,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-22,Rúben Dias,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-22,João Cancelo,67,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-06-22,Nélson Semedo,23,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2024-06-22,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Portugal,2024-06-22,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Portugal,2024-06-26,Cristiano Ronaldo,65,FW,0,0,0,0,0,3,1,0,1,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-26,Gonçalo Ramos,25,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-26,João Félix,90,AM,0,0,0,0,0,3,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -702,7 +702,7 @@ Portugal,2024-06-26,Gonçalo Inácio,90,CB,0,0,0,0,0,1,0,2,0,0,0,2,NA,NA,NA,NA,N
 Portugal,2024-06-26,Danilo Pereira,90,CB,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-26,António Silva,65,CB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2024-06-26,Nélson Semedo,25,WB,0,0,0,0,0,2,1,2,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2024-06-26,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7,NA,NA,0
+Portugal,2024-06-26,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7,0,NA,0
 Portugal,2024-07-01,Cristiano Ronaldo,120,FW,0,0,0,0,1,7,3,1,0,0,0,0,NA,NA,NA,1,NA
 Portugal,2024-07-01,Rafael Leão,75,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-07-01,Francisco Conceição,45,"RW,LW",0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -717,7 +717,7 @@ Portugal,2024-07-01,Rúben Neves,4,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-07-01,Rúben Dias,120,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-07-01,João Cancelo,116,RB,0,0,0,0,0,0,0,4,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-07-01,Nélson Semedo,4,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2024-07-01,Diogo Costa,120,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Portugal,2024-07-01,Diogo Costa,120,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Portugal,2024-09-05,Rafael Leão,45,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-05,João Neves,45,MF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-05,Cristiano Ronaldo,87,FW,1,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -733,7 +733,7 @@ Portugal,2024-09-05,Gonçalo Inácio,76,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-05,António Silva,14,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-05,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-05,Diogo Dalot,90,RB,1,0,,0,0,1,1,1,0,0,1,1,NA,NA,NA,NA,NA
-Portugal,2024-09-05,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+Portugal,2024-09-05,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
 Croatia,2024-09-05,Andrej Kramarić,90,FW,0,0,,0,0,4,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Croatia,2024-09-05,Mario Pašalić,66,FW,0,0,,0,0,0,0,4,0,0,0,2,NA,NA,NA,NA,NA
 Croatia,2024-09-05,Luka Sučić,24,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -749,7 +749,7 @@ Croatia,2024-09-05,Joško Gvardiol,90,CB,0,0,,0,0,2,2,0,0,0,0,2,NA,NA,NA,NA,NA
 Croatia,2024-09-05,Marin Pongračić,45,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Croatia,2024-09-05,Duje Ćaleta-Car,45,DF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Croatia,2024-09-05,Josip Šutalo,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Croatia,2024-09-05,Dominik Livaković,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,NA,NA,0
+Croatia,2024-09-05,Dominik Livaković,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0
 Portugal,2024-09-08,Rafael Leão,67,FW,0,1,,0,0,4,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-08,João Félix,23,"FW,MF",0,0,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-08,Diogo Jota,90,FW,0,0,,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -765,7 +765,7 @@ Portugal,2024-09-08,Rúben Dias,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-08,António Silva,90,CB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-08,Nélson Semedo,75,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-09-08,Diogo Dalot,15,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2024-09-08,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Portugal,2024-09-08,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Portugal,2024-10-12,Cristiano Ronaldo,62,FW,1,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-10-12,Diogo Jota,28,"FW,MF",0,0,,0,0,1,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-10-12,Rafael Leão,63,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -781,7 +781,7 @@ Portugal,2024-10-12,Nuno Mendes,90,LB,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-10-12,Renato Veiga,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-10-12,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-10-12,Diogo Dalot,90,RB,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2024-10-12,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+Portugal,2024-10-12,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,0,NA,0
 Portugal,2024-10-15,Diogo Jota,60,FW,0,0,,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-10-15,Rafael Leão,30,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-10-15,Cristiano Ronaldo,90,FW,0,0,,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -797,7 +797,7 @@ Portugal,2024-10-15,Rúben Dias,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-10-15,António Silva,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-10-15,João Cancelo,87,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2024-10-15,Nélson Semedo,3,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2024-10-15,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Portugal,2024-10-15,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Portugal,2024-11-15,Cristiano Ronaldo,90,FW,2,1,,1,1,5,2,1,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-15,Rafael Leão,83,AM,1,0,,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-15,João Félix,7,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -813,7 +813,7 @@ Portugal,2024-11-15,Nuno Tavares,3,"DF,MF",0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-15,Renato Veiga,90,CB,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-15,António Silva,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-15,Diogo Dalot,90,RB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2024-11-15,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Portugal,2024-11-15,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 Croatia,2024-11-18,Igor Matanovic,62,FW,0,0,,0,0,3,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-11-18,Ante Budimir,28,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-11-18,Martin Baturina,90,LM,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -829,7 +829,7 @@ Croatia,2024-11-18,Duje Ćaleta-Car,90,CB,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-11-18,Josip Šutalo,90,CB,0,0,,0,0,1,1,3,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-11-18,Ivan Perišić,57,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2024-11-18,Luka Sučić,33,"FW,MF",0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Croatia,2024-11-18,Dominik Livaković,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+Croatia,2024-11-18,Dominik Livaković,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
 Portugal,2024-11-18,João Félix,90,FW,1,0,,0,0,4,3,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-18,Rafael Leão,70,FW,0,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-18,Fábio Silva,20,FW,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
@@ -844,7 +844,7 @@ Portugal,2024-11-18,Diogo Dalot,10,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-18,Renato Veiga,90,CB,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-18,Tomás Araújo,62,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2024-11-18,Tiago Djaló,28,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2024-11-18,José Sá,90,GK,0,0,,0,0,0,0,0,0,0,0,1,6,85.7,NA,NA,0
+Portugal,2024-11-18,José Sá,90,GK,0,0,,0,0,0,0,0,0,0,0,1,6,85.7,0,NA,0
 Portugal,2025-03-20,Cristiano Ronaldo,90,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-03-20,Rafael Leão,75,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-03-20,Rúben Neves,15,MF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -859,7 +859,7 @@ Portugal,2025-03-20,Gonçalo Inácio,15,DF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-03-20,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-03-20,Diogo Dalot,65,RB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-03-20,Nélson Semedo,25,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2025-03-20,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,6,83.3,NA,NA,0
+Portugal,2025-03-20,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,6,83.3,0,NA,0
 Portugal,2025-03-23,Rafael Leão,61,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-03-23,Diogo Jota,59,"FW,MF",0,1,,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-03-23,Cristiano Ronaldo,89,FW,1,0,,0,1,6,5,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -875,7 +875,7 @@ Portugal,2025-03-23,Gonçalo Inácio,120,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,N
 Portugal,2025-03-23,Rúben Dias,120,CB,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-03-23,Diogo Dalot,80,RB,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-03-23,Francisco Trincão,40,"FW,MF",2,0,,0,0,2,2,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2025-03-23,Diogo Costa,120,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Portugal,2025-03-23,Diogo Costa,120,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 Germany,2025-06-04,Nick Woltemade,60,FW,0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-06-04,Niclas Füllkrug,30,FW,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-06-04,Florian Wirtz,90,AM,1,0,,0,0,2,2,3,1,0,0,2,NA,NA,NA,NA,NA
@@ -891,7 +891,7 @@ Germany,2025-06-04,Waldemar Anton,70,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-06-04,Felix Nmecha,20,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-06-04,Robin Koch,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-06-04,Jonathan Tah,90,CB,0,0,,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
-Germany,2025-06-04,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,NA,NA,0
+Germany,2025-06-04,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0
 Portugal,2025-06-04,Pedro Neto,82,FW,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-06-04,Diogo Jota,8,"FW,MF",0,0,,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-06-04,Cristiano Ronaldo,89,FW,1,0,,0,0,7,2,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -907,7 +907,7 @@ Portugal,2025-06-04,Gonçalo Inácio,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-06-04,Rúben Dias,90,CB,0,1,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-06-04,João Neves,57,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Portugal,2025-06-04,Nélson Semedo,33,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Portugal,2025-06-04,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+Portugal,2025-06-04,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
 Portugal,2025-09-06,João Félix,65,FW,2,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-09-06,Pedro Gonçalves,25,"FW,MF",0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-09-06,Cristiano Ronaldo,56,FW,2,0,,0,0,8,4,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -923,7 +923,7 @@ Portugal,2025-09-06,Rúben Dias,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-09-06,Gonçalo Inácio,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-09-06,João Cancelo,78,RB,1,1,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-09-06,João Palhinha,12,MF,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2025-09-06,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Portugal,2025-09-06,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Portugal,2025-09-09,Cristiano Ronaldo,86,FW,1,0,,1,1,4,3,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-09-09,Gonçalo Ramos,4,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-09-09,Bernardo Silva,90,AM,1,1,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -939,7 +939,7 @@ Portugal,2025-09-09,Rúben Dias,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-09-09,João Cancelo,90,CB,1,1,,0,0,4,2,1,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-09-09,João Neves,78,RB,0,0,,0,0,1,1,0,1,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-09-09,João Félix,12,"FW,MF",0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2025-09-09,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,NA,NA,0
+Portugal,2025-09-09,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,0,NA,0
 Portugal,2025-10-11,Cristiano Ronaldo,90,FW,0,0,,0,1,7,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-10-11,Bernardo Silva,90,AM,0,0,,0,0,2,0,2,1,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-10-11,Bruno Fernandes,85,AM,0,0,,0,0,4,1,1,1,0,0,0,NA,NA,NA,NA,NA
@@ -955,7 +955,7 @@ Portugal,2025-10-11,Renato Veiga,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,N
 Portugal,2025-10-11,Rúben Dias,90,CB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-10-11,Diogo Dalot,61,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Portugal,2025-10-11,Francisco Trincão,29,"FW,MF",0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Portugal,2025-10-11,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Portugal,2025-10-11,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Portugal,2025-10-14,Cristiano Ronaldo,77,FW,2,0,,0,0,7,3,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-10-14,Gonçalo Ramos,13,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-10-14,Pedro Neto,61,AM,0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -971,4 +971,4 @@ Portugal,2025-10-14,Nuno Tavares,12,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,N
 Portugal,2025-10-14,Renato Veiga,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-10-14,Rúben Dias,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Portugal,2025-10-14,Nélson Semedo,90,RB,0,1,,0,0,2,1,1,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2025-10-14,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,NA,NA,0
+Portugal,2025-10-14,Diogo Costa,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0

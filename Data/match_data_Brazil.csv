@@ -14,7 +14,7 @@ Brazil,2020-10-09,Thiago Silva,70,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-10-09,Felipe,20,DF,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-10-09,Marquinhos,90,CB,1,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-10-09,Danilo,90,RB,0,1,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2020-10-09,Wéverton,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Brazil,2020-10-09,Wéverton,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Brazil,2020-10-13,Neymar,90,FW,3,0,,2,2,5,4,2,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2020-10-13,Roberto Firmino,68,FW,0,1,,0,0,3,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2020-10-13,Everton Ribeiro,22,"FW,MF",0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -29,7 +29,7 @@ Brazil,2020-10-13,Thiago Silva,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2020-10-13,Marquinhos,11,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2020-10-13,Rodrigo Caio,79,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2020-10-13,Danilo,90,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Brazil,2020-10-13,Wéverton,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,NA,NA,0
+Brazil,2020-10-13,Wéverton,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0
 Brazil,2020-11-13,Roberto Firmino,90,FW,1,0,,0,0,4,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-13,Richarlison,75,FW,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-13,Pedro,15,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -44,7 +44,7 @@ Brazil,2020-11-13,Alex Telles,1,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-13,Thiago Silva,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-13,Marquinhos,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-13,Danilo,90,RB,0,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2020-11-13,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Brazil,2020-11-13,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Uruguay,2020-11-17,Darwin Núñez,90,FW,0,0,,0,0,3,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2020-11-17,Edinson Cavani,70,FW,0,0,,0,0,1,0,0,0,1,0,2,NA,NA,NA,NA,NA
 Uruguay,2020-11-17,Nicolás De La Cruz,69,LM,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
@@ -58,7 +58,7 @@ Uruguay,2020-11-17,Agustín Oliveros,90,LB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2020-11-17,Diego Godín,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2020-11-17,José María Giménez,90,CB,0,0,,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Uruguay,2020-11-17,Martín Cáceres,90,RB,0,0,,0,0,0,0,3,1,0,0,2,NA,NA,NA,NA,NA
-Uruguay,2020-11-17,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Uruguay,2020-11-17,Martín Campaña,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 Brazil,2020-11-17,Richarlison,69,FW,1,0,,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-17,Everton Soares,21,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-17,Roberto Firmino,90,FW,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -72,7 +72,7 @@ Brazil,2020-11-17,Renan Lodi,90,LB,0,1,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-17,Thiago Silva,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-17,Marquinhos,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2020-11-17,Danilo,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2020-11-17,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Brazil,2020-11-17,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Brazil,2021-06-04,Neymar,90,FW,1,1,,1,1,3,3,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-04,Gabriel Barbosa,75,FW,0,0,,0,0,4,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-04,Roberto Firmino,15,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -86,7 +86,7 @@ Brazil,2021-06-04,Alex Sandro,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-04,Marquinhos,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-04,Éder Militão,90,CB,0,0,,0,0,1,0,2,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-04,Danilo,90,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-06-04,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Brazil,2021-06-04,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Brazil,2021-06-08,Neymar,90,FW,1,1,,0,0,6,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-08,Roberto Firmino,72,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-08,Douglas Luiz,18,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -101,7 +101,7 @@ Brazil,2021-06-08,Alex Sandro,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-08,Marquinhos,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-08,Éder Militão,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-08,Danilo,90,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-06-08,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Brazil,2021-06-08,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Brazil,2021-06-13,Richarlison,64,FW,0,0,0,0,0,5,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-13,Gabriel Barbosa,26,FW,1,0,0,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-13,Neymar,90,"FW,LW",1,1,0,1,1,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -117,7 +117,7 @@ Brazil,2021-06-13,Alex Sandro,45,LB,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-13,Marquinhos,90,CB,1,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-13,Éder Militão,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-06-13,Danilo,90,RB,0,0,1,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-06-13,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Brazil,2021-06-13,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Brazil,2021-06-23,Neymar,90,FW,0,1,0,0,0,5,1,2,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-23,Gabriel Jesus,76,"FW,RM",0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-23,Everton Soares,14,LW,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -133,7 +133,7 @@ Brazil,2021-06-23,Renan Lodi,29,LB,0,1,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-23,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-23,Marquinhos,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-23,Danilo,90,RB,0,0,0,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2021-06-23,Wéverton,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Brazil,2021-06-23,Wéverton,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Colombia,2021-06-23,Duván Zapata,63,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-23,Miguel Borja,27,FW,0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-23,Rafael Borré,63,FW,0,0,0,0,0,0,0,7,0,0,0,2,NA,NA,NA,NA,NA
@@ -147,7 +147,7 @@ Colombia,2021-06-23,William Tesillo,90,"LB,LW",0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,
 Colombia,2021-06-23,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-23,Yerry Mina,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-23,Daniel Muñoz,90,RB,0,0,0,0,0,0,0,6,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2021-06-23,David Ospina,90,GK,0,0,0,0,0,0,0,0,1,0,0,2,2,50.0,NA,NA,0
+Colombia,2021-06-23,David Ospina,90,GK,0,0,0,0,0,0,0,0,1,0,0,2,2,50.0,0,NA,0
 Brazil,2021-06-27,Gabriel Barbosa,90,FW,0,0,0,0,0,1,1,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-27,Everton Soares,77,LW,0,1,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-27,Richarlison,13,RW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -163,7 +163,7 @@ Brazil,2021-06-27,Danilo,42,LB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-27,Marquinhos,90,CB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-27,Éder Militão,90,CB,1,0,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-06-27,Emerson,90,RB,0,0,0,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2021-06-27,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Brazil,2021-06-27,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Brazil,2021-07-02,Neymar,90,FW,0,0,0,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-02,Richarlison,89,LW,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-02,Everton Soares,1,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -177,7 +177,7 @@ Brazil,2021-07-02,Éder Militão,1,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-02,Thiago Silva,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-02,Marquinhos,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-02,Danilo,90,RB,0,0,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-07-02,Ederson,90,GK,0,0,0,0,0,0,0,0,1,0,0,0,5,100.0,NA,NA,0
+Brazil,2021-07-02,Ederson,90,GK,0,0,0,0,0,0,0,0,1,0,0,0,5,100.0,0,NA,0
 Brazil,2021-07-05,Richarlison,84,FW,0,0,0,0,0,3,2,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-05,Vinicius Júnior,6,LW,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-05,Neymar,90,"LW,FW",0,1,0,0,0,4,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -193,7 +193,7 @@ Brazil,2021-07-05,Éder Militão,6,LB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-05,Thiago Silva,90,CB,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-05,Marquinhos,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-07-05,Danilo,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-07-05,Ederson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Brazil,2021-07-05,Ederson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Argentina,2021-07-10,Lautaro Martínez,78,FW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-07-10,Nicolás González,12,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-07-10,Lionel Messi,90,FW,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -209,7 +209,7 @@ Argentina,2021-07-10,Nicolás Otamendi,90,CB,0,0,0,0,0,0,0,4,1,0,0,0,NA,NA,NA,NA
 Argentina,2021-07-10,Cristian Romero,78,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-07-10,Germán Pezzella,12,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-07-10,Gonzalo Montiel,90,RB,0,0,0,0,0,0,0,7,1,0,0,0,NA,NA,NA,NA,NA
-Argentina,2021-07-10,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Argentina,2021-07-10,Emiliano Martínez,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Brazil,2021-07-10,Neymar,90,FW,0,0,0,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-07-10,Richarlison,90,"RM,LW",0,0,0,0,0,3,1,4,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-07-10,Everton Soares,62,"RW,LM",0,0,0,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -224,7 +224,7 @@ Brazil,2021-07-10,Emerson,15,LB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-07-10,Thiago Silva,90,CB,0,0,0,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-07-10,Marquinhos,90,CB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-07-10,Danilo,90,RB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2021-07-10,Ederson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Brazil,2021-07-10,Ederson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Brazil,2021-09-02,Neymar,90,FW,0,0,,0,0,3,1,1,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-02,Gabriel Barbosa,77,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-02,Matheus Cunha,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -238,7 +238,7 @@ Brazil,2021-09-02,Alex Sandro,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-02,Marquinhos,90,CB,0,0,,0,0,2,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-02,Éder Militão,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-02,Danilo,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-09-02,Wéverton,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Brazil,2021-09-02,Wéverton,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Brazil,2021-09-09,Neymar,90,FW,1,1,,0,0,2,1,1,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-09,Gabriel Barbosa,83,FW,0,0,,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-09,Hulk,7,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -254,7 +254,7 @@ Brazil,2021-09-09,Éder Militão,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-09,Lucas Veríssimo,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-09,Danilo,62,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-09-09,Matheus Cunha,28,"FW,MF",0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-09-09,Wéverton,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Brazil,2021-09-09,Wéverton,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Brazil,2021-10-07,Gabriel Jesus,76,FW,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-07,Antony,14,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-07,Gabriel Barbosa,90,FW,1,0,,1,1,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -270,7 +270,7 @@ Brazil,2021-10-07,Thiago Silva,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-07,Marquinhos,90,CB,1,0,,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-07,Danilo,76,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-07,Emerson,14,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2021-10-07,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+Brazil,2021-10-07,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,0,NA,0
 Colombia,2021-10-10,Radamel Falcao,73,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-10,Duván Zapata,17,FW,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-10,Juan Quintero,73,AM,0,0,,0,0,6,2,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -285,7 +285,7 @@ Colombia,2021-10-10,Johan Mojica,90,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-10,Carlos Cuesta,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-10,Yerry Mina,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-10,Stefan Medina,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2021-10-10,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Colombia,2021-10-10,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Brazil,2021-10-10,Gabriel Barbosa,60,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-10-10,Raphinha,30,"FW,MF",0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-10-10,Lucas Paquetá,90,AM,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -299,7 +299,7 @@ Brazil,2021-10-10,Éder Militão,70,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-10-10,Thiago Silva,20,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-10-10,Marquinhos,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-10-10,Danilo,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-10-10,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Brazil,2021-10-10,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Brazil,2021-10-14,Gabriel Jesus,60,FW,0,0,,0,0,3,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-14,Gabriel Barbosa,30,"FW,MF",1,0,,0,0,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-14,Lucas Paquetá,60,AM,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -315,7 +315,7 @@ Brazil,2021-10-14,Alex Sandro,90,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-14,Thiago Silva,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-14,Lucas Veríssimo,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2021-10-14,Emerson,90,RB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2021-10-14,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Brazil,2021-10-14,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Uruguay,2021-10-14,Edinson Cavani,90,FW,0,0,,0,0,0,0,0,1,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2021-10-14,Luis Suárez,90,FW,1,0,,0,0,1,1,0,0,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2021-10-14,Nicolás De La Cruz,45,LM,0,0,,0,0,1,0,0,0,0,0,4,NA,NA,NA,NA,NA
@@ -331,7 +331,7 @@ Uruguay,2021-10-14,Diego Godín,90,CB,0,0,,0,0,0,0,1,0,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2021-10-14,Sebastián Coates,90,CB,0,0,,0,0,0,0,2,1,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2021-10-14,Nahitan Nández,45,RB,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
 Uruguay,2021-10-14,Martín Cáceres,45,DF,0,0,,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
-Uruguay,2021-10-14,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,4,9,69.2,NA,NA,0
+Uruguay,2021-10-14,Fernando Muslera,90,GK,0,0,,0,0,0,0,0,0,0,0,4,9,69.2,0,NA,0
 Brazil,2021-11-11,Neymar,90,FW,0,1,,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-11,Gabriel Jesus,63,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-11,Matheus Cunha,27,"FW,MF",0,0,,0,0,3,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -346,7 +346,7 @@ Brazil,2021-11-11,Alex Sandro,90,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-11,Thiago Silva,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-11,Marquinhos,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-11,Danilo,90,RB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-11-11,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Brazil,2021-11-11,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Colombia,2021-11-11,Luis Díaz,65,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-11-11,Roger Martínez,25,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-11-11,Duván Zapata,65,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -362,7 +362,7 @@ Colombia,2021-11-11,William Tesillo,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-11-11,Davinson Sánchez,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-11-11,Daniel Muñoz,77,RB,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-11-11,James Rodríguez,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2021-11-11,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Colombia,2021-11-11,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 Argentina,2021-11-16,Ángel Di María,74,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-16,Julián Álvarez,16,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-16,Lautaro Martínez,45,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -378,7 +378,7 @@ Argentina,2021-11-16,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,
 Argentina,2021-11-16,Cristian Romero,52,CB,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-16,Germán Pezzella,38,DF,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-11-16,Nahuel Molina,90,RB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
-Argentina,2021-11-16,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Argentina,2021-11-16,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Brazil,2021-11-16,Matheus Cunha,85,FW,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-16,Gabriel Jesus,5,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-16,Vinicius Júnior,90,AM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -392,7 +392,7 @@ Brazil,2021-11-16,Alex Sandro,90,LB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-16,Éder Militão,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-16,Marquinhos,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2021-11-16,Danilo,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2021-11-16,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Brazil,2021-11-16,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Brazil,2022-01-27,Philippe Coutinho,32,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-01-27,Dani Alves,58,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-01-27,Matheus Cunha,77,FW,0,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -407,7 +407,7 @@ Brazil,2022-01-27,Alex Sandro,90,LB,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-01-27,Thiago Silva,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-01-27,Éder Militão,90,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-01-27,Emerson,19,RB,0,0,,0,0,0,0,0,2,1,0,1,NA,NA,NA,NA,NA
-Brazil,2022-01-27,Alisson,90,GK,0,0,,0,0,0,0,0,1,0,0,1,0,0.0,NA,NA,0
+Brazil,2022-01-27,Alisson,90,GK,0,0,,0,0,0,0,0,1,0,0,1,0,0.0,0,NA,0
 Brazil,2022-02-01,Vinicius Júnior,60,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-02-01,Antony,30,"FW,MF",1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-02-01,Matheus Cunha,60,FW,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -423,7 +423,7 @@ Brazil,2022-02-01,Alex Telles,90,LB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-02-01,Thiago Silva,90,CB,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-02-01,Marquinhos,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-02-01,Dani Alves,90,RB,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2022-02-01,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Brazil,2022-02-01,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Brazil,2022-03-24,Neymar,90,FW,1,0,,1,1,5,2,1,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-24,Vinicius Júnior,74,AM,1,0,,0,0,1,1,1,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-24,Gabriel Martinelli,16,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -439,7 +439,7 @@ Brazil,2022-03-24,Guilherme Arana,90,LB,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-24,Thiago Silva,90,CB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-24,Marquinhos,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-24,Danilo,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2022-03-24,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Brazil,2022-03-24,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Brazil,2022-03-29,Richarlison,90,FW,2,0,,0,0,2,2,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-29,Philippe Coutinho,53,AM,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-29,Gabriel Martinelli,37,"FW,MF",0,0,,0,0,4,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -454,7 +454,7 @@ Brazil,2022-03-29,Guilherme Arana,7,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,N
 Brazil,2022-03-29,Éder Militão,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-29,Marquinhos,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-03-29,Dani Alves,90,RB,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2022-03-29,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,NA,NA,0
+Brazil,2022-03-29,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,0,NA,0
 Korea Republic,2022-06-02,Hwang Ui-jo,70,FW,1,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 Korea Republic,2022-06-02,Na Sang-ho,20,"FW,MF",0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 Korea Republic,2022-06-02,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
@@ -469,7 +469,7 @@ Korea Republic,2022-06-02,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,N
 Korea Republic,2022-06-02,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 Korea Republic,2022-06-02,Lee Yong,57,RB,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 Korea Republic,2022-06-02,Jeong Woo-yeong,33,"FW,MF",0,0,,0,0,,,,1,0,0,5,NA,NA,NA,NA,NA
-Korea Republic,2022-06-02,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,5,,,NA,NA,0
+Korea Republic,2022-06-02,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,5,,,2,NA,0
 Brazil,2022-06-02,Neymar,77,FW,2,0,,2,2,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-06-02,Philippe Coutinho,13,"FW,MF",1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-06-02,Richarlison,70,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -486,7 +486,7 @@ Brazil,2022-06-02,Alex Sandro,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-06-02,Thiago Silva,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-06-02,Marquinhos,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-06-02,Dani Alves,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2022-06-02,Wéverton,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Brazil,2022-06-02,Wéverton,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Japan,2022-06-06,Ao Tanaka,80,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2022-06-06,Gaku Shibasaki,10,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2022-06-06,Kyogo Furuhashi,66,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -503,7 +503,7 @@ Japan,2022-06-06,Maya Yoshida,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2022-06-06,Ko Itakura,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2022-06-06,Yuto Nagatomo,80,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Japan,2022-06-06,Miki Yamane,10,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Japan,2022-06-06,Shūichi Gonda,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Japan,2022-06-06,Shūichi Gonda,90,GK,0,0,,0,0,,,,0,0,0,1,,,1,NA,0
 Brazil,2022-06-06,Neymar,90,FW,1,0,,1,1,,,,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-06-06,Lucas Paquetá,84,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-06-06,Bruno Guimarães,6,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -520,7 +520,7 @@ Brazil,2022-06-06,Éder Militão,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-06-06,Marquinhos,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-06-06,Dani Alves,69,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-06-06,Thiago Silva,21,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2022-06-06,Alisson,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Brazil,2022-06-06,Alisson,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Brazil,2022-09-23,Vinicius Júnior,62,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-09-23,Antony,28,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-09-23,Richarlison,62,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -537,7 +537,7 @@ Brazil,2022-09-23,Marquinhos,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-09-23,Thiago Silva,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-09-23,Gleison Bremer,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-09-23,Éder Militão,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2022-09-23,Alisson,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Brazil,2022-09-23,Alisson,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Brazil,2022-09-27,Richarlison,45,FW,1,1,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-09-27,Pedro,45,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-09-27,Lucas Paquetá,45,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -554,7 +554,7 @@ Brazil,2022-09-27,Thiago Silva,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-09-27,Marquinhos,77,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-09-27,Roger Ibanez,13,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-09-27,Danilo,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2022-09-27,Alisson,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Brazil,2022-09-27,Alisson,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Brazil,2022-11-24,Richarlison,78,FW,2,0,0,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-24,Gabriel Jesus,12,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-24,Vinicius Júnior,75,LW,0,1,0,0,0,4,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -570,7 +570,7 @@ Brazil,2022-11-24,Alex Sandro,90,LB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-24,Thiago Silva,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-24,Marquinhos,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-24,Danilo,90,RB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2022-11-24,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Brazil,2022-11-24,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Brazil,2022-11-28,Richarlison,72,FW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-28,Gabriel Jesus,18,FW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-28,Vinicius Júnior,90,LW,0,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -586,7 +586,7 @@ Brazil,2022-11-28,Alex Telles,5,LB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-28,Thiago Silva,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-28,Marquinhos,90,CB,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2022-11-28,Éder Militão,90,RB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2022-11-28,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Brazil,2022-11-28,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Brazil,2022-12-02,Gabriel Jesus,63,FW,0,0,0,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-02,Pedro,27,FW,0,0,0,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-02,Gabriel Martinelli,90,LW,0,0,0,0,0,4,3,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -602,7 +602,7 @@ Brazil,2022-12-02,Marquinhos,36,LB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-02,Gleison Bremer,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-02,Éder Militão,90,CB,0,0,0,0,0,1,1,1,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-02,Dani Alves,90,RB,0,0,0,0,0,1,0,5,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2022-12-02,Ederson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Brazil,2022-12-02,Ederson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Brazil,2022-12-05,Richarlison,90,FW,1,0,1,0,0,2,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-05,Vinicius Júnior,71,LW,1,1,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-05,Gabriel Martinelli,19,LW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -617,8 +617,8 @@ Brazil,2022-12-05,Thiago Silva,90,CB,0,1,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-05,Marquinhos,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-05,Éder Militão,62,RB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-05,Dani Alves,28,RB,0,0,0,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2022-12-05,Alisson,79,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
-Brazil,2022-12-05,Wéverton,11,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Brazil,2022-12-05,Alisson,79,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
+Brazil,2022-12-05,Wéverton,11,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 Korea Republic,2022-12-05,Son Heung-min,90,"LM,FW",0,0,0,0,0,1,1,0,0,0,0,4,NA,NA,NA,NA,NA
 Korea Republic,2022-12-05,Cho Gue-sung,79,FW,0,0,0,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
 Korea Republic,2022-12-05,Hwang Ui-jo,11,FW,0,0,0,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
@@ -634,7 +634,7 @@ Korea Republic,2022-12-05,Hong Chul,45,LB,0,0,0,0,0,0,0,0,0,0,0,4,NA,NA,NA,NA,NA
 Korea Republic,2022-12-05,Kim Young-gwon,90,CB,0,0,0,0,0,0,0,1,0,0,0,4,NA,NA,NA,NA,NA
 Korea Republic,2022-12-05,Kim Min-jae,90,CB,0,0,0,0,0,0,0,1,0,0,0,4,NA,NA,NA,NA,NA
 Korea Republic,2022-12-05,Kim Moonhwan,90,RB,0,0,0,0,0,0,0,5,0,0,0,4,NA,NA,NA,NA,NA
-Korea Republic,2022-12-05,Kim Seung-gyu,90,GK,0,0,0,0,0,0,0,0,0,0,0,4,5,66.7,NA,NA,0
+Korea Republic,2022-12-05,Kim Seung-gyu,90,GK,0,0,0,0,0,0,0,0,0,0,0,4,5,66.7,1,NA,0
 Croatia,2022-12-09,Andrej Kramarić,71,FW,0,0,0,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-12-09,Bruno Petković,49,FW,1,0,0,0,0,1,1,1,1,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-12-09,Ivan Perišić,120,"LW,LB",0,0,0,0,0,3,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -650,7 +650,7 @@ Croatia,2022-12-09,Ante Budimir,11,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-12-09,Joško Gvardiol,120,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-12-09,Dejan Lovren,120,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Croatia,2022-12-09,Josip Juranović,120,RB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
-Croatia,2022-12-09,Dominik Livaković,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,10,90.9,NA,NA,2
+Croatia,2022-12-09,Dominik Livaković,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,10,90.9,0,NA,2
 Brazil,2022-12-09,Richarlison,83,FW,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-09,Pedro,37,FW,0,0,0,0,0,2,1,1,0,0,0,1,NA,NA,NA,1,NA
 Brazil,2022-12-09,Vinicius Júnior,63,LW,0,0,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -666,7 +666,7 @@ Brazil,2022-12-09,Thiago Silva,120,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-09,Marquinhos,120,CB,0,0,0,0,0,1,0,0,1,0,0,1,NA,NA,NA,0,NA
 Brazil,2022-12-09,Éder Militão,105,RB,0,0,0,0,0,3,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2022-12-09,Alex Sandro,15,LB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2022-12-09,Alisson,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Brazil,2022-12-09,Alisson,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Brazil,2023-03-25,Rony,63,FW,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-03-25,Antony,27,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-03-25,Vinicius Júnior,90,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -682,7 +682,7 @@ Brazil,2023-03-25,Roger Ibanez,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-03-25,Éder Militão,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-03-25,Emerson,89,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-03-25,Arthur,1,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Brazil,2023-03-25,Wéverton,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Brazil,2023-03-25,Wéverton,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Brazil,2023-06-17,Richarlison,82,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2023-06-17,Pedro,8,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2023-06-17,Vinicius Júnior,89,FW,1,0,,1,1,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -699,7 +699,7 @@ Brazil,2023-06-17,Marquinhos,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2023-06-17,Éder Militão,90,CB,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2023-06-17,Danilo,89,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2023-06-17,Vanderson,1,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2023-06-17,Ederson,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Brazil,2023-06-17,Ederson,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Brazil,2023-06-20,Vinicius Júnior,90,FW,0,1,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Brazil,2023-06-20,Richarlison,56,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Brazil,2023-06-20,Pedro,34,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
@@ -715,7 +715,7 @@ Brazil,2023-06-20,Alex Telles,17,DF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 Brazil,2023-06-20,Marquinhos,90,CB,1,0,,0,0,,,,0,0,1,4,NA,NA,NA,NA,NA
 Brazil,2023-06-20,Éder Militão,90,CB,0,0,,0,0,,,,1,0,0,4,NA,NA,NA,NA,NA
 Brazil,2023-06-20,Danilo,90,RB,0,0,,0,0,,,,1,0,0,4,NA,NA,NA,NA,NA
-Brazil,2023-06-20,Ederson,90,GK,0,0,,0,0,,,,0,0,0,4,,,NA,NA,0
+Brazil,2023-06-20,Ederson,90,GK,0,0,,0,0,,,,0,0,0,4,,,0,NA,0
 England,2024-03-23,Ollie Watkins,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-03-23,Anthony Gordon,74,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-03-23,Marcus Rashford,16,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -732,7 +732,7 @@ England,2024-03-23,Lewis Dunk,24,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-03-23,John Stones,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-03-23,Kyle Walker,19,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 England,2024-03-23,Ezri Konsa,71,"DF,FW",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-England,2024-03-23,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+England,2024-03-23,Jordan Pickford,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Brazil,2024-03-23,Rodrygo,70,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-03-23,Endrick,20,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-03-23,Vinicius Júnior,88,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -749,7 +749,7 @@ Brazil,2024-03-23,Gleison Bremer,2,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-03-23,Lucas Beraldo,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-03-23,Fabrício Bruno,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-03-23,Danilo,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2024-03-23,Bento,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Brazil,2024-03-23,Bento,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Spain,2024-03-26,Álvaro Morata,80,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Spain,2024-03-26,Mikel Oyarzabal,10,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Spain,2024-03-26,Nico Williams,88,AM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -764,7 +764,7 @@ Spain,2024-03-26,Aymeric Laporte,90,CB,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
 Spain,2024-03-26,Robin Le Normand,80,CB,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
 Spain,2024-03-26,Pau Cubarsí,10,DF,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Spain,2024-03-26,Dani Carvajal,90,RB,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
-Spain,2024-03-26,Unai Simón,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+Spain,2024-03-26,Unai Simón,90,GK,0,0,,0,0,,,,0,0,0,3,,,1,NA,0
 Brazil,2024-03-26,Rodrygo,81,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Brazil,2024-03-26,Galeno,9,"DF,FW",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Brazil,2024-03-26,Vinicius Júnior,70,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -781,7 +781,7 @@ Brazil,2024-03-26,Lucas Beraldo,90,CB,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
 Brazil,2024-03-26,Fabrício Bruno,90,CB,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
 Brazil,2024-03-26,Danilo,45,RB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Brazil,2024-03-26,Yan Couto,45,"DF,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Brazil,2024-03-26,Bento,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+Brazil,2024-03-26,Bento,90,GK,0,0,,0,0,,,,0,0,0,3,,,2,NA,0
 Mexico,2024-06-08,Santiago Giménez,88,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Mexico,2024-06-08,Guillermo Martínez Ayala,2,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Mexico,2024-06-08,Julián Quiñones,88,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -797,7 +797,7 @@ Mexico,2024-06-08,Gerardo Arteaga,90,LB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Mexico,2024-06-08,Johan Vásquez,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Mexico,2024-06-08,Edson Álvarez,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Mexico,2024-06-08,Israel Reyes,90,RB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Mexico,2024-06-08,Julio José González,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+Mexico,2024-06-08,Julio José González,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
 Brazil,2024-06-08,Evanilson,60,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2024-06-08,Endrick,30,FW,1,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 Brazil,2024-06-08,Gabriel Martinelli,60,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -814,7 +814,7 @@ Brazil,2024-06-08,Guilherme Arana,90,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2024-06-08,Gleison Bremer,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2024-06-08,Éder Militão,90,CB,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 Brazil,2024-06-08,Yan Couto,90,RB,0,1,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Brazil,2024-06-08,Alisson,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Brazil,2024-06-08,Alisson,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 United States,2024-06-12,Ricardo Pepi,63,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-12,Folarin Balogun,27,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-12,Christian Pulisic,90,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -830,7 +830,7 @@ United States,2024-06-12,Tim Ream,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-12,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-12,Joe Scally,84,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-12,Shaq Moore,6,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2024-06-12,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2024-06-12,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Brazil,2024-06-12,Vinicius Júnior,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-12,Rodrygo,82,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-12,Gabriel Martinelli,8,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -846,7 +846,7 @@ Brazil,2024-06-12,Wendell,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-12,Lucas Beraldo,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-12,Marquinhos,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-12,Danilo,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2024-06-12,Alisson,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Brazil,2024-06-12,Alisson,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Brazil,2024-06-24,Vinicius Júnior,70,FW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-06-24,Endrick,20,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-06-24,Rodrygo,90,"LW,AM",0,0,0,0,0,6,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -860,7 +860,7 @@ Brazil,2024-06-24,Guilherme Arana,90,LB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-06-24,Marquinhos,90,CB,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-06-24,Éder Militão,90,CB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-06-24,Danilo,90,RB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2024-06-24,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Brazil,2024-06-24,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Brazil,2024-06-28,Rodrygo,78,FW,0,0,0,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-28,Endrick,12,FW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-28,Vinicius Júnior,90,LW,2,0,0,0,0,3,2,3,1,0,0,1,NA,NA,NA,NA,NA
@@ -876,7 +876,7 @@ Brazil,2024-06-28,Marquinhos,90,CB,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-28,Éder Militão,86,CB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-28,Gabriel Magalhães,4,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-06-28,Danilo,90,RB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2024-06-28,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Brazil,2024-06-28,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 Brazil,2024-07-02,Rodrygo,72,FW,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-07-02,Sávio,18,RW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-07-02,Vinicius Júnior,90,"LW,FW",0,0,0,0,0,1,0,2,1,0,0,1,NA,NA,NA,NA,NA
@@ -892,7 +892,7 @@ Brazil,2024-07-02,Endrick,5,"LB,FW",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-07-02,Marquinhos,90,CB,0,0,0,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-07-02,Éder Militão,90,CB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-07-02,Danilo,90,RB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2024-07-02,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Brazil,2024-07-02,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 Colombia,2024-07-02,Jhon Córdoba,75,FW,0,1,0,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-02,Rafael Borré,15,FW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-02,Luis Díaz,88,LW,0,0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -908,7 +908,7 @@ Colombia,2024-07-02,Johan Mojica,45,LB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-02,Carlos Cuesta,90,CB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-02,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-02,Daniel Muñoz,90,RB,1,0,0,0,0,1,1,6,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2024-07-02,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Colombia,2024-07-02,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Uruguay,2024-07-06,Darwin Núñez,77,FW,0,0,0,0,0,3,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-07-06,Giorgian De Arrascaeta,13,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
 Uruguay,2024-07-06,Maximiliano Araújo,90,LW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -924,7 +924,7 @@ Uruguay,2024-07-06,Mathías Olivera,90,"LB,CB",0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,
 Uruguay,2024-07-06,Ronald Araújo,32,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-07-06,José María Giménez,58,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,0,NA
 Uruguay,2024-07-06,Nahitan Nández,73,RB,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA
-Uruguay,2024-07-06,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,2
+Uruguay,2024-07-06,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,2
 Brazil,2024-07-06,Endrick,90,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-07-06,Rodrygo,86,LW,0,0,0,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-07-06,Gabriel Martinelli,4,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,1,NA
@@ -940,7 +940,7 @@ Brazil,2024-07-06,Guilherme Arana,90,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-07-06,Marquinhos,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-07-06,Éder Militão,90,CB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,0,NA
 Brazil,2024-07-06,Danilo,90,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2024-07-06,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,1
+Brazil,2024-07-06,Alisson,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,1
 Brazil,2024-09-06,Rodrygo,90,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-09-06,Vinicius Júnior,90,AM,0,0,,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-09-06,Lucas Paquetá,73,AM,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -956,7 +956,7 @@ Brazil,2024-09-06,Wendell,17,"DF,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-09-06,Gabriel Magalhães,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-09-06,Marquinhos,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-09-06,Danilo,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2024-09-06,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Brazil,2024-09-06,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Brazil,2024-09-10,Vinicius Júnior,90,FW,0,0,,0,0,2,2,0,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-09-10,Endrick,45,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-09-10,João Pedro,45,"FW,MF",0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -972,7 +972,7 @@ Brazil,2024-09-10,Estêvão Willian,5,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA
 Brazil,2024-09-10,Gabriel Magalhães,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-09-10,Marquinhos,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-09-10,Danilo,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2024-09-10,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Brazil,2024-09-10,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Brazil,2024-10-10,Igor Jesus,75,FW,1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-10-10,Endrick,15,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-10-10,Rodrygo,90,AM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -988,7 +988,7 @@ Brazil,2024-10-10,Gabriel Martinelli,6,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,N
 Brazil,2024-10-10,Gabriel Magalhães,90,CB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-10-10,Marquinhos,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-10-10,Danilo,90,RB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
-Brazil,2024-10-10,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Brazil,2024-10-10,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Brazil,2024-10-15,Igor Jesus,77,FW,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-10-15,Endrick,13,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-10-15,Rodrygo,68,AM,0,0,,0,0,3,2,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -1004,7 +1004,7 @@ Brazil,2024-10-15,Abner,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-10-15,Gabriel Magalhães,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-10-15,Marquinhos,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Brazil,2024-10-15,Vanderson,90,RB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
-Brazil,2024-10-15,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Brazil,2024-10-15,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Brazil,2024-11-14,Igor Jesus,67,FW,0,0,,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-11-14,Lucas Paquetá,23,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-11-14,Vinicius Júnior,90,AM,0,0,,0,1,5,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -1019,7 +1019,7 @@ Brazil,2024-11-14,Estêvão Willian,1,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA
 Brazil,2024-11-14,Gabriel Magalhães,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-11-14,Marquinhos,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2024-11-14,Vanderson,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Brazil,2024-11-14,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,0
+Brazil,2024-11-14,Ederson,90,GK,0,0,,0,0,0,0,0,0,0,0,1,3,75.0,0,NA,0
 Japan,2025-10-14,Ayase Ueda,73,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-10-14,Shuto Machino,17,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-10-14,Takumi Minamino,73,AM,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -1036,7 +1036,7 @@ Japan,2025-10-14,Henry Mochizuki,6,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-10-14,Junnosuke Suzuki,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-10-14,Shogo Taniguchi,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-10-14,Tsuyoshi Watanabe,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Japan,2025-10-14,Zion Suzuki,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Japan,2025-10-14,Zion Suzuki,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Brazil,2025-10-14,Vinicius Júnior,56,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Brazil,2025-10-14,Matheus Cunha,34,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Brazil,2025-10-14,Gabriel Martinelli,56,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -1053,4 +1053,4 @@ Brazil,2025-10-14,Caio Henrique Oliveira Silva,16,"DF,MF",0,0,,0,0,,,,0,0,0,3,NA
 Brazil,2025-10-14,Lucas Beraldo,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Brazil,2025-10-14,Fabrício Bruno,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Brazil,2025-10-14,Paulo Henrique,90,RB,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Brazil,2025-10-14,Hugo Souza,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+Brazil,2025-10-14,Hugo Souza,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0

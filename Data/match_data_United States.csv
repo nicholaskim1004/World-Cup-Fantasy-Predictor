@@ -12,7 +12,7 @@ United States,2021-09-02,Gio Reyna,90,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-09-02,Miles Robinson,90,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-09-02,Josh Sargent,63,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-09-02,Jordan Pefok,27,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2021-09-02,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2021-09-02,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2021-09-02,DeAndre Yedlin,77,"DF,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 United States,2021-09-02,Sebastian Lletget,13,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-09-08,Ricardo Pepi,90,FW,1,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -30,7 +30,7 @@ United States,2021-09-08,Mark McKenzie,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-09-08,John Brooks,45,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-09-08,Sebastian Lletget,45,"FW,MF",1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-09-08,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2021-09-08,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2021-09-08,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2021-10-07,Ricardo Pepi,67,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-10-07,Gyasi Zardes,23,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-10-07,Brenden Aaronson,67,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -46,7 +46,7 @@ United States,2021-10-07,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-10-07,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-10-07,Sergiño Dest,76,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-10-07,Shaq Moore,14,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2021-10-07,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2021-10-07,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2021-10-10,Gyasi Zardes,66,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-10,Ricardo Pepi,24,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-10,Timothy Weah,67,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -62,7 +62,7 @@ United States,2021-10-10,Mark McKenzie,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-10,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-10,Shaq Moore,67,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-10,DeAndre Yedlin,23,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2021-10-10,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2021-10-10,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2021-10-13,Ricardo Pepi,86,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-13,Gyasi Zardes,4,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-13,Brenden Aaronson,85,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -78,7 +78,7 @@ United States,2021-10-13,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-13,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-13,Sergiño Dest,72,RB,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-10-13,DeAndre Yedlin,18,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2021-10-13,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2021-10-13,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2021-11-16,Ricardo Pepi,77,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-11-16,Jesús Ferreira,13,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-11-16,Brenden Aaronson,76,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -93,7 +93,7 @@ United States,2021-11-16,Antonee Robinson,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,
 United States,2021-11-16,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-11-16,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2021-11-16,DeAndre Yedlin,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2021-11-16,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2021-11-16,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2021-12-18,Ricardo Pepi,61,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-12-18,Gyasi Zardes,29,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-12-18,Jesús Ferreira,77,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
@@ -110,7 +110,7 @@ United States,2021-12-18,Henry Kessler,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-12-18,Walker Zimmerman,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 United States,2021-12-18,Brooks Lennon,61,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2021-12-18,Bryan Reynolds,29,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2021-12-18,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2021-12-18,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2022-01-27,Jesús Ferreira,72,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-01-27,Gyasi Zardes,18,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-01-27,Christian Pulisic,64,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -125,7 +125,7 @@ United States,2022-01-27,Antonee Robinson,90,LB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,
 United States,2022-01-27,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-01-27,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-01-27,Sergiño Dest,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2022-01-27,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2022-01-27,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2022-02-02,Ricardo Pepi,75,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-02-02,Jesús Ferreira,15,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-02-02,Jordan Morris,64,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -140,7 +140,7 @@ United States,2022-02-02,Antonee Robinson,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,
 United States,2022-02-02,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-02-02,Walker Zimmerman,90,CB,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-02-02,Reggie Cannon,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2022-02-02,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2022-02-02,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2022-03-27,Jesús Ferreira,90,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2022-03-27,Christian Pulisic,70,FW,3,0,,2,2,,,,1,0,0,1,NA,NA,NA,NA,NA
 United States,2022-03-27,Gianluca Busio,20,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -156,7 +156,7 @@ United States,2022-03-27,Miles Robinson,64,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2022-03-27,Aaron Long,26,DF,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 United States,2022-03-27,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2022-03-27,Shaq Moore,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2022-03-27,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2022-03-27,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2022-03-30,Ricardo Pepi,60,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-03-30,Gio Reyna,30,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-03-30,Christian Pulisic,83,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -172,7 +172,7 @@ United States,2022-03-30,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,
 United States,2022-03-30,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-03-30,DeAndre Yedlin,60,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-03-30,Shaq Moore,30,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-United States,2022-03-30,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+United States,2022-03-30,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 United States,2022-06-01,Jesús Ferreira,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-06-01,Haji Wright,45,"FW,MF",1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-06-01,Christian Pulisic,64,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -189,7 +189,7 @@ United States,2022-06-01,Aaron Long,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 United States,2022-06-01,Walker Zimmerman,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-06-01,Cameron Carter-Vickers,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-06-01,Reggie Cannon,90,RB,0,1,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-United States,2022-06-01,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2022-06-01,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Japan,2022-09-23,Daichi Kamada,85,FW,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Japan,2022-09-23,Genki Haraguchi,5,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Japan,2022-09-23,Daizen Maeda,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
@@ -205,8 +205,8 @@ Japan,2022-09-23,Takehiro Tomiyasu,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Japan,2022-09-23,Maya Yoshida,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Japan,2022-09-23,Hiroki Sakai,45,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Japan,2022-09-23,Hiroki Ito,45,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Japan,2022-09-23,Shūichi Gonda,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
-Japan,2022-09-23,Daniel Schmidt,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Japan,2022-09-23,Shūichi Gonda,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Japan,2022-09-23,Daniel Schmidt,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
 United States,2022-09-23,Jesús Ferreira,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-09-23,Josh Sargent,45,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-09-23,Gio Reyna,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -223,7 +223,7 @@ United States,2022-09-23,Mark McKenzie,45,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-09-23,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-09-23,Sergiño Dest,45,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2022-09-23,Reggie Cannon,45,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-United States,2022-09-23,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+United States,2022-09-23,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 United States,2022-09-27,Christian Pulisic,75,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-09-27,Malik Tillman,15,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-09-27,Ricardo Pepi,58,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -240,7 +240,7 @@ United States,2022-09-27,Mark McKenzie,32,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-09-27,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-09-27,DeAndre Yedlin,58,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-09-27,Joe Scally,32,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2022-09-27,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2022-09-27,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2022-11-21,Josh Sargent,73,FW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2022-11-21,Haji Wright,17,FW,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2022-11-21,Christian Pulisic,90,LW,0,1,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -256,7 +256,7 @@ United States,2022-11-21,Tim Ream,90,CB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 United States,2022-11-21,Walker Zimmerman,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2022-11-21,Sergiño Dest,73,RB,0,0,0,0,0,1,0,2,1,0,0,1,NA,NA,NA,NA,NA
 United States,2022-11-21,DeAndre Yedlin,17,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-United States,2022-11-21,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,100.0,NA,NA,0
+United States,2022-11-21,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,100.0,0,NA,0
 England,2022-11-25,Harry Kane,90,FW,0,0,0,0,0,2,0,2,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-25,Raheem Sterling,67,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-25,Jack Grealish,23,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -270,7 +270,7 @@ England,2022-11-25,Luke Shaw,90,LB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-25,Harry Maguire,90,CB,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-25,John Stones,90,CB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 England,2022-11-25,Kieran Trippier,90,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-England,2022-11-25,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+England,2022-11-25,Jordan Pickford,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 United States,2022-11-25,Haji Wright,82,FW,0,0,0,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-25,Josh Sargent,8,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-25,Timothy Weah,82,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -285,7 +285,7 @@ United States,2022-11-25,Tim Ream,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-25,Walker Zimmerman,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-25,Sergiño Dest,77,RB,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-25,Shaq Moore,13,RB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-United States,2022-11-25,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+United States,2022-11-25,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 United States,2022-11-29,Josh Sargent,76,FW,0,0,0,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-29,Haji Wright,14,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-29,Christian Pulisic,45,LW,1,0,0,0,0,2,2,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -301,7 +301,7 @@ United States,2022-11-29,Tim Ream,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-29,Cameron Carter-Vickers,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-29,Sergiño Dest,81,RB,0,1,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2022-11-29,Shaq Moore,9,RB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-United States,2022-11-29,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+United States,2022-11-29,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 United States,2022-12-03,Jesús Ferreira,45,FW,0,0,0,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
 United States,2022-12-03,Gio Reyna,45,"RW,FW",0,0,0,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA,NA
 United States,2022-12-03,Christian Pulisic,90,LW,0,1,0,0,0,3,3,0,0,0,0,3,NA,NA,NA,NA,NA
@@ -317,7 +317,7 @@ United States,2022-12-03,Tim Ream,90,CB,0,0,0,0,0,1,0,2,0,0,0,3,NA,NA,NA,NA,NA
 United States,2022-12-03,Walker Zimmerman,90,CB,0,0,0,0,0,1,0,2,0,0,0,3,NA,NA,NA,NA,NA
 United States,2022-12-03,Sergiño Dest,74,RB,0,0,0,0,0,2,0,1,0,0,0,3,NA,NA,NA,NA,NA
 United States,2022-12-03,DeAndre Yedlin,16,RB,0,0,0,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
-United States,2022-12-03,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,3,3,50.0,NA,NA,0
+United States,2022-12-03,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,3,3,50.0,0,NA,0
 United States,2023-01-25,Brandon Vazquez,62,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2023-01-25,Matthew Hoppe,28,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2023-01-25,Cade Cowell,72,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -334,7 +334,7 @@ United States,2023-01-25,Walker Zimmerman,45,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,
 United States,2023-01-25,Aaron Long,45,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2023-01-25,Julian Gressel,61,RB,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2023-01-25,DeJuan Jones,29,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-United States,2023-01-25,Gaga Slonina,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+United States,2023-01-25,Gaga Slonina,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 United States,2023-01-28,Jesús Ferreira,62,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-01-28,Brandon Vazquez,28,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-01-28,Matthew Hoppe,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -351,7 +351,7 @@ United States,2023-01-28,Sam Rogers,19,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-01-28,Walker Zimmerman,68,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-01-28,Jalen Neal,22,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-01-28,DeJuan Jones,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2023-01-28,Sean Johnson,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2023-01-28,Sean Johnson,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Colombia,2023-01-28,Cristian Arango,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Colombia,2023-01-28,Diber Cambindo,45,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Colombia,2023-01-28,Cucho,67,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
@@ -366,8 +366,8 @@ Colombia,2023-01-28,Frank Fabra,90,LB,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
 Colombia,2023-01-28,Alexis Pérez,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Colombia,2023-01-28,Andrés Llinás,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Colombia,2023-01-28,Juan David Mosquera,90,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Colombia,2023-01-28,Álvaro David Montero,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
-Colombia,2023-01-28,José Luis Chunga,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Colombia,2023-01-28,Álvaro David Montero,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Colombia,2023-01-28,José Luis Chunga,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
 United States,2023-06-24,Jesús Ferreira,90,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 United States,2023-06-24,Jordan Morris,54,AM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2023-06-24,Cade Cowell,36,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -383,7 +383,7 @@ United States,2023-06-24,Aaron Long,45,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2023-06-24,Jalen Neal,45,DF,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 United States,2023-06-24,Matt Miazga,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 United States,2023-06-24,DeAndre Yedlin,90,RB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-United States,2023-06-24,Matt Turner,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,0.0,NA,NA,0
+United States,2023-06-24,Matt Turner,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,0.0,0,NA,0
 United States,2023-06-28,Cade Cowell,67,FW,0,0,,0,0,5,2,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-06-28,Cristian Roldan,23,"FW,MF",0,1,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-06-28,Jesús Ferreira,55,FW,3,0,,0,0,6,6,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -399,7 +399,7 @@ United States,2023-06-28,Jalen Neal,90,CB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-06-28,Matt Miazga,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-06-28,Bryan Reynolds,75,RB,1,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-06-28,Julian Gressel,15,"DF,FW",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
-United States,2023-06-28,Sean Johnson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+United States,2023-06-28,Sean Johnson,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 United States,2023-07-02,Cristian Roldan,60,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-07-02,Julian Gressel,30,"DF,FW",0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-07-02,Jesús Ferreira,90,FW,3,0,,1,1,6,4,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -415,7 +415,7 @@ United States,2023-07-02,Miles Robinson,45,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA
 United States,2023-07-02,Matt Miazga,45,DF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-07-02,Bryan Reynolds,76,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-07-02,DeAndre Yedlin,14,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-United States,2023-07-02,Matt Turner,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+United States,2023-07-02,Matt Turner,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 United States,2023-07-12,Cade Cowell,62,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2023-07-12,Cristian Roldan,58,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,0,NA
 United States,2023-07-12,Brandon Vazquez,73,FW,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -432,7 +432,7 @@ United States,2023-07-12,Matt Miazga,48,DF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,1,NA
 United States,2023-07-12,Miles Robinson,120,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
 United States,2023-07-12,Bryan Reynolds,62,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2023-07-12,DeAndre Yedlin,58,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-United States,2023-07-12,Matt Turner,120,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+United States,2023-07-12,Matt Turner,120,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
 United States,2023-09-09,Folarin Balogun,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-09,Ricardo Pepi,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-09,Christian Pulisic,90,FW,1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -449,7 +449,7 @@ United States,2023-09-09,Tim Ream,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-09,Chris Richards,63,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-09,Mark McKenzie,27,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-09,Sergiño Dest,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2023-09-09,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2023-09-09,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2023-09-12,Folarin Balogun,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-12,Ricardo Pepi,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-12,Christian Pulisic,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -466,7 +466,7 @@ United States,2023-09-12,Mark McKenzie,20,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-12,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-12,Sergiño Dest,75,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-09-12,DeJuan Jones,15,"DF,MF",0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2023-09-12,Ethan Horvath,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2023-09-12,Ethan Horvath,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2023-10-14,Folarin Balogun,65,FW,0,1,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 United States,2023-10-14,Ricardo Pepi,25,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 United States,2023-10-14,Christian Pulisic,74,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -483,7 +483,7 @@ United States,2023-10-14,Tim Ream,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 United States,2023-10-14,Chris Richards,65,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 United States,2023-10-14,Cameron Carter-Vickers,25,DF,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 United States,2023-10-14,Joe Scally,90,RB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-United States,2023-10-14,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+United States,2023-10-14,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
 Germany,2023-10-14,Niclas Füllkrug,80,FW,1,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-10-14,Thomas Müller,10,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-10-14,Florian Wirtz,61,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -500,7 +500,7 @@ Germany,2023-10-14,Antonio Rüdiger,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-10-14,Mats Hummels,61,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-10-14,Niklas Süle,29,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-10-14,Jonathan Tah,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2023-10-14,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Germany,2023-10-14,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2023-10-17,Folarin Balogun,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-10-17,Ricardo Pepi,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-10-17,Christian Pulisic,45,AM,1,1,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -517,7 +517,7 @@ United States,2023-10-17,Chris Richards,71,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-10-17,Cameron Carter-Vickers,19,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-10-17,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2023-10-17,Sergiño Dest,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2023-10-17,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2023-10-17,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2024-06-08,Folarin Balogun,71,FW,0,1,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 United States,2024-06-08,Ricardo Pepi,19,FW,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 United States,2024-06-08,Christian Pulisic,45,FW,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
@@ -534,7 +534,7 @@ United States,2024-06-08,Tim Ream,61,CB,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 United States,2024-06-08,Cameron Carter-Vickers,29,DF,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 United States,2024-06-08,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
 United States,2024-06-08,Joe Scally,90,RB,0,0,,0,0,,,,0,0,0,5,NA,NA,NA,NA,NA
-United States,2024-06-08,Matt Turner,90,GK,0,0,,0,0,,,,1,0,0,5,,,NA,NA,0
+United States,2024-06-08,Matt Turner,90,GK,0,0,,0,0,,,,1,0,0,5,,,0,NA,0
 Colombia,2024-06-08,Rafael Borré,61,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-08,Jáder Durán,29,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-08,Luis Díaz,70,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -551,7 +551,7 @@ Colombia,2024-06-08,Johan Mojica,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-08,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-08,Davinson Sánchez,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-08,Daniel Muñoz,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2024-06-08,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Colombia,2024-06-08,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2024-06-23,Folarin Balogun,64,FW,1,0,0,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2024-06-23,Ricardo Pepi,26,FW,0,0,0,0,0,6,4,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2024-06-23,Christian Pulisic,90,LW,1,1,0,0,0,4,2,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -567,7 +567,7 @@ United States,2024-06-23,Antonee Robinson,90,LB,0,0,0,0,0,2,0,3,0,0,0,0,NA,NA,NA
 United States,2024-06-23,Tim Ream,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 United States,2024-06-23,Chris Richards,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2024-06-23,Joe Scally,90,RB,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
-United States,2024-06-23,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+United States,2024-06-23,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 United States,2024-06-27,Folarin Balogun,71,FW,1,0,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-27,Ricardo Pepi,19,FW,0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-27,Christian Pulisic,90,"CM,LM,LW",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -582,8 +582,8 @@ United States,2024-06-27,Tim Ream,85,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-27,Josh Sargent,5,"FW,CB",0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-27,Chris Richards,90,CB,0,0,0,0,0,2,1,2,1,0,0,1,NA,NA,NA,NA,NA
 United States,2024-06-27,Joe Scally,90,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-United States,2024-06-27,Matt Turner,45,GK,0,0,0,0,0,0,0,0,0,0,0,1,,0.0,NA,NA,0
-United States,2024-06-27,Ethan Horvath,45,GK,0,0,0,0,0,0,0,0,0,0,0,1,,0.0,NA,NA,0
+United States,2024-06-27,Matt Turner,45,GK,0,0,0,0,0,0,0,0,0,0,0,1,,0.0,0,NA,0
+United States,2024-06-27,Ethan Horvath,45,GK,0,0,0,0,0,0,0,0,0,0,0,1,,0.0,0,NA,0
 United States,2024-07-01,Folarin Balogun,40,FW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-07-01,Ricardo Pepi,50,FW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-07-01,Gio Reyna,90,"LW,CM,DM",0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
@@ -598,7 +598,7 @@ United States,2024-07-01,Malik Tillman,2,LM,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,
 United States,2024-07-01,Chris Richards,90,CB,0,0,0,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 United States,2024-07-01,Joe Scally,78,RB,0,0,0,0,0,0,0,3,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-07-01,Haji Wright,12,"LM,CM",0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
-United States,2024-07-01,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+United States,2024-07-01,Matt Turner,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
 Uruguay,2024-07-01,Darwin Núñez,88,FW,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-07-01,Luis Suárez,2,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-07-01,Maximiliano Araújo,26,LW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -614,7 +614,7 @@ Uruguay,2024-07-01,José María Giménez,19,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,
 Uruguay,2024-07-01,Mathías Olivera,90,"CB,LB",1,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-07-01,Ronald Araújo,90,CB,0,0,0,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA,NA
 Uruguay,2024-07-01,Nahitan Nández,90,RB,0,0,0,0,0,1,0,4,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2024-07-01,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Uruguay,2024-07-01,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 United States,2024-09-10,Folarin Balogun,90,FW,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-09-10,Haji Wright,56,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-09-10,Christian Pulisic,34,"FW,MF",1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -631,7 +631,7 @@ United States,2024-09-10,Caleb Wiley,25,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,
 United States,2024-09-10,Mark McKenzie,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-09-10,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2024-09-10,Marlon Fossey,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2024-09-10,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2024-09-10,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2024-10-12,Josh Sargent,66,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2024-10-12,Ricardo Pepi,24,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2024-10-12,Christian Pulisic,66,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -648,7 +648,7 @@ United States,2024-10-12,Alejandro Zendejas,6,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,
 United States,2024-10-12,Tim Ream,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2024-10-12,Mark McKenzie,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2024-10-12,Joe Scally,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2024-10-12,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2024-10-12,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2025-01-18,Patrick Agyemang,64,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-01-18,Brian White,26,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-01-18,Brian Gutiérrez,72,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -665,7 +665,7 @@ United States,2025-01-18,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-01-18,George Campbell,87,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-01-18,Walker Zimmerman,3,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-01-18,Shaq Moore,90,RB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
-United States,2025-01-18,Patrick Schulte,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2025-01-18,Patrick Schulte,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2025-01-22,Brian White,74,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-01-22,Patrick Agyemang,16,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-01-22,Brian Gutiérrez,45,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -682,7 +682,7 @@ United States,2025-01-22,Tim Ream,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-01-22,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-01-22,Miles Robinson,58,RB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 United States,2025-01-22,Shaq Moore,32,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2025-01-22,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2025-01-22,Zack Steffen,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2025-06-07,Patrick Agyemang,73,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-07,Brian White,17,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-07,Diego Luna,64,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -699,7 +699,7 @@ United States,2025-06-07,Miles Robinson,45,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-07,Mark McKenzie,45,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-07,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-07,Alex Freeman,90,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-United States,2025-06-07,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+United States,2025-06-07,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 United States,2025-06-10,Brian White,45,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 United States,2025-06-10,Patrick Agyemang,45,FW,0,0,,0,0,,,,1,0,0,4,NA,NA,NA,NA,NA
 United States,2025-06-10,Brenden Aaronson,45,AM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
@@ -716,7 +716,7 @@ United States,2025-06-10,John Tolkin,45,"DF,MF",0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,
 United States,2025-06-10,Mark McKenzie,90,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 United States,2025-06-10,Walker Zimmerman,90,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
 United States,2025-06-10,Nathan Harriel,90,RB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-United States,2025-06-10,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,4,,,NA,NA,0
+United States,2025-06-10,Matt Turner,90,GK,0,0,,0,0,,,,0,0,0,4,,,0,NA,0
 United States,2025-06-15,Patrick Agyemang,72,FW,1,0,,0,0,5,2,1,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-15,Haji Wright,18,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-15,Diego Luna,73,AM,0,2,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -732,7 +732,7 @@ United States,2025-06-15,Tim Ream,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-15,Chris Richards,86,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-15,Miles Robinson,4,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-15,Alex Freeman,90,RB,0,0,,0,0,1,1,3,0,0,0,0,NA,NA,NA,NA,NA
-United States,2025-06-15,Matt Freese,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+United States,2025-06-15,Matt Freese,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 United States,2025-06-19,Patrick Agyemang,87,FW,0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-19,Miles Robinson,3,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-19,Malik Tillman,90,AM,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
@@ -748,7 +748,7 @@ United States,2025-06-19,Tim Ream,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-19,Chris Richards,90,CB,1,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-19,Alex Freeman,87,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-06-19,Johnny Cardoso,3,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-United States,2025-06-19,Matt Freese,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+United States,2025-06-19,Matt Freese,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 United States,2025-06-22,Patrick Agyemang,81,FW,1,0,,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-06-22,Brian White,9,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-06-22,Brenden Aaronson,69,AM,0,1,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -764,7 +764,7 @@ United States,2025-06-22,John Tolkin,90,LB,0,1,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-06-22,Tim Ream,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-06-22,Chris Richards,90,CB,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-06-22,Alex Freeman,90,RB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
-United States,2025-06-22,Matt Freese,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+United States,2025-06-22,Matt Freese,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 United States,2025-06-29,Patrick Agyemang,89,FW,0,0,,0,0,4,0,0,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-29,Brian White,1,FW,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-29,Diego Luna,82,AM,1,0,,0,0,3,1,1,0,0,0,2,NA,NA,NA,NA,NA
@@ -779,7 +779,7 @@ United States,2025-06-29,John Tolkin,7,"DF,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,0
 United States,2025-06-29,Tim Ream,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-29,Chris Richards,90,CB,0,0,,0,0,2,1,0,1,0,0,2,NA,NA,NA,NA,NA
 United States,2025-06-29,Alex Freeman,90,RB,0,0,,0,0,1,0,2,0,0,0,2,NA,NA,NA,1,NA
-United States,2025-06-29,Matt Freese,90,GK,0,0,,0,0,0,0,0,0,0,0,2,1,50.0,NA,NA,0
+United States,2025-06-29,Matt Freese,90,GK,0,0,,0,0,0,0,0,0,0,0,2,1,50.0,0,NA,0
 United States,2025-07-02,Patrick Agyemang,84,FW,0,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-07-02,Damion Downs,6,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-07-02,Diego Luna,76,AM,2,0,,0,0,2,2,0,1,0,0,1,NA,NA,NA,NA,NA
@@ -795,7 +795,7 @@ United States,2025-07-02,Walker Zimmerman,6,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,N
 United States,2025-07-02,Tim Ream,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-07-02,Chris Richards,90,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 United States,2025-07-02,Alex Freeman,90,RB,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
-United States,2025-07-02,Matt Freese,90,GK,0,0,,0,0,0,0,0,1,0,0,1,4,80.0,NA,NA,0
+United States,2025-07-02,Matt Freese,90,GK,0,0,,0,0,0,0,0,1,0,0,1,4,80.0,0,NA,0
 United States,2025-09-06,Josh Sargent,62,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-09-06,Folarin Balogun,28,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-09-06,Timothy Weah,62,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -812,7 +812,7 @@ United States,2025-09-06,Tim Ream,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-09-06,Tristan Blackmon,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-09-06,Sergiño Dest,61,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 United States,2025-09-06,Alex Freeman,29,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-United States,2025-09-06,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+United States,2025-09-06,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Korea Republic,2025-09-06,Son Heung-min,63,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Korea Republic,2025-09-06,Oh Hyeon-gyu,27,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Korea Republic,2025-09-06,Lee Jae-sung,49,LM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -829,7 +829,7 @@ Korea Republic,2025-09-06,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Korea Republic,2025-09-06,Lee Hanbeom,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Korea Republic,2025-09-06,Seol Young-woo,82,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Korea Republic,2025-09-06,Jeong Sangbin,8,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-09-06,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Korea Republic,2025-09-06,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 United States,2025-09-09,Folarin Balogun,78,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-09-09,Damion Downs,12,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-09-09,Christian Pulisic,65,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -846,7 +846,7 @@ United States,2025-09-09,Tim Ream,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-09-09,Chris Richards,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-09-09,Tristan Blackmon,83,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 United States,2025-09-09,Nathan Harriel,7,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-United States,2025-09-09,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+United States,2025-09-09,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Japan,2025-09-09,Koki Ogawa,72,FW,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-09-09,Yukinari Sugawara,18,"DF,FW",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-09-09,Yuito Suzuki,61,FW,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
@@ -863,7 +863,7 @@ Japan,2025-09-09,Yuto Nagatomo,45,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-09-09,Ayumu Seko,45,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-09-09,Hayato Araki,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Japan,2025-09-09,Hiroki Sekine,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Japan,2025-09-09,Keisuke Ōsako,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Japan,2025-09-09,Keisuke Ōsako,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 United States,2025-10-10,Folarin Balogun,80,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-10,Haji Wright,10,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-10,Malik Tillman,90,FW,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -880,7 +880,7 @@ United States,2025-10-10,Mark McKenzie,18,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-10,Chris Richards,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-10,Miles Robinson,62,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-10,Alex Freeman,28,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2025-10-10,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2025-10-10,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 United States,2025-10-14,Haji Wright,63,FW,2,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-14,Folarin Balogun,27,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-14,Christian Pulisic,30,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -897,4 +897,4 @@ United States,2025-10-14,Alex Freeman,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-14,Mark McKenzie,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-14,Chris Richards,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 United States,2025-10-14,Miles Robinson,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-United States,2025-10-14,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+United States,2025-10-14,Matt Freese,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0

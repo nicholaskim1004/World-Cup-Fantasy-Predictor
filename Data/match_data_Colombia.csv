@@ -14,7 +14,7 @@ Colombia,2020-10-09,Davinson Sánchez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,N
 Colombia,2020-10-09,Yerry Mina,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2020-10-09,Santiago Arias,12,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2020-10-09,Stefan Medina,78,DF,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2020-10-09,Camilo Vargas,90,GK,0,1,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Colombia,2020-10-09,Camilo Vargas,90,GK,0,1,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Colombia,2020-10-13,Luis Muriel,50,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2020-10-13,Alfredo Morelos,40,FW,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2020-10-13,Duván Zapata,90,FW,0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -28,7 +28,7 @@ Colombia,2020-10-13,Jeison Murillo,90,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2020-10-13,Davinson Sánchez,90,CB,0,0,,0,0,0,0,2,1,0,0,2,NA,NA,NA,NA,NA
 Colombia,2020-10-13,Stefan Medina,28,RB,0,1,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2020-10-13,Steven Alzate,62,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2020-10-13,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,2,1,50.0,NA,NA,0
+Colombia,2020-10-13,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,2,1,50.0,0,NA,0
 Colombia,2020-11-17,Luis Díaz,39,FW,0,0,,0,0,0,0,0,0,0,0,6,NA,NA,NA,NA,NA
 Colombia,2020-11-17,Frank Fabra,51,DF,0,0,,0,0,0,0,1,1,0,0,6,NA,NA,NA,NA,NA
 Colombia,2020-11-17,Duván Zapata,90,FW,0,0,,0,0,1,1,0,0,0,0,6,NA,NA,NA,NA,NA
@@ -44,7 +44,7 @@ Colombia,2020-11-17,Jeison Murillo,90,CB,0,0,,0,0,1,0,1,1,0,0,6,NA,NA,NA,NA,NA
 Colombia,2020-11-17,Davinson Sánchez,90,CB,0,0,,0,0,1,0,1,0,0,0,6,NA,NA,NA,NA,NA
 Colombia,2020-11-17,Luis Manuel Orejuela,40,RB,0,0,,0,0,0,0,0,0,0,0,6,NA,NA,NA,NA,NA
 Colombia,2020-11-17,Luis Muriel,50,FW,0,0,,0,0,2,0,1,0,0,0,6,NA,NA,NA,NA,NA
-Colombia,2020-11-17,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,6,3,33.3,NA,NA,0
+Colombia,2020-11-17,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,6,3,33.3,0,NA,0
 Colombia,2021-06-03,Duván Zapata,71,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-03,Wílmar Barrios,19,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-03,Luis Muriel,71,FW,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -60,7 +60,7 @@ Colombia,2021-06-03,Davinson Sánchez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,N
 Colombia,2021-06-03,Yerry Mina,90,CB,1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-03,Stefan Medina,55,RB,0,1,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-03,Daniel Muñoz,3,"DF,MF",0,0,,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA
-Colombia,2021-06-03,David Ospina,90,GK,0,0,,0,0,0,0,0,1,0,0,0,2,100.0,NA,NA,0
+Colombia,2021-06-03,David Ospina,90,GK,0,0,,0,0,0,0,0,1,0,0,0,2,100.0,0,NA,0
 Colombia,2021-06-08,Luis Díaz,45,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-08,Edwin Cardona,45,"FW,MF",0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-08,Duván Zapata,45,FW,0,0,,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,NA
@@ -76,7 +76,7 @@ Colombia,2021-06-08,Davinson Sánchez,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,N
 Colombia,2021-06-08,Yerry Mina,90,CB,0,0,,0,0,1,1,0,1,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-08,Stefan Medina,74,RB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-08,Yairo Moreno,16,"DF,FW",0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2021-06-08,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,2,6,75.0,NA,NA,0
+Colombia,2021-06-08,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,2,6,75.0,0,NA,0
 Argentina,2021-06-08,Nicolás González,64,FW,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-08,Juan Foyth,26,DF,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-08,Lautaro Martínez,90,FW,0,0,,0,0,4,3,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -90,8 +90,8 @@ Argentina,2021-06-08,Nicolás Otamendi,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,
 Argentina,2021-06-08,Cristian Romero,63,CB,1,0,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-08,Germán Pezzella,27,DF,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Argentina,2021-06-08,Gonzalo Montiel,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Argentina,2021-06-08,Emiliano Martínez,39,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
-Argentina,2021-06-08,Agustín Marchesín,51,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Argentina,2021-06-08,Emiliano Martínez,39,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,1,NA,0
+Argentina,2021-06-08,Agustín Marchesín,51,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,1,NA,0
 Colombia,2021-06-13,Miguel Borja,60,FW,0,1,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-13,Duván Zapata,30,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-13,Rafael Borré,90,"FW,LW",0,0,0,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
@@ -107,7 +107,7 @@ Colombia,2021-06-13,Óscar Murillo,81,CB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-13,Davinson Sánchez,9,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-13,Yerry Mina,90,CB,0,0,0,0,0,2,1,3,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-13,Daniel Muñoz,90,RB,0,0,0,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
-Colombia,2021-06-13,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Colombia,2021-06-13,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Colombia,2021-06-17,Duván Zapata,72,FW,0,0,0,0,0,6,3,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-17,Miguel Borja,18,FW,0,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-17,Luis Muriel,61,FW,0,0,0,0,0,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -121,7 +121,7 @@ Colombia,2021-06-17,William Tesillo,90,LB,0,0,0,0,0,1,0,5,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-17,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-17,Yerry Mina,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-06-17,Daniel Muñoz,90,RB,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2021-06-17,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Colombia,2021-06-17,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Colombia,2021-06-20,Miguel Borja,90,FW,1,0,1,1,1,4,1,0,1,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-20,Duván Zapata,60,LW,0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-20,Luis Muriel,30,"FW,LW",0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -136,7 +136,7 @@ Colombia,2021-06-20,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,
 Colombia,2021-06-20,Yerry Mina,90,CB,0,0,0,0,0,3,0,0,0,0,1,2,NA,NA,NA,NA,NA
 Colombia,2021-06-20,Stefan Medina,80,RB,0,0,0,0,0,1,1,2,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-06-20,Alfredo Morelos,10,AM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2021-06-20,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,2,33.3,NA,NA,0
+Colombia,2021-06-20,David Ospina,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,2,33.3,0,NA,0
 Argentina,2021-07-06,Lautaro Martínez,120,FW,1,0,0,0,0,3,1,2,0,0,0,1,NA,NA,NA,1,NA
 Argentina,2021-07-06,Nicolás González,66,LW,0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Argentina,2021-07-06,Ángel Di María,54,RW,0,0,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -150,7 +150,7 @@ Argentina,2021-07-06,Nicolás Otamendi,120,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,N
 Argentina,2021-07-06,Germán Pezzella,120,CB,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Argentina,2021-07-06,Nahuel Molina,45,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Argentina,2021-07-06,Gonzalo Montiel,75,RB,0,0,0,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA,NA
-Argentina,2021-07-06,Emiliano Martínez,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,3,75.0,NA,NA,3
+Argentina,2021-07-06,Emiliano Martínez,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,3,75.0,0,NA,3
 Colombia,2021-07-06,Duván Zapata,59,FW,0,0,0,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-07-06,Miguel Borja,61,FW,0,0,0,0,0,1,0,0,1,0,0,1,NA,NA,NA,1,NA
 Colombia,2021-07-06,Rafael Borré,45,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -165,7 +165,7 @@ Colombia,2021-07-06,Frank Fabra,75,LB,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-07-06,Davinson Sánchez,120,CB,0,0,0,0,0,1,1,2,0,0,0,1,NA,NA,NA,0,NA
 Colombia,2021-07-06,Yerry Mina,120,CB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,0,NA
 Colombia,2021-07-06,Daniel Muñoz,120,"DM,RB",0,0,0,0,0,1,0,2,1,0,0,1,NA,NA,NA,NA,NA
-Colombia,2021-07-06,David Ospina,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,1
+Colombia,2021-07-06,David Ospina,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,1
 Colombia,2021-07-09,Duván Zapata,54,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-07-09,Miguel Borja,36,FW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-07-09,Edwin Cardona,45,FW,0,0,0,0,0,1,0,1,1,0,0,2,NA,NA,NA,NA,NA
@@ -181,7 +181,7 @@ Colombia,2021-07-09,Óscar Murillo,90,CB,0,0,0,0,0,2,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-07-09,Yerry Mina,54,CB,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-07-09,Davinson Sánchez,36,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2021-07-09,Stefan Medina,90,RB,0,0,0,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2021-07-09,Camilo Vargas,90,GK,0,1,0,0,0,0,0,0,0,0,0,2,1,33.3,NA,NA,0
+Colombia,2021-07-09,Camilo Vargas,90,GK,0,1,0,0,0,0,0,0,0,0,0,2,1,33.3,0,NA,0
 Colombia,2021-09-02,Roger Martínez,87,FW,1,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-02,Radamel Falcao,3,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-02,Luis Díaz,57,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -197,7 +197,7 @@ Colombia,2021-09-02,William Tesillo,90,LB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-02,Óscar Murillo,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-02,Davinson Sánchez,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-02,Daniel Muñoz,90,RB,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
-Colombia,2021-09-02,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Colombia,2021-09-02,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Colombia,2021-09-05,Miguel Borja,61,FW,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-05,Radamel Falcao,29,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-05,Rafael Borré,61,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -213,7 +213,7 @@ Colombia,2021-09-05,William Tesillo,90,LB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-05,Óscar Murillo,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-05,Davinson Sánchez,90,CB,0,0,,0,0,1,0,2,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-05,Stefan Medina,90,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2021-09-05,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Colombia,2021-09-05,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Colombia,2021-09-09,Miguel Borja,68,FW,2,0,,1,1,3,2,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-09,Roger Martínez,22,"FW,MF",0,1,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-09,Rafael Borré,68,FW,0,1,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -229,7 +229,7 @@ Colombia,2021-09-09,Óscar Murillo,77,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-09,William Tesillo,13,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-09,Carlos Cuesta,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2021-09-09,Juan Cuadrado,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2021-09-09,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Colombia,2021-09-09,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Colombia,2021-10-14,Duván Zapata,69,FW,0,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-14,Roger Martínez,21,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-14,Rafael Borré,58,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -244,7 +244,7 @@ Colombia,2021-10-14,Johan Mojica,90,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-14,Carlos Cuesta,90,CB,0,0,,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-14,Yerry Mina,90,CB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-10-14,Juan Cuadrado,90,RB,0,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2021-10-14,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,5,100.0,NA,NA,0
+Colombia,2021-10-14,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,5,100.0,0,NA,0
 Colombia,2021-11-16,Miguel Borja,45,FW,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-11-16,Duván Zapata,45,FW,0,0,,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-11-16,Luis Muriel,45,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -260,7 +260,7 @@ Colombia,2021-11-16,Yairo Moreno,90,LB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-11-16,William Tesillo,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-11-16,Davinson Sánchez,90,CB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2021-11-16,Juan Cuadrado,90,RB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2021-11-16,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Colombia,2021-11-16,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Colombia,2022-01-16,Yimmi Chará,90,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Colombia,2022-01-16,Miguel Borja,68,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Colombia,2022-01-16,Álvaro Angulo,22,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
@@ -276,8 +276,8 @@ Colombia,2022-01-16,Yeimar Gómez Andrade,78,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,N
 Colombia,2022-01-16,Andrés Llinás,12,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Colombia,2022-01-16,Yerson Candelo,68,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Colombia,2022-01-16,Andrés Felipe Román,22,"DF,FW",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Colombia,2022-01-16,José Luis Chunga,78,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
-Colombia,2022-01-16,Andrés Mosquera Marmolejo,12,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Colombia,2022-01-16,José Luis Chunga,78,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Colombia,2022-01-16,Andrés Mosquera Marmolejo,12,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
 Colombia,2022-01-28,Radamel Falcao,65,FW,0,0,,0,0,7,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-01-28,Miguel Borja,25,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-01-28,Rafael Borré,65,FW,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -293,7 +293,7 @@ Colombia,2022-01-28,Fredy Hinestroza,1,"DF,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,N
 Colombia,2022-01-28,Davinson Sánchez,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-01-28,Yerry Mina,90,CB,0,0,,0,0,2,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-01-28,Juan Cuadrado,90,RB,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2022-01-28,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Colombia,2022-01-28,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Argentina,2022-02-01,Lucas Ocampos,57,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2022-02-01,Maximiliano Meza,33,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2022-02-01,Lautaro Martínez,68,FW,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -309,7 +309,7 @@ Argentina,2022-02-01,Marcos Acuña,90,LB,0,0,,0,0,2,1,2,1,0,0,0,NA,NA,NA,NA,NA
 Argentina,2022-02-01,Lisandro Martínez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2022-02-01,Germán Pezzella,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2022-02-01,Gonzalo Montiel,90,RB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
-Argentina,2022-02-01,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Argentina,2022-02-01,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Colombia,2022-02-01,Luis Díaz,90,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-02-01,Miguel Borja,74,FW,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-02-01,Radamel Falcao,16,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -325,7 +325,7 @@ Colombia,2022-02-01,William Tesillo,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-02-01,Davinson Sánchez,90,CB,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-02-01,Stefan Medina,66,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-02-01,Diego Valoyes,24,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2022-02-01,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+Colombia,2022-02-01,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
 Colombia,2022-03-24,Luis Díaz,83,FW,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-24,Jefferson Lerma,7,MF,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-24,Luis Muriel,65,FW,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -341,7 +341,7 @@ Colombia,2022-03-24,Frank Fabra,90,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-24,William Tesillo,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-24,Carlos Cuesta,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-24,Daniel Muñoz,90,RB,0,0,,0,0,2,1,4,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2022-03-24,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Colombia,2022-03-24,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Colombia,2022-03-29,Rafael Borré,75,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-29,Harold Preciado,15,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-29,Luis Díaz,90,AM,0,0,,0,0,4,3,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -357,7 +357,7 @@ Colombia,2022-03-29,Davinson Sánchez,90,CB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,N
 Colombia,2022-03-29,Carlos Cuesta,36,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-29,Yairo Moreno,54,"DF,FW",0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-03-29,Daniel Muñoz,90,RB,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2022-03-29,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,NA,NA,0
+Colombia,2022-03-29,David Ospina,90,GK,0,0,,0,0,0,0,0,0,0,0,0,6,100.0,0,NA,0
 Colombia,2022-06-05,Rafael Borré,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-06-05,Jhon Arias,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-06-05,Luis Javier Suárez,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -373,7 +373,7 @@ Colombia,2022-06-05,Carlos Cuesta,57,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-06-05,Jhon Lucumí,33,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-06-05,Davinson Sánchez,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-06-05,Daniel Muñoz,90,RB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Colombia,2022-06-05,José Luis Chunga,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Colombia,2022-06-05,José Luis Chunga,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Colombia,2022-09-24,Radamel Falcao,45,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-09-24,Jáder Durán,45,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-09-24,Luis Díaz,63,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -390,7 +390,7 @@ Colombia,2022-09-24,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-09-24,Andrés Llinás,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-09-24,Daniel Muñoz,71,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2022-09-24,Stefan Medina,19,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2022-09-24,David Ospina,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Colombia,2022-09-24,David Ospina,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Colombia,2022-11-19,Rafael Borré,74,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-11-19,Radamel Falcao,16,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-11-19,Jhon Arias,87,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -407,7 +407,7 @@ Colombia,2022-11-19,Frank Fabra,45,DF,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-11-19,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-11-19,Davinson Sánchez,90,CB,1,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2022-11-19,Daniel Muñoz,90,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2022-11-19,David Ospina,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Colombia,2022-11-19,David Ospina,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Colombia,2023-06-16,Rafael Borré,72,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-16,Mateo Cassierra,18,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-16,Luis Díaz,72,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -423,7 +423,7 @@ Colombia,2023-06-16,Andrés Salazar,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-16,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-16,Davinson Sánchez,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-16,Daniel Muñoz,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2023-06-16,Álvaro David Montero,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Colombia,2023-06-16,Álvaro David Montero,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Germany,2023-06-20,İlkay Gündoğan,78,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-06-20,Joshua Kimmich,12,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-06-20,Kai Havertz,78,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -438,7 +438,7 @@ Germany,2023-06-20,Antonio Rüdiger,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-06-20,Malick Thiaw,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-06-20,Marius Wolf,45,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-06-20,Benjamin Henrichs,45,"DF,MF",0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Germany,2023-06-20,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Germany,2023-06-20,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,2,,,1,NA,0
 Colombia,2023-06-20,Luis Díaz,85,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-20,Diego Valoyes,5,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-20,Rafael Borré,76,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -454,7 +454,7 @@ Colombia,2023-06-20,Deiver Machado,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-20,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-20,Yerry Mina,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-06-20,Daniel Muñoz,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2023-06-20,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Colombia,2023-06-20,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Colombia,2023-09-07,Luis Díaz,87,FW,0,0,,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-07,Luis Sinisterra,3,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-07,Rafael Borré,74,FW,1,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -470,7 +470,7 @@ Colombia,2023-09-07,Deiver Machado,90,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-07,Jhon Lucumí,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-07,Yerry Mina,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-07,Daniel Muñoz,90,RB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2023-09-07,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Colombia,2023-09-07,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Colombia,2023-09-12,Luis Díaz,70,FW,0,0,,0,0,2,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-12,Luis Sinisterra,20,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-12,Rafael Borré,57,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -486,7 +486,7 @@ Colombia,2023-09-12,Jhon Lucumí,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-12,Yerry Mina,22,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-12,Davinson Sánchez,68,DF,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-09-12,Daniel Muñoz,90,RB,0,0,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2023-09-12,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,5,100.0,NA,NA,0
+Colombia,2023-09-12,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,5,100.0,0,NA,0
 Colombia,2023-10-17,Rafael Borré,74,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-10-17,Jáder Durán,16,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-10-17,Luis Díaz,90,AM,0,0,,0,1,3,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -501,7 +501,7 @@ Colombia,2023-10-17,Davinson Sánchez,90,CB,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,N
 Colombia,2023-10-17,Carlos Cuesta,90,CB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-10-17,Yerson Mosquera,85,RB,0,0,,0,0,1,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-10-17,Willer Ditta,5,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2023-10-17,Álvaro David Montero,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Colombia,2023-10-17,Álvaro David Montero,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Colombia,2023-11-16,Rafael Borré,67,FW,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-11-16,Jhon Córdoba,23,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-11-16,Luis Díaz,90,AM,2,0,,0,0,10,4,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -517,7 +517,7 @@ Colombia,2023-11-16,Cristian Borja,45,DF,0,1,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-11-16,Jhon Lucumí,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-11-16,Davinson Sánchez,90,CB,0,0,,0,0,0,0,2,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2023-11-16,Daniel Muñoz,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2023-11-16,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Colombia,2023-11-16,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Brazil,2023-11-16,Vinicius Júnior,26,FW,0,1,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-11-16,João Pedro,64,"FW,MF",0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-11-16,Rodrygo,68,FW,0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -533,7 +533,7 @@ Brazil,2023-11-16,Gabriel Magalhães,81,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-11-16,Douglas Luiz,9,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-11-16,Marquinhos,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Brazil,2023-11-16,Emerson,90,RB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Brazil,2023-11-16,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,2,8,80.0,NA,NA,0
+Brazil,2023-11-16,Alisson,90,GK,0,0,,0,0,0,0,0,0,0,0,2,8,80.0,0,NA,0
 Colombia,2023-11-21,Rafael Borré,73,FW,1,0,,1,1,4,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-11-21,Jhon Córdoba,17,FW,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-11-21,Luis Díaz,80,AM,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -549,7 +549,7 @@ Colombia,2023-11-21,Yerson Mosquera,2,DF,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-11-21,Jhon Lucumí,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-11-21,Yerry Mina,90,CB,0,0,,0,0,2,1,1,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2023-11-21,Daniel Muñoz,90,RB,0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Colombia,2023-11-21,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Colombia,2023-11-21,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Spain,2024-03-22,Joselu,60,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Spain,2024-03-22,Álvaro Morata,30,FW,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Spain,2024-03-22,Mikel Oyarzabal,60,AM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
@@ -565,8 +565,8 @@ Spain,2024-03-22,Aymeric Laporte,82,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Spain,2024-03-22,Pau Cubarsí,8,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Spain,2024-03-22,Daniel Vivian,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Spain,2024-03-22,Pedro Porro,90,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Spain,2024-03-22,David Raya,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
-Spain,2024-03-22,Álex Remiro,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Spain,2024-03-22,David Raya,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Spain,2024-03-22,Álex Remiro,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
 Colombia,2024-03-22,Mateo Cassierra,75,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-03-22,Rafael Borré,15,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-03-22,Luis Díaz,90,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -580,7 +580,7 @@ Colombia,2024-03-22,Johan Mojica,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-03-22,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-03-22,Carlos Cuesta,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-03-22,Daniel Muñoz,90,RB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2024-03-22,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Colombia,2024-03-22,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Colombia,2024-03-26,Luis Díaz,66,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2024-03-26,Rafael Borré,24,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2024-03-26,Jhon Córdoba,73,FW,1,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
@@ -596,7 +596,7 @@ Colombia,2024-03-26,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2024-03-26,Carlos Cuesta,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2024-03-26,Daniel Muñoz,44,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2024-03-26,Santiago Arias,46,"DF,MF",0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2024-03-26,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Colombia,2024-03-26,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Colombia,2024-06-15,Jhon Córdoba,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-15,Miguel Borja,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-15,Luis Díaz,76,AM,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -613,7 +613,7 @@ Colombia,2024-06-15,Deiver Machado,90,LB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-15,Carlos Cuesta,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-15,Yerry Mina,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-15,Daniel Muñoz,67,RB,0,0,,0,0,,,,0,1,0,0,NA,NA,NA,NA,NA
-Colombia,2024-06-15,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Colombia,2024-06-15,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Colombia,2024-06-24,Rafael Borré,67,FW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-24,Jhon Córdoba,23,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-24,Luis Díaz,90,LW,0,0,0,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -629,7 +629,7 @@ Colombia,2024-06-24,Jhon Lucumí,25,CB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-24,Yerry Mina,65,CB,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-24,Davinson Sánchez,90,CB,0,0,0,0,0,2,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-06-24,Daniel Muñoz,90,RB,1,0,0,0,0,2,1,4,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2024-06-24,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Colombia,2024-06-24,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Colombia,2024-06-28,Jhon Córdoba,76,FW,1,0,1,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-28,Jáder Durán,14,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-28,Luis Díaz,76,LW,1,0,0,1,1,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -645,7 +645,7 @@ Colombia,2024-06-28,Johan Mojica,90,LB,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-28,Carlos Cuesta,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-28,Davinson Sánchez,90,CB,1,0,0,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-06-28,Daniel Muñoz,90,RB,0,0,0,0,0,0,0,9,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2024-06-28,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Colombia,2024-06-28,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Colombia,2024-07-06,Jhon Córdoba,78,FW,1,0,0,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-06,Miguel Borja,12,FW,1,0,0,1,1,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-06,Luis Díaz,64,LW,1,0,0,0,0,1,1,4,0,0,0,0,NA,NA,NA,NA,NA
@@ -661,7 +661,7 @@ Colombia,2024-07-06,Carlos Cuesta,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-06,Davinson Sánchez,90,CB,0,0,0,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-06,Daniel Muñoz,72,RB,0,1,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-07-06,Santiago Arias,18,RB,0,0,1,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2024-07-06,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Colombia,2024-07-06,Camilo Vargas,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Argentina,2024-07-14,Julián Álvarez,96,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-07-14,Lautaro Martínez,24,FW,1,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-07-14,Lionel Messi,65,FW,0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -678,7 +678,7 @@ Argentina,2024-07-14,Lisandro Martínez,120,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,
 Argentina,2024-07-14,Cristian Romero,120,CB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-07-14,Gonzalo Montiel,71,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Argentina,2024-07-14,Nahuel Molina,49,RB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Argentina,2024-07-14,Emiliano Martínez,120,GK,0,0,0,0,0,0,0,0,0,0,0,0,4,100.0,NA,NA,0
+Argentina,2024-07-14,Emiliano Martínez,120,GK,0,0,0,0,0,0,0,0,0,0,0,0,4,100.0,0,NA,0
 Colombia,2024-07-14,Jhon Córdoba,88,FW,0,0,0,0,0,3,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-14,Rafael Borré,32,FW,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-14,Luis Díaz,104,"LW,RW",0,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -695,7 +695,7 @@ Colombia,2024-07-14,Johan Mojica,120,LB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-14,Carlos Cuesta,120,CB,0,0,0,0,0,3,1,4,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-14,Davinson Sánchez,120,CB,0,0,0,0,0,1,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-07-14,Santiago Arias,120,RB,0,0,0,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2024-07-14,Camilo Vargas,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,NA,NA,0
+Colombia,2024-07-14,Camilo Vargas,120,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
 Colombia,2024-09-06,Luis Díaz,90,FW,1,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-06,Jhon Córdoba,71,FW,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-06,Jáder Durán,19,FW,0,1,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -710,7 +710,7 @@ Colombia,2024-09-06,Jhon Lucumí,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-06,Carlos Cuesta,45,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-06,Yerry Mina,45,DF,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-06,Daniel Muñoz,90,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2024-09-06,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Colombia,2024-09-06,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Colombia,2024-09-10,Luis Díaz,90,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-10,Jáder Durán,78,FW,0,0,,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-10,Jhon Córdoba,12,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -725,7 +725,7 @@ Colombia,2024-09-10,Jhon Lucumí,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-10,Yerson Mosquera,87,CB,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-10,Juan David Cabal,3,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-09-10,Daniel Muñoz,90,RB,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2024-09-10,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,1,0,0,1,0,0.0,NA,NA,0
+Colombia,2024-09-10,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,1,0,0,1,0,0.0,0,NA,0
 Argentina,2024-09-10,Lautaro Martínez,90,FW,0,0,,0,0,4,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Argentina,2024-09-10,Julián Álvarez,90,FW,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Argentina,2024-09-10,Nicolás González,90,LM,1,0,,0,0,3,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -741,7 +741,7 @@ Argentina,2024-09-10,Cristian Romero,90,CB,0,0,,0,0,0,0,3,1,0,0,2,NA,NA,NA,NA,NA
 Argentina,2024-09-10,Nicolás Otamendi,90,CB,0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Argentina,2024-09-10,Gonzalo Montiel,45,RB,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Argentina,2024-09-10,Nahuel Molina,45,"DF,MF",0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Argentina,2024-09-10,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,66.7,NA,NA,0
+Argentina,2024-09-10,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,66.7,1,NA,0
 Colombia,2024-10-10,Roger Martínez,22,FW,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-10-10,Jhon Córdoba,68,FW,0,0,,0,0,4,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-10-10,Luis Díaz,77,AM,0,0,,0,0,3,2,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -757,7 +757,7 @@ Colombia,2024-10-10,Cristian Borja,90,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-10-10,Jhon Lucumí,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-10-10,Willer Ditta,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-10-10,Santiago Arias,90,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2024-10-10,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,7,87.5,NA,NA,0
+Colombia,2024-10-10,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,7,87.5,0,NA,0
 Colombia,2024-10-15,Luis Díaz,75,FW,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-10-15,Luis Sinisterra,15,"FW,MF",1,1,,0,0,3,3,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-10-15,Jhon Córdoba,45,FW,0,0,,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
@@ -773,7 +773,7 @@ Colombia,2024-10-15,Juan David Cabal,5,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-10-15,Jhon Lucumí,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-10-15,Davinson Sánchez,90,CB,1,0,,0,0,2,2,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2024-10-15,Santiago Arias,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2024-10-15,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Colombia,2024-10-15,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Colombia,2024-11-19,Luis Díaz,90,FW,0,0,,0,0,9,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-11-19,Jhon Córdoba,85,FW,0,0,,0,0,6,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-11-19,Rafael Borré,5,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -788,7 +788,7 @@ Colombia,2024-11-19,Carlos Gómez,1,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,N
 Colombia,2024-11-19,Jhon Lucumí,90,CB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-11-19,Davinson Sánchez,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2024-11-19,Daniel Muñoz,90,RB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2024-11-19,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Colombia,2024-11-19,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Brazil,2025-03-20,Vinicius Júnior,89,FW,1,0,,0,0,4,4,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2025-03-20,Leo Ortiz,1,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2025-03-20,João Pedro,59,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -804,9 +804,9 @@ Brazil,2025-03-20,Guilherme Arana,90,LB,0,0,,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2025-03-20,Gabriel Magalhães,90,CB,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Brazil,2025-03-20,Marquinhos,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Brazil,2025-03-20,Vanderson,78,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2025-03-20,Wesley,12,DF,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Brazil,2025-03-20,Alisson,77,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
-Brazil,2025-03-20,Bento,13,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Brazil,2025-03-20,Wesley,12,"DF,MF",0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Brazil,2025-03-20,Alisson,77,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
+Brazil,2025-03-20,Bento,13,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Colombia,2025-03-20,Jhon Córdoba,86,FW,0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-20,Rafael Borré,4,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-20,Luis Díaz,90,AM,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -821,7 +821,7 @@ Colombia,2025-03-20,Jhon Lucumí,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-20,Davinson Sánchez,74,CB,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-20,Carlos Cuesta,16,DF,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-20,Daniel Muñoz,90,RB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2025-03-20,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,2,5,83.3,NA,NA,0
+Colombia,2025-03-20,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,2,5,83.3,1,NA,0
 Colombia,2025-03-25,Jáder Durán,90,FW,1,0,,0,0,5,2,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-25,Luis Díaz,90,AM,1,1,,0,0,2,2,1,1,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-25,James Rodríguez,61,AM,0,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -834,7 +834,7 @@ Colombia,2025-03-25,Johan Mojica,90,LB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-25,Jhon Lucumí,90,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-25,Carlos Cuesta,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Colombia,2025-03-25,Daniel Muñoz,90,RB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2025-03-25,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,NA,NA,0
+Colombia,2025-03-25,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,0,NA,0
 Colombia,2025-06-06,Jáder Durán,45,FW,0,0,,0,0,2,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-06-06,Luis Javier Suárez,45,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-06-06,Cucho,61,AM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -849,7 +849,7 @@ Colombia,2025-06-06,Cristian Borja,90,LB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-06-06,Davinson Sánchez,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-06-06,Yerry Mina,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-06-06,Daniel Muñoz,90,RB,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2025-06-06,Kevin Mier,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Colombia,2025-06-06,Kevin Mier,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Argentina,2025-06-10,Thiago Almada,89,FW,1,0,,0,0,1,1,2,0,0,0,1,NA,NA,NA,NA,NA
 Argentina,2025-06-10,Leonardo Balerdi,1,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Argentina,2025-06-10,Julián Álvarez,90,FW,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -865,7 +865,7 @@ Argentina,2025-06-10,Nicolás Otamendi,90,CB,0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,
 Argentina,2025-06-10,Cristian Romero,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Argentina,2025-06-10,Nahuel Molina,45,RB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Argentina,2025-06-10,Nicolás González,45,"FW,MF",0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Argentina,2025-06-10,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,NA,NA,0
+Argentina,2025-06-10,Emiliano Martínez,90,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
 Colombia,2025-06-10,Jaminton Campaz,56,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2025-06-10,Andrés Felipe Román,34,"DF,FW",0,0,,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2025-06-10,Luis Díaz,90,FW,1,0,,0,0,5,2,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -879,7 +879,7 @@ Colombia,2025-06-10,Deiver Machado,90,LB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2025-06-10,Jhon Lucumí,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Colombia,2025-06-10,Davinson Sánchez,90,CB,0,0,,0,0,0,0,3,1,0,0,1,NA,NA,NA,NA,NA
 Colombia,2025-06-10,Daniel Muñoz,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Colombia,2025-06-10,Kevin Mier,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Colombia,2025-06-10,Kevin Mier,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Colombia,2025-09-04,Jhon Córdoba,81,FW,1,0,,0,0,3,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-09-04,Dayro Moreno,9,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-09-04,Luis Díaz,86,AM,0,1,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -895,7 +895,7 @@ Colombia,2025-09-04,Johan Mojica,90,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-09-04,Jhon Lucumí,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-09-04,Davinson Sánchez,90,CB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Colombia,2025-09-04,Santiago Arias,90,RB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Colombia,2025-09-04,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Colombia,2025-09-04,Camilo Vargas,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Colombia,2025-09-09,Luis Díaz,90,FW,0,1,,0,0,4,2,1,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2025-09-09,Luis Javier Suárez,68,FW,4,0,,0,0,4,4,0,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2025-09-09,Jhon Córdoba,22,FW,1,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
@@ -910,4 +910,4 @@ Colombia,2025-09-09,Álvaro Angulo,90,LB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2025-09-09,Davinson Sánchez,90,CB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2025-09-09,Yerry Mina,90,CB,1,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
 Colombia,2025-09-09,Daniel Muñoz,90,RB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
-Colombia,2025-09-09,Kevin Mier,90,GK,0,0,,0,0,0,0,0,0,0,0,3,5,62.5,NA,NA,0
+Colombia,2025-09-09,Kevin Mier,90,GK,0,0,,0,0,0,0,0,0,0,0,3,5,62.5,0,NA,0

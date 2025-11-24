@@ -13,7 +13,7 @@ Germany,2021-03-25,Emre Can,90,LB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-03-25,Matthias Ginter,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-03-25,Antonio Rüdiger,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-03-25,Lukas Klostermann,90,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2021-03-25,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Germany,2021-03-25,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Germany,2021-03-28,Kai Havertz,76,FW,0,1,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-03-28,Timo Werner,14,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-03-28,Serge Gnabry,89,FW,1,0,,0,0,5,3,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -27,7 +27,7 @@ Germany,2021-03-28,Matthias Ginter,90,LB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-03-28,Emre Can,90,CB,0,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-03-28,Antonio Rüdiger,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-03-28,Lukas Klostermann,90,RB,0,0,,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2021-03-28,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Germany,2021-03-28,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Germany,2021-03-31,Leroy Sané,90,FW,0,0,,0,0,1,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-03-31,Serge Gnabry,90,FW,0,0,,0,0,3,1,1,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-03-31,Kai Havertz,55,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -41,7 +41,7 @@ Germany,2021-03-31,Antonio Rüdiger,90,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-03-31,Matthias Ginter,88,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-03-31,Jamal Musiala,2,"FW,MF",0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-03-31,Emre Can,90,RB,0,0,,0,0,1,0,1,1,0,0,2,NA,NA,NA,NA,NA
-Germany,2021-03-31,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,2,1,33.3,NA,NA,0
+Germany,2021-03-31,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,2,1,33.3,0,NA,0
 Germany,2021-06-02,Thomas Müller,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-02,Leroy Sané,85,FW,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-02,Jonas Hofmann,5,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -56,7 +56,7 @@ Germany,2021-06-02,Robin Koch,32,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-02,Matthias Ginter,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-02,Mats Hummels,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-02,Niklas Süle,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2021-06-02,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Germany,2021-06-02,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Germany,2021-06-07,Thomas Müller,75,FW,1,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-07,Jamal Musiala,15,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-07,Serge Gnabry,45,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -73,7 +73,7 @@ Germany,2021-06-07,Antonio Rüdiger,60,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-07,Niklas Süle,30,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-07,Mats Hummels,90,CB,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-06-07,Matthias Ginter,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2021-06-07,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Germany,2021-06-07,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Germany,2021-06-23,Serge Gnabry,67,FW,0,0,0,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-23,Thomas Müller,23,"FW,CM",0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-23,Leroy Sané,90,"AM,RW,RM",0,0,0,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
@@ -89,7 +89,7 @@ Germany,2021-06-23,Antonio Rüdiger,90,CB,0,0,0,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-23,Mats Hummels,90,CB,0,1,0,0,0,4,0,1,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-23,Matthias Ginter,81,"CB,RB",0,0,0,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2021-06-23,Kevin Volland,9,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Germany,2021-06-23,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Germany,2021-06-23,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 Germany,2021-09-02,Timo Werner,90,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-02,Leroy Sané,90,AM,1,0,,0,0,4,1,2,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-02,Kai Havertz,59,AM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -105,7 +105,7 @@ Germany,2021-09-02,Thilo Kehrer,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-02,Niklas Süle,90,CB,0,0,,0,0,4,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-02,Ridle Baku,59,RB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-02,Jonas Hofmann,31,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2021-09-02,Bernd Leno,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Germany,2021-09-02,Bernd Leno,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Germany,2021-09-05,Timo Werner,90,FW,1,1,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-05,Leroy Sané,59,AM,0,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-05,Jamal Musiala,31,"FW,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -121,7 +121,7 @@ Germany,2021-09-05,David Raum,8,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-05,Antonio Rüdiger,90,CB,0,0,,0,0,3,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-05,Niklas Süle,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-05,Jonas Hofmann,90,RB,1,0,,0,0,2,2,2,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2021-09-05,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Germany,2021-09-05,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Germany,2021-09-08,Timo Werner,90,FW,1,0,,0,0,4,3,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-08,Leroy Sané,59,AM,1,1,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-08,Jamal Musiala,31,"FW,MF",0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -137,7 +137,7 @@ Germany,2021-09-08,Robin Gosens,32,"DF,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-08,Antonio Rüdiger,90,CB,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-08,Jonas Hofmann,45,RB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-09-08,Lukas Klostermann,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2021-09-08,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Germany,2021-09-08,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Germany,2021-10-08,Timo Werner,66,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-10-08,Thomas Müller,24,"FW,MF",1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-10-08,Leroy Sané,88,AM,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -152,7 +152,7 @@ Germany,2021-10-08,Antonio Rüdiger,90,CB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-10-08,Niklas Süle,90,CB,0,0,,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-10-08,Jonas Hofmann,84,RB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-10-08,Lukas Klostermann,6,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2021-10-08,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Germany,2021-10-08,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Germany,2021-10-11,Timo Werner,73,FW,2,0,,0,0,9,6,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-10-11,Jamal Musiala,17,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-10-11,Kai Havertz,60,AM,1,0,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
@@ -168,7 +168,7 @@ Germany,2021-10-11,David Raum,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-10-11,Thilo Kehrer,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-10-11,Niklas Süle,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-10-11,Lukas Klostermann,90,RB,0,0,,0,0,0,0,4,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2021-10-11,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Germany,2021-10-11,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Germany,2021-11-11,Thomas Müller,90,FW,2,0,,0,0,4,3,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-11-11,Leroy Sané,63,AM,2,0,,0,0,7,5,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-11-11,Kevin Volland,27,"FW,MF",0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -184,7 +184,7 @@ Germany,2021-11-11,Thilo Kehrer,71,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-11-11,Matthias Ginter,19,"DF,MF",0,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-11-11,Jonas Hofmann,45,RB,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2021-11-11,Lukas Nmecha,45,FW,0,0,,0,0,6,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2021-11-11,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,NA,NA,0
+Germany,2021-11-11,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
 Germany,2021-11-14,Kai Havertz,90,FW,1,0,,0,0,5,2,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-11-14,Thomas Müller,59,FW,0,1,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-11-14,Lukas Nmecha,31,FW,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -200,7 +200,7 @@ Germany,2021-11-14,Maximilian Arnold,31,MF,0,0,,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-11-14,Matthias Ginter,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-11-14,Thilo Kehrer,90,CB,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2021-11-14,Jonathan Tah,90,CB,0,0,,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2021-11-14,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,,NA,NA,0
+Germany,2021-11-14,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,,0,NA,0
 Germany,2022-03-26,Timo Werner,70,FW,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Germany,2022-03-26,Leroy Sané,20,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Germany,2022-03-26,Kai Havertz,79,FW,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
@@ -216,8 +216,8 @@ Germany,2022-03-26,Christian Günter,28,"DF,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,N
 Germany,2022-03-26,Nico Schlotterbeck,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Germany,2022-03-26,Jonathan Tah,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
 Germany,2022-03-26,Thilo Kehrer,90,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Germany,2022-03-26,Marc-André ter Stegen,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
-Germany,2022-03-26,Kevin Trapp,45,GK,0,0,,0,0,,,,0,0,0,,,,NA,NA,0
+Germany,2022-03-26,Marc-André ter Stegen,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Germany,2022-03-26,Kevin Trapp,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
 Germany,2022-03-29,Timo Werner,79,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-03-29,Lukas Nmecha,11,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-03-29,Leroy Sané,85,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -234,7 +234,7 @@ Germany,2022-03-29,Nico Schlotterbeck,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-03-29,Antonio Rüdiger,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-03-29,Thilo Kehrer,78,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-03-29,Benjamin Henrichs,12,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2022-03-29,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Germany,2022-03-29,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Germany,2022-06-04,Timo Werner,90,FW,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-04,Leroy Sané,58,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-04,Jamal Musiala,32,"FW,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -250,7 +250,7 @@ Germany,2022-06-04,Jonas Hofmann,32,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,N
 Germany,2022-06-04,Niklas Süle,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-04,Antonio Rüdiger,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-04,Thilo Kehrer,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Germany,2022-06-04,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,NA,NA,0
+Germany,2022-06-04,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
 Germany,2022-06-11,Timo Werner,77,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-11,Thomas Müller,13,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-11,Jamal Musiala,77,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -266,7 +266,7 @@ Germany,2022-06-11,Lukas Nmecha,6,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-11,Nico Schlotterbeck,90,CB,0,1,,0,0,0,0,4,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-11,Niklas Süle,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-06-11,Thilo Kehrer,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2022-06-11,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,1,6,85.7,NA,NA,0
+Germany,2022-06-11,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,1,6,85.7,0,NA,0
 Germany,2022-06-14,Timo Werner,74,FW,2,0,,0,0,5,4,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-06-14,Lukas Nmecha,16,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-06-14,Leroy Sané,90,AM,0,0,,0,0,2,1,0,1,0,0,2,NA,NA,NA,NA,NA
@@ -282,7 +282,7 @@ Germany,2022-06-14,Antonio Rüdiger,90,CB,0,0,,0,0,1,0,1,1,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-06-14,Niklas Süle,86,CB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-06-14,Jonathan Tah,4,DF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-06-14,Lukas Klostermann,90,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Germany,2022-06-14,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,NA,NA,0
+Germany,2022-06-14,Manuel Neuer,90,GK,0,0,,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0
 Germany,2022-09-23,Timo Werner,68,FW,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-09-23,Kai Havertz,22,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-09-23,Leroy Sané,90,AM,0,0,,0,0,3,1,3,0,0,0,1,NA,NA,NA,NA,NA
@@ -297,7 +297,7 @@ Germany,2022-09-23,David Raum,90,LB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-09-23,Antonio Rüdiger,90,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-09-23,Niklas Süle,90,CB,0,0,,0,0,0,0,4,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2022-09-23,Jonas Hofmann,90,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2022-09-23,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Germany,2022-09-23,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Germany,2022-11-16,Youssoufa Moukoko,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2022-11-16,Niclas Füllkrug,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2022-11-16,Leroy Sané,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -314,7 +314,7 @@ Germany,2022-11-16,Nico Schlotterbeck,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2022-11-16,Thilo Kehrer,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2022-11-16,Lukas Klostermann,33,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2022-11-16,Armel Bella Kotchap,57,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2022-11-16,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Germany,2022-11-16,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Germany,2022-12-01,Thomas Müller,66,FW,0,0,0,0,0,3,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-12-01,Kai Havertz,24,FW,2,0,0,0,0,5,3,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-12-01,Serge Gnabry,90,"LW,LM",1,1,0,0,0,4,1,2,0,0,0,2,NA,NA,NA,NA,NA
@@ -330,7 +330,7 @@ Germany,2022-12-01,Antonio Rüdiger,90,CB,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-12-01,Niklas Süle,89,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-12-01,Matthias Ginter,1,CB,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2022-12-01,Joshua Kimmich,90,"CM,RB,DM",0,0,0,0,0,1,1,2,0,0,0,2,NA,NA,NA,NA,NA
-Germany,2022-12-01,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,4,66.7,NA,NA,0
+Germany,2022-12-01,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0
 Germany,2023-03-25,Timo Werner,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2023-03-25,Serge Gnabry,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2023-03-25,Niclas Füllkrug,74,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -347,7 +347,7 @@ Germany,2023-03-25,Nico Schlotterbeck,85,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2023-03-25,Thilo Kehrer,5,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2023-03-25,Matthias Ginter,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2023-03-25,Marius Wolf,90,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2023-03-25,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Germany,2023-03-25,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Germany,2023-03-28,Timo Werner,79,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-03-28,Kevin Schade,11,"FW,MF",0,1,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-03-28,Niclas Füllkrug,79,FW,1,0,,1,1,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -364,7 +364,7 @@ Germany,2023-03-28,Thilo Kehrer,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-03-28,Matthias Ginter,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-03-28,Marius Wolf,79,RB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-03-28,Josha Vagnoman,11,"DF,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Germany,2023-03-28,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+Germany,2023-03-28,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
 Germany,2023-06-12,Niclas Füllkrug,45,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-06-12,Kai Havertz,45,"FW,MF",1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-06-12,Leroy Sané,90,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -381,7 +381,7 @@ Germany,2023-06-12,Matthias Ginter,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-06-12,Antonio Rüdiger,90,CB,0,1,,0,0,,,,0,0,1,3,NA,NA,NA,NA,NA
 Germany,2023-06-12,Nico Schlotterbeck,45,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-06-12,Lukas Klostermann,45,"DF,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Germany,2023-06-12,Kevin Trapp,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+Germany,2023-06-12,Kevin Trapp,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
 Germany,2023-06-16,Kai Havertz,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-06-16,Jamal Musiala,67,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-06-16,Niclas Füllkrug,23,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -398,7 +398,7 @@ Germany,2023-06-16,Antonio Rüdiger,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-06-16,Malick Thiaw,86,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-06-16,Marius Wolf,4,"DF,FW",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2023-06-16,Thilo Kehrer,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2023-06-16,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Germany,2023-06-16,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Germany,2023-11-18,Niclas Füllkrug,90,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-11-18,Julian Brandt,81,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-11-18,Marvin Ducksch,9,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
@@ -412,7 +412,7 @@ Germany,2023-11-18,Kai Havertz,90,LB,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-11-18,Antonio Rüdiger,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-11-18,Jonathan Tah,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2023-11-18,Benjamin Henrichs,90,RB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Germany,2023-11-18,Kevin Trapp,90,GK,0,0,,0,0,,,,0,0,0,3,,,NA,NA,0
+Germany,2023-11-18,Kevin Trapp,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
 Germany,2023-11-21,Niclas Füllkrug,45,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-11-21,Thomas Müller,45,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-11-21,Serge Gnabry,60,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
@@ -429,7 +429,7 @@ Germany,2023-11-21,Marvin Ducksch,14,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-11-21,Antonio Rüdiger,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-11-21,Mats Hummels,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2023-11-21,Jonathan Tah,90,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Germany,2023-11-21,Kevin Trapp,90,GK,0,0,,0,0,,,,0,0,0,2,,,NA,NA,0
+Germany,2023-11-21,Kevin Trapp,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
 Germany,2024-03-26,Kai Havertz,72,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-03-26,Niclas Füllkrug,18,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-03-26,Florian Wirtz,72,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -446,7 +446,7 @@ Germany,2024-03-26,Jonathan Tah,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-03-26,Antonio Rüdiger,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-03-26,Joshua Kimmich,78,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-03-26,Benjamin Henrichs,12,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2024-03-26,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Germany,2024-03-26,Marc-André ter Stegen,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Germany,2024-06-03,Kai Havertz,58,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-03,Thomas Müller,32,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-03,Florian Wirtz,45,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
@@ -463,7 +463,7 @@ Germany,2024-06-03,Jonathan Tah,59,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-03,Robin Koch,31,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-03,Waldemar Anton,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-03,Joshua Kimmich,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2024-06-03,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,0,,,NA,NA,0
+Germany,2024-06-03,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
 Germany,2024-06-07,Kai Havertz,90,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-07,Florian Wirtz,45,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-07,Leroy Sané,45,"FW,MF",0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
@@ -480,7 +480,7 @@ Germany,2024-06-07,Antonio Rüdiger,68,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-07,Nico Schlotterbeck,22,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-07,Joshua Kimmich,67,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-07,Benjamin Henrichs,23,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2024-06-07,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,1,,,NA,NA,0
+Germany,2024-06-07,Manuel Neuer,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
 Germany,2024-06-14,Kai Havertz,62,FW,1,1,0,1,1,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-14,Niclas Füllkrug,28,FW,1,0,0,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-14,Florian Wirtz,62,LW,1,0,0,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -496,7 +496,7 @@ Germany,2024-06-14,Maximilian Mittelstädt,90,LB,0,0,0,0,0,3,0,1,0,0,0,1,NA,NA,N
 Germany,2024-06-14,Jonathan Tah,90,CB,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-14,Antonio Rüdiger,90,CB,0,0,0,0,0,2,1,1,0,0,1,1,NA,NA,NA,NA,NA
 Germany,2024-06-14,Joshua Kimmich,90,RB,0,1,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2024-06-14,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,,NA,NA,0
+Germany,2024-06-14,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,NA,0
 Germany,2024-06-19,Kai Havertz,57,FW,0,0,0,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-19,Niclas Füllkrug,33,FW,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-19,Florian Wirtz,57,LW,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -512,7 +512,7 @@ Germany,2024-06-19,Maximilian Mittelstädt,90,LB,0,1,0,0,0,1,0,1,1,0,0,0,NA,NA,N
 Germany,2024-06-19,Jonathan Tah,90,CB,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-19,Antonio Rüdiger,90,CB,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-19,Joshua Kimmich,90,RB,0,0,0,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2024-06-19,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Germany,2024-06-19,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Germany,2024-06-23,Kai Havertz,90,"FW,AM",0,0,0,0,0,6,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-23,Florian Wirtz,75,"LW,AM",0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-23,Leroy Sané,15,RW,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -528,7 +528,7 @@ Germany,2024-06-23,Jonathan Tah,60,CB,0,0,0,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-23,Nico Schlotterbeck,30,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-23,Antonio Rüdiger,90,CB,0,0,0,0,0,1,0,3,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-06-23,Joshua Kimmich,90,RB,0,0,0,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2024-06-23,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,NA,NA,0
+Germany,2024-06-23,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
 Germany,2024-06-29,Kai Havertz,90,"FW,AM",1,0,0,1,1,4,3,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-29,Jamal Musiala,80,LW,1,0,0,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-29,Florian Wirtz,10,"AM,LW",0,0,0,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -544,7 +544,7 @@ Germany,2024-06-29,Benjamin Henrichs,10,"WB,LB",0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA
 Germany,2024-06-29,Nico Schlotterbeck,90,CB,0,1,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-29,Antonio Rüdiger,90,CB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-06-29,Joshua Kimmich,90,"RB,WB",0,0,0,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2024-06-29,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,NA,NA,0
+Germany,2024-06-29,Manuel Neuer,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
 Germany,2024-09-07,Niclas Füllkrug,59,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-09-07,Maximilian Beier,31,"FW,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-09-07,Jamal Musiala,90,AM,1,3,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
@@ -560,7 +560,7 @@ Germany,2024-09-07,Nico Schlotterbeck,69,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,N
 Germany,2024-09-07,Robin Koch,21,"DF,MF",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-09-07,Jonathan Tah,90,CB,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-09-07,Joshua Kimmich,90,RB,0,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2024-09-07,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Germany,2024-09-07,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Germany,2024-09-10,Deniz Undav,62,FW,1,1,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2024-09-10,Maximilian Beier,28,"FW,MF",0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2024-09-10,Jamal Musiala,88,AM,0,0,,0,0,6,0,1,0,0,0,2,NA,NA,NA,NA,NA
@@ -576,7 +576,7 @@ Germany,2024-09-10,Nico Schlotterbeck,90,CB,0,0,,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,N
 Germany,2024-09-10,Jonathan Tah,45,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Germany,2024-09-10,Waldemar Anton,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2024-09-10,Joshua Kimmich,90,RB,1,0,,0,0,1,1,0,0,0,0,2,NA,NA,NA,NA,NA
-Germany,2024-09-10,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,NA,NA,0
+Germany,2024-09-10,Marc-André ter Stegen,90,GK,0,0,,0,0,0,0,0,0,0,0,2,2,50.0,0,NA,0
 Germany,2024-10-11,Tim Kleindienst,90,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-10-11,Florian Wirtz,90,AM,0,1,,0,0,2,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-10-11,Deniz Undav,66,AM,2,0,,0,0,4,2,0,0,0,0,1,NA,NA,NA,NA,NA
@@ -592,7 +592,7 @@ Germany,2024-10-11,Robin Gosens,25,"DF,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-10-11,Jonathan Tah,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-10-11,Antonio Rüdiger,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-10-11,Joshua Kimmich,90,RB,0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Germany,2024-10-11,Alexander Nübel,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Germany,2024-10-11,Alexander Nübel,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Germany,2024-10-14,Tim Kleindienst,81,FW,0,0,,0,0,4,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-10-14,Jonathan Burkardt,9,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-10-14,Jamie Leweling,86,AM,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -608,7 +608,7 @@ Germany,2024-10-14,Maximilian Mittelstädt,90,LB,0,0,,0,0,2,1,2,0,0,0,0,NA,NA,NA
 Germany,2024-10-14,Nico Schlotterbeck,90,CB,0,1,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-10-14,Antonio Rüdiger,90,CB,0,0,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-10-14,Joshua Kimmich,90,RB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2024-10-14,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Germany,2024-10-14,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Germany,2024-11-16,Tim Kleindienst,90,FW,2,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-11-16,Jamal Musiala,57,AM,1,0,,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-11-16,Leroy Sané,33,"FW,MF",1,0,,0,0,2,2,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -624,7 +624,7 @@ Germany,2024-11-16,Jonathan Tah,90,CB,0,0,,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-11-16,Antonio Rüdiger,90,CB,0,1,,0,0,1,1,2,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-11-16,Joshua Kimmich,72,RB,0,1,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2024-11-16,Robin Koch,18,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2024-11-16,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Germany,2024-11-16,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
 Germany,2024-11-19,Serge Gnabry,60,FW,0,0,,0,0,3,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-11-19,Florian Wirtz,30,"FW,MF",0,0,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-11-19,Chris Führich,60,AM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
@@ -640,7 +640,7 @@ Germany,2024-11-19,Nico Schlotterbeck,90,CB,0,0,,0,0,2,1,0,1,0,0,1,NA,NA,NA,NA,N
 Germany,2024-11-19,Robin Koch,90,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-11-19,Joshua Kimmich,45,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2024-11-19,Robin Gosens,45,"DF,MF",0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2024-11-19,Alexander Nübel,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,100.0,NA,NA,0
+Germany,2024-11-19,Alexander Nübel,90,GK,0,0,,0,0,0,0,0,0,0,0,1,5,100.0,0,NA,0
 Germany,2025-03-20,Jonathan Burkardt,45,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-03-20,Tim Kleindienst,45,FW,1,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-03-20,Jamal Musiala,90,AM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -656,7 +656,7 @@ Germany,2025-03-20,Nico Schlotterbeck,45,DF,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,N
 Germany,2025-03-20,Antonio Rüdiger,90,CB,0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-03-20,Jonathan Tah,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-03-20,Joshua Kimmich,90,RB,0,2,,0,0,1,1,2,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2025-03-20,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,1,6,85.7,NA,NA,0
+Germany,2025-03-20,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,1,6,85.7,0,NA,0
 Germany,2025-03-23,Tim Kleindienst,90,FW,1,0,,0,0,4,2,1,1,0,0,3,NA,NA,NA,NA,NA
 Germany,2025-03-23,Maximilian Mittelstädt,90,AM,0,0,,0,0,3,1,1,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2025-03-23,Jamal Musiala,76,AM,1,0,,0,0,5,1,0,0,0,0,3,NA,NA,NA,NA,NA
@@ -672,7 +672,7 @@ Germany,2025-03-23,Jonathan Tah,90,CB,0,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2025-03-23,Antonio Rüdiger,76,CB,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2025-03-23,Yann Aurel Bisseck,14,DF,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
 Germany,2025-03-23,Joshua Kimmich,90,RB,1,2,,1,1,2,2,0,0,0,0,3,NA,NA,NA,NA,NA
-Germany,2025-03-23,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,3,0,0.0,NA,NA,0
+Germany,2025-03-23,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,3,0,0.0,0,NA,0
 Germany,2025-09-04,Nick Woltemade,90,FW,0,0,,0,0,3,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-09-04,Florian Wirtz,90,AM,0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-09-04,Leon Goretzka,90,AM,0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
@@ -686,7 +686,7 @@ Germany,2025-09-04,Jonathan Tah,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-09-04,Antonio Rüdiger,90,CB,0,0,,0,0,1,0,0,1,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-09-04,Nnamdi Collins,45,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
 Germany,2025-09-04,David Raum,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Germany,2025-09-04,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,NA,NA,0
+Germany,2025-09-04,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,0,NA,0
 Germany,2025-09-07,Nick Woltemade,60,FW,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-09-07,Maximilian Beier,30,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-09-07,Jamie Leweling,90,AM,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
@@ -701,7 +701,7 @@ Germany,2025-09-07,Antonio Rüdiger,81,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-09-07,Jonathan Tah,9,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-09-07,Robin Koch,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
 Germany,2025-09-07,Waldemar Anton,90,RB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Germany,2025-09-07,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,NA,NA,0
+Germany,2025-09-07,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
 Germany,2025-10-10,Nick Woltemade,60,FW,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-10,Ridle Baku,30,"DF,FW",0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-10,Florian Wirtz,90,AM,0,0,,0,0,5,0,0,0,0,0,0,NA,NA,NA,NA,NA
@@ -717,7 +717,7 @@ Germany,2025-10-10,Nico Schlotterbeck,45,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,N
 Germany,2025-10-10,Waldemar Anton,45,"DF,MF",0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-10,Jonathan Tah,90,CB,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-10,Joshua Kimmich,90,RB,2,0,,1,1,5,4,1,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2025-10-10,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,NA,NA,0
+Germany,2025-10-10,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
 Germany,2025-10-13,Nick Woltemade,89,FW,1,0,,0,0,2,1,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-13,Jonathan Burkardt,1,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-13,Serge Gnabry,86,AM,0,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
@@ -733,4 +733,4 @@ Germany,2025-10-13,David Raum,90,LB,0,1,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-13,Nico Schlotterbeck,90,CB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-13,Jonathan Tah,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
 Germany,2025-10-13,Joshua Kimmich,90,RB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Germany,2025-10-13,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,NA,NA,0
+Germany,2025-10-13,Oliver Baumann,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
