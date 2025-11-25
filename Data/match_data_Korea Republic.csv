@@ -1,1050 +1,1050 @@
-Country,Date,Player,Mins,Pos,Gls,Ast,PKwon,PK,PKatt,Shots,SoT,TklW,CrdY,CrdR,OG,GA,Saves,Save%,PK Non SO Conceded,PK SO scorer,GK PK SO saves
-Korea Republic,2019-09-10,Hwang Ui-jo,80,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Kim Shin-wook,10,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Na Sang-ho,65,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Kwon Chang-hoon,25,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Lee Jae-sung,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Hwang In-beom,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Jung Woo-young,90,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Kim Jin-su,84,LB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Hong Chul,6,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Lee Yong,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-09-10,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2019-10-10,Kim Shin-wook,90,FW,4,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Son Heung-min,61,FW,2,1,,1,1,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Kwon Chang-hoon,29,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Hwang Hee-chan,90,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Lee Kang-in,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Nam Tae-hee,75,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Lee Donggyeong,15,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Paik Seung-ho,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Hong Chul,90,LB,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Kim Min-jae,68,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Park Ji-soo,22,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Kim Moonhwan,90,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-10-10,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2019-11-14,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Hwang Ui-jo,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Nam Tae-hee,62,LW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Kim Shin-wook,28,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Lee Jae-sung,79,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Lee Kang-in,11,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Hwang In-beom,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Hwang Hee-chan,45,"FW,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Kim Min-jae,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Kim Young-gwon,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Kim Jin-su,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Jung Woo-young,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Lee Yong,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2019-11-14,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Brazil,2019-11-19,Richarlison,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Philippe Coutinho,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Gabriel Jesus,87,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Rodrygo,3,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Lucas Paquetá,83,CM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Roberto Firmino,7,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Arthur Melo,79,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Douglas Luiz,11,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Fabinho,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Renan Lodi,86,LB,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Emerson,4,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Éder Militão,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Marquinhos,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Danilo,90,RB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Brazil,2019-11-19,Alisson,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2019-11-19,Hwang Ui-jo,90,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Son Heung-min,90,AM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Lee Jae-sung,74,AM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Kwon Chang-hoon,16,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Hwang Hee-chan,64,AM,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Na Sang-ho,26,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Jung Woo-young,90,DM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Ju Se-jong,87,DM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Hwang In-beom,3,MF,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Kim Jin-su,90,LB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Kim Moonhwan,90,RB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2019-11-19,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
-Mexico,2020-11-14,Raúl Jiménez,90,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Hirving Lozano,82,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Rodolfo Pizarro,8,"DF,FW",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Jesús Corona,53,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Uriel Antuna,37,"FW,MF",1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Francisco Sebastián Córdova,53,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Orbelín Pineda,37,"FW,MF",0,2,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Charly Rodríguez,90,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Edson Álvarez,90,DM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Jesús Gallardo,90,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Héctor Moreno,90,CB,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Carlos Salcedo,82,CB,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Néstor Araujo,8,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Luis Alfonso Rodríguez,67,RB,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Jorge Eduardo Sánchez,23,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Mexico,2020-11-14,Hugo González Durán,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
-Korea Republic,2020-11-14,Hwang Ui-jo,67,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Hwang Hee-chan,23,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Son Heung-min,90,FW,0,1,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Lee Jae-sung,62,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Nam Tae-hee,28,MF,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Lee Ju-yong,90,LM,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Ju Se-jong,90,CM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Son Jun-ho,73,CM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Lee Kang-in,17,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Kim Tae-hwan,90,RM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Kwon Kyung-won,90,CB,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Jung Woo-young,90,CB,0,1,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Won Du-jae,90,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2020-11-14,Gu Sung-yun,90,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
-Korea Republic,2020-11-17,Hwang Ui-jo,87,FW,1,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Ju Se-jong,3,MF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Son Heung-min,90,FW,0,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Lee Jae-sung,63,FW,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Son Jun-ho,27,MF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Yoon Jong-gyu,90,LM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Hwang Hee-chan,75,CM,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Um Wonsang,15,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Nam Tae-hee,75,CM,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Lee Kang-in,15,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Kim Tae-hwan,63,RM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Lee Ju-yong,27,"DF,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Jung Woo-young,90,CB,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Won Du-jae,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2020-11-17,Gu Sung-yun,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
-Korea Republic,2020-11-17,Lee Chang-keun,45,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
-Korea Republic,2021-06-05,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Kwon Chang-hoon,90,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Lee Jae-sung,70,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Hwang Hee-chan,20,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Hong Chul,70,LM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Lee Ki-je,20,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Kim Young-gwon,90,CM,1,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Hwang Ui-jo,90,CM,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Nam Tae-hee,90,RM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Jung Woo-young,90,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Kim Min-jae,83,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Park Ji-soo,7,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Kim Moonhwan,74,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Lee Yong,16,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-06-05,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2021-06-09,Kim Shin-wook,71,FW,2,0,,1,1,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Jeong Sangbin,19,"FW,MF",1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Song Minkyu,90,FW,0,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Hwang Hee-chan,90,FW,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Lee Donggyeong,90,CM,1,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Nam Tae-hee,45,CM,0,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Kwon Chang-hoon,45,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Son Jun-ho,80,DM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Kim Young-bin,10,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Lee Ki-je,71,LB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Kang Sang-woo,19,"DF,FW",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Park Ji-soo,45,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Kim Min-jae,45,DF,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Won Du-jae,90,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Kim Tae-hwan,90,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
-Korea Republic,2021-06-09,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
-Korea Republic,2021-06-13,Hwang Ui-jo,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Song Minkyu,82,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Hwang Hee-chan,8,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Son Heung-min,90,AM,1,0,,1,1,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Kwon Chang-hoon,82,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Son Jun-ho,8,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Lee Jae-sung,45,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Nam Tae-hee,45,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Jung Woo-young,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Hong Chul,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Park Ji-soo,66,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Won Du-jae,24,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Kim Moonhwan,62,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Lee Yong,28,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-06-13,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2021-09-02,Hwang Ui-jo,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Song Minkyu,57,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Hwang Hee-chan,33,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Lee Jae-sung,68,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Kwon Chang-hoon,22,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Hwang In-beom,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Son Jun-ho,45,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Nam Tae-hee,45,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Hong Chul,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Kim Moonhwan,57,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Lee Yong,33,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-02,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2021-09-07,Cho Gue-sung,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Hwang Ui-jo,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Hwang Hee-chan,90,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Na Sang-ho,58,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Song Minkyu,32,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Lee Donggyeong,58,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Kwon Chang-hoon,32,"FW,MF",1,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Lee Jae-sung,71,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Son Jun-ho,19,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Hwang In-beom,88,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Ju Se-jong,2,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Hong Chul,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Lee Yong,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-09-07,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2021-10-07,Hwang Ui-jo,68,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Lee Dongjun,22,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Hwang Hee-chan,90,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Son Heung-min,90,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Song Minkyu,55,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Lee Jae-sung,35,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Hwang In-beom,85,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Cho Gue-sung,5,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Jung Woo-young,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Hong Chul,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Kim Min-jae,90,CB,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Lee Yong,90,RB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-07,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2021-10-12,Hwang Ui-jo,80,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Na Sang-ho,10,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Son Heung-min,90,LW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Lee Jae-sung,81,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Lee Donggyeong,9,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Hwang In-beom,90,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Hwang Hee-chan,90,RW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Jung Woo-young,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Hong Chul,69,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Kim Jin-su,21,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Lee Yong,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2021-10-12,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2021-11-11,Cho Gue-sung,75,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Song Minkyu,15,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Hwang Hee-chan,90,FW,1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Lee Jae-sung,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Hwang In-beom,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Jung Woo-young,90,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Kim Jin-su,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Kim Min-jae,80,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Park Ji-soo,10,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Lee Yong,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-11,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2021-11-16,Cho Gue-sung,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Son Heung-min,86,AM,1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Um Wonsang,4,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Lee Jae-sung,65,AM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Jeong Woo-yeong,25,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Hwang Hee-chan,81,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Song Minkyu,9,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Jung Woo-young,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Hwang In-beom,87,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Paik Seung-ho,3,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Kim Jin-su,81,LB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Hong Chul,9,"DF,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Lee Yong,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2021-11-16,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2022-01-15,Cho Gue-sung,60,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Kim Gun-hee,30,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Song Minkyu,75,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Eom Jisung,15,"FW,MF",1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Lee Donggyeong,90,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Kwon Chang-hoon,45,AM,1,0,,0,1,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Lee Yeong-jae,45,MF,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Kim Jin-kyu,90,DM,1,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Paik Seung-ho,90,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Kim Jin-su,45,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Hong Chul,45,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Kim Young-gwon,45,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Jung Seung-hyun,45,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Park Ji-soo,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Kim Tae-hwan,60,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Kang Sang-woo,30,"DF,FW",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-01-15,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2022-01-21,Cho Gue-sung,60,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Cho Youngwook,30,"FW,MF",1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Kwon Chang-hoon,60,AM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Hong Chul,30,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Kim Gun-hee,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Song Minkyu,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Kim Jin-kyu,90,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Paik Seung-ho,70,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Ko Seungbeom,20,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Kim Jin-su,60,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Lee Dongjun,30,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Kim Young-gwon,70,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Kwon Kyung-won,20,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Park Ji-soo,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Lee Yong,60,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Kim Tae-hwan,30,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-21,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2022-01-27,Cho Gue-sung,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Hwang Ui-jo,90,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Lee Jae-sung,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Hwang In-beom,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Kwon Chang-hoon,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Jung Woo-young,90,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Kim Jin-su,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Kim Young-gwon,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Kim Min-jae,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Lee Yong,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-01-27,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2022-02-01,Hwang Ui-jo,89,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Kim Gun-hee,1,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Cho Gue-sung,68,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Lee Dongjun,22,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Jeong Woo-yeong,45,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Kwon Chang-hoon,45,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Hwang In-beom,90,AM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Lee Jae-sung,89,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Kim Jin-kyu,1,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Paik Seung-ho,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Kim Jin-su,90,LB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Kim Tae-hwan,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-02-01,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2022-03-24,Hwang Ui-jo,66,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Cho Gue-sung,24,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Son Heung-min,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Kwon Chang-hoon,86,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Kwon Kyung-won,4,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Lee Jae-sung,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Hwang Hee-chan,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Jung Woo-young,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Kim Jin-su,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Kim Young-gwon,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Kim Min-jae,78,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Park Ji-soo,12,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Kim Tae-hwan,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-03-24,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2022-03-29,Hwang Ui-jo,90,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Kwon Chang-hoon,60,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Nam Tae-hee,30,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Son Heung-min,90,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Lee Jae-sung,90,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Hwang Hee-chan,90,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Jung Woo-young,90,DM,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Kim Jin-su,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Kim Min-jae,90,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Kim Tae-hwan,76,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Cho Youngwook,14,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-03-29,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2022-06-06,Son Heung-min,89,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Ko Seungbeom,1,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Jeong Woo-yeong,67,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Cho Gue-sung,23,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Hwang Hee-chan,90,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Hwang In-beom,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Jung Woo-young,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Na Sang-ho,75,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Um Wonsang,15,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Hong Chul,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Jung Seung-hyun,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Kim Moonhwan,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-06-06,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2022-06-10,Hwang Ui-jo,73,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Cho Gue-sung,17,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Son Heung-min,90,LW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Na Sang-ho,59,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Um Wonsang,31,"FW,MF",0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Paik Seung-ho,59,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Kim Jin-kyu,31,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Kwon Chang-hoon,73,RW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Jeong Woo-yeong,17,"FW,MF",1,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Hwang In-beom,90,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Kim Jin-su,66,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Hong Chul,24,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Jung Seung-hyun,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Kim Moonhwan,60,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Lee Yong,30,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-06-10,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
-Korea Republic,2022-06-14,Hwang Ui-jo,77,FW,1,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Cho Gue-sung,13,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Jeong Woo-yeong,68,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Um Wonsang,22,"FW,MF",0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Kwon Chang-hoon,90,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Paik Seung-ho,77,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Kim Donghyun,13,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Son Heung-min,90,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Ko Seungbeom,52,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Kim Jin-kyu,38,MF,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Kim Jin-su,90,LB,0,2,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Kim Young-gwon,90,CB,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Kim Tae-hwan,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-06-14,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Egypt,2022-06-14,Mostafa Mohamed,79,FW,1,0,,0,0,,,,1,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Ahmed Atef,11,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Ahmed Refaat,68,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Ahmed Sayed,22,MF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Ibrahim Adel,90,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Ahmed Hamdi,85,CM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Mohamed Ibrahim,5,MF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Amro El Soulia,90,CM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Mohanad Lasheen,90,DM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Omar Gaber,90,LB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,El Wensh,90,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Yasser Ibrahim,90,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Omar Kamal,90,RB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
-Egypt,2022-06-14,Mohamed El-Shenawy,90,GK,0,0,,0,0,,,,0,0,0,4,,,0,NA,0
-Korea Republic,2022-09-23,Hwang Ui-jo,76,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Jeong Woo-yeong,14,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Son Heung-min,90,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Hwang Hee-chan,90,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Hwang In-beom,90,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Kwon Chang-hoon,72,CM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Na Sang-ho,18,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Jung Woo-young,65,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Son Jun-ho,25,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Kim Jin-su,65,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Hong Chul,25,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Kim Young-gwon,76,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Kwon Kyung-won,14,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Yoon Jong-gyu,90,RB,0,1,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2022-09-23,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
-Korea Republic,2022-09-27,Son Heung-min,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Jeong Woo-yeong,71,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Hwang Ui-jo,10,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Paik Seung-ho,9,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Hwang Hee-chan,60,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Na Sang-ho,30,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Hwang In-beom,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Son Jun-ho,71,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Jung Woo-young,19,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Lee Jae-sung,45,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Kwon Chang-hoon,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Kim Jin-su,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Kwon Kyung-won,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Kim Min-jae,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Kim Moonhwan,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-09-27,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2022-11-11,Cho Gue-sung,71,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Oh Hyeon-gyu,19,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Song Minkyu,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Kim Young-gwon,90,LW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Kwon Chang-hoon,45,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Na Sang-ho,45,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Paik Seung-ho,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Son Jun-ho,45,MF,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Jung Woo-young,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Kwon Kyung-won,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Yoon Jong-gyu,59,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Kim Tae-hwan,31,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Hong Chul,71,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Kim Moonhwan,19,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Park Ji-soo,43,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Cho Yumin,47,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-11,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Uruguay,2022-11-24,Luis Suárez,63,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Edinson Cavani,27,FW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Darwin Núñez,90,LW,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Facundo Pellistri,87,RW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Guillermo Varela,3,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Matías Vecino,77,LM,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Nicolás De La Cruz,13,LM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Rodrigo Bentancur,90,CM,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Federico Valverde,90,RM,0,0,0,0,0,3,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Mathías Olivera,78,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Matías Viña,12,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,José María Giménez,90,CB,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Diego Godín,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Martín Cáceres,90,RB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Uruguay,2022-11-24,Sergio Rochet,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
-Korea Republic,2022-11-24,Hwang Ui-jo,73,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Cho Gue-sung,17,FW,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Son Heung-min,90,LW,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Na Sang-ho,74,RW,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Lee Kang-in,16,RW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Lee Jae-sung,73,AM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Son Jun-ho,17,DM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Jung Woo-young,90,DM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Hwang In-beom,90,"DM,AM",0,0,0,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Kim Jin-su,90,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Kim Young-gwon,90,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Kim Min-jae,90,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Kim Moonhwan,90,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2022-11-24,Kim Seung-gyu,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
-Korea Republic,2022-11-28,Cho Gue-sung,90,FW,2,0,0,0,0,6,4,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Son Heung-min,90,LW,0,0,0,0,0,2,0,2,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Kwon Chang-hoon,56,"RW,AM",0,0,0,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Lee Kang-in,34,"DM,AM",0,1,0,0,0,3,1,1,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Jeong Woo-yeong,45,AM,0,0,0,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Na Sang-ho,45,RW,0,0,0,0,0,1,1,2,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Hwang In-beom,90,DM,0,0,0,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Jung Woo-young,78,DM,0,0,0,0,0,1,0,2,1,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Hwang Ui-jo,12,AM,0,0,0,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Kim Jin-su,90,LB,0,1,0,0,0,4,0,3,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Kim Young-gwon,90,CB,0,0,0,0,0,1,0,0,1,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Kim Min-jae,89,CB,0,0,0,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Kwon Kyung-won,1,CB,0,0,0,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Kim Moonhwan,90,RB,0,0,0,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2022-11-28,Kim Seung-gyu,90,GK,0,0,0,0,0,0,0,0,0,0,0,3,0,0.0,0,NA,0
-Korea Republic,2022-12-02,Cho Gue-sung,89,FW,0,0,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Cho Yumin,1,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Son Heung-min,90,LW,0,1,0,0,0,5,2,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Lee Jae-sung,65,RW,0,0,0,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Hwang Hee-chan,25,RW,1,0,0,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Lee Kang-in,80,LM,0,0,0,0,0,1,0,2,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Hwang Ui-jo,10,LM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Jung Woo-young,90,CM,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Hwang In-beom,90,RM,0,0,0,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Kim Jin-su,90,LB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Kim Young-gwon,80,CB,1,0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Son Jun-ho,10,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Kwon Kyung-won,90,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Kim Moonhwan,90,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2022-12-02,Kim Seung-gyu,90,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
-Portugal,2022-12-02,Cristiano Ronaldo,64,FW,0,0,0,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,André Silva,26,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,João Mário,81,"LW,RM",0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Bernardo Silva,9,LM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Ricardo Horta,90,RW,1,0,0,0,0,3,2,1,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Vitinha,81,LM,0,0,0,0,0,2,2,1,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,William Carvalho,9,RM,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Rúben Neves,64,CM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Rafael Leão,26,LW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Matheus Nunes,64,RM,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,João Palhinha,26,CM,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,João Cancelo,90,LB,0,0,0,0,0,2,1,1,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,António Silva,90,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Pepe,90,CB,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Diogo Dalot,90,RB,0,1,0,0,0,1,1,3,0,0,0,2,NA,NA,NA,NA,NA
-Portugal,2022-12-02,Diogo Costa,90,GK,0,0,0,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0
-Korea Republic,2023-03-24,Cho Gue-sung,59,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Oh Hyeon-gyu,31,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Son Heung-min,90,FW,2,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Jeong Woo-yeong,59,LW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Lee Kang-in,31,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Lee Jae-sung,68,RW,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Na Sang-ho,22,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Hwang In-beom,90,CM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Jung Woo-young,68,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Son Jun-ho,22,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Kim Jin-su,23,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Lee Ki-je,67,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Kim Tae-hwan,90,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-24,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
-Colombia,2023-03-24,Rafael Borré,69,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Jáder Durán,21,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Jorge Carrascal,82,AM,1,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Dylan Borrero,8,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,James Rodríguez,69,AM,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Jhon Arias,21,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Diego Valoyes,82,AM,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Radamel Falcao,8,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Mateus Uribe,90,DM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Kevin Castaño,89,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Nelson Palacio,1,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Johan Mojica,90,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Jhon Lucumí,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Carlos Cuesta,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Daniel Muñoz,90,RB,0,1,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Colombia,2023-03-24,Camilo Vargas,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
-Korea Republic,2023-03-28,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Hwang Ui-jo,69,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Oh Hyeon-gyu,21,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Lee Jae-sung,89,LM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Cho Gue-sung,1,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Jung Woo-young,34,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Son Jun-ho,56,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Hwang In-beom,90,CM,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Lee Kang-in,90,RM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Lee Ki-je,90,LB,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Kim Tae-hwan,90,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2023-03-28,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
-Uruguay,2023-03-28,Maxi Gómez,60,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Matias Arezo,30,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Jonathan Rodríguez,88,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Matías Viña,2,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Federico Valverde,90,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Facundo Torres,60,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Agustín Canobbio,30,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Matías Vecino,90,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Manuel Ugarte,45,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Felipe Carballo,45,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Joaquín Piquerez,90,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Sebastián Coates,90,CB,1,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Santiago Bueno,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,José Luis Rodríguez Bebanz,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Uruguay,2023-03-28,Santiago Mele,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2023-06-16,Hwang Hee-chan,84,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Hwang Ui-jo,6,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Oh Hyeon-gyu,62,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Cho Gue-sung,28,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Lee Jae-sung,62,LM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Hong Hyunseok,28,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Won Du-jae,72,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Park Yong-woo,18,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Hwang In-beom,90,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Lee Kang-in,90,RM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Lee Ki-je,84,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Park Kyuhyun,6,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Park Ji-soo,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Jung Seung-hyun,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Ahn Hyeon-beom,84,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Na Sang-ho,6,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-16,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2023-06-20,Cho Gue-sung,68,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Oh Hyeon-gyu,22,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Lee Jae-sung,45,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Hwang Ui-jo,45,"FW,MF",1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Lee Kang-in,90,LM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Hwang In-beom,90,CM,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Park Yong-woo,57,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Hong Hyunseok,33,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Hwang Hee-chan,68,RM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Son Heung-min,22,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Kim Jin-su,57,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Park Kyuhyun,33,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Park Ji-soo,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Jung Seung-hyun,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Seol Young-woo,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2023-06-20,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2023-09-07,Cho Gue-sung,73,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Hwang Ui-jo,17,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Lee Jae-sung,83,LM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Yang Hyunjun,7,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Hwang In-beom,60,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Lee Soonmin,30,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Park Yong-woo,83,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Lee Donggyeong,7,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Hong Hyunseok,60,RM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Hwang Hee-chan,30,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Lee Ki-je,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Jung Seung-hyun,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Seol Young-woo,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-07,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2023-09-12,Cho Gue-sung,68,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Hwang Ui-jo,22,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Hwang Hee-chan,68,AM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Moon Seon-min,22,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Son Heung-min,89,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Oh Hyeon-gyu,1,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Lee Jae-sung,76,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Kang Sang-woo,14,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Hwang In-beom,89,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Lee Soonmin,1,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Park Yong-woo,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Lee Ki-je,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Jung Seung-hyun,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Seol Young-woo,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-09-12,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2023-10-13,Cho Gue-sung,66,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Hwang Ui-jo,24,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Lee Kang-in,89,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Moon Seon-min,1,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Hwang Hee-chan,66,LW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Jeong Woo-yeong,24,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Lee Jae-sung,90,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Hwang In-beom,45,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Hong Hyunseok,35,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Lee Soonmin,10,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Park Yong-woo,90,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Lee Ki-je,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Kim Min-jae,90,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Jung Seung-hyun,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Seol Young-woo,80,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Kim Tae-hwan,10,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-13,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2023-10-17,Cho Gue-sung,64,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Hwang Ui-jo,26,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Son Heung-min,90,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Hwang Hee-chan,90,LW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Lee Kang-in,90,RW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Lee Jae-sung,64,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Jeong Woo-yeong,26,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Park Yong-woo,90,CM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Lee Ki-je,45,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Kim Jin-su,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Kim Min-jae,75,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Kim Jusung,15,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Jung Seung-hyun,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Kim Young-gwon,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Seol Young-woo,45,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Kim Tae-hwan,45,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-10-17,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2023-11-16,Cho Gue-sung,63,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Hwang Ui-jo,27,"FW,MF",1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Son Heung-min,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Hwang Hee-chan,69,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Oh Hyeon-gyu,21,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Lee Kang-in,90,CM,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Lee Jae-sung,63,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Jeong Woo-yeong,27,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Hwang In-beom,69,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Lee Soonmin,21,MF,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Kim Min-jae,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Jung Seung-hyun,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Seol Young-woo,90,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Lee Ki-je,63,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Kim Jin-su,27,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-16,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2023-11-21,Cho Gue-sung,71,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Hwang Ui-jo,19,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Hwang Hee-chan,71,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Lee Jae-sung,19,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Son Heung-min,90,AM,2,1,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Lee Kang-in,82,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Jeong Woo-yeong,8,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Hwang In-beom,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Park Yong-woo,89,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Park Jinseob,1,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Lee Ki-je,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Jung Seung-hyun,90,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Kim Tae-hwan,71,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Seol Young-woo,19,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2023-11-21,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2024-01-15,Cho Gue-sung,71,FW,0,0,,0,0,2,0,0,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Hong Hyunseok,19,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Son Heung-min,90,FW,0,0,,0,0,3,2,1,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Lee Jae-sung,81,LW,0,0,,0,0,2,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Jeong Woo-yeong,9,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Lee Kang-in,90,RW,2,0,,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Hwang In-beom,90,CM,1,1,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Park Yong-woo,81,CM,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Park Jinseob,9,"DF,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Lee Ki-je,51,LB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Kim Tae-hwan,39,"DF,MF",0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Kim Min-jae,71,CB,0,1,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Kim Young-gwon,19,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Jung Seung-hyun,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Seol Young-woo,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-15,Kim Seung-gyu,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
-Korea Republic,2024-01-20,Son Heung-min,90,FW,1,0,,1,1,6,1,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Cho Gue-sung,68,FW,0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Oh Hyeon-gyu,22,FW,0,0,,0,0,2,0,0,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Lee Jae-sung,68,LW,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Jeong Woo-yeong,22,"FW,MF",0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Lee Kang-in,90,RW,0,0,,0,0,4,2,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Hwang In-beom,89,CM,0,0,,0,0,2,0,4,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Park Jinseob,1,"DF,MF",0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Park Yong-woo,45,CM,0,0,,0,0,0,0,0,0,0,1,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Hong Hyunseok,45,MF,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Lee Ki-je,45,LB,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Kim Tae-hwan,45,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Kim Min-jae,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Jung Seung-hyun,90,CB,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Seol Young-woo,90,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-01-20,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,0,NA,0
-Korea Republic,2024-01-25,Cho Gue-sung,61,FW,0,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Hwang Hee-chan,29,"FW,MF",0,0,,0,0,3,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Jeong Woo-yeong,74,AM,1,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Oh Hyeon-gyu,16,FW,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Son Heung-min,90,AM,1,0,,1,1,4,3,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Lee Kang-in,90,AM,0,1,,0,0,2,2,1,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Hwang In-beom,61,DM,0,0,,0,0,2,0,1,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Hong Hyunseok,29,MF,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Lee Jae-sung,89,DM,0,0,,0,0,0,0,6,1,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Park Yong-woo,1,MF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Seol Young-woo,74,LB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Kim Jin-su,16,DF,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Kim Young-gwon,90,CB,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Kim Min-jae,90,CB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Kim Tae-hwan,90,RB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
-Korea Republic,2024-01-25,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,3,1,33.3,0,NA,0
-Korea Republic,2024-01-30,Son Heung-min,120,FW,0,0,,0,0,7,2,0,0,0,0,1,NA,NA,NA,1,NA
-Korea Republic,2024-01-30,Jeong Woo-yeong,53,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Hwang Hee-chan,67,"FW,MF",0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,1,NA
-Korea Republic,2024-01-30,Lee Kang-in,120,FW,0,0,,0,0,2,1,2,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Seol Young-woo,120,LM,0,1,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Hwang In-beom,103,CM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Hong Hyunseok,17,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Lee Jae-sung,63,CM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Cho Gue-sung,57,FW,1,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,1,NA
-Korea Republic,2024-01-30,Kim Tae-hwan,120,RM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Kim Young-gwon,120,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,1,NA
-Korea Republic,2024-01-30,Kim Min-jae,116,CB,0,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Park Jinseob,4,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Jung Seung-hyun,63,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Park Yong-woo,57,MF,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-01-30,Jo Hyeon-woo,120,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
-Korea Republic,2024-02-02,Cho Gue-sung,68,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Lee Jae-sung,52,"FW,MF",0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Hwang Hee-chan,105,AM,1,0,,1,1,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Oh Hyeon-gyu,15,FW,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Son Heung-min,120,AM,1,0,,0,0,3,2,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Lee Kang-in,119,AM,0,0,,0,0,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Jung Seung-hyun,1,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Hwang In-beom,76,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Hong Hyunseok,44,MF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Park Yong-woo,105,DM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Park Jinseob,15,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Seol Young-woo,120,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Kim Young-gwon,120,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Kim Min-jae,120,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Kim Tae-hwan,84,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Yang Hyunjun,36,FW,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-02-02,Jo Hyeon-woo,120,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
-Korea Republic,2024-02-06,Son Heung-min,90,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Hwang Hee-chan,80,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Jeong Woo-yeong,10,"FW,MF",0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Lee Kang-in,90,FW,0,0,,0,0,2,0,4,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Hwang In-beom,90,CM,0,0,,0,0,1,0,4,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Lee Jae-sung,80,CM,0,0,,0,0,1,0,4,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Yang Hyunjun,10,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Park Yong-woo,55,DM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Cho Gue-sung,35,FW,0,0,,0,0,2,0,0,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Seol Young-woo,90,LB,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Kim Young-gwon,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Jung Seung-hyun,90,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Kim Tae-hwan,90,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-02-06,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,2,5,71.4,0,NA,0
-Korea Republic,2024-03-21,Son Heung-min,90,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Joo Minkyu,61,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Hong Hyunseok,29,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Jeong Woo-yeong,61,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Lee Kang-in,29,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Lee Jae-sung,72,CM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Cho Gue-sung,18,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Paik Seung-ho,90,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Hwang In-beom,90,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Kim Jin-su,72,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Lee Myung-jae,18,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Kim Young-gwon,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Seol Young-woo,90,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-03-21,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
-Korea Republic,2024-03-26,Cho Gue-sung,55,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Joo Minkyu,35,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Son Heung-min,90,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Lee Kang-in,73,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Song Minkyu,17,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Lee Jae-sung,90,CM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Hwang In-beom,73,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Jung Hoyeon,17,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Paik Seung-ho,45,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Park Jinseob,45,"DF,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Kim Jin-su,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Kim Young-gwon,73,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Seol Young-woo,17,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Kim Min-jae,90,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Kim Moonhwan,90,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-03-26,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2024-06-06,Joo Minkyu,56,FW,1,3,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Hwang Hee-chan,34,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Son Heung-min,86,LW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Oh Sehun,4,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Lee Jae-sung,69,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Bae Junho,21,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Hwang In-beom,90,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Lee Kang-in,57,RW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Um Wonsang,33,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Jung Woo-young,90,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Kim Jin-su,90,LB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Cho Yumin,90,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Hwang Jaewon,69,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Park Seungwook,21,DF,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-06,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2024-06-11,Hwang Hee-chan,89,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Bae Junho,1,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Son Heung-min,90,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Lee Kang-in,78,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Hong Hyunseok,12,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Lee Jae-sung,60,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Joo Minkyu,30,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Hwang In-beom,89,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Park Yong-woo,1,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Jung Woo-young,90,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Kim Jin-su,90,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Kwon Kyung-won,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Cho Yumin,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Park Seungwook,60,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Hwang Jaewon,30,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-06-11,Jo Hyeon-woo,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
-Korea Republic,2024-09-05,Joo Minkyu,45,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Oh Sehun,45,FW,0,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Son Heung-min,90,AM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Lee Jae-sung,57,AM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Hwang Hee-chan,33,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Lee Kang-in,90,AM,0,0,,0,0,5,3,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Hwang In-beom,85,DM,0,0,,0,0,2,0,1,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Lee Donggyeong,5,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Jung Woo-young,90,DM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Seol Young-woo,66,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Lee Myung-jae,24,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Kim Young-gwon,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Kim Min-jae,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Hwang Mun-ki,66,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Hwang Jaewon,24,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-09-05,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
-Korea Republic,2024-09-10,Oh Sehun,67,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Lee Jae-sung,23,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Hwang Hee-chan,88,AM,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Joo Minkyu,2,FW,1,0,,0,0,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Son Heung-min,90,AM,1,2,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Lee Kang-in,88,AM,0,1,,0,0,2,0,1,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Eom Jisung,2,"FW,MF",0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Park Yong-woo,84,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Jung Woo-young,6,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Hwang In-beom,90,DM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Lee Myung-jae,90,LB,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Kim Min-jae,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Jung Seung-hyun,90,CB,0,0,,0,0,1,1,3,0,0,1,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Seol Young-woo,67,RB,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Hwang Mun-ki,23,"DF,FW",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-09-10,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
-Korea Republic,2024-10-10,Joo Minkyu,50,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Oh Hyeon-gyu,40,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Hwang Hee-chan,22,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Eom Jisung,28,"FW,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Bae Junho,40,"FW,MF",0,1,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Lee Jae-sung,90,AM,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Lee Kang-in,89,AM,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Paik Seung-ho,1,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Park Yong-woo,90,DM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Hwang In-beom,89,DM,0,0,,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Hong Hyunseok,1,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Lee Myung-jae,90,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Kim Min-jae,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Cho Yumin,90,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Seol Young-woo,90,RB,0,1,,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2024-10-10,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
-Korea Republic,2024-10-15,Oh Sehun,58,FW,1,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Oh Hyeon-gyu,32,FW,1,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Bae Junho,58,AM,0,1,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Moon Seon-min,32,"FW,MF",0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Lee Jae-sung,86,AM,1,0,,0,0,1,1,1,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Lee Seung-woo,4,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Lee Kang-in,84,AM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Hong Hyunseok,6,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Park Yong-woo,84,DM,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Paik Seung-ho,6,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Hwang In-beom,90,DM,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Lee Myung-jae,90,LB,0,1,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Kim Min-jae,90,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Cho Yumin,90,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Seol Young-woo,90,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
-Korea Republic,2024-10-15,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,0,NA,0
-Korea Republic,2024-11-14,Oh Sehun,74,FW,1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Oh Hyeon-gyu,16,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Son Heung-min,63,AM,1,0,,1,1,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Bae Junho,27,"FW,MF",1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Lee Jae-sung,80,AM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Lee Hyunju,10,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Lee Kang-in,90,AM,0,0,,0,0,4,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Park Yong-woo,90,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Hwang In-beom,80,DM,0,2,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Paik Seung-ho,10,MF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Lee Myung-jae,63,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Lee Taeseok,27,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Kim Min-jae,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Cho Yumin,90,CB,0,0,,0,0,1,0,2,1,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Seol Young-woo,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-14,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
-Korea Republic,2024-11-19,Oh Sehun,63,FW,0,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Joo Minkyu,27,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Son Heung-min,90,AM,1,0,,0,0,6,4,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Lee Jae-sung,71,AM,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Bae Junho,19,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Lee Kang-in,71,AM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Oh Hyeon-gyu,19,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Park Yong-woo,90,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Hwang In-beom,90,DM,0,0,,0,0,4,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Lee Myung-jae,90,LB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Kim Min-jae,90,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Cho Yumin,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Seol Young-woo,89,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Kim Moonhwan,1,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2024-11-19,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
-Korea Republic,2025-03-20,Joo Minkyu,45,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Oh Sehun,45,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Son Heung-min,90,AM,0,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Lee Jae-sung,90,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Hwang Hee-chan,62,AM,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Bae Junho,28,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Park Yong-woo,90,DM,0,0,,0,0,2,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Paik Seung-ho,37,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Lee Kang-in,47,"FW,MF",0,1,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Yang Hyunjun,6,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Lee Taeseok,84,LB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Oh Hyeon-gyu,6,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Kwon Kyung-won,90,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Cho Yumin,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Seol Young-woo,90,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-20,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
-Korea Republic,2025-03-25,Son Heung-min,89,FW,0,1,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Oh Hyeon-gyu,1,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Hwang Hee-chan,67,AM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Hwang Jaewon,23,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Lee Jae-sung,90,AM,1,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Lee Donggyeong,45,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Yang Minhyeok,45,MF,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Park Yong-woo,90,DM,0,0,,0,0,2,0,5,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Hwang In-beom,79,DM,0,0,,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Oh Sehun,11,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Lee Taeseok,90,LB,0,0,,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Kwon Kyung-won,90,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Cho Yumin,90,CB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Seol Young-woo,90,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
-Korea Republic,2025-03-25,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
-Korea Republic,2025-06-05,Oh Sehun,59,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Oh Hyeon-gyu,31,FW,1,0,,0,0,2,2,0,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Hwang Hee-chan,60,AM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Moon Seon-min,30,"FW,MF",0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Lee Jae-sung,73,AM,0,0,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Jeon Jinwoo,17,FW,0,1,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Lee Kang-in,90,AM,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Park Yong-woo,45,DM,0,0,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Kim Jin-kyu,45,MF,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Hwang In-beom,90,DM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Lee Taeseok,90,LB,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Kwon Kyung-won,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Cho Yumin,90,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Seol Young-woo,86,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Choi Jun,4,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-05,Jo Hyeon-woo,90,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
-Korea Republic,2025-06-10,Oh Hyeon-gyu,74,FW,1,0,,0,0,7,2,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Son Heung-min,16,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Bae Junho,68,AM,0,2,,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Park Seungwook,22,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Lee Kang-in,90,AM,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Jeon Jinwoo,68,AM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Lee Jae-sung,22,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Hwang In-beom,90,DM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Won Du-jae,90,DM,0,0,,0,0,2,2,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Lee Taeseok,82,LB,0,0,,0,0,1,0,6,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Hwang Hee-chan,8,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Kim Jusung,90,CB,0,1,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Lee Hanbeom,90,CB,0,0,,0,0,3,0,1,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Seol Young-woo,74,RB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Yang Hyunjun,16,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-06-10,Lee Chang-keun,90,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
-Korea Republic,2025-10-14,Son Heung-min,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Oh Hyeon-gyu,45,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Eom Jisung,65,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Lee Jae-sung,25,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Lee Donggyeong,45,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Lee Kang-in,45,"FW,MF",0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Lee Myung-jae,85,LM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Lee Taeseok,5,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Hwang In-beom,65,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Won Du-jae,25,MF,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Kim Jin-kyu,90,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Kim Moonhwan,90,RM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Kim Min-jae,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Park Jinseob,90,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Lee Hanbeom,45,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Cho Yumin,45,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
-Korea Republic,2025-10-14,Kim Seung-gyu,90,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Country,Date,Player,Mins,Opp Team,Pos,Gls,Ast,PKwon,PK,PKatt,Shots,SoT,TklW,CrdY,CrdR,OG,GA,Saves,Save%,PK Non SO Conceded,PK SO scorer,GK PK SO saves
+Korea Republic,2019-09-10,Hwang Ui-jo,80,Turkmenistan,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Kim Shin-wook,10,Turkmenistan,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Son Heung-min,90,Turkmenistan,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Na Sang-ho,65,Turkmenistan,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Kwon Chang-hoon,25,Turkmenistan,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Lee Jae-sung,90,Turkmenistan,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Hwang In-beom,90,Turkmenistan,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Jung Woo-young,90,Turkmenistan,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Kim Jin-su,84,Turkmenistan,LB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Hong Chul,6,Turkmenistan,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Kim Young-gwon,90,Turkmenistan,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Kim Min-jae,90,Turkmenistan,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Lee Yong,90,Turkmenistan,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-09-10,Kim Seung-gyu,90,Turkmenistan,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2019-10-10,Kim Shin-wook,90,Sri Lanka,FW,4,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Son Heung-min,61,Sri Lanka,FW,2,1,,1,1,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Kwon Chang-hoon,29,Sri Lanka,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Hwang Hee-chan,90,Sri Lanka,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Lee Kang-in,90,Sri Lanka,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Nam Tae-hee,75,Sri Lanka,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Lee Donggyeong,15,Sri Lanka,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Paik Seung-ho,90,Sri Lanka,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Hong Chul,90,Sri Lanka,LB,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Kwon Kyung-won,90,Sri Lanka,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Kim Min-jae,68,Sri Lanka,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Park Ji-soo,22,Sri Lanka,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Kim Moonhwan,90,Sri Lanka,RB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-10-10,Jo Hyeon-woo,90,Sri Lanka,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2019-11-14,Son Heung-min,90,Lebanon,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Hwang Ui-jo,90,Lebanon,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Nam Tae-hee,62,Lebanon,LW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Kim Shin-wook,28,Lebanon,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Lee Jae-sung,79,Lebanon,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Lee Kang-in,11,Lebanon,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Hwang In-beom,45,Lebanon,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Hwang Hee-chan,45,Lebanon,"FW,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Kim Min-jae,90,Lebanon,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Kim Young-gwon,90,Lebanon,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Kim Jin-su,90,Lebanon,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Jung Woo-young,90,Lebanon,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Lee Yong,90,Lebanon,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2019-11-14,Kim Seung-gyu,90,Lebanon,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Brazil,2019-11-19,Richarlison,90,Korea Republic,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Philippe Coutinho,90,Korea Republic,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Gabriel Jesus,87,Korea Republic,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Rodrygo,3,Korea Republic,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Lucas Paquetá,83,Korea Republic,CM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Roberto Firmino,7,Korea Republic,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Arthur Melo,79,Korea Republic,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Douglas Luiz,11,Korea Republic,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Fabinho,90,Korea Republic,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Renan Lodi,86,Korea Republic,LB,0,2,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Emerson,4,Korea Republic,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Éder Militão,90,Korea Republic,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Marquinhos,90,Korea Republic,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Danilo,90,Korea Republic,RB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Brazil,2019-11-19,Alisson,90,Korea Republic,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2019-11-19,Hwang Ui-jo,90,Brazil,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Son Heung-min,90,Brazil,AM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Lee Jae-sung,74,Brazil,AM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Kwon Chang-hoon,16,Brazil,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Hwang Hee-chan,64,Brazil,AM,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Na Sang-ho,26,Brazil,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Jung Woo-young,90,Brazil,DM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Ju Se-jong,87,Brazil,DM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Hwang In-beom,3,Brazil,MF,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Kim Jin-su,90,Brazil,LB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Kim Young-gwon,90,Brazil,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Kim Min-jae,90,Brazil,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Kim Moonhwan,90,Brazil,RB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2019-11-19,Jo Hyeon-woo,90,Brazil,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
+Mexico,2020-11-14,Raúl Jiménez,90,Korea Republic,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Hirving Lozano,82,Korea Republic,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Rodolfo Pizarro,8,Korea Republic,"DF,FW",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Jesús Corona,53,Korea Republic,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Uriel Antuna,37,Korea Republic,"FW,MF",1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Francisco Sebastián Córdova,53,Korea Republic,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Orbelín Pineda,37,Korea Republic,"FW,MF",0,2,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Charly Rodríguez,90,Korea Republic,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Edson Álvarez,90,Korea Republic,DM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Jesús Gallardo,90,Korea Republic,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Héctor Moreno,90,Korea Republic,CB,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Carlos Salcedo,82,Korea Republic,CB,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Néstor Araujo,8,Korea Republic,DF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Luis Alfonso Rodríguez,67,Korea Republic,RB,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Jorge Eduardo Sánchez,23,Korea Republic,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Mexico,2020-11-14,Hugo González Durán,90,Korea Republic,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
+Korea Republic,2020-11-14,Hwang Ui-jo,67,Mexico,FW,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Hwang Hee-chan,23,Mexico,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Son Heung-min,90,Mexico,FW,0,1,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Lee Jae-sung,62,Mexico,FW,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Nam Tae-hee,28,Mexico,MF,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Lee Ju-yong,90,Mexico,LM,0,0,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Ju Se-jong,90,Mexico,CM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Son Jun-ho,73,Mexico,CM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Lee Kang-in,17,Mexico,"FW,MF",0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Kim Tae-hwan,90,Mexico,RM,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Kwon Kyung-won,90,Mexico,CB,1,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Jung Woo-young,90,Mexico,CB,0,1,,0,0,,,,1,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Won Du-jae,90,Mexico,CB,0,0,,0,0,,,,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2020-11-14,Gu Sung-yun,90,Mexico,GK,0,0,,0,0,,,,0,0,0,3,,,0,NA,0
+Korea Republic,2020-11-17,Hwang Ui-jo,87,Qatar,FW,1,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Ju Se-jong,3,Qatar,MF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Son Heung-min,90,Qatar,FW,0,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Lee Jae-sung,63,Qatar,FW,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Son Jun-ho,27,Qatar,MF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Yoon Jong-gyu,90,Qatar,LM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Hwang Hee-chan,75,Qatar,CM,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Um Wonsang,15,Qatar,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Nam Tae-hee,75,Qatar,CM,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Lee Kang-in,15,Qatar,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Kim Tae-hwan,63,Qatar,RM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Lee Ju-yong,27,Qatar,"DF,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Kwon Kyung-won,90,Qatar,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Jung Woo-young,90,Qatar,CB,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Won Du-jae,90,Qatar,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2020-11-17,Gu Sung-yun,45,Qatar,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Korea Republic,2020-11-17,Lee Chang-keun,45,Qatar,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Korea Republic,2021-06-05,Son Heung-min,90,Turkmenistan,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Kwon Chang-hoon,90,Turkmenistan,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Lee Jae-sung,70,Turkmenistan,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Hwang Hee-chan,20,Turkmenistan,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Hong Chul,70,Turkmenistan,LM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Lee Ki-je,20,Turkmenistan,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Kim Young-gwon,90,Turkmenistan,CM,1,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Hwang Ui-jo,90,Turkmenistan,CM,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Nam Tae-hee,90,Turkmenistan,RM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Jung Woo-young,90,Turkmenistan,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Kim Min-jae,83,Turkmenistan,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Park Ji-soo,7,Turkmenistan,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Kim Moonhwan,74,Turkmenistan,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Lee Yong,16,Turkmenistan,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-06-05,Kim Seung-gyu,90,Turkmenistan,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2021-06-09,Kim Shin-wook,71,Sri Lanka,FW,2,0,,1,1,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Jeong Sangbin,19,Sri Lanka,"FW,MF",1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Song Minkyu,90,Sri Lanka,FW,0,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Hwang Hee-chan,90,Sri Lanka,FW,1,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Lee Donggyeong,90,Sri Lanka,CM,1,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Nam Tae-hee,45,Sri Lanka,CM,0,1,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Kwon Chang-hoon,45,Sri Lanka,"FW,MF",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Son Jun-ho,80,Sri Lanka,DM,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Kim Young-bin,10,Sri Lanka,DF,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Lee Ki-je,71,Sri Lanka,LB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Kang Sang-woo,19,Sri Lanka,"DF,FW",0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Park Ji-soo,45,Sri Lanka,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Kim Min-jae,45,Sri Lanka,DF,0,0,,0,0,,,,1,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Won Du-jae,90,Sri Lanka,CB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Kim Tae-hwan,90,Sri Lanka,RB,0,0,,0,0,,,,0,0,0,,NA,NA,NA,NA,NA
+Korea Republic,2021-06-09,Jo Hyeon-woo,90,Sri Lanka,GK,0,0,,0,0,,,,0,0,0,,,,0,NA,0
+Korea Republic,2021-06-13,Hwang Ui-jo,90,Lebanon,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Song Minkyu,82,Lebanon,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Hwang Hee-chan,8,Lebanon,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Son Heung-min,90,Lebanon,AM,1,0,,1,1,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Kwon Chang-hoon,82,Lebanon,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Son Jun-ho,8,Lebanon,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Lee Jae-sung,45,Lebanon,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Nam Tae-hee,45,Lebanon,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Jung Woo-young,90,Lebanon,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Hong Chul,90,Lebanon,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Kim Young-gwon,90,Lebanon,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Park Ji-soo,66,Lebanon,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Won Du-jae,24,Lebanon,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Kim Moonhwan,62,Lebanon,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Lee Yong,28,Lebanon,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-06-13,Kim Seung-gyu,90,Lebanon,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2021-09-02,Hwang Ui-jo,90,Iraq,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Son Heung-min,90,Iraq,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Song Minkyu,57,Iraq,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Hwang Hee-chan,33,Iraq,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Lee Jae-sung,68,Iraq,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Kwon Chang-hoon,22,Iraq,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Hwang In-beom,90,Iraq,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Son Jun-ho,45,Iraq,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Nam Tae-hee,45,Iraq,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Hong Chul,90,Iraq,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Kim Young-gwon,90,Iraq,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Kim Min-jae,90,Iraq,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Kim Moonhwan,57,Iraq,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Lee Yong,33,Iraq,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-02,Kim Seung-gyu,90,Iraq,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2021-09-07,Cho Gue-sung,45,Lebanon,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Hwang Ui-jo,45,Lebanon,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Hwang Hee-chan,90,Lebanon,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Na Sang-ho,58,Lebanon,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Song Minkyu,32,Lebanon,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Lee Donggyeong,58,Lebanon,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Kwon Chang-hoon,32,Lebanon,"FW,MF",1,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Lee Jae-sung,71,Lebanon,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Son Jun-ho,19,Lebanon,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Hwang In-beom,88,Lebanon,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Ju Se-jong,2,Lebanon,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Hong Chul,90,Lebanon,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Kim Young-gwon,90,Lebanon,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Kim Min-jae,90,Lebanon,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Lee Yong,90,Lebanon,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-09-07,Kim Seung-gyu,90,Lebanon,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2021-10-07,Hwang Ui-jo,68,Syria,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Lee Dongjun,22,Syria,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Hwang Hee-chan,90,Syria,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Son Heung-min,90,Syria,AM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Song Minkyu,55,Syria,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Lee Jae-sung,35,Syria,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Hwang In-beom,85,Syria,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Cho Gue-sung,5,Syria,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Jung Woo-young,90,Syria,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Hong Chul,90,Syria,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Kim Young-gwon,90,Syria,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Kim Min-jae,90,Syria,CB,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Lee Yong,90,Syria,RB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-07,Kim Seung-gyu,90,Syria,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2021-10-12,Hwang Ui-jo,80,IR Iran,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Na Sang-ho,10,IR Iran,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Son Heung-min,90,IR Iran,LW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Lee Jae-sung,81,IR Iran,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Lee Donggyeong,9,IR Iran,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Hwang In-beom,90,IR Iran,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Hwang Hee-chan,90,IR Iran,RW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Jung Woo-young,90,IR Iran,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Hong Chul,69,IR Iran,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Kim Jin-su,21,IR Iran,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Kim Young-gwon,90,IR Iran,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Kim Min-jae,90,IR Iran,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Lee Yong,90,IR Iran,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2021-10-12,Kim Seung-gyu,90,IR Iran,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2021-11-11,Cho Gue-sung,75,United Arab Emirates,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Song Minkyu,15,United Arab Emirates,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Son Heung-min,90,United Arab Emirates,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Hwang Hee-chan,90,United Arab Emirates,FW,1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Lee Jae-sung,90,United Arab Emirates,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Hwang In-beom,90,United Arab Emirates,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Jung Woo-young,90,United Arab Emirates,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Kim Jin-su,90,United Arab Emirates,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Kwon Kyung-won,90,United Arab Emirates,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Kim Min-jae,80,United Arab Emirates,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Park Ji-soo,10,United Arab Emirates,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Lee Yong,90,United Arab Emirates,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-11,Kim Seung-gyu,90,United Arab Emirates,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2021-11-16,Cho Gue-sung,90,Iraq,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Son Heung-min,86,Iraq,AM,1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Um Wonsang,4,Iraq,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Lee Jae-sung,65,Iraq,AM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Jeong Woo-yeong,25,Iraq,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Hwang Hee-chan,81,Iraq,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Song Minkyu,9,Iraq,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Jung Woo-young,90,Iraq,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Hwang In-beom,87,Iraq,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Paik Seung-ho,3,Iraq,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Kim Jin-su,81,Iraq,LB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Hong Chul,9,Iraq,"DF,MF",0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Kwon Kyung-won,90,Iraq,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Kim Min-jae,90,Iraq,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Lee Yong,90,Iraq,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2021-11-16,Kim Seung-gyu,90,Iraq,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2022-01-15,Cho Gue-sung,60,Iceland,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Kim Gun-hee,30,Iceland,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Song Minkyu,75,Iceland,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Eom Jisung,15,Iceland,"FW,MF",1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Lee Donggyeong,90,Iceland,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Kwon Chang-hoon,45,Iceland,AM,1,0,,0,1,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Lee Yeong-jae,45,Iceland,MF,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Kim Jin-kyu,90,Iceland,DM,1,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Paik Seung-ho,90,Iceland,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Kim Jin-su,45,Iceland,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Hong Chul,45,Iceland,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Kim Young-gwon,45,Iceland,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Jung Seung-hyun,45,Iceland,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Park Ji-soo,90,Iceland,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Kim Tae-hwan,60,Iceland,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Kang Sang-woo,30,Iceland,"DF,FW",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-01-15,Jo Hyeon-woo,90,Iceland,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2022-01-21,Cho Gue-sung,60,Moldova,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Cho Youngwook,30,Moldova,"FW,MF",1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Kwon Chang-hoon,60,Moldova,AM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Hong Chul,30,Moldova,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Kim Gun-hee,90,Moldova,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Song Minkyu,90,Moldova,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Kim Jin-kyu,90,Moldova,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Paik Seung-ho,70,Moldova,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Ko Seungbeom,20,Moldova,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Kim Jin-su,60,Moldova,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Lee Dongjun,30,Moldova,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Kim Young-gwon,70,Moldova,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Kwon Kyung-won,20,Moldova,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Park Ji-soo,90,Moldova,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Lee Yong,60,Moldova,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Kim Tae-hwan,30,Moldova,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-21,Kim Seung-gyu,90,Moldova,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2022-01-27,Cho Gue-sung,90,Lebanon,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Hwang Ui-jo,90,Lebanon,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Lee Jae-sung,90,Lebanon,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Hwang In-beom,90,Lebanon,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Kwon Chang-hoon,90,Lebanon,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Jung Woo-young,90,Lebanon,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Kim Jin-su,90,Lebanon,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Kim Young-gwon,90,Lebanon,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Kim Min-jae,90,Lebanon,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Lee Yong,90,Lebanon,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-01-27,Kim Seung-gyu,90,Lebanon,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2022-02-01,Hwang Ui-jo,89,Syria,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Kim Gun-hee,1,Syria,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Cho Gue-sung,68,Syria,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Lee Dongjun,22,Syria,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Jeong Woo-yeong,45,Syria,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Kwon Chang-hoon,45,Syria,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Hwang In-beom,90,Syria,AM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Lee Jae-sung,89,Syria,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Kim Jin-kyu,1,Syria,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Paik Seung-ho,90,Syria,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Kim Jin-su,90,Syria,LB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Kim Young-gwon,90,Syria,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Kim Min-jae,90,Syria,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Kim Tae-hwan,90,Syria,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-02-01,Kim Seung-gyu,90,Syria,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2022-03-24,Hwang Ui-jo,66,IR Iran,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Cho Gue-sung,24,IR Iran,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Son Heung-min,90,IR Iran,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Kwon Chang-hoon,86,IR Iran,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Kwon Kyung-won,4,IR Iran,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Lee Jae-sung,90,IR Iran,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Hwang Hee-chan,90,IR Iran,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Jung Woo-young,90,IR Iran,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Kim Jin-su,90,IR Iran,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Kim Young-gwon,90,IR Iran,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Kim Min-jae,78,IR Iran,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Park Ji-soo,12,IR Iran,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Kim Tae-hwan,90,IR Iran,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-03-24,Kim Seung-gyu,90,IR Iran,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2022-03-29,Hwang Ui-jo,90,United Arab Emirates,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Kwon Chang-hoon,60,United Arab Emirates,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Nam Tae-hee,30,United Arab Emirates,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Son Heung-min,90,United Arab Emirates,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Lee Jae-sung,90,United Arab Emirates,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Hwang Hee-chan,90,United Arab Emirates,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Jung Woo-young,90,United Arab Emirates,DM,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Kim Jin-su,90,United Arab Emirates,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Kim Young-gwon,90,United Arab Emirates,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Kim Min-jae,90,United Arab Emirates,CB,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Kim Tae-hwan,76,United Arab Emirates,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Cho Youngwook,14,United Arab Emirates,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-03-29,Jo Hyeon-woo,90,United Arab Emirates,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2022-06-06,Son Heung-min,89,Chile,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Ko Seungbeom,1,Chile,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Jeong Woo-yeong,67,Chile,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Cho Gue-sung,23,Chile,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Hwang Hee-chan,90,Chile,DM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Hwang In-beom,90,Chile,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Jung Woo-young,90,Chile,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Na Sang-ho,75,Chile,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Um Wonsang,15,Chile,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Hong Chul,90,Chile,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Kwon Kyung-won,90,Chile,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Jung Seung-hyun,90,Chile,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Kim Moonhwan,90,Chile,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-06-06,Kim Seung-gyu,90,Chile,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2022-06-10,Hwang Ui-jo,73,Paraguay,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Cho Gue-sung,17,Paraguay,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Son Heung-min,90,Paraguay,LW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Na Sang-ho,59,Paraguay,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Um Wonsang,31,Paraguay,"FW,MF",0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Paik Seung-ho,59,Paraguay,AM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Kim Jin-kyu,31,Paraguay,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Kwon Chang-hoon,73,Paraguay,RW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Jeong Woo-yeong,17,Paraguay,"FW,MF",1,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Hwang In-beom,90,Paraguay,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Kim Jin-su,66,Paraguay,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Hong Chul,24,Paraguay,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Kim Young-gwon,90,Paraguay,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Jung Seung-hyun,90,Paraguay,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Kim Moonhwan,60,Paraguay,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Lee Yong,30,Paraguay,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-06-10,Jo Hyeon-woo,90,Paraguay,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
+Korea Republic,2022-06-14,Hwang Ui-jo,77,Egypt,FW,1,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Cho Gue-sung,13,Egypt,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Jeong Woo-yeong,68,Egypt,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Um Wonsang,22,Egypt,"FW,MF",0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Kwon Chang-hoon,90,Egypt,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Paik Seung-ho,77,Egypt,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Kim Donghyun,13,Egypt,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Son Heung-min,90,Egypt,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Ko Seungbeom,52,Egypt,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Kim Jin-kyu,38,Egypt,MF,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Kim Jin-su,90,Egypt,LB,0,2,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Kim Young-gwon,90,Egypt,CB,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Kwon Kyung-won,90,Egypt,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Kim Tae-hwan,90,Egypt,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-06-14,Kim Seung-gyu,90,Egypt,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Egypt,2022-06-14,Mostafa Mohamed,79,Korea Republic,FW,1,0,,0,0,,,,1,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Ahmed Atef,11,Korea Republic,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Ahmed Refaat,68,Korea Republic,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Ahmed Sayed,22,Korea Republic,MF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Ibrahim Adel,90,Korea Republic,FW,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Ahmed Hamdi,85,Korea Republic,CM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Mohamed Ibrahim,5,Korea Republic,MF,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Amro El Soulia,90,Korea Republic,CM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Mohanad Lasheen,90,Korea Republic,DM,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Omar Gaber,90,Korea Republic,LB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,El Wensh,90,Korea Republic,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Yasser Ibrahim,90,Korea Republic,CB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Omar Kamal,90,Korea Republic,RB,0,0,,0,0,,,,0,0,0,4,NA,NA,NA,NA,NA
+Egypt,2022-06-14,Mohamed El-Shenawy,90,Korea Republic,GK,0,0,,0,0,,,,0,0,0,4,,,0,NA,0
+Korea Republic,2022-09-23,Hwang Ui-jo,76,Costa Rica,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Jeong Woo-yeong,14,Costa Rica,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Son Heung-min,90,Costa Rica,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Hwang Hee-chan,90,Costa Rica,FW,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Hwang In-beom,90,Costa Rica,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Kwon Chang-hoon,72,Costa Rica,CM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Na Sang-ho,18,Costa Rica,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Jung Woo-young,65,Costa Rica,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Son Jun-ho,25,Costa Rica,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Kim Jin-su,65,Costa Rica,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Hong Chul,25,Costa Rica,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Kim Young-gwon,76,Costa Rica,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Kwon Kyung-won,14,Costa Rica,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Kim Min-jae,90,Costa Rica,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Yoon Jong-gyu,90,Costa Rica,RB,0,1,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2022-09-23,Kim Seung-gyu,90,Costa Rica,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
+Korea Republic,2022-09-27,Son Heung-min,90,Cameroon,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Jeong Woo-yeong,71,Cameroon,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Hwang Ui-jo,10,Cameroon,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Paik Seung-ho,9,Cameroon,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Hwang Hee-chan,60,Cameroon,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Na Sang-ho,30,Cameroon,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Hwang In-beom,90,Cameroon,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Son Jun-ho,71,Cameroon,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Jung Woo-young,19,Cameroon,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Lee Jae-sung,45,Cameroon,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Kwon Chang-hoon,45,Cameroon,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Kim Jin-su,90,Cameroon,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Kwon Kyung-won,90,Cameroon,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Kim Min-jae,90,Cameroon,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Kim Moonhwan,90,Cameroon,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-09-27,Kim Seung-gyu,90,Cameroon,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2022-11-11,Cho Gue-sung,71,Iceland,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Oh Hyeon-gyu,19,Iceland,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Song Minkyu,90,Iceland,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Kim Young-gwon,90,Iceland,LW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Kwon Chang-hoon,45,Iceland,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Na Sang-ho,45,Iceland,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Paik Seung-ho,45,Iceland,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Son Jun-ho,45,Iceland,MF,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Jung Woo-young,90,Iceland,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Kwon Kyung-won,90,Iceland,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Yoon Jong-gyu,59,Iceland,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Kim Tae-hwan,31,Iceland,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Hong Chul,71,Iceland,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Kim Moonhwan,19,Iceland,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Park Ji-soo,43,Iceland,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Cho Yumin,47,Iceland,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-11,Kim Seung-gyu,90,Iceland,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Uruguay,2022-11-24,Luis Suárez,63,Korea Republic,FW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Edinson Cavani,27,Korea Republic,FW,0,0,0,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Darwin Núñez,90,Korea Republic,LW,0,0,0,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Facundo Pellistri,87,Korea Republic,RW,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Guillermo Varela,3,Korea Republic,RW,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Matías Vecino,77,Korea Republic,LM,0,0,0,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Nicolás De La Cruz,13,Korea Republic,LM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Rodrigo Bentancur,90,Korea Republic,CM,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Federico Valverde,90,Korea Republic,RM,0,0,0,0,0,3,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Mathías Olivera,78,Korea Republic,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Matías Viña,12,Korea Republic,LB,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,José María Giménez,90,Korea Republic,CB,0,0,0,0,0,1,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Diego Godín,90,Korea Republic,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Martín Cáceres,90,Korea Republic,RB,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Uruguay,2022-11-24,Sergio Rochet,90,Korea Republic,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,NA,0
+Korea Republic,2022-11-24,Hwang Ui-jo,73,Uruguay,FW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Cho Gue-sung,17,Uruguay,FW,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Son Heung-min,90,Uruguay,LW,0,0,0,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Na Sang-ho,74,Uruguay,RW,0,0,0,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Lee Kang-in,16,Uruguay,RW,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Lee Jae-sung,73,Uruguay,AM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Son Jun-ho,17,Uruguay,DM,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Jung Woo-young,90,Uruguay,DM,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Hwang In-beom,90,Uruguay,"DM,AM",0,0,0,0,0,2,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Kim Jin-su,90,Uruguay,LB,0,0,0,0,0,0,0,3,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Kim Young-gwon,90,Uruguay,CB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Kim Min-jae,90,Uruguay,CB,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Kim Moonhwan,90,Uruguay,RB,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2022-11-24,Kim Seung-gyu,90,Uruguay,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0,NA,0
+Korea Republic,2022-11-28,Cho Gue-sung,90,Ghana,FW,2,0,0,0,0,6,4,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Son Heung-min,90,Ghana,LW,0,0,0,0,0,2,0,2,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Kwon Chang-hoon,56,Ghana,"RW,AM",0,0,0,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Lee Kang-in,34,Ghana,"DM,AM",0,1,0,0,0,3,1,1,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Jeong Woo-yeong,45,Ghana,AM,0,0,0,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Na Sang-ho,45,Ghana,RW,0,0,0,0,0,1,1,2,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Hwang In-beom,90,Ghana,DM,0,0,0,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Jung Woo-young,78,Ghana,DM,0,0,0,0,0,1,0,2,1,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Hwang Ui-jo,12,Ghana,AM,0,0,0,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Kim Jin-su,90,Ghana,LB,0,1,0,0,0,4,0,3,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Kim Young-gwon,90,Ghana,CB,0,0,0,0,0,1,0,0,1,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Kim Min-jae,89,Ghana,CB,0,0,0,0,0,1,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Kwon Kyung-won,1,Ghana,CB,0,0,0,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Kim Moonhwan,90,Ghana,RB,0,0,0,0,0,0,0,2,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2022-11-28,Kim Seung-gyu,90,Ghana,GK,0,0,0,0,0,0,0,0,0,0,0,3,0,0.0,0,NA,0
+Korea Republic,2022-12-02,Cho Gue-sung,89,Portugal,FW,0,0,0,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Cho Yumin,1,Portugal,FW,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Son Heung-min,90,Portugal,LW,0,1,0,0,0,5,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Lee Jae-sung,65,Portugal,RW,0,0,0,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Hwang Hee-chan,25,Portugal,RW,1,0,0,0,0,1,1,0,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Lee Kang-in,80,Portugal,LM,0,0,0,0,0,1,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Hwang Ui-jo,10,Portugal,LM,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Jung Woo-young,90,Portugal,CM,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Hwang In-beom,90,Portugal,RM,0,0,0,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Kim Jin-su,90,Portugal,LB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Kim Young-gwon,80,Portugal,CB,1,0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Son Jun-ho,10,Portugal,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Kwon Kyung-won,90,Portugal,CB,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Kim Moonhwan,90,Portugal,RB,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2022-12-02,Kim Seung-gyu,90,Portugal,GK,0,0,0,0,0,0,0,0,0,0,0,1,5,83.3,0,NA,0
+Portugal,2022-12-02,Cristiano Ronaldo,64,Korea Republic,FW,0,0,0,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,André Silva,26,Korea Republic,FW,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,João Mário,81,Korea Republic,"LW,RM",0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Bernardo Silva,9,Korea Republic,LM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Ricardo Horta,90,Korea Republic,RW,1,0,0,0,0,3,2,1,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Vitinha,81,Korea Republic,LM,0,0,0,0,0,2,2,1,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,William Carvalho,9,Korea Republic,RM,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Rúben Neves,64,Korea Republic,CM,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Rafael Leão,26,Korea Republic,LW,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Matheus Nunes,64,Korea Republic,RM,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,João Palhinha,26,Korea Republic,CM,0,0,0,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,João Cancelo,90,Korea Republic,LB,0,0,0,0,0,2,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,António Silva,90,Korea Republic,CB,0,0,0,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Pepe,90,Korea Republic,CB,0,0,0,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Diogo Dalot,90,Korea Republic,RB,0,1,0,0,0,1,1,3,0,0,0,2,NA,NA,NA,NA,NA
+Portugal,2022-12-02,Diogo Costa,90,Korea Republic,GK,0,0,0,0,0,0,0,0,0,0,0,2,4,66.7,0,NA,0
+Korea Republic,2023-03-24,Cho Gue-sung,59,Colombia,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Oh Hyeon-gyu,31,Colombia,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Son Heung-min,90,Colombia,FW,2,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Jeong Woo-yeong,59,Colombia,LW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Lee Kang-in,31,Colombia,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Lee Jae-sung,68,Colombia,RW,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Na Sang-ho,22,Colombia,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Hwang In-beom,90,Colombia,CM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Jung Woo-young,68,Colombia,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Son Jun-ho,22,Colombia,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Kim Jin-su,23,Colombia,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Lee Ki-je,67,Colombia,"DF,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Kim Young-gwon,90,Colombia,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Kim Min-jae,90,Colombia,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Kim Tae-hwan,90,Colombia,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-24,Kim Seung-gyu,90,Colombia,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
+Colombia,2023-03-24,Rafael Borré,69,Korea Republic,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Jáder Durán,21,Korea Republic,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Jorge Carrascal,82,Korea Republic,AM,1,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Dylan Borrero,8,Korea Republic,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,James Rodríguez,69,Korea Republic,AM,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Jhon Arias,21,Korea Republic,"FW,MF",0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Diego Valoyes,82,Korea Republic,AM,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Radamel Falcao,8,Korea Republic,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Mateus Uribe,90,Korea Republic,DM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Kevin Castaño,89,Korea Republic,DM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Nelson Palacio,1,Korea Republic,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Johan Mojica,90,Korea Republic,LB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Jhon Lucumí,90,Korea Republic,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Carlos Cuesta,90,Korea Republic,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Daniel Muñoz,90,Korea Republic,RB,0,1,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Colombia,2023-03-24,Camilo Vargas,90,Korea Republic,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
+Korea Republic,2023-03-28,Son Heung-min,90,Uruguay,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Hwang Ui-jo,69,Uruguay,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Oh Hyeon-gyu,21,Uruguay,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Lee Jae-sung,89,Uruguay,LM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Cho Gue-sung,1,Uruguay,FW,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Jung Woo-young,34,Uruguay,CM,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Son Jun-ho,56,Uruguay,MF,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Hwang In-beom,90,Uruguay,CM,1,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Lee Kang-in,90,Uruguay,RM,0,0,,0,0,,,,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Lee Ki-je,90,Uruguay,LB,0,1,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Kim Young-gwon,90,Uruguay,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Kim Min-jae,90,Uruguay,CB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Kim Tae-hwan,90,Uruguay,RB,0,0,,0,0,,,,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2023-03-28,Jo Hyeon-woo,90,Uruguay,GK,0,0,,0,0,,,,0,0,0,2,,,0,NA,0
+Uruguay,2023-03-28,Maxi Gómez,60,Korea Republic,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Matias Arezo,30,Korea Republic,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Jonathan Rodríguez,88,Korea Republic,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Matías Viña,2,Korea Republic,"DF,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Federico Valverde,90,Korea Republic,AM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Facundo Torres,60,Korea Republic,AM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Agustín Canobbio,30,Korea Republic,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Matías Vecino,90,Korea Republic,DM,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Manuel Ugarte,45,Korea Republic,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Felipe Carballo,45,Korea Republic,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Joaquín Piquerez,90,Korea Republic,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Sebastián Coates,90,Korea Republic,CB,1,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Santiago Bueno,90,Korea Republic,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,José Luis Rodríguez Bebanz,90,Korea Republic,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Uruguay,2023-03-28,Santiago Mele,90,Korea Republic,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2023-06-16,Hwang Hee-chan,84,Peru,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Hwang Ui-jo,6,Peru,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Oh Hyeon-gyu,62,Peru,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Cho Gue-sung,28,Peru,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Lee Jae-sung,62,Peru,LM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Hong Hyunseok,28,Peru,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Won Du-jae,72,Peru,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Park Yong-woo,18,Peru,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Hwang In-beom,90,Peru,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Lee Kang-in,90,Peru,RM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Lee Ki-je,84,Peru,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Park Kyuhyun,6,Peru,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Park Ji-soo,90,Peru,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Jung Seung-hyun,90,Peru,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Ahn Hyeon-beom,84,Peru,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Na Sang-ho,6,Peru,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-16,Kim Seung-gyu,90,Peru,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2023-06-20,Cho Gue-sung,68,El Salvador,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Oh Hyeon-gyu,22,El Salvador,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Lee Jae-sung,45,El Salvador,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Hwang Ui-jo,45,El Salvador,"FW,MF",1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Lee Kang-in,90,El Salvador,LM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Hwang In-beom,90,El Salvador,CM,0,0,,0,0,,,,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Park Yong-woo,57,El Salvador,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Hong Hyunseok,33,El Salvador,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Hwang Hee-chan,68,El Salvador,RM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Son Heung-min,22,El Salvador,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Kim Jin-su,57,El Salvador,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Park Kyuhyun,33,El Salvador,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Park Ji-soo,90,El Salvador,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Jung Seung-hyun,90,El Salvador,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Seol Young-woo,90,El Salvador,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2023-06-20,Kim Seung-gyu,90,El Salvador,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2023-09-07,Cho Gue-sung,73,Wales,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Hwang Ui-jo,17,Wales,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Son Heung-min,90,Wales,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Lee Jae-sung,83,Wales,LM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Yang Hyunjun,7,Wales,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Hwang In-beom,60,Wales,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Lee Soonmin,30,Wales,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Park Yong-woo,83,Wales,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Lee Donggyeong,7,Wales,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Hong Hyunseok,60,Wales,RM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Hwang Hee-chan,30,Wales,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Lee Ki-je,90,Wales,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Kim Min-jae,90,Wales,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Jung Seung-hyun,90,Wales,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Seol Young-woo,90,Wales,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-07,Kim Seung-gyu,90,Wales,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2023-09-12,Cho Gue-sung,68,Saudi Arabia,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Hwang Ui-jo,22,Saudi Arabia,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Hwang Hee-chan,68,Saudi Arabia,AM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Moon Seon-min,22,Saudi Arabia,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Son Heung-min,89,Saudi Arabia,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Oh Hyeon-gyu,1,Saudi Arabia,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Lee Jae-sung,76,Saudi Arabia,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Kang Sang-woo,14,Saudi Arabia,"DF,FW",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Hwang In-beom,89,Saudi Arabia,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Lee Soonmin,1,Saudi Arabia,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Park Yong-woo,90,Saudi Arabia,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Lee Ki-je,90,Saudi Arabia,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Kim Min-jae,90,Saudi Arabia,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Jung Seung-hyun,90,Saudi Arabia,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Seol Young-woo,90,Saudi Arabia,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-09-12,Kim Seung-gyu,90,Saudi Arabia,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2023-10-13,Cho Gue-sung,66,Tunisia,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Hwang Ui-jo,24,Tunisia,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Lee Kang-in,89,Tunisia,FW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Moon Seon-min,1,Tunisia,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Hwang Hee-chan,66,Tunisia,LW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Jeong Woo-yeong,24,Tunisia,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Lee Jae-sung,90,Tunisia,RW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Hwang In-beom,45,Tunisia,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Hong Hyunseok,35,Tunisia,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Lee Soonmin,10,Tunisia,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Park Yong-woo,90,Tunisia,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Lee Ki-je,90,Tunisia,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Kim Min-jae,90,Tunisia,CB,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Jung Seung-hyun,90,Tunisia,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Seol Young-woo,80,Tunisia,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Kim Tae-hwan,10,Tunisia,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-13,Kim Seung-gyu,90,Tunisia,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2023-10-17,Cho Gue-sung,64,Vietnam,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Hwang Ui-jo,26,Vietnam,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Son Heung-min,90,Vietnam,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Hwang Hee-chan,90,Vietnam,LW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Lee Kang-in,90,Vietnam,RW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Lee Jae-sung,64,Vietnam,CM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Jeong Woo-yeong,26,Vietnam,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Park Yong-woo,90,Vietnam,CM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Lee Ki-je,45,Vietnam,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Kim Jin-su,45,Vietnam,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Kim Min-jae,75,Vietnam,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Kim Jusung,15,Vietnam,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Jung Seung-hyun,45,Vietnam,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Kim Young-gwon,45,Vietnam,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Seol Young-woo,45,Vietnam,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Kim Tae-hwan,45,Vietnam,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-10-17,Jo Hyeon-woo,90,Vietnam,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2023-11-16,Cho Gue-sung,63,Singapore,FW,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Hwang Ui-jo,27,Singapore,"FW,MF",1,0,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Son Heung-min,90,Singapore,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Hwang Hee-chan,69,Singapore,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Oh Hyeon-gyu,21,Singapore,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Lee Kang-in,90,Singapore,CM,1,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Lee Jae-sung,63,Singapore,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Jeong Woo-yeong,27,Singapore,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Hwang In-beom,69,Singapore,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Lee Soonmin,21,Singapore,MF,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Kim Min-jae,90,Singapore,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Jung Seung-hyun,90,Singapore,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Seol Young-woo,90,Singapore,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Lee Ki-je,63,Singapore,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Kim Jin-su,27,Singapore,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-16,Kim Seung-gyu,90,Singapore,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2023-11-21,Cho Gue-sung,71,China PR,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Hwang Ui-jo,19,China PR,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Hwang Hee-chan,71,China PR,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Lee Jae-sung,19,China PR,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Son Heung-min,90,China PR,AM,2,1,,1,1,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Lee Kang-in,82,China PR,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Jeong Woo-yeong,8,China PR,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Hwang In-beom,90,China PR,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Park Yong-woo,89,China PR,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Park Jinseob,1,China PR,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Lee Ki-je,90,China PR,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Kim Min-jae,90,China PR,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Jung Seung-hyun,90,China PR,CB,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Kim Tae-hwan,71,China PR,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Seol Young-woo,19,China PR,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2023-11-21,Kim Seung-gyu,90,China PR,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2024-01-15,Cho Gue-sung,71,Bahrain,FW,0,0,,0,0,2,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Hong Hyunseok,19,Bahrain,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Son Heung-min,90,Bahrain,FW,0,0,,0,0,3,2,1,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Lee Jae-sung,81,Bahrain,LW,0,0,,0,0,2,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Jeong Woo-yeong,9,Bahrain,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Lee Kang-in,90,Bahrain,RW,2,0,,0,0,3,2,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Hwang In-beom,90,Bahrain,CM,1,1,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Park Yong-woo,81,Bahrain,CM,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Park Jinseob,9,Bahrain,"DF,MF",0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Lee Ki-je,51,Bahrain,LB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Kim Tae-hwan,39,Bahrain,"DF,MF",0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Kim Min-jae,71,Bahrain,CB,0,1,,0,0,0,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Kim Young-gwon,19,Bahrain,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Jung Seung-hyun,90,Bahrain,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Seol Young-woo,90,Bahrain,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-15,Kim Seung-gyu,90,Bahrain,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
+Korea Republic,2024-01-20,Son Heung-min,90,Jordan,FW,1,0,,1,1,6,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Cho Gue-sung,68,Jordan,FW,0,0,,0,0,2,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Oh Hyeon-gyu,22,Jordan,FW,0,0,,0,0,2,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Lee Jae-sung,68,Jordan,LW,0,0,,0,0,0,0,3,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Jeong Woo-yeong,22,Jordan,"FW,MF",0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Lee Kang-in,90,Jordan,RW,0,0,,0,0,4,2,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Hwang In-beom,89,Jordan,CM,0,0,,0,0,2,0,4,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Park Jinseob,1,Jordan,"DF,MF",0,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Park Yong-woo,45,Jordan,CM,0,0,,0,0,0,0,0,0,0,1,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Hong Hyunseok,45,Jordan,MF,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Lee Ki-je,45,Jordan,LB,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Kim Tae-hwan,45,Jordan,"DF,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Kim Min-jae,90,Jordan,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Jung Seung-hyun,90,Jordan,CB,0,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Seol Young-woo,90,Jordan,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-01-20,Jo Hyeon-woo,90,Jordan,GK,0,0,,0,0,0,0,0,0,0,0,2,3,60.0,0,NA,0
+Korea Republic,2024-01-25,Cho Gue-sung,61,Malaysia,FW,0,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Hwang Hee-chan,29,Malaysia,"FW,MF",0,0,,0,0,3,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Jeong Woo-yeong,74,Malaysia,AM,1,0,,0,0,1,1,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Oh Hyeon-gyu,16,Malaysia,FW,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Son Heung-min,90,Malaysia,AM,1,0,,1,1,4,3,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Lee Kang-in,90,Malaysia,AM,0,1,,0,0,2,2,1,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Hwang In-beom,61,Malaysia,DM,0,0,,0,0,2,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Hong Hyunseok,29,Malaysia,MF,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Lee Jae-sung,89,Malaysia,DM,0,0,,0,0,0,0,6,1,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Park Yong-woo,1,Malaysia,MF,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Seol Young-woo,74,Malaysia,LB,0,0,,0,0,0,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Kim Jin-su,16,Malaysia,DF,0,0,,0,0,1,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Kim Young-gwon,90,Malaysia,CB,0,0,,0,0,2,0,0,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Kim Min-jae,90,Malaysia,CB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Kim Tae-hwan,90,Malaysia,RB,0,0,,0,0,0,0,1,0,0,0,3,NA,NA,NA,NA,NA
+Korea Republic,2024-01-25,Jo Hyeon-woo,90,Malaysia,GK,0,0,,0,0,0,0,0,0,0,0,3,1,33.3,0,NA,0
+Korea Republic,2024-01-30,Son Heung-min,120,Saudi Arabia,FW,0,0,,0,0,7,2,0,0,0,0,1,NA,NA,NA,1,NA
+Korea Republic,2024-01-30,Jeong Woo-yeong,53,Saudi Arabia,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Hwang Hee-chan,67,Saudi Arabia,"FW,MF",0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,1,NA
+Korea Republic,2024-01-30,Lee Kang-in,120,Saudi Arabia,FW,0,0,,0,0,2,1,2,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Seol Young-woo,120,Saudi Arabia,LM,0,1,,0,0,2,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Hwang In-beom,103,Saudi Arabia,CM,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Hong Hyunseok,17,Saudi Arabia,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Lee Jae-sung,63,Saudi Arabia,CM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Cho Gue-sung,57,Saudi Arabia,FW,1,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,1,NA
+Korea Republic,2024-01-30,Kim Tae-hwan,120,Saudi Arabia,RM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Kim Young-gwon,120,Saudi Arabia,CB,0,0,,0,0,1,0,1,1,0,0,1,NA,NA,NA,1,NA
+Korea Republic,2024-01-30,Kim Min-jae,116,Saudi Arabia,CB,0,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Park Jinseob,4,Saudi Arabia,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Jung Seung-hyun,63,Saudi Arabia,CB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Park Yong-woo,57,Saudi Arabia,MF,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-01-30,Jo Hyeon-woo,120,Saudi Arabia,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
+Korea Republic,2024-02-02,Cho Gue-sung,68,Australia,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Lee Jae-sung,52,Australia,"FW,MF",0,0,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Hwang Hee-chan,105,Australia,AM,1,0,,1,1,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Oh Hyeon-gyu,15,Australia,FW,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Son Heung-min,120,Australia,AM,1,0,,0,0,3,2,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Lee Kang-in,119,Australia,AM,0,0,,0,0,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Jung Seung-hyun,1,Australia,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Hwang In-beom,76,Australia,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Hong Hyunseok,44,Australia,MF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Park Yong-woo,105,Australia,DM,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Park Jinseob,15,Australia,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Seol Young-woo,120,Australia,LB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Kim Young-gwon,120,Australia,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Kim Min-jae,120,Australia,CB,0,0,,0,0,0,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Kim Tae-hwan,84,Australia,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Yang Hyunjun,36,Australia,FW,0,0,,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-02-02,Jo Hyeon-woo,120,Australia,GK,0,0,,0,0,0,0,0,0,0,0,1,4,80.0,0,NA,0
+Korea Republic,2024-02-06,Son Heung-min,90,Jordan,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Hwang Hee-chan,80,Jordan,FW,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Jeong Woo-yeong,10,Jordan,"FW,MF",0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Lee Kang-in,90,Jordan,FW,0,0,,0,0,2,0,4,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Hwang In-beom,90,Jordan,CM,0,0,,0,0,1,0,4,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Lee Jae-sung,80,Jordan,CM,0,0,,0,0,1,0,4,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Yang Hyunjun,10,Jordan,FW,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Park Yong-woo,55,Jordan,DM,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Cho Gue-sung,35,Jordan,FW,0,0,,0,0,2,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Seol Young-woo,90,Jordan,LB,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Kim Young-gwon,90,Jordan,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Jung Seung-hyun,90,Jordan,CB,0,0,,0,0,0,0,0,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Kim Tae-hwan,90,Jordan,RB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-02-06,Jo Hyeon-woo,90,Jordan,GK,0,0,,0,0,0,0,0,0,0,0,2,5,71.4,0,NA,0
+Korea Republic,2024-03-21,Son Heung-min,90,Thailand,FW,1,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Joo Minkyu,61,Thailand,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Hong Hyunseok,29,Thailand,MF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Jeong Woo-yeong,61,Thailand,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Lee Kang-in,29,Thailand,"FW,MF",0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Lee Jae-sung,72,Thailand,CM,0,1,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Cho Gue-sung,18,Thailand,FW,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Paik Seung-ho,90,Thailand,CM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Hwang In-beom,90,Thailand,DM,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Kim Jin-su,72,Thailand,LB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Lee Myung-jae,18,Thailand,DF,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Kim Young-gwon,90,Thailand,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Kim Min-jae,90,Thailand,CB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Seol Young-woo,90,Thailand,RB,0,0,,0,0,,,,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-03-21,Jo Hyeon-woo,90,Thailand,GK,0,0,,0,0,,,,0,0,0,1,,,0,NA,0
+Korea Republic,2024-03-26,Cho Gue-sung,55,Thailand,FW,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Joo Minkyu,35,Thailand,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Son Heung-min,90,Thailand,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Lee Kang-in,73,Thailand,FW,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Song Minkyu,17,Thailand,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Lee Jae-sung,90,Thailand,CM,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Hwang In-beom,73,Thailand,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Jung Hoyeon,17,Thailand,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Paik Seung-ho,45,Thailand,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Park Jinseob,45,Thailand,"DF,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Kim Jin-su,90,Thailand,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Kim Young-gwon,73,Thailand,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Seol Young-woo,17,Thailand,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Kim Min-jae,90,Thailand,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Kim Moonhwan,90,Thailand,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-03-26,Jo Hyeon-woo,90,Thailand,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2024-06-06,Joo Minkyu,56,Singapore,FW,1,3,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Hwang Hee-chan,34,Singapore,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Son Heung-min,86,Singapore,LW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Oh Sehun,4,Singapore,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Lee Jae-sung,69,Singapore,AM,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Bae Junho,21,Singapore,"FW,MF",1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Hwang In-beom,90,Singapore,AM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Lee Kang-in,57,Singapore,RW,2,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Um Wonsang,33,Singapore,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Jung Woo-young,90,Singapore,DM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Kim Jin-su,90,Singapore,LB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Kwon Kyung-won,90,Singapore,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Cho Yumin,90,Singapore,CB,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Hwang Jaewon,69,Singapore,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Park Seungwook,21,Singapore,DF,0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-06,Jo Hyeon-woo,90,Singapore,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2024-06-11,Hwang Hee-chan,89,China PR,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Bae Junho,1,China PR,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Son Heung-min,90,China PR,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Lee Kang-in,78,China PR,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Hong Hyunseok,12,China PR,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Lee Jae-sung,60,China PR,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Joo Minkyu,30,China PR,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Hwang In-beom,89,China PR,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Park Yong-woo,1,China PR,MF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Jung Woo-young,90,China PR,DM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Kim Jin-su,90,China PR,LB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Kwon Kyung-won,90,China PR,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Cho Yumin,90,China PR,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Park Seungwook,60,China PR,RB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Hwang Jaewon,30,China PR,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-06-11,Jo Hyeon-woo,90,China PR,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
+Korea Republic,2024-09-05,Joo Minkyu,45,Palestine,FW,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Oh Sehun,45,Palestine,FW,0,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Son Heung-min,90,Palestine,AM,0,0,,0,0,3,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Lee Jae-sung,57,Palestine,AM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Hwang Hee-chan,33,Palestine,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Lee Kang-in,90,Palestine,AM,0,0,,0,0,5,3,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Hwang In-beom,85,Palestine,DM,0,0,,0,0,2,0,1,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Lee Donggyeong,5,Palestine,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Jung Woo-young,90,Palestine,DM,0,0,,0,0,0,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Seol Young-woo,66,Palestine,LB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Lee Myung-jae,24,Palestine,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Kim Young-gwon,90,Palestine,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Kim Min-jae,90,Palestine,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Hwang Mun-ki,66,Palestine,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Hwang Jaewon,24,Palestine,"DF,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-09-05,Jo Hyeon-woo,90,Palestine,GK,0,0,,0,0,0,0,0,0,0,0,0,3,100.0,0,NA,0
+Korea Republic,2024-09-10,Oh Sehun,67,Oman,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Lee Jae-sung,23,Oman,"FW,MF",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Hwang Hee-chan,88,Oman,AM,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Joo Minkyu,2,Oman,FW,1,0,,0,0,3,3,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Son Heung-min,90,Oman,AM,1,2,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Lee Kang-in,88,Oman,AM,0,1,,0,0,2,0,1,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Eom Jisung,2,Oman,"FW,MF",0,0,,0,0,2,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Park Yong-woo,84,Oman,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Jung Woo-young,6,Oman,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Hwang In-beom,90,Oman,DM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Lee Myung-jae,90,Oman,LB,0,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Kim Min-jae,90,Oman,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Jung Seung-hyun,90,Oman,CB,0,0,,0,0,1,1,3,0,0,1,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Seol Young-woo,67,Oman,RB,0,0,,0,0,1,0,0,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Hwang Mun-ki,23,Oman,"DF,FW",0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-09-10,Jo Hyeon-woo,90,Oman,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
+Korea Republic,2024-10-10,Joo Minkyu,50,Jordan,FW,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Oh Hyeon-gyu,40,Jordan,FW,1,0,,0,0,3,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Hwang Hee-chan,22,Jordan,AM,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Eom Jisung,28,Jordan,"FW,MF",0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Bae Junho,40,Jordan,"FW,MF",0,1,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Lee Jae-sung,90,Jordan,AM,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Lee Kang-in,89,Jordan,AM,0,0,,0,0,3,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Paik Seung-ho,1,Jordan,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Park Yong-woo,90,Jordan,DM,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Hwang In-beom,89,Jordan,DM,0,0,,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Hong Hyunseok,1,Jordan,MF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Lee Myung-jae,90,Jordan,LB,0,0,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Kim Min-jae,90,Jordan,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Cho Yumin,90,Jordan,CB,0,0,,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Seol Young-woo,90,Jordan,RB,0,1,,0,0,0,0,5,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2024-10-10,Jo Hyeon-woo,90,Jordan,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
+Korea Republic,2024-10-15,Oh Sehun,58,Iraq,FW,1,0,,0,0,2,1,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Oh Hyeon-gyu,32,Iraq,FW,1,0,,0,0,1,1,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Bae Junho,58,Iraq,AM,0,1,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Moon Seon-min,32,Iraq,"FW,MF",0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Lee Jae-sung,86,Iraq,AM,1,0,,0,0,1,1,1,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Lee Seung-woo,4,Iraq,"FW,MF",0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Lee Kang-in,84,Iraq,AM,0,0,,0,0,1,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Hong Hyunseok,6,Iraq,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Park Yong-woo,84,Iraq,DM,0,0,,0,0,0,0,1,1,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Paik Seung-ho,6,Iraq,MF,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Hwang In-beom,90,Iraq,DM,0,0,,0,0,1,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Lee Myung-jae,90,Iraq,LB,0,1,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Kim Min-jae,90,Iraq,CB,0,0,,0,0,0,0,1,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Cho Yumin,90,Iraq,CB,0,0,,0,0,0,0,2,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Seol Young-woo,90,Iraq,RB,0,0,,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,NA
+Korea Republic,2024-10-15,Jo Hyeon-woo,90,Iraq,GK,0,0,,0,0,0,0,0,0,0,0,2,0,0.0,0,NA,0
+Korea Republic,2024-11-14,Oh Sehun,74,Kuwait,FW,1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Oh Hyeon-gyu,16,Kuwait,FW,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Son Heung-min,63,Kuwait,AM,1,0,,1,1,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Bae Junho,27,Kuwait,"FW,MF",1,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Lee Jae-sung,80,Kuwait,AM,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Lee Hyunju,10,Kuwait,MF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Lee Kang-in,90,Kuwait,AM,0,0,,0,0,4,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Park Yong-woo,90,Kuwait,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Hwang In-beom,80,Kuwait,DM,0,2,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Paik Seung-ho,10,Kuwait,MF,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Lee Myung-jae,63,Kuwait,LB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Lee Taeseok,27,Kuwait,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Kim Min-jae,90,Kuwait,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Cho Yumin,90,Kuwait,CB,0,0,,0,0,1,0,2,1,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Seol Young-woo,90,Kuwait,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-14,Jo Hyeon-woo,90,Kuwait,GK,0,0,,0,0,0,0,0,0,0,0,1,0,0.0,0,NA,0
+Korea Republic,2024-11-19,Oh Sehun,63,Palestine,FW,0,0,,0,0,3,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Joo Minkyu,27,Palestine,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Son Heung-min,90,Palestine,AM,1,0,,0,0,6,4,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Lee Jae-sung,71,Palestine,AM,0,1,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Bae Junho,19,Palestine,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Lee Kang-in,71,Palestine,AM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Oh Hyeon-gyu,19,Palestine,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Park Yong-woo,90,Palestine,DM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Hwang In-beom,90,Palestine,DM,0,0,,0,0,4,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Lee Myung-jae,90,Palestine,LB,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Kim Min-jae,90,Palestine,CB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Cho Yumin,90,Palestine,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Seol Young-woo,89,Palestine,RB,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Kim Moonhwan,1,Palestine,DF,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2024-11-19,Jo Hyeon-woo,90,Palestine,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
+Korea Republic,2025-03-20,Joo Minkyu,45,Oman,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Oh Sehun,45,Oman,FW,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Son Heung-min,90,Oman,AM,0,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Lee Jae-sung,90,Oman,AM,0,0,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Hwang Hee-chan,62,Oman,AM,1,0,,0,0,1,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Bae Junho,28,Oman,"FW,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Park Yong-woo,90,Oman,DM,0,0,,0,0,2,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Paik Seung-ho,37,Oman,DM,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Lee Kang-in,47,Oman,"FW,MF",0,1,,0,0,1,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Yang Hyunjun,6,Oman,FW,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Lee Taeseok,84,Oman,LB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Oh Hyeon-gyu,6,Oman,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Kwon Kyung-won,90,Oman,CB,0,0,,0,0,1,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Cho Yumin,90,Oman,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Seol Young-woo,90,Oman,RB,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-20,Jo Hyeon-woo,90,Oman,GK,0,0,,0,0,0,0,0,0,0,0,1,1,50.0,0,NA,0
+Korea Republic,2025-03-25,Son Heung-min,89,Jordan,FW,0,1,,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Oh Hyeon-gyu,1,Jordan,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Hwang Hee-chan,67,Jordan,AM,0,0,,0,0,2,1,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Hwang Jaewon,23,Jordan,"DF,MF",0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Lee Jae-sung,90,Jordan,AM,1,0,,0,0,2,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Lee Donggyeong,45,Jordan,AM,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Yang Minhyeok,45,Jordan,MF,0,0,,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Park Yong-woo,90,Jordan,DM,0,0,,0,0,2,0,5,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Hwang In-beom,79,Jordan,DM,0,0,,0,0,3,1,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Oh Sehun,11,Jordan,FW,0,0,,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Lee Taeseok,90,Jordan,LB,0,0,,0,0,0,0,5,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Kwon Kyung-won,90,Jordan,CB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Cho Yumin,90,Jordan,CB,0,0,,0,0,2,0,1,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Seol Young-woo,90,Jordan,RB,0,0,,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA
+Korea Republic,2025-03-25,Jo Hyeon-woo,90,Jordan,GK,0,0,,0,0,0,0,0,0,0,0,1,2,66.7,0,NA,0
+Korea Republic,2025-06-05,Oh Sehun,59,Iraq,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Oh Hyeon-gyu,31,Iraq,FW,1,0,,0,0,2,2,0,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Hwang Hee-chan,60,Iraq,AM,0,0,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Moon Seon-min,30,Iraq,"FW,MF",0,0,,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Lee Jae-sung,73,Iraq,AM,0,0,,0,0,3,2,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Jeon Jinwoo,17,Iraq,FW,0,1,,0,0,1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Lee Kang-in,90,Iraq,AM,0,1,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Park Yong-woo,45,Iraq,DM,0,0,,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Kim Jin-kyu,45,Iraq,MF,1,0,,0,0,1,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Hwang In-beom,90,Iraq,DM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Lee Taeseok,90,Iraq,LB,0,0,,0,0,0,0,3,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Kwon Kyung-won,90,Iraq,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Cho Yumin,90,Iraq,CB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Seol Young-woo,86,Iraq,RB,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Choi Jun,4,Iraq,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-05,Jo Hyeon-woo,90,Iraq,GK,0,0,,0,0,0,0,0,0,0,0,0,2,100.0,0,NA,0
+Korea Republic,2025-06-10,Oh Hyeon-gyu,74,Kuwait,FW,1,0,,0,0,7,2,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Son Heung-min,16,Kuwait,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Bae Junho,68,Kuwait,AM,0,2,,0,0,3,1,2,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Park Seungwook,22,Kuwait,DF,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Lee Kang-in,90,Kuwait,AM,1,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Jeon Jinwoo,68,Kuwait,AM,0,0,,0,0,2,1,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Lee Jae-sung,22,Kuwait,"FW,MF",1,0,,0,0,1,1,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Hwang In-beom,90,Kuwait,DM,0,0,,0,0,1,0,2,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Won Du-jae,90,Kuwait,DM,0,0,,0,0,2,2,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Lee Taeseok,82,Kuwait,LB,0,0,,0,0,1,0,6,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Hwang Hee-chan,8,Kuwait,"FW,MF",0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Kim Jusung,90,Kuwait,CB,0,1,,0,0,1,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Lee Hanbeom,90,Kuwait,CB,0,0,,0,0,3,0,1,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Seol Young-woo,74,Kuwait,RB,0,0,,0,0,2,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Yang Hyunjun,16,Kuwait,FW,0,0,,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-06-10,Lee Chang-keun,90,Kuwait,GK,0,0,,0,0,0,0,0,0,0,0,0,0,,0,NA,0
+Korea Republic,2025-10-14,Son Heung-min,45,Paraguay,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Oh Hyeon-gyu,45,Paraguay,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Eom Jisung,65,Paraguay,FW,1,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Lee Jae-sung,25,Paraguay,"FW,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Lee Donggyeong,45,Paraguay,FW,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Lee Kang-in,45,Paraguay,"FW,MF",0,1,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Lee Myung-jae,85,Paraguay,LM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Lee Taeseok,5,Paraguay,"DF,MF",0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Hwang In-beom,65,Paraguay,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Won Du-jae,25,Paraguay,MF,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Kim Jin-kyu,90,Paraguay,CM,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Kim Moonhwan,90,Paraguay,RM,0,0,,0,0,,,,1,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Kim Min-jae,90,Paraguay,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Park Jinseob,90,Paraguay,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Lee Hanbeom,45,Paraguay,CB,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Cho Yumin,45,Paraguay,DF,0,0,,0,0,,,,0,0,0,0,NA,NA,NA,NA,NA
+Korea Republic,2025-10-14,Kim Seung-gyu,90,Paraguay,GK,0,0,,0,0,,,,0,0,0,0,,,0,NA,0
